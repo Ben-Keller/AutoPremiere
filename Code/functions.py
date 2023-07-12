@@ -31,7 +31,8 @@ output_matched_csv_file = "../matched.csv"
 TXT_folder_path = '../Interview TXT/'
 
 
-
+# this function extracts paragraphs from the text file and breaks it down in single lines and matches that with 
+# the transcription time and  returns the matched lines
 def extract_paragraphs(file_path):
     with open(file_path, 'r') as file:
         content = file.read()
@@ -59,7 +60,7 @@ def extract_paragraphs(file_path):
 
     return paragraphs
 
-
+# this function is used to process the paragraphs in the text file and convert them into a pandas dataframe
 def process_paragraph(paragraph, start_time, end_time):
     # Split the paragraph into sentences
     sentences = paragraph.split('. ')
@@ -98,15 +99,18 @@ def process_paragraph(paragraph, start_time, end_time):
     
     return df
 
-
+# this function is used to convert the text files to csv and xlsx files
 def convert_txt_to_csv_xlsx():
     
-
+    print("Reading all the text files in the folder")
     # Get a list of all the text files in the folder
     txt_files = glob.glob(TXT_folder_path + '*.txt')
 
     for txt_file in txt_files:
         # Extract paragraphs from the current text file
+
+        print(f"Extracting paragraphs from {txt_file} file")
+
         paragraphs = extract_paragraphs(txt_file)
 
         df_all = pd.DataFrame(columns=['TIME', 'TRANSLATION (ENGLISH)', 'TRANSCRIPTION (SESOTHO)', 'filepath'])
@@ -122,7 +126,7 @@ def convert_txt_to_csv_xlsx():
         # Generate the Excel file name based on the text file name
         excel_file = os.path.join(xls_folder_path, os.path.basename(txt_file).replace('.txt', '.xlsx'))
         csv_file = os.path.join(xls_folder_path, os.path.basename(txt_file).replace('.txt', '.csv'))
-
+        print(f"Saving the Matching Data to {excel_file} and {csv_file} files")
         # Save the DataFrame to the Excel file
         df_all.to_excel(excel_file, index=False)
         df_all.to_csv(csv_file, index=False)
@@ -132,12 +136,15 @@ def convert_txt_to_csv_xlsx():
 # %%
 
 
+# Removes special characters from the text
 def clean_text(text):
     # Remove special characters from the text
     cleaned_text = re.sub(r"[^\w\s]", "", text)
     return cleaned_text
 
+# Matching the lines from the script with the transcription and translation
 def match_line(line, df):
+    # print(f"Matching the line {line} with the transcription and translation")
     cleaned_line = clean_text(line.lower())  
     matched_rows = []
     for _, row in df.iterrows():
@@ -148,6 +155,7 @@ def match_line(line, df):
     matched_rows_df = pd.concat(matched_rows, axis=1).transpose() if matched_rows else pd.DataFrame()
     return matched_rows_df
 
+# Matching the lines from the script with the transcription and translation get the subset of words if present in the script
 def get_word_indices(full_string, substring):
     full_list = full_string.split()
     sub_list = substring.split()
@@ -159,10 +167,10 @@ def get_word_indices(full_string, substring):
     return None, None
 
 
-
+# Matching lines from script file to extract language and narrator and save them in a intermediate file
 def match_script_to_csv():
 
-
+    print("Matching the script lines with the csv files to extract the matching lines")
     combined_df = pd.DataFrame()
 
     for filename in os.listdir(xls_folder_path):
@@ -239,11 +247,13 @@ def match_script_to_csv():
 
 # %%
 
-
+# Converting time to subtitle SRT format
 def time_to_srt_format(time):
     return str(timedelta(seconds=time)).split('.')[0]
 
+# convert time to specific format for processing
 def time_difference(time_str):
+
     start, end = time_str.split(' - ')
     try:
         FMT = "%H:%M:%S.%f"
@@ -258,11 +268,13 @@ def time_difference(time_str):
 
 def clean_text(text):
     # Remove special characters from the text
+
+    print("Cleaning text to remove special characters")
     cleaned_text = re.sub(r"[^\w\s]", "", text)
     return cleaned_text
 
 def generate_subtitles():
-
+    print(f"Generating subtitles using intermediate file {intermediate_csv_file}")
     with open(intermediate_csv_file, 'r') as csv_file, open(final_subtitle_file, 'w') as srt_file:
         csv_reader = csv.reader(csv_file)
         next(csv_reader)  # Skip header
@@ -294,6 +306,8 @@ def generate_subtitles():
 
 
 def create_xml(xml_name,xml_json_data):
+
+    print(f"Creating XML file named {xml_name} from the extracted Clips ...")
     
     # Create the root element
     root = ET.Element("xmeml", version="4")
@@ -394,6 +408,7 @@ def create_xml(xml_name,xml_json_data):
     # Get the track elements
     video_tracks = [1]
     audio_tracks = []
+    print("Populating video tracks...")
     for clip in xml_json_data:
 
         audio_track_indexes = [link["trackindex"] for link in clip["video_clips"][0]["links"] if link["mediatype"] == "audio"]
@@ -455,7 +470,7 @@ def create_xml(xml_name,xml_json_data):
     channel_2 = ET.SubElement(group_2, 'channel')
     channel_index_2 = ET.SubElement(channel_2, 'index')
     channel_index_2.text = '2'
-
+    print("Populating Audio tracks in the respective audio track index...") 
      # Create audio track elements and append audio clips
     for audio_track_index in audio_tracks:
         audio_track = ET.SubElement(audio, "track", TL_SQTrackAudioKeyframeStyle="0", TL_SQTrackShy="0",
@@ -506,11 +521,13 @@ def create_xml(xml_name,xml_json_data):
     tree.write(filename, encoding="utf-8", xml_declaration=True)
     print(f"XML saved to {filename}")
 
-
+# Function to generate unique IDs
 def generate_unique_id():
+    print('Generating unique IDs...')
     unique_id = f"clipitem-{uuid.uuid4().hex}"
     return unique_id
 
+# Function to update the XML IDs to match the unique IDs in the clip section
 def update_xml_ids(xml_file):
     tree = ET.parse(xml_file)
     root = tree.getroot()
@@ -530,22 +547,24 @@ def update_xml_ids(xml_file):
         linkclipref = link.find('linkclipref')
         if linkclipref is not None and linkclipref.text in id_mapping:
             linkclipref.text = id_mapping[linkclipref.text]
-    print(id_mapping)
+    # print(id_mapping)
 
     # Save the modified XML file
     tree.write(xml_file, encoding="utf-8")
 
 
-
+# Extract timecode from the CSV file and return start and end time
 def extract_timecode(timecode_range):
+    print('Extracting timecode...')
     start_time, end_time = timecode_range.split(" - ")
     start_time = start_time.strip().replace(" ", "")
     end_time = end_time.strip().replace(" ", "")
     print('Start Time',start_time,'End Time', end_time)
     return start_time, end_time
 
-
+# Process the CSV file and extract the timecode range and narrator name which are used to process the XML files
 def process_csv_file(csv_file, xml_folder):
+    print(f"Processing CSV files...")
     with open(csv_file, "r") as file:
         csv_reader = csv.DictReader(file)
         for row in csv_reader:
@@ -556,8 +575,9 @@ def process_csv_file(csv_file, xml_folder):
                 print('Narrator Name:' ,narrator_name)
                 process_xml_files(xml_folder, start_time, end_time, narrator_name)
 
-
+# Extracts the sequence information from the XML files in the folder which contain the narrator name in their filename
 def process_xml_files(xml_folder, start_time, end_time, narrator_name):
+    print(f"Processing XML files from the {xml_folder} folder...")
     global xml_file_assigned,final_clip_list
     for filename in os.listdir(xml_folder):
         if filename.endswith(".xml") and narrator_name in filename:
@@ -569,8 +589,9 @@ def process_xml_files(xml_folder, start_time, end_time, narrator_name):
             matched_clips = extract_sequence_info(xml_file, start_time, end_time)
             final_clip_list.append(matched_clips)
 
-
+# Converts time in the format HH:MM:SS to frames number in the video
 def convert_time_to_frames(time, rate):
+    print(f"Converting time {time} to frames...")
     time_format = "%H:%M:%S"
     if "." in time:
         time_format += ".%f"
@@ -579,14 +600,16 @@ def convert_time_to_frames(time, rate):
     frame_count = int(time_delta.total_seconds() * rate)
     return frame_count
 
-
+# Converts frame number to ticks that are internally used by Premiere Pro
 def frame_to_ticks(frame_number, frame_rate):
+    print(f"Converting frame number {frame_number} to ticks...")
     total_ticks_in_a_second = 254016000000
     tick_value = int((frame_number * total_ticks_in_a_second) / frame_rate)
     return tick_value
 
-
+# Extracts the sequence information from the XML file based on the start and end time
 def extract_sequence_info(xml_file, start_time, end_time):
+    print(f"Extracting sequence information from {xml_file} file where clip matches between {start_time} - {end_time}...")
     global sequence_start, sequence_end
     tree = ET.parse(xml_file)
     root = tree.getroot()
@@ -701,7 +724,7 @@ def run_extraction():
     create_xml(exported_xml_project_name,final_clip_list)
 # print(final_clip_list)
 
-# run_extraction()
+run_extraction()
 
 # %%
 
