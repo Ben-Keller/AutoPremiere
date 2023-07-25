@@ -1,5 +1,3 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE xmeml>
 <xmeml version="4">
 	<sequence id="sequence-3" TL.SQAudioVisibleBase="0" TL.SQVideoVisibleBase="0" TL.SQVisibleBaseTime="0" TL.SQAVDividerPosition="0.5" TL.SQHideShyTracks="0" TL.SQHeaderWidth="236" TL.SQDataTrackViewControlState="0" Monitor.ProgramZoomOut="457283434608000" Monitor.ProgramZoomIn="0" TL.SQTimePerPixel="0.13898382358009376" MZ.EditLine="214201299312000" MZ.Sequence.PreviewFrameSizeHeight="1080" MZ.Sequence.PreviewFrameSizeWidth="1920" MZ.Sequence.AudioTimeDisplayFormat="200" MZ.Sequence.PreviewRenderingClassID="1297106761" MZ.Sequence.PreviewRenderingPresetCodec="1297107278" MZ.Sequence.PreviewRenderingPresetPath="EncoderPresets/SequencePreview/35d109db-457b-43c1-9452-9cb7be9f121c/I-Frame Only MPEG.epr" MZ.Sequence.PreviewUseMaxRenderQuality="false" MZ.Sequence.PreviewUseMaxBitDepth="false" MZ.Sequence.EditingModeGUID="35d109db-457b-43c1-9452-9cb7be9f121c" MZ.Sequence.VideoTimeDisplayFormat="110" MZ.WorkOutPoint="15235011792000" MZ.WorkInPoint="0" explodedTracks="true">
 		<uuid>b72f7392-fd7c-45e0-88d1-127e83cf3c3a</uuid>
@@ -46,7 +44,7 @@
 					</samplecharacteristics>
 				</format>
 				<track TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="1">
-					<clipitem id="clipitem-271">
+					<clipitem id="clipitem-9c70b82b3c1249abb21316c1286a3873">
 						<masterclipid>masterclip-92</masterclipid>
 						<name>wiblo_1_2002-11-01_1409_C0010.mov</name>
 						<enabled>TRUE</enabled>
@@ -105,40 +103,40 @@
 							</media>
 						</file>
 						<link>
-							<linkclipref>clipitem-271</linkclipref>
+							<linkclipref>clipitem-9c70b82b3c1249abb21316c1286a3873</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>1</trackindex>
 							<clipindex>1</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-300</linkclipref>
+							<linkclipref>clipitem-7a67ae9efb06403d943c1df0e327ae33</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>1</trackindex>
 							<clipindex>1</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-301</linkclipref>
+							<linkclipref>clipitem-b70355343fdc48b998d8e501cb8c3607</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>1</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
@@ -148,7 +146,7 @@
 					<locked>FALSE</locked>
 				</track>
 				<track TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="0">
-					<clipitem id="clipitem-272">
+					<clipitem id="clipitem-bdc535751fae47dabe0f2e469a593ba1">
 						<masterclipid>masterclip-93</masterclipid>
 						<name>julian_1_2021-11-28_1247_C0022.mov</name>
 						<enabled>TRUE</enabled>
@@ -207,46 +205,46 @@
 							</media>
 						</file>
 						<link>
-							<linkclipref>clipitem-272</linkclipref>
+							<linkclipref>clipitem-bdc535751fae47dabe0f2e469a593ba1</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>1</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-302</linkclipref>
+							<linkclipref>clipitem-ca639e6cbf344eb48e63f9ef7ee97e41</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>1</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-330</linkclipref>
+							<linkclipref>clipitem-107678ea518f4ac68a65cbc1bde9cb59</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>1</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-273">
+					<clipitem id="clipitem-8af307feea8a40b5b9e50f5398901450">
 						<masterclipid>masterclip-94</masterclipid>
 						<name>julian_1_2021-11-28_1248_C0023.mov</name>
 						<enabled>TRUE</enabled>
@@ -305,46 +303,46 @@
 							</media>
 						</file>
 						<link>
-							<linkclipref>clipitem-273</linkclipref>
+							<linkclipref>clipitem-8af307feea8a40b5b9e50f5398901450</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>2</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-303</linkclipref>
+							<linkclipref>clipitem-c5bd3cce5f4b497f90986083e32e0061</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>2</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-331</linkclipref>
+							<linkclipref>clipitem-2de631b8b5424db1bbcc4c80f2c50bbf</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>2</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-274">
+					<clipitem id="clipitem-61a05596ee194c5aa23a82a8a1cd0576">
 						<masterclipid>masterclip-95</masterclipid>
 						<name>julian_1_2021-11-28_1250_C0024.mov</name>
 						<enabled>TRUE</enabled>
@@ -403,46 +401,46 @@
 							</media>
 						</file>
 						<link>
-							<linkclipref>clipitem-274</linkclipref>
+							<linkclipref>clipitem-61a05596ee194c5aa23a82a8a1cd0576</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>3</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-304</linkclipref>
+							<linkclipref>clipitem-7219b9aec5504525b80ac35bb254ec08</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>3</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-332</linkclipref>
+							<linkclipref>clipitem-2f3966bde1d544f0a41ce90692127922</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>3</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-275">
+					<clipitem id="clipitem-468dd60a938042dbb53b500d291e701a">
 						<masterclipid>masterclip-96</masterclipid>
 						<name>julian_1_2021-11-28_1251_C0025.mov</name>
 						<enabled>TRUE</enabled>
@@ -501,46 +499,46 @@
 							</media>
 						</file>
 						<link>
-							<linkclipref>clipitem-275</linkclipref>
+							<linkclipref>clipitem-468dd60a938042dbb53b500d291e701a</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>4</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-305</linkclipref>
+							<linkclipref>clipitem-a31efb565c874e3a94106dbb8f027a71</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>4</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-333</linkclipref>
+							<linkclipref>clipitem-385a95e487fb4d79b8a10277564fed5e</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>4</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-276">
+					<clipitem id="clipitem-eb703f5399834225935fe9f11eae920e">
 						<masterclipid>masterclip-97</masterclipid>
 						<name>julian_1_2021-11-28_1251_C0026.mov</name>
 						<enabled>TRUE</enabled>
@@ -599,46 +597,46 @@
 							</media>
 						</file>
 						<link>
-							<linkclipref>clipitem-276</linkclipref>
+							<linkclipref>clipitem-eb703f5399834225935fe9f11eae920e</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>5</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-306</linkclipref>
+							<linkclipref>clipitem-78dd30bf3057433fa244f318db875fd6</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>5</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-334</linkclipref>
+							<linkclipref>clipitem-1b83845d3f1c430bb27b20e5a2746657</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>5</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-277">
+					<clipitem id="clipitem-c7b1296285fa4da291847a6e2a22be8f">
 						<masterclipid>masterclip-98</masterclipid>
 						<name>julian_1_2021-11-28_1252_C0027.mov</name>
 						<enabled>TRUE</enabled>
@@ -697,46 +695,46 @@
 							</media>
 						</file>
 						<link>
-							<linkclipref>clipitem-277</linkclipref>
+							<linkclipref>clipitem-c7b1296285fa4da291847a6e2a22be8f</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>6</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-307</linkclipref>
+							<linkclipref>clipitem-7bd2163e52cc40cabba088e5dd49e7f8</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>6</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-335</linkclipref>
+							<linkclipref>clipitem-cb49205b66f445d19d6eac0bc4592950</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>6</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-278">
+					<clipitem id="clipitem-2d8d1d2a5cc74b56854765d4b5254292">
 						<masterclipid>masterclip-99</masterclipid>
 						<name>julian_1_2021-11-28_1253_C0028.mov</name>
 						<enabled>TRUE</enabled>
@@ -795,46 +793,46 @@
 							</media>
 						</file>
 						<link>
-							<linkclipref>clipitem-278</linkclipref>
+							<linkclipref>clipitem-2d8d1d2a5cc74b56854765d4b5254292</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>7</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-308</linkclipref>
+							<linkclipref>clipitem-02c578dbef894b639491734aac1ac4d0</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>7</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-336</linkclipref>
+							<linkclipref>clipitem-880b52ea3ed94e27a9b856c455ce0cc2</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>7</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-279">
+					<clipitem id="clipitem-b7d935f1f0454f8a8653db55c4bbf787">
 						<masterclipid>masterclip-100</masterclipid>
 						<name>julian_1_2021-11-28_1253_C0029.mov</name>
 						<enabled>TRUE</enabled>
@@ -893,46 +891,46 @@
 							</media>
 						</file>
 						<link>
-							<linkclipref>clipitem-279</linkclipref>
+							<linkclipref>clipitem-b7d935f1f0454f8a8653db55c4bbf787</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>8</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-309</linkclipref>
+							<linkclipref>clipitem-c509bba68ffd49a28c5a4fd9de5b7a7e</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>8</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-337</linkclipref>
+							<linkclipref>clipitem-90df9bd2a0184ea88e6e9fa683335e93</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>8</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-280">
+					<clipitem id="clipitem-74aee709df044df5973763eed4653ad0">
 						<masterclipid>masterclip-101</masterclipid>
 						<name>julian_1_2021-11-28_1254_C0030.mov</name>
 						<enabled>TRUE</enabled>
@@ -991,46 +989,46 @@
 							</media>
 						</file>
 						<link>
-							<linkclipref>clipitem-280</linkclipref>
+							<linkclipref>clipitem-74aee709df044df5973763eed4653ad0</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>9</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-310</linkclipref>
+							<linkclipref>clipitem-5ed4fcb3333a4e28beee5a9bfa8a7d68</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>9</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-338</linkclipref>
+							<linkclipref>clipitem-91a4d7d78323436b9acb7d303d0b11aa</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>9</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Rose</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-281">
+					<clipitem id="clipitem-05d2395e78f44e98ab384703c2e10bd5">
 						<masterclipid>masterclip-102</masterclipid>
 						<name>julian_1_2021-11-28_1254_C0031.mov</name>
 						<enabled>TRUE</enabled>
@@ -1089,46 +1087,46 @@
 							</media>
 						</file>
 						<link>
-							<linkclipref>clipitem-281</linkclipref>
+							<linkclipref>clipitem-05d2395e78f44e98ab384703c2e10bd5</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>10</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-311</linkclipref>
+							<linkclipref>clipitem-456094c0cffd47b1a1f320edc4ee36e4</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>10</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-339</linkclipref>
+							<linkclipref>clipitem-251d6f035b4d43f5b7efcf3acd83046c</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>10</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-282">
+					<clipitem id="clipitem-2c9749d8dce448d08084505133a084a7">
 						<masterclipid>masterclip-103</masterclipid>
 						<name>julian_1_2021-11-28_1255_C0032.mov</name>
 						<enabled>TRUE</enabled>
@@ -1187,46 +1185,46 @@
 							</media>
 						</file>
 						<link>
-							<linkclipref>clipitem-282</linkclipref>
+							<linkclipref>clipitem-2c9749d8dce448d08084505133a084a7</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>11</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-312</linkclipref>
+							<linkclipref>clipitem-e0e3e163d4914cc3a3b5a392a89c0708</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>11</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-340</linkclipref>
+							<linkclipref>clipitem-d2dfae7212064ab3a71f9034788a3e36</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>11</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-283">
+					<clipitem id="clipitem-fe6a55be799c4ca992160b876c853c60">
 						<masterclipid>masterclip-104</masterclipid>
 						<name>julian_1_2021-11-28_1256_C0033.mov</name>
 						<enabled>TRUE</enabled>
@@ -1285,46 +1283,46 @@
 							</media>
 						</file>
 						<link>
-							<linkclipref>clipitem-283</linkclipref>
+							<linkclipref>clipitem-fe6a55be799c4ca992160b876c853c60</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>12</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-313</linkclipref>
+							<linkclipref>clipitem-08731a560d8d46918b457c67bf03f52f</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>12</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-341</linkclipref>
+							<linkclipref>clipitem-c95d206617aa444c9ed127ebd48265cf</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>12</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-284">
+					<clipitem id="clipitem-113bd5d32df64bbbb1d78e15e1e2c9f7">
 						<masterclipid>masterclip-105</masterclipid>
 						<name>julian_1_2021-11-28_1257_C0034.mov</name>
 						<enabled>TRUE</enabled>
@@ -1383,46 +1381,46 @@
 							</media>
 						</file>
 						<link>
-							<linkclipref>clipitem-284</linkclipref>
+							<linkclipref>clipitem-113bd5d32df64bbbb1d78e15e1e2c9f7</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>13</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-314</linkclipref>
+							<linkclipref>clipitem-a71ea4c6797649eb8a429b07f83725b4</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>13</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-342</linkclipref>
+							<linkclipref>clipitem-8466382930e84ca0b637faa8c226ad93</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>13</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-285">
+					<clipitem id="clipitem-c2336549271a402abeeb3c0b67e16679">
 						<masterclipid>masterclip-106</masterclipid>
 						<name>julian_1_2021-11-28_1259_C0035.mov</name>
 						<enabled>TRUE</enabled>
@@ -1481,46 +1479,46 @@
 							</media>
 						</file>
 						<link>
-							<linkclipref>clipitem-285</linkclipref>
+							<linkclipref>clipitem-c2336549271a402abeeb3c0b67e16679</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>14</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-315</linkclipref>
+							<linkclipref>clipitem-2fe4cbf454f34462be643692f51c63a7</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>14</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-343</linkclipref>
+							<linkclipref>clipitem-cfb99bcb480b4e3e964144a962459401</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>14</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-286">
+					<clipitem id="clipitem-a3162d8b2672497a9ddebd9236ce080a">
 						<masterclipid>masterclip-107</masterclipid>
 						<name>julian_1_2021-11-28_1259_C0036.mov</name>
 						<enabled>TRUE</enabled>
@@ -1579,46 +1577,46 @@
 							</media>
 						</file>
 						<link>
-							<linkclipref>clipitem-286</linkclipref>
+							<linkclipref>clipitem-a3162d8b2672497a9ddebd9236ce080a</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>15</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-316</linkclipref>
+							<linkclipref>clipitem-d90a6f9155fb490399e25eb84232eb99</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>15</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-344</linkclipref>
+							<linkclipref>clipitem-93e995b316be4b74b6c57e7718a27f55</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>15</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-287">
+					<clipitem id="clipitem-8af7f696b1d344b0832b6ac48c639035">
 						<masterclipid>masterclip-108</masterclipid>
 						<name>julian_1_2021-11-28_1301_C0037.mov</name>
 						<enabled>TRUE</enabled>
@@ -1677,46 +1675,46 @@
 							</media>
 						</file>
 						<link>
-							<linkclipref>clipitem-287</linkclipref>
+							<linkclipref>clipitem-8af7f696b1d344b0832b6ac48c639035</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>16</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-317</linkclipref>
+							<linkclipref>clipitem-203dc2edaaaa49449d9afe06e79cf6d5</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>16</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-345</linkclipref>
+							<linkclipref>clipitem-78fb1b5fad664f299247b5c27156b755</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>16</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-288">
+					<clipitem id="clipitem-cf6a5ca12367467583e99d1783670f0b">
 						<masterclipid>masterclip-109</masterclipid>
 						<name>julian_1_2021-11-28_1302_C0038.mov</name>
 						<enabled>TRUE</enabled>
@@ -1775,46 +1773,46 @@
 							</media>
 						</file>
 						<link>
-							<linkclipref>clipitem-288</linkclipref>
+							<linkclipref>clipitem-cf6a5ca12367467583e99d1783670f0b</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>17</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-318</linkclipref>
+							<linkclipref>clipitem-fcab0702bd044d49b707da8c6e3b253b</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>17</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-346</linkclipref>
+							<linkclipref>clipitem-3ff78c098017409582d041535d6e30d9</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>17</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-289">
+					<clipitem id="clipitem-b90be1e6d4be4f01a5a102df8b050e77">
 						<masterclipid>masterclip-110</masterclipid>
 						<name>julian_1_2021-11-28_1303_C0039.mov</name>
 						<enabled>TRUE</enabled>
@@ -1873,46 +1871,46 @@
 							</media>
 						</file>
 						<link>
-							<linkclipref>clipitem-289</linkclipref>
+							<linkclipref>clipitem-b90be1e6d4be4f01a5a102df8b050e77</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>18</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-319</linkclipref>
+							<linkclipref>clipitem-695777f8381e4642bd24f859f4d3db4f</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>18</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-347</linkclipref>
+							<linkclipref>clipitem-30e30c251b4e4dbcaacd73e1abff2bda</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>18</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-290">
+					<clipitem id="clipitem-8e9f7e10891849d299f4a6e37026f8cb">
 						<masterclipid>masterclip-111</masterclipid>
 						<name>julian_1_2021-11-28_1303_C0040.mov</name>
 						<enabled>TRUE</enabled>
@@ -1971,46 +1969,46 @@
 							</media>
 						</file>
 						<link>
-							<linkclipref>clipitem-290</linkclipref>
+							<linkclipref>clipitem-8e9f7e10891849d299f4a6e37026f8cb</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>19</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-320</linkclipref>
+							<linkclipref>clipitem-3a6ad22acca44c7895eb4531e465648d</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>19</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-348</linkclipref>
+							<linkclipref>clipitem-a853f7d189d541508b7c8e6ec22dbfd6</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>19</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-291">
+					<clipitem id="clipitem-d7c303da242b45ebabfcaf9bdfff978f">
 						<masterclipid>masterclip-112</masterclipid>
 						<name>julian_1_2021-11-28_1304_C0041.mov</name>
 						<enabled>TRUE</enabled>
@@ -2069,46 +2067,46 @@
 							</media>
 						</file>
 						<link>
-							<linkclipref>clipitem-291</linkclipref>
+							<linkclipref>clipitem-d7c303da242b45ebabfcaf9bdfff978f</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>20</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-321</linkclipref>
+							<linkclipref>clipitem-c3d32c03b29b4b2189adc78cfa3261f4</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>20</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-349</linkclipref>
+							<linkclipref>clipitem-8c296b212c0445118aba18e3aa697371</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>20</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-292">
+					<clipitem id="clipitem-f8f074b2f6724eebbbe5e493c4cbaa5b">
 						<masterclipid>masterclip-113</masterclipid>
 						<name>julian_1_2021-11-28_1305_C0042.mov</name>
 						<enabled>TRUE</enabled>
@@ -2167,46 +2165,46 @@
 							</media>
 						</file>
 						<link>
-							<linkclipref>clipitem-292</linkclipref>
+							<linkclipref>clipitem-f8f074b2f6724eebbbe5e493c4cbaa5b</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>21</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-322</linkclipref>
+							<linkclipref>clipitem-2957041429184a658b414508dbf23073</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>21</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-350</linkclipref>
+							<linkclipref>clipitem-fdb1956fef9e441483013e13b4e6e7ec</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>21</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-293">
+					<clipitem id="clipitem-b41bb8c6f60646cbbadf2da8bedc1342">
 						<masterclipid>masterclip-114</masterclipid>
 						<name>julian_1_2021-11-28_1305_C0043.mov</name>
 						<enabled>TRUE</enabled>
@@ -2265,46 +2263,46 @@
 							</media>
 						</file>
 						<link>
-							<linkclipref>clipitem-293</linkclipref>
+							<linkclipref>clipitem-b41bb8c6f60646cbbadf2da8bedc1342</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>22</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-323</linkclipref>
+							<linkclipref>clipitem-d2e7e735df3f49958b1fcfe3f5d9a173</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>22</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-351</linkclipref>
+							<linkclipref>clipitem-dbe39d60e2144a7fbff2b6753da8fa88</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>22</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-294">
+					<clipitem id="clipitem-7086ec5a38764526918df6d03349c8c4">
 						<masterclipid>masterclip-115</masterclipid>
 						<name>julian_1_2021-11-28_1306_C0044.mov</name>
 						<enabled>TRUE</enabled>
@@ -2363,46 +2361,46 @@
 							</media>
 						</file>
 						<link>
-							<linkclipref>clipitem-294</linkclipref>
+							<linkclipref>clipitem-7086ec5a38764526918df6d03349c8c4</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>23</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-324</linkclipref>
+							<linkclipref>clipitem-6d772ff0c1fc4f138abd98b15f47db0c</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>23</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-352</linkclipref>
+							<linkclipref>clipitem-f2c15b907b4a406abddbf3ac2807dca0</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>23</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-295">
+					<clipitem id="clipitem-e0734fcde9394f9aa301dfcab8479182">
 						<masterclipid>masterclip-116</masterclipid>
 						<name>julian_1_2021-11-28_1307_C0045.mov</name>
 						<enabled>TRUE</enabled>
@@ -2461,46 +2459,46 @@
 							</media>
 						</file>
 						<link>
-							<linkclipref>clipitem-295</linkclipref>
+							<linkclipref>clipitem-e0734fcde9394f9aa301dfcab8479182</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>24</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-325</linkclipref>
+							<linkclipref>clipitem-d88991247cb5449bb6d1d3766791dc8a</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>24</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-353</linkclipref>
+							<linkclipref>clipitem-f85573eb9f41408383bd908829cfa21e</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>24</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-296">
+					<clipitem id="clipitem-c6fc51f0c13c45c28e8527fcacbb51d1">
 						<masterclipid>masterclip-117</masterclipid>
 						<name>julian_1_2021-11-28_1308_C0046.mov</name>
 						<enabled>TRUE</enabled>
@@ -2559,46 +2557,46 @@
 							</media>
 						</file>
 						<link>
-							<linkclipref>clipitem-296</linkclipref>
+							<linkclipref>clipitem-c6fc51f0c13c45c28e8527fcacbb51d1</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>25</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-326</linkclipref>
+							<linkclipref>clipitem-5d4891f675504f0eb08181249bb1c2da</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>25</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-354</linkclipref>
+							<linkclipref>clipitem-e05a0aca7ba54e6cbba8475ec7a86dd1</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>25</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-297">
+					<clipitem id="clipitem-bda09f73d5b242dca211987bf183c903">
 						<masterclipid>masterclip-118</masterclipid>
 						<name>julian_1_2021-11-28_1309_C0047.mov</name>
 						<enabled>TRUE</enabled>
@@ -2657,46 +2655,46 @@
 							</media>
 						</file>
 						<link>
-							<linkclipref>clipitem-297</linkclipref>
+							<linkclipref>clipitem-bda09f73d5b242dca211987bf183c903</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>26</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-327</linkclipref>
+							<linkclipref>clipitem-38dc6cda1180414cba6e5e79bae68478</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>26</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-355</linkclipref>
+							<linkclipref>clipitem-a496ff36f5a64ceb9d1c108643db62ea</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>26</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-298">
+					<clipitem id="clipitem-c75ed581d40c490bbe48d1c866aa72b0">
 						<masterclipid>masterclip-119</masterclipid>
 						<name>julian_1_2021-11-28_1312_C0048.mov</name>
 						<enabled>TRUE</enabled>
@@ -2755,46 +2753,46 @@
 							</media>
 						</file>
 						<link>
-							<linkclipref>clipitem-298</linkclipref>
+							<linkclipref>clipitem-c75ed581d40c490bbe48d1c866aa72b0</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>27</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-328</linkclipref>
+							<linkclipref>clipitem-2d841d74aec74c39b27ce80e438d7bc1</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>27</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-356</linkclipref>
+							<linkclipref>clipitem-0ac4d973ffa142b79b09077d31f14f80</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>27</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-299">
+					<clipitem id="clipitem-a72d42f7eb09479ebef96677f982c143">
 						<masterclipid>masterclip-120</masterclipid>
 						<name>julian_1_2021-11-28_1314_C0049.mov</name>
 						<enabled>TRUE</enabled>
@@ -2853,40 +2851,40 @@
 							</media>
 						</file>
 						<link>
-							<linkclipref>clipitem-299</linkclipref>
+							<linkclipref>clipitem-a72d42f7eb09479ebef96677f982c143</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>28</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-329</linkclipref>
+							<linkclipref>clipitem-366aab6a37554870a6ff3cb09b95fc31</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>28</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-357</linkclipref>
+							<linkclipref>clipitem-60143fda64a54f6999ddf84a46c0da50</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>28</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
@@ -2923,7 +2921,7 @@
 					</group>
 				</outputs>
 				<track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="1" PannerCurrentValue="0.5" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="0" totalExplodedTrackCount="2" premiereTrackType="Stereo">
-					<clipitem id="clipitem-300" premiereChannelType="stereo">
+					<clipitem id="clipitem-7a67ae9efb06403d943c1df0e327ae33" premiereChannelType="stereo">
 						<masterclipid>masterclip-92</masterclipid>
 						<name>wiblo_1_2002-11-01_1409_C0010.mov</name>
 						<enabled>TRUE</enabled>
@@ -2938,7 +2936,7 @@
 						<out>42987</out>
 						<pproTicksIn>5636318688000</pproTicksIn>
 						<pproTicksOut>455429382408000</pproTicksOut>
-						<file id="file-92"/>
+						<file id="file-92" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>1</trackindex>
@@ -2961,40 +2959,40 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-271</linkclipref>
+							<linkclipref>clipitem-9c70b82b3c1249abb21316c1286a3873</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>1</trackindex>
 							<clipindex>1</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-300</linkclipref>
+							<linkclipref>clipitem-7a67ae9efb06403d943c1df0e327ae33</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>1</trackindex>
 							<clipindex>1</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-301</linkclipref>
+							<linkclipref>clipitem-b70355343fdc48b998d8e501cb8c3607</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>1</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
@@ -3005,7 +3003,7 @@
 					<outputchannelindex>1</outputchannelindex>
 				</track>
 				<track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="1" PannerCurrentValue="0.5" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="1" totalExplodedTrackCount="2" premiereTrackType="Stereo">
-					<clipitem id="clipitem-301" premiereChannelType="stereo">
+					<clipitem id="clipitem-b70355343fdc48b998d8e501cb8c3607" premiereChannelType="stereo">
 						<masterclipid>masterclip-92</masterclipid>
 						<name>wiblo_1_2002-11-01_1409_C0010.mov</name>
 						<enabled>TRUE</enabled>
@@ -3020,7 +3018,7 @@
 						<out>42987</out>
 						<pproTicksIn>5636318688000</pproTicksIn>
 						<pproTicksOut>455429382408000</pproTicksOut>
-						<file id="file-92"/>
+						<file id="file-92" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>2</trackindex>
@@ -3043,40 +3041,40 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-271</linkclipref>
+							<linkclipref>clipitem-9c70b82b3c1249abb21316c1286a3873</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>1</trackindex>
 							<clipindex>1</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-300</linkclipref>
+							<linkclipref>clipitem-7a67ae9efb06403d943c1df0e327ae33</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>1</trackindex>
 							<clipindex>1</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-301</linkclipref>
+							<linkclipref>clipitem-b70355343fdc48b998d8e501cb8c3607</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>1</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
@@ -3087,7 +3085,7 @@
 					<outputchannelindex>2</outputchannelindex>
 				</track>
 				<track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="1" PannerCurrentValue="0.5" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="0" totalExplodedTrackCount="2" premiereTrackType="Stereo">
-					<clipitem id="clipitem-302" premiereChannelType="stereo">
+					<clipitem id="clipitem-ca639e6cbf344eb48e63f9ef7ee97e41" premiereChannelType="stereo">
 						<masterclipid>masterclip-93</masterclipid>
 						<name>julian_1_2021-11-28_1247_C0022.mov</name>
 						<enabled>TRUE</enabled>
@@ -3102,7 +3100,7 @@
 						<out>177</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>1875241368000</pproTicksOut>
-						<file id="file-93"/>
+						<file id="file-93" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>1</trackindex>
@@ -3125,46 +3123,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-272</linkclipref>
+							<linkclipref>clipitem-bdc535751fae47dabe0f2e469a593ba1</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>1</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-302</linkclipref>
+							<linkclipref>clipitem-ca639e6cbf344eb48e63f9ef7ee97e41</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>1</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-330</linkclipref>
+							<linkclipref>clipitem-107678ea518f4ac68a65cbc1bde9cb59</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>1</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-303" premiereChannelType="stereo">
+					<clipitem id="clipitem-c5bd3cce5f4b497f90986083e32e0061" premiereChannelType="stereo">
 						<masterclipid>masterclip-94</masterclipid>
 						<name>julian_1_2021-11-28_1248_C0023.mov</name>
 						<enabled>TRUE</enabled>
@@ -3179,7 +3177,7 @@
 						<out>133</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>1409079672000</pproTicksOut>
-						<file id="file-94"/>
+						<file id="file-94" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>1</trackindex>
@@ -3202,46 +3200,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-273</linkclipref>
+							<linkclipref>clipitem-8af307feea8a40b5b9e50f5398901450</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>2</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-303</linkclipref>
+							<linkclipref>clipitem-c5bd3cce5f4b497f90986083e32e0061</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>2</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-331</linkclipref>
+							<linkclipref>clipitem-2de631b8b5424db1bbcc4c80f2c50bbf</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>2</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-304" premiereChannelType="stereo">
+					<clipitem id="clipitem-7219b9aec5504525b80ac35bb254ec08" premiereChannelType="stereo">
 						<masterclipid>masterclip-95</masterclipid>
 						<name>julian_1_2021-11-28_1250_C0024.mov</name>
 						<enabled>TRUE</enabled>
@@ -3256,7 +3254,7 @@
 						<out>798</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>8454478032000</pproTicksOut>
-						<file id="file-95"/>
+						<file id="file-95" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>1</trackindex>
@@ -3279,46 +3277,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-274</linkclipref>
+							<linkclipref>clipitem-61a05596ee194c5aa23a82a8a1cd0576</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>3</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-304</linkclipref>
+							<linkclipref>clipitem-7219b9aec5504525b80ac35bb254ec08</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>3</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-332</linkclipref>
+							<linkclipref>clipitem-2f3966bde1d544f0a41ce90692127922</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>3</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-305" premiereChannelType="stereo">
+					<clipitem id="clipitem-a31efb565c874e3a94106dbb8f027a71" premiereChannelType="stereo">
 						<masterclipid>masterclip-96</masterclipid>
 						<name>julian_1_2021-11-28_1251_C0025.mov</name>
 						<enabled>TRUE</enabled>
@@ -3333,7 +3331,7 @@
 						<out>324</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>3432645216000</pproTicksOut>
-						<file id="file-96"/>
+						<file id="file-96" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>1</trackindex>
@@ -3356,46 +3354,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-275</linkclipref>
+							<linkclipref>clipitem-468dd60a938042dbb53b500d291e701a</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>4</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-305</linkclipref>
+							<linkclipref>clipitem-a31efb565c874e3a94106dbb8f027a71</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>4</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-333</linkclipref>
+							<linkclipref>clipitem-385a95e487fb4d79b8a10277564fed5e</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>4</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-306" premiereChannelType="stereo">
+					<clipitem id="clipitem-78dd30bf3057433fa244f318db875fd6" premiereChannelType="stereo">
 						<masterclipid>masterclip-97</masterclipid>
 						<name>julian_1_2021-11-28_1251_C0026.mov</name>
 						<enabled>TRUE</enabled>
@@ -3410,7 +3408,7 @@
 						<out>622</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>6589831248000</pproTicksOut>
-						<file id="file-97"/>
+						<file id="file-97" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>1</trackindex>
@@ -3433,46 +3431,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-276</linkclipref>
+							<linkclipref>clipitem-eb703f5399834225935fe9f11eae920e</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>5</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-306</linkclipref>
+							<linkclipref>clipitem-78dd30bf3057433fa244f318db875fd6</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>5</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-334</linkclipref>
+							<linkclipref>clipitem-1b83845d3f1c430bb27b20e5a2746657</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>5</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-307" premiereChannelType="stereo">
+					<clipitem id="clipitem-7bd2163e52cc40cabba088e5dd49e7f8" premiereChannelType="stereo">
 						<masterclipid>masterclip-98</masterclipid>
 						<name>julian_1_2021-11-28_1252_C0027.mov</name>
 						<enabled>TRUE</enabled>
@@ -3487,7 +3485,7 @@
 						<out>407</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>4311995688000</pproTicksOut>
-						<file id="file-98"/>
+						<file id="file-98" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>1</trackindex>
@@ -3510,46 +3508,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-277</linkclipref>
+							<linkclipref>clipitem-c7b1296285fa4da291847a6e2a22be8f</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>6</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-307</linkclipref>
+							<linkclipref>clipitem-7bd2163e52cc40cabba088e5dd49e7f8</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>6</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-335</linkclipref>
+							<linkclipref>clipitem-cb49205b66f445d19d6eac0bc4592950</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>6</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-308" premiereChannelType="stereo">
+					<clipitem id="clipitem-02c578dbef894b639491734aac1ac4d0" premiereChannelType="stereo">
 						<masterclipid>masterclip-99</masterclipid>
 						<name>julian_1_2021-11-28_1253_C0028.mov</name>
 						<enabled>TRUE</enabled>
@@ -3564,7 +3562,7 @@
 						<out>200</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>2118916800000</pproTicksOut>
-						<file id="file-99"/>
+						<file id="file-99" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>1</trackindex>
@@ -3587,46 +3585,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-278</linkclipref>
+							<linkclipref>clipitem-2d8d1d2a5cc74b56854765d4b5254292</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>7</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-308</linkclipref>
+							<linkclipref>clipitem-02c578dbef894b639491734aac1ac4d0</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>7</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-336</linkclipref>
+							<linkclipref>clipitem-880b52ea3ed94e27a9b856c455ce0cc2</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>7</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-309" premiereChannelType="stereo">
+					<clipitem id="clipitem-c509bba68ffd49a28c5a4fd9de5b7a7e" premiereChannelType="stereo">
 						<masterclipid>masterclip-100</masterclipid>
 						<name>julian_1_2021-11-28_1253_C0029.mov</name>
 						<enabled>TRUE</enabled>
@@ -3641,7 +3639,7 @@
 						<out>78</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>826377552000</pproTicksOut>
-						<file id="file-100"/>
+						<file id="file-100" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>1</trackindex>
@@ -3664,46 +3662,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-279</linkclipref>
+							<linkclipref>clipitem-b7d935f1f0454f8a8653db55c4bbf787</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>8</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-309</linkclipref>
+							<linkclipref>clipitem-c509bba68ffd49a28c5a4fd9de5b7a7e</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>8</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-337</linkclipref>
+							<linkclipref>clipitem-90df9bd2a0184ea88e6e9fa683335e93</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>8</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-310" premiereChannelType="stereo">
+					<clipitem id="clipitem-5ed4fcb3333a4e28beee5a9bfa8a7d68" premiereChannelType="stereo">
 						<masterclipid>masterclip-101</masterclipid>
 						<name>julian_1_2021-11-28_1254_C0030.mov</name>
 						<enabled>TRUE</enabled>
@@ -3718,7 +3716,7 @@
 						<out>29</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>307242936000</pproTicksOut>
-						<file id="file-101"/>
+						<file id="file-101" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>1</trackindex>
@@ -3741,46 +3739,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-280</linkclipref>
+							<linkclipref>clipitem-74aee709df044df5973763eed4653ad0</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>9</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-310</linkclipref>
+							<linkclipref>clipitem-5ed4fcb3333a4e28beee5a9bfa8a7d68</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>9</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-338</linkclipref>
+							<linkclipref>clipitem-91a4d7d78323436b9acb7d303d0b11aa</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>9</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Rose</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-311" premiereChannelType="stereo">
+					<clipitem id="clipitem-456094c0cffd47b1a1f320edc4ee36e4" premiereChannelType="stereo">
 						<masterclipid>masterclip-102</masterclipid>
 						<name>julian_1_2021-11-28_1254_C0031.mov</name>
 						<enabled>TRUE</enabled>
@@ -3795,7 +3793,7 @@
 						<out>148</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>1567998432000</pproTicksOut>
-						<file id="file-102"/>
+						<file id="file-102" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>1</trackindex>
@@ -3818,46 +3816,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-281</linkclipref>
+							<linkclipref>clipitem-05d2395e78f44e98ab384703c2e10bd5</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>10</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-311</linkclipref>
+							<linkclipref>clipitem-456094c0cffd47b1a1f320edc4ee36e4</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>10</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-339</linkclipref>
+							<linkclipref>clipitem-251d6f035b4d43f5b7efcf3acd83046c</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>10</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-312" premiereChannelType="stereo">
+					<clipitem id="clipitem-e0e3e163d4914cc3a3b5a392a89c0708" premiereChannelType="stereo">
 						<masterclipid>masterclip-103</masterclipid>
 						<name>julian_1_2021-11-28_1255_C0032.mov</name>
 						<enabled>TRUE</enabled>
@@ -3872,7 +3870,7 @@
 						<out>187</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>1981187208000</pproTicksOut>
-						<file id="file-103"/>
+						<file id="file-103" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>1</trackindex>
@@ -3895,46 +3893,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-282</linkclipref>
+							<linkclipref>clipitem-2c9749d8dce448d08084505133a084a7</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>11</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-312</linkclipref>
+							<linkclipref>clipitem-e0e3e163d4914cc3a3b5a392a89c0708</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>11</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-340</linkclipref>
+							<linkclipref>clipitem-d2dfae7212064ab3a71f9034788a3e36</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>11</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-313" premiereChannelType="stereo">
+					<clipitem id="clipitem-08731a560d8d46918b457c67bf03f52f" premiereChannelType="stereo">
 						<masterclipid>masterclip-104</masterclipid>
 						<name>julian_1_2021-11-28_1256_C0033.mov</name>
 						<enabled>TRUE</enabled>
@@ -3949,7 +3947,7 @@
 						<out>551</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>5837615784000</pproTicksOut>
-						<file id="file-104"/>
+						<file id="file-104" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>1</trackindex>
@@ -3972,46 +3970,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-283</linkclipref>
+							<linkclipref>clipitem-fe6a55be799c4ca992160b876c853c60</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>12</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-313</linkclipref>
+							<linkclipref>clipitem-08731a560d8d46918b457c67bf03f52f</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>12</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-341</linkclipref>
+							<linkclipref>clipitem-c95d206617aa444c9ed127ebd48265cf</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>12</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-314" premiereChannelType="stereo">
+					<clipitem id="clipitem-a71ea4c6797649eb8a429b07f83725b4" premiereChannelType="stereo">
 						<masterclipid>masterclip-105</masterclipid>
 						<name>julian_1_2021-11-28_1257_C0034.mov</name>
 						<enabled>TRUE</enabled>
@@ -4026,7 +4024,7 @@
 						<out>700</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>7416208800000</pproTicksOut>
-						<file id="file-105"/>
+						<file id="file-105" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>1</trackindex>
@@ -4049,46 +4047,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-284</linkclipref>
+							<linkclipref>clipitem-113bd5d32df64bbbb1d78e15e1e2c9f7</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>13</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-314</linkclipref>
+							<linkclipref>clipitem-a71ea4c6797649eb8a429b07f83725b4</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>13</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-342</linkclipref>
+							<linkclipref>clipitem-8466382930e84ca0b637faa8c226ad93</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>13</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-315" premiereChannelType="stereo">
+					<clipitem id="clipitem-2fe4cbf454f34462be643692f51c63a7" premiereChannelType="stereo">
 						<masterclipid>masterclip-106</masterclipid>
 						<name>julian_1_2021-11-28_1259_C0035.mov</name>
 						<enabled>TRUE</enabled>
@@ -4103,7 +4101,7 @@
 						<out>360</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>3814050240000</pproTicksOut>
-						<file id="file-106"/>
+						<file id="file-106" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>1</trackindex>
@@ -4126,46 +4124,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-285</linkclipref>
+							<linkclipref>clipitem-c2336549271a402abeeb3c0b67e16679</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>14</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-315</linkclipref>
+							<linkclipref>clipitem-2fe4cbf454f34462be643692f51c63a7</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>14</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-343</linkclipref>
+							<linkclipref>clipitem-cfb99bcb480b4e3e964144a962459401</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>14</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-316" premiereChannelType="stereo">
+					<clipitem id="clipitem-d90a6f9155fb490399e25eb84232eb99" premiereChannelType="stereo">
 						<masterclipid>masterclip-107</masterclipid>
 						<name>julian_1_2021-11-28_1259_C0036.mov</name>
 						<enabled>TRUE</enabled>
@@ -4180,7 +4178,7 @@
 						<out>2111</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>22365166824000</pproTicksOut>
-						<file id="file-107"/>
+						<file id="file-107" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>1</trackindex>
@@ -4203,46 +4201,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-286</linkclipref>
+							<linkclipref>clipitem-a3162d8b2672497a9ddebd9236ce080a</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>15</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-316</linkclipref>
+							<linkclipref>clipitem-d90a6f9155fb490399e25eb84232eb99</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>15</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-344</linkclipref>
+							<linkclipref>clipitem-93e995b316be4b74b6c57e7718a27f55</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>15</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-317" premiereChannelType="stereo">
+					<clipitem id="clipitem-203dc2edaaaa49449d9afe06e79cf6d5" premiereChannelType="stereo">
 						<masterclipid>masterclip-108</masterclipid>
 						<name>julian_1_2021-11-28_1301_C0037.mov</name>
 						<enabled>TRUE</enabled>
@@ -4257,7 +4255,7 @@
 						<out>507</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>5371454088000</pproTicksOut>
-						<file id="file-108"/>
+						<file id="file-108" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>1</trackindex>
@@ -4280,46 +4278,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-287</linkclipref>
+							<linkclipref>clipitem-8af7f696b1d344b0832b6ac48c639035</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>16</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-317</linkclipref>
+							<linkclipref>clipitem-203dc2edaaaa49449d9afe06e79cf6d5</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>16</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-345</linkclipref>
+							<linkclipref>clipitem-78fb1b5fad664f299247b5c27156b755</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>16</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-318" premiereChannelType="stereo">
+					<clipitem id="clipitem-fcab0702bd044d49b707da8c6e3b253b" premiereChannelType="stereo">
 						<masterclipid>masterclip-109</masterclipid>
 						<name>julian_1_2021-11-28_1302_C0038.mov</name>
 						<enabled>TRUE</enabled>
@@ -4334,7 +4332,7 @@
 						<out>489</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>5180751576000</pproTicksOut>
-						<file id="file-109"/>
+						<file id="file-109" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>1</trackindex>
@@ -4357,46 +4355,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-288</linkclipref>
+							<linkclipref>clipitem-cf6a5ca12367467583e99d1783670f0b</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>17</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-318</linkclipref>
+							<linkclipref>clipitem-fcab0702bd044d49b707da8c6e3b253b</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>17</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-346</linkclipref>
+							<linkclipref>clipitem-3ff78c098017409582d041535d6e30d9</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>17</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-319" premiereChannelType="stereo">
+					<clipitem id="clipitem-695777f8381e4642bd24f859f4d3db4f" premiereChannelType="stereo">
 						<masterclipid>masterclip-110</masterclipid>
 						<name>julian_1_2021-11-28_1303_C0039.mov</name>
 						<enabled>TRUE</enabled>
@@ -4411,7 +4409,7 @@
 						<out>652</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>6907668768000</pproTicksOut>
-						<file id="file-110"/>
+						<file id="file-110" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>1</trackindex>
@@ -4434,46 +4432,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-289</linkclipref>
+							<linkclipref>clipitem-b90be1e6d4be4f01a5a102df8b050e77</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>18</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-319</linkclipref>
+							<linkclipref>clipitem-695777f8381e4642bd24f859f4d3db4f</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>18</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-347</linkclipref>
+							<linkclipref>clipitem-30e30c251b4e4dbcaacd73e1abff2bda</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>18</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-320" premiereChannelType="stereo">
+					<clipitem id="clipitem-3a6ad22acca44c7895eb4531e465648d" premiereChannelType="stereo">
 						<masterclipid>masterclip-111</masterclipid>
 						<name>julian_1_2021-11-28_1303_C0040.mov</name>
 						<enabled>TRUE</enabled>
@@ -4488,7 +4486,7 @@
 						<out>429</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>4545076536000</pproTicksOut>
-						<file id="file-111"/>
+						<file id="file-111" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>1</trackindex>
@@ -4511,46 +4509,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-290</linkclipref>
+							<linkclipref>clipitem-8e9f7e10891849d299f4a6e37026f8cb</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>19</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-320</linkclipref>
+							<linkclipref>clipitem-3a6ad22acca44c7895eb4531e465648d</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>19</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-348</linkclipref>
+							<linkclipref>clipitem-a853f7d189d541508b7c8e6ec22dbfd6</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>19</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-321" premiereChannelType="stereo">
+					<clipitem id="clipitem-c3d32c03b29b4b2189adc78cfa3261f4" premiereChannelType="stereo">
 						<masterclipid>masterclip-112</masterclipid>
 						<name>julian_1_2021-11-28_1304_C0041.mov</name>
 						<enabled>TRUE</enabled>
@@ -4565,7 +4563,7 @@
 						<out>337</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>3570374808000</pproTicksOut>
-						<file id="file-112"/>
+						<file id="file-112" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>1</trackindex>
@@ -4588,46 +4586,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-291</linkclipref>
+							<linkclipref>clipitem-d7c303da242b45ebabfcaf9bdfff978f</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>20</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-321</linkclipref>
+							<linkclipref>clipitem-c3d32c03b29b4b2189adc78cfa3261f4</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>20</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-349</linkclipref>
+							<linkclipref>clipitem-8c296b212c0445118aba18e3aa697371</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>20</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-322" premiereChannelType="stereo">
+					<clipitem id="clipitem-2957041429184a658b414508dbf23073" premiereChannelType="stereo">
 						<masterclipid>masterclip-113</masterclipid>
 						<name>julian_1_2021-11-28_1305_C0042.mov</name>
 						<enabled>TRUE</enabled>
@@ -4642,7 +4640,7 @@
 						<out>691</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>7320857544000</pproTicksOut>
-						<file id="file-113"/>
+						<file id="file-113" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>1</trackindex>
@@ -4665,46 +4663,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-292</linkclipref>
+							<linkclipref>clipitem-f8f074b2f6724eebbbe5e493c4cbaa5b</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>21</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-322</linkclipref>
+							<linkclipref>clipitem-2957041429184a658b414508dbf23073</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>21</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-350</linkclipref>
+							<linkclipref>clipitem-fdb1956fef9e441483013e13b4e6e7ec</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>21</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-323" premiereChannelType="stereo">
+					<clipitem id="clipitem-d2e7e735df3f49958b1fcfe3f5d9a173" premiereChannelType="stereo">
 						<masterclipid>masterclip-114</masterclipid>
 						<name>julian_1_2021-11-28_1305_C0043.mov</name>
 						<enabled>TRUE</enabled>
@@ -4719,7 +4717,7 @@
 						<out>923</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>9778801032000</pproTicksOut>
-						<file id="file-114"/>
+						<file id="file-114" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>1</trackindex>
@@ -4742,46 +4740,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-293</linkclipref>
+							<linkclipref>clipitem-b41bb8c6f60646cbbadf2da8bedc1342</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>22</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-323</linkclipref>
+							<linkclipref>clipitem-d2e7e735df3f49958b1fcfe3f5d9a173</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>22</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-351</linkclipref>
+							<linkclipref>clipitem-dbe39d60e2144a7fbff2b6753da8fa88</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>22</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-324" premiereChannelType="stereo">
+					<clipitem id="clipitem-6d772ff0c1fc4f138abd98b15f47db0c" premiereChannelType="stereo">
 						<masterclipid>masterclip-115</masterclipid>
 						<name>julian_1_2021-11-28_1306_C0044.mov</name>
 						<enabled>TRUE</enabled>
@@ -4796,7 +4794,7 @@
 						<out>1044</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>11060745696000</pproTicksOut>
-						<file id="file-115"/>
+						<file id="file-115" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>1</trackindex>
@@ -4819,46 +4817,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-294</linkclipref>
+							<linkclipref>clipitem-7086ec5a38764526918df6d03349c8c4</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>23</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-324</linkclipref>
+							<linkclipref>clipitem-6d772ff0c1fc4f138abd98b15f47db0c</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>23</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-352</linkclipref>
+							<linkclipref>clipitem-f2c15b907b4a406abddbf3ac2807dca0</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>23</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-325" premiereChannelType="stereo">
+					<clipitem id="clipitem-d88991247cb5449bb6d1d3766791dc8a" premiereChannelType="stereo">
 						<masterclipid>masterclip-116</masterclipid>
 						<name>julian_1_2021-11-28_1307_C0045.mov</name>
 						<enabled>TRUE</enabled>
@@ -4873,7 +4871,7 @@
 						<out>1047</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>11092529448000</pproTicksOut>
-						<file id="file-116"/>
+						<file id="file-116" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>1</trackindex>
@@ -4896,46 +4894,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-295</linkclipref>
+							<linkclipref>clipitem-e0734fcde9394f9aa301dfcab8479182</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>24</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-325</linkclipref>
+							<linkclipref>clipitem-d88991247cb5449bb6d1d3766791dc8a</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>24</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-353</linkclipref>
+							<linkclipref>clipitem-f85573eb9f41408383bd908829cfa21e</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>24</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-326" premiereChannelType="stereo">
+					<clipitem id="clipitem-5d4891f675504f0eb08181249bb1c2da" premiereChannelType="stereo">
 						<masterclipid>masterclip-117</masterclipid>
 						<name>julian_1_2021-11-28_1308_C0046.mov</name>
 						<enabled>TRUE</enabled>
@@ -4950,7 +4948,7 @@
 						<out>387</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>4100104008000</pproTicksOut>
-						<file id="file-117"/>
+						<file id="file-117" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>1</trackindex>
@@ -4973,46 +4971,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-296</linkclipref>
+							<linkclipref>clipitem-c6fc51f0c13c45c28e8527fcacbb51d1</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>25</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-326</linkclipref>
+							<linkclipref>clipitem-5d4891f675504f0eb08181249bb1c2da</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>25</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-354</linkclipref>
+							<linkclipref>clipitem-e05a0aca7ba54e6cbba8475ec7a86dd1</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>25</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-327" premiereChannelType="stereo">
+					<clipitem id="clipitem-38dc6cda1180414cba6e5e79bae68478" premiereChannelType="stereo">
 						<masterclipid>masterclip-118</masterclipid>
 						<name>julian_1_2021-11-28_1309_C0047.mov</name>
 						<enabled>TRUE</enabled>
@@ -5027,7 +5025,7 @@
 						<out>757</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>8020100088000</pproTicksOut>
-						<file id="file-118"/>
+						<file id="file-118" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>1</trackindex>
@@ -5050,46 +5048,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-297</linkclipref>
+							<linkclipref>clipitem-bda09f73d5b242dca211987bf183c903</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>26</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-327</linkclipref>
+							<linkclipref>clipitem-38dc6cda1180414cba6e5e79bae68478</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>26</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-355</linkclipref>
+							<linkclipref>clipitem-a496ff36f5a64ceb9d1c108643db62ea</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>26</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-328" premiereChannelType="stereo">
+					<clipitem id="clipitem-2d841d74aec74c39b27ce80e438d7bc1" premiereChannelType="stereo">
 						<masterclipid>masterclip-119</masterclipid>
 						<name>julian_1_2021-11-28_1312_C0048.mov</name>
 						<enabled>TRUE</enabled>
@@ -5104,7 +5102,7 @@
 						<out>1154</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>12226149936000</pproTicksOut>
-						<file id="file-119"/>
+						<file id="file-119" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>1</trackindex>
@@ -5127,46 +5125,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-298</linkclipref>
+							<linkclipref>clipitem-c75ed581d40c490bbe48d1c866aa72b0</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>27</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-328</linkclipref>
+							<linkclipref>clipitem-2d841d74aec74c39b27ce80e438d7bc1</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>27</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-356</linkclipref>
+							<linkclipref>clipitem-0ac4d973ffa142b79b09077d31f14f80</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>27</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-329" premiereChannelType="stereo">
+					<clipitem id="clipitem-366aab6a37554870a6ff3cb09b95fc31" premiereChannelType="stereo">
 						<masterclipid>masterclip-120</masterclipid>
 						<name>julian_1_2021-11-28_1314_C0049.mov</name>
 						<enabled>TRUE</enabled>
@@ -5181,7 +5179,7 @@
 						<out>1264</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>13391554176000</pproTicksOut>
-						<file id="file-120"/>
+						<file id="file-120" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>1</trackindex>
@@ -5204,40 +5202,40 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-299</linkclipref>
+							<linkclipref>clipitem-a72d42f7eb09479ebef96677f982c143</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>28</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-329</linkclipref>
+							<linkclipref>clipitem-366aab6a37554870a6ff3cb09b95fc31</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>28</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-357</linkclipref>
+							<linkclipref>clipitem-60143fda64a54f6999ddf84a46c0da50</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>28</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
@@ -5248,7 +5246,7 @@
 					<outputchannelindex>1</outputchannelindex>
 				</track>
 				<track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="1" PannerCurrentValue="0.5" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="1" totalExplodedTrackCount="2" premiereTrackType="Stereo">
-					<clipitem id="clipitem-330" premiereChannelType="stereo">
+					<clipitem id="clipitem-107678ea518f4ac68a65cbc1bde9cb59" premiereChannelType="stereo">
 						<masterclipid>masterclip-93</masterclipid>
 						<name>julian_1_2021-11-28_1247_C0022.mov</name>
 						<enabled>TRUE</enabled>
@@ -5263,7 +5261,7 @@
 						<out>177</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>1875241368000</pproTicksOut>
-						<file id="file-93"/>
+						<file id="file-93" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>2</trackindex>
@@ -5286,46 +5284,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-272</linkclipref>
+							<linkclipref>clipitem-bdc535751fae47dabe0f2e469a593ba1</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>1</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-302</linkclipref>
+							<linkclipref>clipitem-ca639e6cbf344eb48e63f9ef7ee97e41</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>1</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-330</linkclipref>
+							<linkclipref>clipitem-107678ea518f4ac68a65cbc1bde9cb59</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>1</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-331" premiereChannelType="stereo">
+					<clipitem id="clipitem-2de631b8b5424db1bbcc4c80f2c50bbf" premiereChannelType="stereo">
 						<masterclipid>masterclip-94</masterclipid>
 						<name>julian_1_2021-11-28_1248_C0023.mov</name>
 						<enabled>TRUE</enabled>
@@ -5340,7 +5338,7 @@
 						<out>133</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>1409079672000</pproTicksOut>
-						<file id="file-94"/>
+						<file id="file-94" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>2</trackindex>
@@ -5363,46 +5361,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-273</linkclipref>
+							<linkclipref>clipitem-8af307feea8a40b5b9e50f5398901450</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>2</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-303</linkclipref>
+							<linkclipref>clipitem-c5bd3cce5f4b497f90986083e32e0061</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>2</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-331</linkclipref>
+							<linkclipref>clipitem-2de631b8b5424db1bbcc4c80f2c50bbf</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>2</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-332" premiereChannelType="stereo">
+					<clipitem id="clipitem-2f3966bde1d544f0a41ce90692127922" premiereChannelType="stereo">
 						<masterclipid>masterclip-95</masterclipid>
 						<name>julian_1_2021-11-28_1250_C0024.mov</name>
 						<enabled>TRUE</enabled>
@@ -5417,7 +5415,7 @@
 						<out>798</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>8454478032000</pproTicksOut>
-						<file id="file-95"/>
+						<file id="file-95" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>2</trackindex>
@@ -5440,46 +5438,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-274</linkclipref>
+							<linkclipref>clipitem-61a05596ee194c5aa23a82a8a1cd0576</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>3</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-304</linkclipref>
+							<linkclipref>clipitem-7219b9aec5504525b80ac35bb254ec08</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>3</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-332</linkclipref>
+							<linkclipref>clipitem-2f3966bde1d544f0a41ce90692127922</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>3</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-333" premiereChannelType="stereo">
+					<clipitem id="clipitem-385a95e487fb4d79b8a10277564fed5e" premiereChannelType="stereo">
 						<masterclipid>masterclip-96</masterclipid>
 						<name>julian_1_2021-11-28_1251_C0025.mov</name>
 						<enabled>TRUE</enabled>
@@ -5494,7 +5492,7 @@
 						<out>324</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>3432645216000</pproTicksOut>
-						<file id="file-96"/>
+						<file id="file-96" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>2</trackindex>
@@ -5517,46 +5515,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-275</linkclipref>
+							<linkclipref>clipitem-468dd60a938042dbb53b500d291e701a</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>4</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-305</linkclipref>
+							<linkclipref>clipitem-a31efb565c874e3a94106dbb8f027a71</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>4</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-333</linkclipref>
+							<linkclipref>clipitem-385a95e487fb4d79b8a10277564fed5e</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>4</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-334" premiereChannelType="stereo">
+					<clipitem id="clipitem-1b83845d3f1c430bb27b20e5a2746657" premiereChannelType="stereo">
 						<masterclipid>masterclip-97</masterclipid>
 						<name>julian_1_2021-11-28_1251_C0026.mov</name>
 						<enabled>TRUE</enabled>
@@ -5571,7 +5569,7 @@
 						<out>622</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>6589831248000</pproTicksOut>
-						<file id="file-97"/>
+						<file id="file-97" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>2</trackindex>
@@ -5594,46 +5592,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-276</linkclipref>
+							<linkclipref>clipitem-eb703f5399834225935fe9f11eae920e</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>5</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-306</linkclipref>
+							<linkclipref>clipitem-78dd30bf3057433fa244f318db875fd6</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>5</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-334</linkclipref>
+							<linkclipref>clipitem-1b83845d3f1c430bb27b20e5a2746657</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>5</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-335" premiereChannelType="stereo">
+					<clipitem id="clipitem-cb49205b66f445d19d6eac0bc4592950" premiereChannelType="stereo">
 						<masterclipid>masterclip-98</masterclipid>
 						<name>julian_1_2021-11-28_1252_C0027.mov</name>
 						<enabled>TRUE</enabled>
@@ -5648,7 +5646,7 @@
 						<out>407</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>4311995688000</pproTicksOut>
-						<file id="file-98"/>
+						<file id="file-98" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>2</trackindex>
@@ -5671,46 +5669,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-277</linkclipref>
+							<linkclipref>clipitem-c7b1296285fa4da291847a6e2a22be8f</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>6</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-307</linkclipref>
+							<linkclipref>clipitem-7bd2163e52cc40cabba088e5dd49e7f8</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>6</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-335</linkclipref>
+							<linkclipref>clipitem-cb49205b66f445d19d6eac0bc4592950</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>6</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-336" premiereChannelType="stereo">
+					<clipitem id="clipitem-880b52ea3ed94e27a9b856c455ce0cc2" premiereChannelType="stereo">
 						<masterclipid>masterclip-99</masterclipid>
 						<name>julian_1_2021-11-28_1253_C0028.mov</name>
 						<enabled>TRUE</enabled>
@@ -5725,7 +5723,7 @@
 						<out>200</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>2118916800000</pproTicksOut>
-						<file id="file-99"/>
+						<file id="file-99" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>2</trackindex>
@@ -5748,46 +5746,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-278</linkclipref>
+							<linkclipref>clipitem-2d8d1d2a5cc74b56854765d4b5254292</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>7</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-308</linkclipref>
+							<linkclipref>clipitem-02c578dbef894b639491734aac1ac4d0</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>7</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-336</linkclipref>
+							<linkclipref>clipitem-880b52ea3ed94e27a9b856c455ce0cc2</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>7</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-337" premiereChannelType="stereo">
+					<clipitem id="clipitem-90df9bd2a0184ea88e6e9fa683335e93" premiereChannelType="stereo">
 						<masterclipid>masterclip-100</masterclipid>
 						<name>julian_1_2021-11-28_1253_C0029.mov</name>
 						<enabled>TRUE</enabled>
@@ -5802,7 +5800,7 @@
 						<out>78</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>826377552000</pproTicksOut>
-						<file id="file-100"/>
+						<file id="file-100" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>2</trackindex>
@@ -5825,46 +5823,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-279</linkclipref>
+							<linkclipref>clipitem-b7d935f1f0454f8a8653db55c4bbf787</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>8</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-309</linkclipref>
+							<linkclipref>clipitem-c509bba68ffd49a28c5a4fd9de5b7a7e</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>8</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-337</linkclipref>
+							<linkclipref>clipitem-90df9bd2a0184ea88e6e9fa683335e93</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>8</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-338" premiereChannelType="stereo">
+					<clipitem id="clipitem-91a4d7d78323436b9acb7d303d0b11aa" premiereChannelType="stereo">
 						<masterclipid>masterclip-101</masterclipid>
 						<name>julian_1_2021-11-28_1254_C0030.mov</name>
 						<enabled>TRUE</enabled>
@@ -5879,7 +5877,7 @@
 						<out>29</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>307242936000</pproTicksOut>
-						<file id="file-101"/>
+						<file id="file-101" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>2</trackindex>
@@ -5902,46 +5900,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-280</linkclipref>
+							<linkclipref>clipitem-74aee709df044df5973763eed4653ad0</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>9</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-310</linkclipref>
+							<linkclipref>clipitem-5ed4fcb3333a4e28beee5a9bfa8a7d68</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>9</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-338</linkclipref>
+							<linkclipref>clipitem-91a4d7d78323436b9acb7d303d0b11aa</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>9</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Rose</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-339" premiereChannelType="stereo">
+					<clipitem id="clipitem-251d6f035b4d43f5b7efcf3acd83046c" premiereChannelType="stereo">
 						<masterclipid>masterclip-102</masterclipid>
 						<name>julian_1_2021-11-28_1254_C0031.mov</name>
 						<enabled>TRUE</enabled>
@@ -5956,7 +5954,7 @@
 						<out>148</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>1567998432000</pproTicksOut>
-						<file id="file-102"/>
+						<file id="file-102" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>2</trackindex>
@@ -5979,46 +5977,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-281</linkclipref>
+							<linkclipref>clipitem-05d2395e78f44e98ab384703c2e10bd5</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>10</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-311</linkclipref>
+							<linkclipref>clipitem-456094c0cffd47b1a1f320edc4ee36e4</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>10</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-339</linkclipref>
+							<linkclipref>clipitem-251d6f035b4d43f5b7efcf3acd83046c</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>10</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-340" premiereChannelType="stereo">
+					<clipitem id="clipitem-d2dfae7212064ab3a71f9034788a3e36" premiereChannelType="stereo">
 						<masterclipid>masterclip-103</masterclipid>
 						<name>julian_1_2021-11-28_1255_C0032.mov</name>
 						<enabled>TRUE</enabled>
@@ -6033,7 +6031,7 @@
 						<out>187</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>1981187208000</pproTicksOut>
-						<file id="file-103"/>
+						<file id="file-103" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>2</trackindex>
@@ -6056,46 +6054,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-282</linkclipref>
+							<linkclipref>clipitem-2c9749d8dce448d08084505133a084a7</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>11</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-312</linkclipref>
+							<linkclipref>clipitem-e0e3e163d4914cc3a3b5a392a89c0708</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>11</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-340</linkclipref>
+							<linkclipref>clipitem-d2dfae7212064ab3a71f9034788a3e36</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>11</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-341" premiereChannelType="stereo">
+					<clipitem id="clipitem-c95d206617aa444c9ed127ebd48265cf" premiereChannelType="stereo">
 						<masterclipid>masterclip-104</masterclipid>
 						<name>julian_1_2021-11-28_1256_C0033.mov</name>
 						<enabled>TRUE</enabled>
@@ -6110,7 +6108,7 @@
 						<out>551</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>5837615784000</pproTicksOut>
-						<file id="file-104"/>
+						<file id="file-104" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>2</trackindex>
@@ -6133,46 +6131,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-283</linkclipref>
+							<linkclipref>clipitem-fe6a55be799c4ca992160b876c853c60</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>12</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-313</linkclipref>
+							<linkclipref>clipitem-08731a560d8d46918b457c67bf03f52f</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>12</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-341</linkclipref>
+							<linkclipref>clipitem-c95d206617aa444c9ed127ebd48265cf</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>12</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-342" premiereChannelType="stereo">
+					<clipitem id="clipitem-8466382930e84ca0b637faa8c226ad93" premiereChannelType="stereo">
 						<masterclipid>masterclip-105</masterclipid>
 						<name>julian_1_2021-11-28_1257_C0034.mov</name>
 						<enabled>TRUE</enabled>
@@ -6187,7 +6185,7 @@
 						<out>700</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>7416208800000</pproTicksOut>
-						<file id="file-105"/>
+						<file id="file-105" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>2</trackindex>
@@ -6210,46 +6208,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-284</linkclipref>
+							<linkclipref>clipitem-113bd5d32df64bbbb1d78e15e1e2c9f7</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>13</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-314</linkclipref>
+							<linkclipref>clipitem-a71ea4c6797649eb8a429b07f83725b4</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>13</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-342</linkclipref>
+							<linkclipref>clipitem-8466382930e84ca0b637faa8c226ad93</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>13</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-343" premiereChannelType="stereo">
+					<clipitem id="clipitem-cfb99bcb480b4e3e964144a962459401" premiereChannelType="stereo">
 						<masterclipid>masterclip-106</masterclipid>
 						<name>julian_1_2021-11-28_1259_C0035.mov</name>
 						<enabled>TRUE</enabled>
@@ -6264,7 +6262,7 @@
 						<out>360</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>3814050240000</pproTicksOut>
-						<file id="file-106"/>
+						<file id="file-106" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>2</trackindex>
@@ -6287,46 +6285,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-285</linkclipref>
+							<linkclipref>clipitem-c2336549271a402abeeb3c0b67e16679</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>14</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-315</linkclipref>
+							<linkclipref>clipitem-2fe4cbf454f34462be643692f51c63a7</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>14</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-343</linkclipref>
+							<linkclipref>clipitem-cfb99bcb480b4e3e964144a962459401</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>14</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-344" premiereChannelType="stereo">
+					<clipitem id="clipitem-93e995b316be4b74b6c57e7718a27f55" premiereChannelType="stereo">
 						<masterclipid>masterclip-107</masterclipid>
 						<name>julian_1_2021-11-28_1259_C0036.mov</name>
 						<enabled>TRUE</enabled>
@@ -6341,7 +6339,7 @@
 						<out>2111</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>22365166824000</pproTicksOut>
-						<file id="file-107"/>
+						<file id="file-107" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>2</trackindex>
@@ -6364,46 +6362,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-286</linkclipref>
+							<linkclipref>clipitem-a3162d8b2672497a9ddebd9236ce080a</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>15</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-316</linkclipref>
+							<linkclipref>clipitem-d90a6f9155fb490399e25eb84232eb99</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>15</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-344</linkclipref>
+							<linkclipref>clipitem-93e995b316be4b74b6c57e7718a27f55</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>15</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-345" premiereChannelType="stereo">
+					<clipitem id="clipitem-78fb1b5fad664f299247b5c27156b755" premiereChannelType="stereo">
 						<masterclipid>masterclip-108</masterclipid>
 						<name>julian_1_2021-11-28_1301_C0037.mov</name>
 						<enabled>TRUE</enabled>
@@ -6418,7 +6416,7 @@
 						<out>507</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>5371454088000</pproTicksOut>
-						<file id="file-108"/>
+						<file id="file-108" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>2</trackindex>
@@ -6441,46 +6439,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-287</linkclipref>
+							<linkclipref>clipitem-8af7f696b1d344b0832b6ac48c639035</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>16</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-317</linkclipref>
+							<linkclipref>clipitem-203dc2edaaaa49449d9afe06e79cf6d5</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>16</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-345</linkclipref>
+							<linkclipref>clipitem-78fb1b5fad664f299247b5c27156b755</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>16</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-346" premiereChannelType="stereo">
+					<clipitem id="clipitem-3ff78c098017409582d041535d6e30d9" premiereChannelType="stereo">
 						<masterclipid>masterclip-109</masterclipid>
 						<name>julian_1_2021-11-28_1302_C0038.mov</name>
 						<enabled>TRUE</enabled>
@@ -6495,7 +6493,7 @@
 						<out>489</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>5180751576000</pproTicksOut>
-						<file id="file-109"/>
+						<file id="file-109" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>2</trackindex>
@@ -6518,46 +6516,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-288</linkclipref>
+							<linkclipref>clipitem-cf6a5ca12367467583e99d1783670f0b</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>17</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-318</linkclipref>
+							<linkclipref>clipitem-fcab0702bd044d49b707da8c6e3b253b</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>17</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-346</linkclipref>
+							<linkclipref>clipitem-3ff78c098017409582d041535d6e30d9</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>17</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-347" premiereChannelType="stereo">
+					<clipitem id="clipitem-30e30c251b4e4dbcaacd73e1abff2bda" premiereChannelType="stereo">
 						<masterclipid>masterclip-110</masterclipid>
 						<name>julian_1_2021-11-28_1303_C0039.mov</name>
 						<enabled>TRUE</enabled>
@@ -6572,7 +6570,7 @@
 						<out>652</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>6907668768000</pproTicksOut>
-						<file id="file-110"/>
+						<file id="file-110" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>2</trackindex>
@@ -6595,46 +6593,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-289</linkclipref>
+							<linkclipref>clipitem-b90be1e6d4be4f01a5a102df8b050e77</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>18</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-319</linkclipref>
+							<linkclipref>clipitem-695777f8381e4642bd24f859f4d3db4f</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>18</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-347</linkclipref>
+							<linkclipref>clipitem-30e30c251b4e4dbcaacd73e1abff2bda</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>18</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-348" premiereChannelType="stereo">
+					<clipitem id="clipitem-a853f7d189d541508b7c8e6ec22dbfd6" premiereChannelType="stereo">
 						<masterclipid>masterclip-111</masterclipid>
 						<name>julian_1_2021-11-28_1303_C0040.mov</name>
 						<enabled>TRUE</enabled>
@@ -6649,7 +6647,7 @@
 						<out>429</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>4545076536000</pproTicksOut>
-						<file id="file-111"/>
+						<file id="file-111" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>2</trackindex>
@@ -6672,46 +6670,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-290</linkclipref>
+							<linkclipref>clipitem-8e9f7e10891849d299f4a6e37026f8cb</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>19</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-320</linkclipref>
+							<linkclipref>clipitem-3a6ad22acca44c7895eb4531e465648d</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>19</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-348</linkclipref>
+							<linkclipref>clipitem-a853f7d189d541508b7c8e6ec22dbfd6</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>19</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-349" premiereChannelType="stereo">
+					<clipitem id="clipitem-8c296b212c0445118aba18e3aa697371" premiereChannelType="stereo">
 						<masterclipid>masterclip-112</masterclipid>
 						<name>julian_1_2021-11-28_1304_C0041.mov</name>
 						<enabled>TRUE</enabled>
@@ -6726,7 +6724,7 @@
 						<out>337</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>3570374808000</pproTicksOut>
-						<file id="file-112"/>
+						<file id="file-112" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>2</trackindex>
@@ -6749,46 +6747,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-291</linkclipref>
+							<linkclipref>clipitem-d7c303da242b45ebabfcaf9bdfff978f</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>20</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-321</linkclipref>
+							<linkclipref>clipitem-c3d32c03b29b4b2189adc78cfa3261f4</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>20</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-349</linkclipref>
+							<linkclipref>clipitem-8c296b212c0445118aba18e3aa697371</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>20</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-350" premiereChannelType="stereo">
+					<clipitem id="clipitem-fdb1956fef9e441483013e13b4e6e7ec" premiereChannelType="stereo">
 						<masterclipid>masterclip-113</masterclipid>
 						<name>julian_1_2021-11-28_1305_C0042.mov</name>
 						<enabled>TRUE</enabled>
@@ -6803,7 +6801,7 @@
 						<out>691</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>7320857544000</pproTicksOut>
-						<file id="file-113"/>
+						<file id="file-113" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>2</trackindex>
@@ -6826,46 +6824,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-292</linkclipref>
+							<linkclipref>clipitem-f8f074b2f6724eebbbe5e493c4cbaa5b</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>21</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-322</linkclipref>
+							<linkclipref>clipitem-2957041429184a658b414508dbf23073</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>21</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-350</linkclipref>
+							<linkclipref>clipitem-fdb1956fef9e441483013e13b4e6e7ec</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>21</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-351" premiereChannelType="stereo">
+					<clipitem id="clipitem-dbe39d60e2144a7fbff2b6753da8fa88" premiereChannelType="stereo">
 						<masterclipid>masterclip-114</masterclipid>
 						<name>julian_1_2021-11-28_1305_C0043.mov</name>
 						<enabled>TRUE</enabled>
@@ -6880,7 +6878,7 @@
 						<out>923</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>9778801032000</pproTicksOut>
-						<file id="file-114"/>
+						<file id="file-114" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>2</trackindex>
@@ -6903,46 +6901,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-293</linkclipref>
+							<linkclipref>clipitem-b41bb8c6f60646cbbadf2da8bedc1342</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>22</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-323</linkclipref>
+							<linkclipref>clipitem-d2e7e735df3f49958b1fcfe3f5d9a173</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>22</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-351</linkclipref>
+							<linkclipref>clipitem-dbe39d60e2144a7fbff2b6753da8fa88</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>22</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-352" premiereChannelType="stereo">
+					<clipitem id="clipitem-f2c15b907b4a406abddbf3ac2807dca0" premiereChannelType="stereo">
 						<masterclipid>masterclip-115</masterclipid>
 						<name>julian_1_2021-11-28_1306_C0044.mov</name>
 						<enabled>TRUE</enabled>
@@ -6957,7 +6955,7 @@
 						<out>1044</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>11060745696000</pproTicksOut>
-						<file id="file-115"/>
+						<file id="file-115" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>2</trackindex>
@@ -6980,46 +6978,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-294</linkclipref>
+							<linkclipref>clipitem-7086ec5a38764526918df6d03349c8c4</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>23</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-324</linkclipref>
+							<linkclipref>clipitem-6d772ff0c1fc4f138abd98b15f47db0c</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>23</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-352</linkclipref>
+							<linkclipref>clipitem-f2c15b907b4a406abddbf3ac2807dca0</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>23</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-353" premiereChannelType="stereo">
+					<clipitem id="clipitem-f85573eb9f41408383bd908829cfa21e" premiereChannelType="stereo">
 						<masterclipid>masterclip-116</masterclipid>
 						<name>julian_1_2021-11-28_1307_C0045.mov</name>
 						<enabled>TRUE</enabled>
@@ -7034,7 +7032,7 @@
 						<out>1047</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>11092529448000</pproTicksOut>
-						<file id="file-116"/>
+						<file id="file-116" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>2</trackindex>
@@ -7057,46 +7055,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-295</linkclipref>
+							<linkclipref>clipitem-e0734fcde9394f9aa301dfcab8479182</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>24</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-325</linkclipref>
+							<linkclipref>clipitem-d88991247cb5449bb6d1d3766791dc8a</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>24</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-353</linkclipref>
+							<linkclipref>clipitem-f85573eb9f41408383bd908829cfa21e</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>24</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-354" premiereChannelType="stereo">
+					<clipitem id="clipitem-e05a0aca7ba54e6cbba8475ec7a86dd1" premiereChannelType="stereo">
 						<masterclipid>masterclip-117</masterclipid>
 						<name>julian_1_2021-11-28_1308_C0046.mov</name>
 						<enabled>TRUE</enabled>
@@ -7111,7 +7109,7 @@
 						<out>387</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>4100104008000</pproTicksOut>
-						<file id="file-117"/>
+						<file id="file-117" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>2</trackindex>
@@ -7134,46 +7132,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-296</linkclipref>
+							<linkclipref>clipitem-c6fc51f0c13c45c28e8527fcacbb51d1</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>25</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-326</linkclipref>
+							<linkclipref>clipitem-5d4891f675504f0eb08181249bb1c2da</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>25</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-354</linkclipref>
+							<linkclipref>clipitem-e05a0aca7ba54e6cbba8475ec7a86dd1</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>25</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-355" premiereChannelType="stereo">
+					<clipitem id="clipitem-a496ff36f5a64ceb9d1c108643db62ea" premiereChannelType="stereo">
 						<masterclipid>masterclip-118</masterclipid>
 						<name>julian_1_2021-11-28_1309_C0047.mov</name>
 						<enabled>TRUE</enabled>
@@ -7188,7 +7186,7 @@
 						<out>757</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>8020100088000</pproTicksOut>
-						<file id="file-118"/>
+						<file id="file-118" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>2</trackindex>
@@ -7211,46 +7209,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-297</linkclipref>
+							<linkclipref>clipitem-bda09f73d5b242dca211987bf183c903</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>26</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-327</linkclipref>
+							<linkclipref>clipitem-38dc6cda1180414cba6e5e79bae68478</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>26</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-355</linkclipref>
+							<linkclipref>clipitem-a496ff36f5a64ceb9d1c108643db62ea</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>26</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-356" premiereChannelType="stereo">
+					<clipitem id="clipitem-0ac4d973ffa142b79b09077d31f14f80" premiereChannelType="stereo">
 						<masterclipid>masterclip-119</masterclipid>
 						<name>julian_1_2021-11-28_1312_C0048.mov</name>
 						<enabled>TRUE</enabled>
@@ -7265,7 +7263,7 @@
 						<out>1154</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>12226149936000</pproTicksOut>
-						<file id="file-119"/>
+						<file id="file-119" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>2</trackindex>
@@ -7288,46 +7286,46 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-298</linkclipref>
+							<linkclipref>clipitem-c75ed581d40c490bbe48d1c866aa72b0</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>27</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-328</linkclipref>
+							<linkclipref>clipitem-2d841d74aec74c39b27ce80e438d7bc1</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>27</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-356</linkclipref>
+							<linkclipref>clipitem-0ac4d973ffa142b79b09077d31f14f80</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>27</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-357" premiereChannelType="stereo">
+					<clipitem id="clipitem-60143fda64a54f6999ddf84a46c0da50" premiereChannelType="stereo">
 						<masterclipid>masterclip-120</masterclipid>
 						<name>julian_1_2021-11-28_1314_C0049.mov</name>
 						<enabled>TRUE</enabled>
@@ -7342,7 +7340,7 @@
 						<out>1264</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>13391554176000</pproTicksOut>
-						<file id="file-120"/>
+						<file id="file-120" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>2</trackindex>
@@ -7365,40 +7363,40 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-299</linkclipref>
+							<linkclipref>clipitem-a72d42f7eb09479ebef96677f982c143</linkclipref>
 							<mediatype>video</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>28</clipindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-329</linkclipref>
+							<linkclipref>clipitem-366aab6a37554870a6ff3cb09b95fc31</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>3</trackindex>
 							<clipindex>28</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-357</linkclipref>
+							<linkclipref>clipitem-60143fda64a54f6999ddf84a46c0da50</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>4</trackindex>
 							<clipindex>28</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
@@ -7409,7 +7407,7 @@
 					<outputchannelindex>2</outputchannelindex>
 				</track>
 				<track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="1" PannerCurrentValue="0.5" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="0" totalExplodedTrackCount="2" premiereTrackType="Stereo">
-					<clipitem id="clipitem-358" premiereChannelType="stereo">
+					<clipitem id="clipitem-3e1b3bcc321a4c8e8abf217cc2ba71ad" premiereChannelType="stereo">
 						<masterclipid>masterclip-121</masterclipid>
 						<name>Grandma Interview.mp3</name>
 						<enabled>TRUE</enabled>
@@ -7473,34 +7471,34 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-358</linkclipref>
+							<linkclipref>clipitem-3e1b3bcc321a4c8e8abf217cc2ba71ad</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>5</trackindex>
 							<clipindex>1</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-359</linkclipref>
+							<linkclipref>clipitem-3404a05104b645df813aa2061c71f20e</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>6</trackindex>
 							<clipindex>1</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Caribbean</label2>
@@ -7511,7 +7509,7 @@
 					<outputchannelindex>1</outputchannelindex>
 				</track>
 				<track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="1" PannerCurrentValue="0.5" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="1" totalExplodedTrackCount="2" premiereTrackType="Stereo">
-					<clipitem id="clipitem-359" premiereChannelType="stereo">
+					<clipitem id="clipitem-3404a05104b645df813aa2061c71f20e" premiereChannelType="stereo">
 						<masterclipid>masterclip-121</masterclipid>
 						<name>Grandma Interview.mp3</name>
 						<enabled>TRUE</enabled>
@@ -7526,7 +7524,7 @@
 						<out>50074</out>
 						<pproTicksIn>73229764608000</pproTicksIn>
 						<pproTicksOut>530513199216000</pproTicksOut>
-						<file id="file-121"/>
+						<file id="file-121" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>2</trackindex>
@@ -7549,34 +7547,34 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-358</linkclipref>
+							<linkclipref>clipitem-3e1b3bcc321a4c8e8abf217cc2ba71ad</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>5</trackindex>
 							<clipindex>1</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-359</linkclipref>
+							<linkclipref>clipitem-3404a05104b645df813aa2061c71f20e</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>6</trackindex>
 							<clipindex>1</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Caribbean</label2>
@@ -7601,13 +7599,13 @@
 			<label2>Forest</label2>
 		</labels>
 		<logginginfo>
-			<description></description>
-			<scene></scene>
-			<shottake></shottake>
-			<lognote></lognote>
-			<good></good>
-			<originalvideofilename></originalvideofilename>
-			<originalaudiofilename></originalaudiofilename>
+			<description />
+			<scene />
+			<shottake />
+			<lognote />
+			<good />
+			<originalvideofilename />
+			<originalaudiofilename />
 		</logginginfo>
 	</sequence>
 </xmeml>
