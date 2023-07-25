@@ -1,4 +1,5 @@
 ,Text,Narrator,Timecode Range,FilePath
-0,What I would like to do with Moselantja,ben,00:00:11:00 - 00:00:18:00,../Interview CSV/Grandma Interview.csv
-1,What I would like to do with Moselantja,ben,00:00:25:00 - 00:00:32:00,../Interview CSV/Grandma Interview.csv
+0,This is the first sentence of the video,ben,00:00:08:00 - 00:00:11:00,../Interview CSV/Grandma Interview.csv
+1,This is the second sentence of this video,ben,00:00:16:00 - 00:00:21:00,../Interview CSV/Grandma Interview.csv
+2,And now this will be the third sentence,ben,00:00:22:00 - 00:00:25:00,../Interview CSV/Grandma Interview.csv
 
