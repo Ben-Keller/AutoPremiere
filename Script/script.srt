@@ -14,3 +14,19 @@ And now this will be the third sentence
 00:00:11,0 --> 00:00:17,0
 used in this video as a third sentence
 
+1
+00:00:00,0 --> 00:00:03,0
+This is the first sentence of the video
+
+2
+00:00:03,0 --> 00:00:08,0
+This is the second sentence of this video 
+
+3
+00:00:08,0 --> 00:00:11,0
+ And now this will be the third sentence 
+
+4
+00:00:11,0 --> 00:00:17,0
+ used in this video as a third sentence
+

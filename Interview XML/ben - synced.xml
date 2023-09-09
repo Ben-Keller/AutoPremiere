@@ -44,7 +44,7 @@
 					</samplecharacteristics>
 				</format>
 				<track TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="1">
-					<clipitem id="clipitem-12b4ccf6ed74496db61a2284a03978f8">
+					<clipitem id="clipitem-6bdfb559c3814adba919c59fd6111309">
 						<masterclipid>masterclip-5</masterclipid>
 						<name>Camera_Recording_-_Jul_23 (6).mp4</name>
 						<enabled>TRUE</enabled>
@@ -126,7 +126,7 @@
 					<locked>FALSE</locked>
 				</track>
 				<track TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="0">
-					<clipitem id="clipitem-a4498b0c23dd4303b0f478ee17405bf6">
+					<clipitem id="clipitem-20367fb2810044618a056a676a8efebc">
 						<masterclipid>masterclip-6</masterclipid>
 						<name>20230723_123914.mp4</name>
 						<enabled>TRUE</enabled>
@@ -204,7 +204,7 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-977859a12c8544fd877eb2f32457edd7">
+					<clipitem id="clipitem-4963b1258f3d450fbcbbbf5d4dfd4b1c">
 						<masterclipid>masterclip-7</masterclipid>
 						<name>20230723_123929.mp4</name>
 						<enabled>TRUE</enabled>
@@ -313,7 +313,7 @@
 					</group>
 				</outputs>
 				<track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="1" PannerCurrentValue="0.5" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="0" totalExplodedTrackCount="2" premiereTrackType="Stereo">
-					<clipitem id="clipitem-5ae65204efa24c3aa06e2500c748fe9b" premiereChannelType="stereo">
+					<clipitem id="clipitem-450029a96aa64979993eb1d6e752508a" premiereChannelType="stereo">
 						<masterclipid>masterclip-8</masterclipid>
 						<name>ben - clip.mp3</name>
 						<enabled>TRUE</enabled>
@@ -377,14 +377,14 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-5ae65204efa24c3aa06e2500c748fe9b</linkclipref>
+							<linkclipref>clipitem-450029a96aa64979993eb1d6e752508a</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>1</trackindex>
 							<clipindex>1</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-eec3abaf517143f88b2f915d9eef9b39</linkclipref>
+							<linkclipref>clipitem-dd029e281e2a434782526df87735334c</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>1</clipindex>
@@ -415,7 +415,7 @@
 					<outputchannelindex>1</outputchannelindex>
 				</track>
 				<track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="1" PannerCurrentValue="0.5" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="1" totalExplodedTrackCount="2" premiereTrackType="Stereo">
-					<clipitem id="clipitem-eec3abaf517143f88b2f915d9eef9b39" premiereChannelType="stereo">
+					<clipitem id="clipitem-dd029e281e2a434782526df87735334c" premiereChannelType="stereo">
 						<masterclipid>masterclip-8</masterclipid>
 						<name>ben - clip.mp3</name>
 						<enabled>TRUE</enabled>
@@ -453,14 +453,14 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-5ae65204efa24c3aa06e2500c748fe9b</linkclipref>
+							<linkclipref>clipitem-450029a96aa64979993eb1d6e752508a</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>1</trackindex>
 							<clipindex>1</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-eec3abaf517143f88b2f915d9eef9b39</linkclipref>
+							<linkclipref>clipitem-dd029e281e2a434782526df87735334c</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>1</clipindex>
