@@ -1,7 +1,0 @@
-TEXT,Narrator,TIME,FilePath
-This is the first sentence of the video,../Interview TXT/ben,00:00:08:00 - 00:00:11:00,../Interview TXT/ben - transcript.txt
-This will not be a sentence used in the video,../Interview TXT/ben,00:00:12:00 - 00:00:16:00,../Interview TXT/ben - transcript.txt
-This is the second sentence of this video,../Interview TXT/ben,00:00:16:00 - 00:00:21:00,../Interview TXT/ben - transcript.txt
-And now this will be the third sentence,../Interview TXT/ben,00:00:22:00 - 00:00:25:00,../Interview TXT/ben - transcript.txt
-used in this video as a third sentence,../Interview TXT/ben,00:00:25:00 - 00:00:31:00,../Interview TXT/ben - transcript.txt
-Finish test footage stopping test footage now.,../Interview TXT/ben,00:00:31:00 - 00:00:36:00,../Interview TXT/ben - transcript.txt

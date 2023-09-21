@@ -1,0 +1,1933 @@
+1
+00:01:06:08 --> 00:01:08:14
+¿Puedes explicar lo que estás haciendo?
+
+2
+00:01:08:14 --> 00:01:11:14
+A esta es una lámpara portátil.
+
+3
+00:01:11:15 --> 00:01:13:15
+Una lámpara Solar.
+
+4
+00:01:16:01 --> 00:01:19:01
+Bueno, esto es lo que hicimos
+
+5
+00:01:19:19 --> 00:01:22:14
+en la India.
+
+6
+00:01:22:14 --> 00:01:25:14
+Yo puedo armar esta placa,
+
+7
+00:01:26:20 --> 00:01:29:20
+pero como las baterías ya están.
+
+8
+00:01:31:09 --> 00:01:32:14
+Con este solar,
+
+9
+00:01:32:14 --> 00:01:35:14
+se carga esta lámpara
+
+10
+00:01:37:00 --> 00:01:38:18
+de la luz solar,
+
+11
+00:01:38:18 --> 00:01:41:17
+este es diez voltios.
+
+12
+00:01:41:17 --> 00:01:43:12
+Sí,
+
+13
+00:01:43:12 --> 00:01:46:20
+de diez voltios y siete de amperaje.
+
+14
+00:01:53:05 --> 00:01:55:21
+Yo
+
+15
+00:01:55:21 --> 00:01:58:21
+de la India aprendí a armar.
+
+16
+00:01:59:04 --> 00:02:02:04
+Esta es la placa de esta lámpara
+
+17
+00:02:03:17 --> 00:02:06:17
+que yo misma puedo armar.
+
+18
+00:02:06:18 --> 00:02:08:07
+Estos son los componentes.
+
+19
+00:02:08:07 --> 00:02:11:07
+Estos son los componentes.
+
+20
+00:02:11:12 --> 00:02:14:12
+Sí, son los componentes.
+
+21
+00:02:14:21 --> 00:02:17:10
+Aquí están las resistencias.
+
+22
+00:02:17:10 --> 00:02:20:00
+Estas son resistencias.
+
+23
+00:02:20:00 --> 00:02:23:00
+Estos son,
+
+24
+00:02:23:03 --> 00:02:25:00
+resistencia.
+
+25
+00:02:25:00 --> 00:02:27:14
+Estos son los
+
+26
+00:02:27:14 --> 00:02:29:06
+AISI.
+
+27
+00:02:29:06 --> 00:02:32:02
+Los diodos, los
+
+28
+00:02:32:02 --> 00:02:35:01
+capacitadores que son diodos.
+
+29
+00:02:35:21 --> 00:02:38:03
+Este es un offer.
+
+30
+00:02:38:03 --> 00:02:41:05
+Este es un transformador, un capacitador.
+
+31
+00:02:42:11 --> 00:02:44:19
+Este es otro capacitador.
+
+32
+00:02:44:19 --> 00:02:47:15
+Este es un
+
+33
+00:02:47:15 --> 00:02:49:01
+yo lo cogí
+
+34
+00:02:49:01 --> 00:02:50:23
+Y lo aprendí allá.
+
+35
+00:02:50:23 --> 00:02:53:23
+Estos son los componentes de esta plaquita.
+
+36
+00:02:54:07 --> 00:02:56:11
+Yo puedo armar esto
+
+37
+00:02:56:11 --> 00:02:59:11
+y tengo mi libro, a través del libro fue
+
+38
+00:03:00:07 --> 00:03:03:07
+que aprendí a armar
+
+39
+00:03:03:19 --> 00:03:05:18
+cada componente.
+
+40
+00:03:05:18 --> 00:03:08:18
+Si yo no compongo bien, no prende.
+
+41
+00:03:10:08 --> 00:03:11:21
+Pero a través de este
+
+42
+00:03:11:21 --> 00:03:15:10
+repetía todos los días, el teacher nos decía
+
+43
+00:03:17:23 --> 00:03:20:23
+que una resistencia de
+
+44
+00:03:22:11 --> 00:03:25:11
+R22.
+
+45
+00:03:25:14 --> 00:03:27:08
+Bueno, nos enseñaron los colores
+
+46
+00:03:27:08 --> 00:03:30:08
+porque las resistencias tienen colores.
+
+47
+00:03:30:21 --> 00:03:33:21
+El rojo, el amarillo,
+
+48
+00:03:33:21 --> 00:03:37:12
+el negro, el verde porque tienen un voltaje.
+
+49
+00:03:38:09 --> 00:03:40:11
+Sacamos cuenta
+
+50
+00:03:40:11 --> 00:03:42:17
+a través de los colores.
+
+51
+00:03:42:17 --> 00:03:44:00
+Nos enseñaron.
+
+52
+00:03:44:00 --> 00:03:47:00
+Este es una resistencia de 22 k
+
+53
+00:03:48:14 --> 00:03:51:02
+y tengo que buscar
+
+54
+00:03:51:02 --> 00:03:51:20
+la plaquita
+
+55
+00:03:51:20 --> 00:03:54:19
+tiene su numeración donde tengo que
+
+56
+00:03:55:08 --> 00:03:57:15
+poner.
+
+57
+00:03:57:15 --> 00:03:58:22
+Bueno,
+
+58
+00:03:58:22 --> 00:04:02:14
+esta es una placa de la lámpara.
+
+59
+00:04:02:18 --> 00:04:03:15
+Es esta que está acá.
+
+60
+00:04:05:01 --> 00:04:05:19
+Yo puedo enseñar
+
+61
+00:04:05:19 --> 00:04:09:03
+los muchachos, así como me enseñaron a mí y yo no sé
+
+62
+00:04:10:03 --> 00:04:13:15
+qué voltaje, bueno voltaje sí, porque yo aprendí
+
+63
+00:04:13:15 --> 00:04:16:15
+que los números, que tenemos que sacar cuentas,
+
+64
+00:04:17:13 --> 00:04:18:06
+lo básico.
+
+65
+00:04:18:06 --> 00:04:21:15
+No aprendí así tan rápido.
+
+66
+00:04:22:11 --> 00:04:23:04
+Sí.
+
+67
+00:04:23:04 --> 00:04:26:13
+¿Así con cada uno de esos armaba para las otras
+
+68
+00:04:26:13 --> 00:04:28:00
+personas de la comunidad?
+
+69
+00:04:28:00 --> 00:04:32:11
+Sí, claro, porque después del curso nos envían esto.
+
+70
+00:04:33:03 --> 00:04:36:13
+El gobierno tiene que financiar con la escuela
+
+71
+00:04:36:13 --> 00:04:38:14
+para que puedan enviarnos el material
+
+72
+00:04:38:14 --> 00:04:40:17
+y para electrificar la comunidad.
+
+73
+00:04:40:17 --> 00:04:43:17
+Es en la escuela de Barefoot
+en la India,
+
+74
+00:04:43:17 --> 00:04:47:18
+y esta es una placa de un PCB
+
+75
+00:04:48:14 --> 00:04:51:14
+de un control que es ésta que está acá.
+
+76
+00:04:52:23 --> 00:04:55:05
+Así nos entregan así en la India.
+
+77
+00:04:55:05 --> 00:04:58:05
+Vayan a armar.
+¿Le envían eso no más?
+
+78
+00:04:58:09 --> 00:04:59:22
+Sí, nos dan esto
+
+79
+00:04:59:22 --> 00:05:02:02
+allá en la India, eso es lo que hacía todos los días.
+
+80
+00:05:03:12 --> 00:05:05:11
+Armar esto.
+
+81
+00:05:05:11 --> 00:05:08:11
+Los componentes, nos daban los componentes, así como esto.
+
+82
+00:05:09:01 --> 00:05:12:12
+Entonces llega sencillo así
+
+83
+00:05:12:23 --> 00:05:14:19
+y usted arma todo?
+Sí.
+
+84
+00:05:14:19 --> 00:05:15:23
+¿Desde el inicio?
+
+85
+00:05:15:23 --> 00:05:17:17
+Desde inicio, desde cero.
+
+86
+00:05:17:17 --> 00:05:19:14
+Así como está.
+
+87
+00:05:19:14 --> 00:05:22:14
+Ahí está el final.
+
+88
+00:05:23:03 --> 00:05:26:03
+Así hasta que aprenda.
+
+89
+00:05:26:10 --> 00:05:28:17
+Este es de un control, de un control de carga
+
+90
+00:05:28:17 --> 00:05:32:01
+que controla la carga del solar a la batería porque
+
+91
+00:05:33:06 --> 00:05:35:15
+se mantiene.
+
+92
+00:05:35:15 --> 00:05:38:15
+Si, esta es una carga de 40 voltios
+
+93
+00:05:39:17 --> 00:05:41:22
+y diez de amperaje.
+
+94
+00:05:41:22 --> 00:05:43:22
+Si
+
+95
+00:05:43:22 --> 00:05:45:07
+Esto
+
+96
+00:05:45:07 --> 00:05:48:07
+nos preguntaban. “This name!”,
+
+97
+00:05:50:06 --> 00:05:52:11
+“This name!” decía el teacher
+
+98
+00:05:52:11 --> 00:05:54:22
+y repetíamos lo que él decía primero,
+
+99
+00:05:54:22 --> 00:05:57:23
+“PCB!” repetía primero “PCB!”.
+
+100
+00:05:59:11 --> 00:06:02:11
+Y él decía “This name?” PCB.
+
+…
+
+101
+00:06:02:22 --> 00:06:07:04
+Okay, “Charge Controller!”
+
+102
+00:06:09:22 --> 00:06:11:04
+nan
+
+103
+00:06:12:07 --> 00:06:13:25
+nan
+
+104
+00:06:15:04 --> 00:06:18:02
+Y así lo aprendíamos
+
+105
+00:06:18:02 --> 00:06:21:02
+“Charge Controller!” “This name?”
+
+106
+00:06:21:07 --> 00:06:23:20
+Vcb, vcb
+
+107
+00:06:23:20 --> 00:06:26:12
+Disnay controles
+
+108
+00:06:27:11 --> 00:06:30:13
+y así después los componentes
+
+109
+00:06:31:14 --> 00:06:34:14
+ajá, Disney en resistencia,
+
+110
+00:06:34:18 --> 00:06:37:07
+resistencia
+
+111
+00:06:37:07 --> 00:06:39:05
+y así sucesivamente.
+
+112
+00:06:39:05 --> 00:06:42:05
+Aprendíamos cada uno como se llamaba
+
+113
+00:06:42:18 --> 00:06:45:13
+Disnay el profe Disnay.
+
+114
+00:06:45:13 --> 00:06:47:08
+Sí,
+
+115
+00:06:47:08 --> 00:06:49:21
+¿En esta organización, cuál es la importancia
+
+116
+00:06:49:21 --> 00:06:52:21
+de que sean las mujeres las que aprenden?
+
+117
+00:06:52:21 --> 00:06:56:11
+Bueno, dice en la escuela porque somos abuelas,
+
+118
+00:06:56:11 --> 00:06:59:11
+y nos quedamos en la comunidad
+
+119
+00:07:00:06 --> 00:07:03:14
+enseñando a nuestros hijos o a nuestros nietos
+
+120
+00:07:04:15 --> 00:07:08:00
+y por eso es la importancia de la mujer,
+
+121
+00:07:08:16 --> 00:07:11:16
+porque es la que siempre está en la comunidad
+
+122
+00:07:12:17 --> 00:07:15:07
+y los hombres no, se van,
+
+123
+00:07:15:07 --> 00:07:18:05
+“Beben” dicen ellos.
+
+124
+00:07:18:05 --> 00:07:21:02
+Por eso es la importancia que sea
+
+125
+00:07:21:02 --> 00:07:23:08
+mujeres mayores de edad,
+
+126
+00:07:23:08 --> 00:07:26:07
+porque si son jovencitas también se va para la ciudad.
+
+127
+00:07:26:15 --> 00:07:30:01
+En cambio, las mamás son abuelas, y ya se quedan en la casa.
+
+128
+00:07:30:23 --> 00:07:31:18
+Esa es la importancia.
+
+129
+00:07:31:18 --> 00:07:33:16
+Eso es lo que nos explicaron en la India.
+
+130
+00:07:34:22 --> 00:07:36:10
+¿También crees en eso?
+
+131
+00:07:36:10 --> 00:07:39:02
+Sí. Bueno, es eso.
+
+132
+00:07:39:02 --> 00:07:40:15
+¿Y cómo funciona?
+
+133
+00:07:40:15 --> 00:07:43:15
+¿el panel solar,
+
+134
+00:07:43:23 --> 00:07:46:19
+pasa a través de que regulador para cargar las baterías?
+
+135
+00:07:46:19 --> 00:07:48:10
+¿Y luego cuando puede utilizarlo?
+
+136
+00:07:48:10 --> 00:07:51:09
+Bueno, el regulador es éste, o sea,
+
+137
+00:07:52:12 --> 00:07:53:10
+es este.
+
+138
+00:07:53:10 --> 00:07:58:00
+Este es el control que regula la carga
+
+139
+00:07:59:02 --> 00:08:01:20
+del solar a la batería.
+
+140
+00:08:01:20 --> 00:08:02:17
+Se mantiene.
+
+141
+00:08:02:17 --> 00:08:06:06
+No quema la batería, sino que ya llegó a su ciclo.
+
+142
+00:08:06:06 --> 00:08:07:13
+Diez años son diez años.
+
+143
+00:08:07:13 --> 00:08:10:13
+Son nomás cinco años de vida de una batería.
+
+144
+00:08:10:18 --> 00:08:13:11
+Si ya pasó el tiempo,
+
+145
+00:08:13:11 --> 00:08:17:02
+pero cuando esto se entregó a la comunidad prendían las luces.
+
+146
+00:08:17:09 --> 00:08:18:14
+Felices, felices.
+
+147
+00:08:18:14 --> 00:08:21:14
+¡Qué felicidad!
+
+148
+00:08:21:15 --> 00:08:24:07
+Esta es la página
+
+149
+00:08:24:07 --> 00:08:26:22
+de la escuela.
+
+150
+00:08:26:22 --> 00:08:28:22
+Se meten ahí
+
+151
+00:08:28:22 --> 00:08:29:09
+Y esto
+
+152
+00:08:29:09 --> 00:08:31:12
+cuando me lo trajeron la comunidad
+
+153
+00:08:31:12 --> 00:08:34:12
+todo esto desarmado, quemado.
+
+154
+00:08:34:15 --> 00:08:34:23
+Claro,
+
+155
+00:08:34:23 --> 00:08:36:05
+Yo tengo repuesto
+
+156
+00:08:36:05 --> 00:08:39:07
+porque me mandaron repuesto de la India y puedo reparar,
+
+157
+00:08:41:02 --> 00:08:43:08
+volverlos a entregar.
+
+158
+00:08:43:08 --> 00:08:46:14
+Pero si ellos no quieren cumplir con el pago.
+
+159
+00:08:47:07 --> 00:08:48:10
+Sí. ¿Cuál es el pago?
+
+160
+00:08:48:10 --> 00:08:52:21
+Son $5.000 mensuales para mantenimiento.
+
+161
+00:08:53:14 --> 00:08:58:04
+Si por ejemplo esa batería o ésta terminó su ciclo,
+
+162
+00:08:58:16 --> 00:09:01:15
+de esa plata, de ese dinero,
+
+163
+00:09:01:23 --> 00:09:04:09
+puedo comprar la batería,
+
+164
+00:09:04:09 --> 00:09:06:23
+volver y prende otra vez la lámpara.
+
+165
+00:09:09:10 --> 00:09:12:16
+Pero si la comunidad no colabora
+
+166
+00:09:13:19 --> 00:09:16:19
+con el pago, que son $5.000 mensuales.
+
+167
+00:09:17:12 --> 00:09:20:16
+Yo le he dicho puede matar un chivo y pesan
+
+168
+00:09:20:16 --> 00:09:25:02
+ese chivo saca los $60.000 al año.
+
+169
+00:09:25:21 --> 00:09:28:21
+Si, no es nada.
+
+170
+00:09:31:02 --> 00:09:35:00
+¿Pero no tienen dinero para eso o no quieren pagar?
+
+171
+00:09:35:04 --> 00:09:38:18
+No, si tienen.
+
+172
+00:09:40:06 --> 00:09:42:21
+Pero es que, con un chivo,
+
+173
+00:09:42:21 --> 00:09:44:22
+uno y va vende ese chivo,
+
+174
+00:09:44:22 --> 00:09:49:00
+Y es que son 60, sacan anual, son 60
+
+175
+00:09:51:03 --> 00:09:52:17
+¿chivos vale eso?
+
+176
+00:09:52:17 --> 00:09:54:12
+Claro, pasa más.
+
+177
+00:09:54:12 --> 00:09:57:09
+y digamos,
+
+178
+00:09:57:09 --> 00:09:59:15
+¿cómo darles la importancia,
+
+179
+00:09:59:15 --> 00:10:01:09
+o sea, hacerles caer en cuenta de la importancia
+
+180
+00:10:01:09 --> 00:10:02:12
+de la electricidad?
+
+181
+00:10:02:12 --> 00:10:04:20
+Ahorita lo están sufriendo,
+¿Sí?
+
+182
+00:10:04:20 --> 00:10:07:17
+Sí, ellos están sintiendo el sufrimiento
+
+183
+00:10:07:17 --> 00:10:10:17
+porque todos están apagados.
+
+184
+00:10:11:04 --> 00:10:11:14
+Ajá.
+
+185
+00:10:11:14 --> 00:10:14:14
+Entonces, cómo darle importancia, volver,
+
+186
+00:10:16:04 --> 00:10:17:17
+volver a electrificar.
+
+187
+00:10:17:17 --> 00:10:20:23
+ósea, volver a reparar esto
+
+188
+00:10:22:06 --> 00:10:25:10
+que vuelva a prender y baterías nuevas.
+
+189
+00:10:27:00 --> 00:10:29:05
+Pero eso sí,
+
+190
+00:10:29:05 --> 00:10:31:08
+que pague un año
+
+191
+00:10:31:08 --> 00:10:33:08
+adelantado, con ese dinero
+
+192
+00:10:33:08 --> 00:10:35:05
+ese que se va a depositar en un banco.
+
+193
+00:10:35:05 --> 00:10:37:13
+No es para mí,
+
+194
+00:10:37:13 --> 00:10:39:20
+es para el comité, porque hay un comité.
+
+195
+00:10:39:20 --> 00:10:42:20
+Yo tengo una asociación que se llama Azoperro,
+
+196
+00:10:45:06 --> 00:10:46:10
+tengo la asociación.
+
+197
+00:10:46:10 --> 00:10:48:16
+¿En esa asociación se va administrando?
+
+198
+00:10:48:16 --> 00:10:51:16
+Se va administrando, se va poniendo el dinero
+
+199
+00:10:52:12 --> 00:10:55:12
+que es de mantenimiento y que no es para mí.
+
+200
+00:10:56:11 --> 00:10:58:16
+Y digamos, ¿veo que tú tienes ahí
+
+201
+00:10:59:21 --> 00:11:01:08
+televisión?
+
+202
+00:11:01:08 --> 00:11:04:07
+Antes prendía.
+¿Antes prendía?
+
+203
+00:11:04:15 --> 00:11:07:20
+Tenía Direct TV, tenía wi-fi
+
+204
+00:11:09:12 --> 00:11:11:11
+también mi batería ya está muerta,
+
+205
+00:11:11:11 --> 00:11:14:11
+pero yo pienso y lo pienso mucho,
+
+206
+00:11:14:19 --> 00:11:17:19
+que lo tengo que reponer,
+
+207
+00:11:18:07 --> 00:11:19:12
+lo voy a reponer.
+
+208
+00:11:19:12 --> 00:11:21:04
+¿y dónde consigues los materiales para eso?
+
+209
+00:11:21:04 --> 00:11:23:02
+Allá, allá
+
+210
+00:11:23:02 --> 00:11:25:05
+en Uribia también se vende.
+
+211
+00:11:25:05 --> 00:11:28:13
+Eso vale, está valiendo como cada batería de esa grande
+
+212
+00:11:28:13 --> 00:11:31:13
+está costando como un millón de pesos.
+
+213
+00:11:31:19 --> 00:11:34:19
+Umm, si un millón de pesos.
+
+214
+00:11:35:10 --> 00:11:37:18
+Son tres baterías grandes
+
+215
+00:11:37:18 --> 00:11:41:03
+para que vuelva a prender mi taller, porque también a veces
+
+216
+00:11:41:07 --> 00:11:44:07
+me pongo a reparar,
+
+217
+00:11:44:18 --> 00:11:46:07
+me concentro.
+
+218
+00:11:46:07 --> 00:11:51:07
+Si yo tengo, no me gusta tejido, no me gusta tejer. Tejido
+
+219
+00:11:51:07 --> 00:11:53:14
+no me gusta, no tengo paciencia.
+
+220
+00:11:53:14 --> 00:11:55:15
+¿La electrónica te encanta?
+
+221
+00:11:55:15 --> 00:11:57:12
+Es la que más me gusta, me entretiene.
+
+222
+00:11:57:12 --> 00:12:00:12
+Sí, sí, me gusta más.
+
+223
+00:12:01:00 --> 00:12:03:20
+Digamos, un proyecto, pero que no sea como
+
+224
+00:12:03:20 --> 00:12:04:18
+individual, sino
+
+225
+00:12:06:13 --> 00:12:08:09
+paneles solares, pero mucho más grandes
+
+226
+00:12:08:09 --> 00:12:10:09
+para que electrifiquen
+
+227
+00:12:10:09 --> 00:12:14:02
+todo, ¿Es algo que han pensado, pensar como agrandarlo?
+
+228
+00:12:14:02 --> 00:12:15:16
+No como que cada casa tenga el suyo,
+
+229
+00:12:15:16 --> 00:12:19:04
+sino agrandar el proyecto y que sea como uno?
+
+230
+00:12:19:08 --> 00:12:22:08
+Aquí han hecho censo, dicen…
+
+231
+00:12:22:17 --> 00:12:25:05
+que van a electrificar
+
+232
+00:12:25:05 --> 00:12:28:05
+toda la alta guajira con paneles solares grandes,
+
+233
+00:12:29:04 --> 00:12:33:03
+que prenda una nevera que no sé, pero tiene rato eso.
+
+234
+00:12:33:03 --> 00:12:36:03
+Eso estoy esperando. Ojalá.
+
+235
+00:12:36:12 --> 00:12:39:12
+Tú puedes liderar el proyecto.
+
+236
+00:12:39:16 --> 00:12:41:11
+Sí, eso es lo que me han dicho,
+
+237
+00:12:41:11 --> 00:12:44:11
+pero no sé toca esperar.
+
+238
+00:12:44:14 --> 00:12:47:14
+Las empresas que están aquí Elios.
+
+239
+00:12:50:09 --> 00:12:51:05
+Cuéntanos un poco más
+
+240
+00:12:51:05 --> 00:12:54:05
+de la escuela que quieren abrir
+
+241
+00:12:54:07 --> 00:12:56:17
+donde quieren que tu seas profesora.
+
+242
+00:12:56:17 --> 00:12:57:19
+¿De qué se trata?
+
+243
+00:12:57:19 --> 00:13:00:19
+Eso es allá en Cabo de la Vela.
+
+244
+00:13:01:03 --> 00:13:03:05
+Bueno, ellos quieren hacer
+
+245
+00:13:03:05 --> 00:13:05:17
+ese proyecto allá como en la India,
+
+246
+00:13:05:17 --> 00:13:08:13
+que las mujeres aprendan a
+
+247
+00:13:08:13 --> 00:13:13:12
+reparar sus propios equipos para el mantenimiento,
+
+248
+00:13:13:12 --> 00:13:16:06
+porque se le va a electrificar
+
+249
+00:13:16:06 --> 00:13:19:06
+en esa zona por la zona eólica.
+
+250
+00:13:19:06 --> 00:13:21:12
+Eso es lo que yo tengo entendido.
+
+251
+00:13:21:12 --> 00:13:23:13
+Ellos me dijeron así.
+
+252
+00:13:23:13 --> 00:13:26:22
+Entonces ellos me van a contratar para yo enseñar.
+
+253
+00:13:33:00 --> 00:13:36:11
+No sé si el material lo van a traer de la India, no sé,
+
+254
+00:13:36:23 --> 00:13:38:08
+hasta la fecha no.
+
+255
+00:13:38:08 --> 00:13:42:02
+¿Pero es en asociación con ellos o a parte la quieren hacer?
+
+256
+00:13:42:13 --> 00:13:45:13
+Aparte, sí aparte.
+
+257
+00:13:46:06 --> 00:13:47:10
+Están en eso,
+
+258
+00:13:47:10 --> 00:13:50:10
+ellos ya se están comunicando con la escuela
+
+259
+00:13:52:10 --> 00:13:55:08
+y van a traer un profe de la India
+
+260
+00:13:55:08 --> 00:13:59:07
+Para, para, ósea para reforzar.
+Claro para reforzar.
+
+261
+00:13:59:09 --> 00:14:00:15
+Si
+
+262
+00:14:00:15 --> 00:14:02:22
+¿y digamos aquí no hay iniciativas de eso,
+
+263
+00:14:02:22 --> 00:14:05:22
+ósea, como que sea profe de acá?
+
+264
+00:14:06:09 --> 00:14:09:10
+No sé, creo que sí, claro, debe haber,
+
+265
+00:14:10:09 --> 00:14:12:14
+pero ellos quieren traer como en la India.
+
+266
+00:14:12:14 --> 00:14:14:12
+Como aprenden así
+
+267
+00:14:14:12 --> 00:14:17:12
+analfabetos, semianalfabetos.
+
+268
+00:14:17:17 --> 00:14:20:23
+Es una estrategia que ellos tienen para
+
+269
+00:14:21:15 --> 00:14:24:15
+aprender.
+
+270
+00:14:27:09 --> 00:14:28:23
+¿Ustedes son
+
+271
+00:14:28:23 --> 00:14:32:05
+una ingeniera eléctrica?
+
+272
+00:14:33:01 --> 00:14:34:12
+Esto lo armamos nosotros.
+
+273
+00:14:35:13 --> 00:14:36:13
+Es muy impresionante.
+
+274
+00:14:36:13 --> 00:14:39:14
+Yo no sé de eso se ve muy complicado.
+
+275
+00:14:39:15 --> 00:14:40:12
+Yo también.
+
+276
+00:14:40:12 --> 00:14:43:12
+Yo decía en el avión ¿qué voy a saber de matemáticas?
+
+277
+00:14:43:13 --> 00:14:44:16
+No sabía nada.
+
+278
+00:14:44:16 --> 00:14:46:07
+Pero aprendiste a soldar y todo.
+
+279
+00:14:46:07 --> 00:14:47:13
+Sí, claro.
+
+280
+00:14:47:13 --> 00:14:50:12
+Aquí yo tranquilamente.
+
+281
+00:14:50:12 --> 00:14:51:04
+Yo solo.
+
+282
+00:14:51:04 --> 00:14:52:18
+Ya agarro eso.
+
+283
+00:14:52:18 --> 00:14:53:00
+Esto
+
+284
+00:14:53:00 --> 00:14:56:00
+así
+
+285
+00:14:56:00 --> 00:14:59:15
+ya soy práctica en esto, pulso.
+
+286
+00:14:59:19 --> 00:15:01:00
+¿y tienes el estaño, la soldadura?
+
+287
+00:15:01:00 --> 00:15:03:09
+Tengo todo, todo, todo, todo, todo.
+
+288
+00:15:04:10 --> 00:15:07:03
+¿Y cómo podrías saltar si no hay corriente?
+
+289
+00:15:07:03 --> 00:15:11:16
+No hay porque ya mis baterías llegaron también
+
+290
+00:15:11:17 --> 00:15:14:17
+al ciclo ya no calientan.
+
+291
+00:15:16:01 --> 00:15:16:19
+Sí.
+
+292
+00:15:16:19 --> 00:15:21:02
+¿Para recibir más baterías sería recibir ese pago de las comunidades?
+
+293
+00:15:21:03 --> 00:15:23:00
+Sí.
+
+294
+00:15:23:00 --> 00:15:23:23
+Sí, claro.
+
+295
+00:15:23:23 --> 00:15:26:23
+Tienen que cada quien.
+
+296
+00:15:27:01 --> 00:15:29:20
+Cuesta 1 millón de pesos cada cinco años,
+
+297
+00:15:29:20 --> 00:15:31:08
+pues de seguro se puede ahorrar en cinco años un millón de pesos.
+
+298
+00:15:31:08 --> 00:15:32:22
+Sí, claro.
+
+299
+00:15:32:22 --> 00:15:36:00
+¿75 comunidades, o personas?
+
+300
+00:15:36:00 --> 00:15:39:10
+75 familias, en la Macuira también.
+
+301
+00:15:40:03 --> 00:15:40:15
+Y acá.
+
+302
+00:15:42:22 --> 00:15:44:08
+Sí, en la Macuira.
+
+303
+00:15:44:08 --> 00:15:45:00
+¿Y puedes pasarnos el libro?
+
+304
+00:15:45:00 --> 00:15:48:00
+¿El libro?
+
+305
+00:15:48:01 --> 00:15:49:23
+Es lo mismo.
+
+306
+00:15:49:23 --> 00:15:51:20
+¿Aprendiste
+
+307
+00:15:51:20 --> 00:15:53:15
+en ingles entonces?
+
+308
+00:15:53:15 --> 00:15:56:15
+No, ojalá aprendiera inglés.
+
+309
+00:15:57:11 --> 00:15:59:18
+Aquí esta
+
+310
+00:15:59:18 --> 00:16:02:16
+Todas estas herramientas las tengo, todas las tengo.
+
+311
+00:16:02:16 --> 00:16:05:07
+Si, pero el libro no está en español.
+
+312
+00:16:05:07 --> 00:16:07:22
+No, yo he traído traducidos
+
+313
+00:16:07:22 --> 00:16:10:22
+algunos cuando tenía el wifi, me ponía a traducir.
+
+314
+00:16:11:15 --> 00:16:13:17
+Los traduje algunos
+
+315
+00:16:13:17 --> 00:16:15:23
+porque
+
+316
+00:16:15:23 --> 00:16:20:00
+yo quiero saber cómo se llama español esto y me lo
+
+317
+00:16:20:00 --> 00:16:23:11
+aprendí fue nomás. Aquí están todas las resistencias,
+
+318
+00:16:24:15 --> 00:16:26:15
+de cuántos,
+
+319
+00:16:26:15 --> 00:16:28:13
+todas estas cositas.
+
+320
+00:16:28:13 --> 00:16:31:13
+¿Es,
+
+321
+00:16:32:12 --> 00:16:34:08
+digamos, como fue hace diez años
+
+322
+00:16:34:08 --> 00:16:36:01
+con el avance de la tecnología,
+
+323
+00:16:36:01 --> 00:16:38:15
+crees que habrá nuevas maneras de hacerlo?
+
+324
+00:16:38:15 --> 00:16:40:20
+Ah, yo creo que ya en la India, en la escuela,
+
+325
+00:16:40:20 --> 00:16:42:02
+yo vi, me meto
+
+326
+00:16:42:02 --> 00:16:45:04
+siempre en la página, ya veo que son más diferentes.
+
+327
+00:16:45:08 --> 00:16:47:21
+Sí, son atrás ya lámpara.
+
+328
+00:16:47:21 --> 00:16:50:06
+Entonces deberías tecnificarte.
+
+329
+00:16:50:06 --> 00:16:51:23
+Volverte aún más experta.
+Claro
+
+330
+00:16:53:00 --> 00:16:56:00
+Eso es lo que se quiere
+
+331
+00:16:56:04 --> 00:16:57:23
+¿Entonces te enviamos de nuevo a la India?
+
+332
+00:16:57:23 --> 00:17:00:14
+Sí,
+
+333
+00:17:00:14 --> 00:17:02:07
+o aquí mismo.
+
+334
+00:17:02:07 --> 00:17:03:16
+No hace falta.
+
+335
+00:17:03:16 --> 00:17:08:03
+¿Aquí mismo se puede?
+Claro se puede.
+
+336
+00:17:09:01 --> 00:17:09:08
+Mira
+
+337
+00:17:09:08 --> 00:17:12:00
+los colores que aprendí todos los días nos enseñaron.
+
+338
+00:17:12:00 --> 00:17:14:12
+Yo decía para que aprendemos ese color, ya yo me sé el negro,
+
+339
+00:17:14:12 --> 00:17:16:08
+Ya yo me sé el marrón, se me el rojo.
+
+340
+00:17:16:08 --> 00:17:19:19
+No entendíamos porque todos los días nos enseñaban los colores,
+
+341
+00:17:20:20 --> 00:17:21:17
+los números.
+
+342
+00:17:21:17 --> 00:17:24:12
+¿Tú sabes cuánto es mil voltios en colores?
+
+343
+00:17:24:12 --> 00:17:26:13
+Mil voltios
+
+344
+00:17:26:13 --> 00:17:32:05
+es un negro y 000 que es el negro, negro, negro.
+
+345
+00:17:33:02 --> 00:17:37:04
+Es que yo tome cursos de esto yo también se armarlos,
+
+346
+00:17:37:16 --> 00:17:40:20
+pero entonces pues también lo mismo.
+
+347
+00:17:40:20 --> 00:17:43:09
+Yo los conocí.
+
+348
+00:17:43:09 --> 00:17:44:19
+Ajá. ¿Yo decía en la India, para qué?
+
+349
+00:17:44:19 --> 00:17:46:05
+Si ya me sé el negro,
+
+350
+00:17:46:05 --> 00:17:49:05
+ya me sé el rojo y yo sé, no entendíamos, porque
+
+351
+00:17:49:16 --> 00:17:54:08
+cuando nos enseñaron la resistencia, ¡Ah! es la resistencia,
+
+352
+00:17:54:08 --> 00:17:58:00
+entonces tampoco no era para semianalfabeta esto.
+
+353
+00:17:58:02 --> 00:18:01:11
+También hay que ver matemáticas.
+
+354
+00:18:02:13 --> 00:18:04:09
+Sí, pero entonces a ustedes le enseñaron…
+
+355
+00:18:04:09 --> 00:18:07:09
+Aquí y aquí, por ejemplo, una saca la cuenta, aquí está.
+
+356
+00:18:08:05 --> 00:18:10:13
+¿y les enseñaron a sacar entonces
+
+357
+00:18:10:13 --> 00:18:12:21
+cuanto voltaje hay?
+
+358
+00:18:12:21 --> 00:18:16:01
+¿Si hay tanto voltaje, ¿cuánta resistencia hay?
+
+359
+00:18:17:00 --> 00:18:20:00
+como en la matemática y como amperaje por voltaje.
+
+360
+00:18:20:09 --> 00:18:22:12
+Sí, pero un poquito.
+
+361
+00:18:22:12 --> 00:18:25:12
+Aprendí esos amperajes.
+
+362
+00:18:26:00 --> 00:18:26:23
+Claro.
+
+363
+00:18:26:23 --> 00:18:28:19
+Aquí esta, ve,
+
+364
+00:18:28:19 --> 00:18:31:18
+los voltios, sacar cuentas.
+
+365
+00:18:31:18 --> 00:18:34:18
+Ya esto yo lo aprendí
+
+366
+00:18:35:15 --> 00:18:37:10
+y dije ay no,
+
+367
+00:18:37:10 --> 00:18:40:10
+porque decían que era para analfabetas,
+
+368
+00:18:40:18 --> 00:18:43:01
+que tampoco es tan para analfabeta,
+
+369
+00:18:43:01 --> 00:18:46:01
+dije cuando me enseñaron estos números.
+
+370
+00:18:46:19 --> 00:18:47:23
+¿Pero tu sabías leer?
+
+371
+00:18:47:23 --> 00:18:50:23
+Yo claro, yo soy
+
+372
+00:18:51:06 --> 00:18:54:06
+de secundaria.
+
+373
+00:18:55:21 --> 00:18:58:21
+Mi abuela se ha metido hasta segundo de primaria.
+
+374
+00:18:59:15 --> 00:19:02:15
+Es que había mujeres hasta que llegaron a segundo
+
+375
+00:19:03:19 --> 00:19:05:02
+y aprendieron.
+
+376
+00:19:05:02 --> 00:19:08:02
+Aprendieran duro pero chévere.
+
+377
+00:19:08:05 --> 00:19:09:15
+Sí.
+
+378
+00:19:09:15 --> 00:19:11:23
+Estos son mis profesores.
+
+379
+00:19:11:23 --> 00:19:13:10
+Mira que lindo.
+
+380
+00:19:14:19 --> 00:19:17:00
+Yo conocí todo esto.
+
+381
+00:19:17:00 --> 00:19:20:00
+Este es Teacher Magan.
+
+382
+00:19:20:18 --> 00:19:22:18
+Nos vestían de hindú.
+
+383
+00:19:22:18 --> 00:19:25:01
+Sí, ella sí, ella es muy chévere,
+
+384
+00:19:25:01 --> 00:19:27:02
+Prestaba sus cosas, nos vestía de hindú.
+
+385
+00:19:27:02 --> 00:19:30:02
+Yo tengo fotos de té de hindú.
+
+386
+00:19:31:14 --> 00:19:34:14
+Estos son los profesores.
+
+387
+00:19:35:01 --> 00:19:36:11
+Este es un señor que
+
+388
+00:19:36:11 --> 00:19:39:11
+usa muletas.
+
+389
+00:19:39:14 --> 00:19:41:23
+Sí, sí, sí.
+
+390
+00:19:41:23 --> 00:19:44:23
+Teacher Umán es más chévere.
+
+391
+00:19:45:01 --> 00:19:47:05
+¿Teacher Problem?
+
+392
+00:19:47:05 --> 00:19:49:15
+No.
+
+393
+00:19:49:15 --> 00:19:50:13
+No problem.
+
+394
+00:19:50:13 --> 00:19:51:20
+No problem, me decía él.
+
+395
+00:19:51:20 --> 00:19:54:19
+Con esa, con esa paciencia,
+
+396
+00:19:55:23 --> 00:19:58:23
+con él fue que aprendimos más.
+
+397
+00:19:59:02 --> 00:20:03:01
+Decíamos todos los días las mujeres teacher problem.
+
+398
+00:20:03:18 --> 00:20:06:07
+O sea, como es, no aprendo, no sé.
+
+399
+00:20:06:07 --> 00:20:09:07
+Y él decía no problem, no problem.
+
+400
+00:20:09:23 --> 00:20:10:18
+Más chévere.
+
+401
+00:20:10:18 --> 00:20:12:21
+Él,
+
+402
+00:20:12:21 --> 00:20:15:21
+Pero más que todo él y este.
+
+403
+00:20:16:00 --> 00:20:17:15
+Él,
+
+404
+00:20:17:15 --> 00:20:19:15
+que fue mi profesor también,
+
+405
+00:20:19:15 --> 00:20:21:15
+creo que es el que va a venir.
+
+406
+00:20:21:15 --> 00:20:24:21
+Um, él estuvo en Guatemala y ha formado una escuela
+
+407
+00:20:24:21 --> 00:20:27:02
+en Guatemala con Rodrigo París.
+
+408
+00:20:28:16 --> 00:20:30:19
+¿Sabes cuándo va a venir o cuándo es?
+
+409
+00:20:30:19 --> 00:20:32:13
+Cuando esté la escuela, me dijeron.
+
+410
+00:20:32:13 --> 00:20:35:13
+¿Y quién está organizando lo de la escuela?
+
+411
+00:20:37:02 --> 00:20:40:08
+La gente de Ipse.
+
+412
+00:20:42:06 --> 00:20:45:08
+Que ahora con Petro y el
+
+413
+00:20:46:02 --> 00:20:49:02
+ellos están con Ecopetrol,
+
+414
+00:20:49:18 --> 00:20:51:22
+van a financiar
+
+415
+00:20:51:22 --> 00:20:54:11
+y creo que este es el que va a venir.
+
+416
+00:20:54:11 --> 00:20:56:20
+No sé,
+
+417
+00:20:56:20 --> 00:20:59:20
+me dijo así todo esto son profesores.
+
+418
+00:21:00:16 --> 00:21:02:15
+Este es un tema poco diferente,
+
+419
+00:21:02:15 --> 00:21:05:19
+pero ¿cuáles cambios has visto en el ambiente?
+
+420
+00:21:05:20 --> 00:21:06:20
+¿Aquí?
+aquí.
+
+421
+00:21:06:20 --> 00:21:09:20
+Bueno, al principio sí hubo cambio, claro,
+
+422
+00:21:10:20 --> 00:21:13:12
+había alegría porque
+
+423
+00:21:13:12 --> 00:21:16:07
+ya la gente no iba a cargar su celular.
+
+424
+00:21:16:07 --> 00:21:19:07
+Los niños estudiaban de noche, hacían tarea,
+
+425
+00:21:20:12 --> 00:21:21:10
+creo que ya volvieron
+
+426
+00:21:21:10 --> 00:21:24:09
+lo mismo lo de antes y me da pena
+
+427
+00:21:24:09 --> 00:21:25:00
+a veces.
+
+428
+00:21:25:00 --> 00:21:27:20
+Ahí es cuando me invitan y dicen
+
+429
+00:21:27:20 --> 00:21:31:04
+¿Cuál es el avance? de como avanza si eso está para atrás
+
+430
+00:21:33:01 --> 00:21:36:01
+y me da pena decirlo
+
+431
+00:21:36:08 --> 00:21:37:03
+digamos
+
+432
+00:21:37:03 --> 00:21:40:13
+porque los niños estudian y eso no se
+
+433
+00:21:40:13 --> 00:21:42:10
+han puesto las pilas de decir bueno pues
+
+434
+00:21:42:10 --> 00:21:43:23
+es que ya no están estudiando,
+
+435
+00:21:43:23 --> 00:21:46:07
+ya no puedo cargar mi celular, como que no han dicho como
+
+436
+00:21:46:07 --> 00:21:49:17
+por favor toma y cómprame una batería, arreglala.
+
+437
+00:21:51:23 --> 00:21:54:05
+No nadie,
+
+438
+00:21:54:05 --> 00:21:55:12
+pero ese es el compromiso.
+
+439
+00:21:55:12 --> 00:21:58:17
+Si llega alguna organización
+
+440
+00:21:59:12 --> 00:22:02:12
+que nos facilite la batería, eso es lo que yo pienso hacer,
+
+441
+00:22:03:02 --> 00:22:05:19
+ósea, hacer comprometer la familia
+
+442
+00:22:05:19 --> 00:22:08:19
+que tiene que adelantar
+
+443
+00:22:09:13 --> 00:22:11:03
+dinero
+
+444
+00:22:11:03 --> 00:22:14:03
+y se le electrifica, si no quiere,
+
+445
+00:22:14:08 --> 00:22:16:19
+no se le electrifica.
+
+446
+00:22:16:19 --> 00:22:18:17
+Pero es que
+
+447
+00:22:18:17 --> 00:22:21:17
+es algo muy pequeño, pero alumbra.
+
+448
+00:22:21:20 --> 00:22:24:19
+Este foquito alumbra bastante de noche,
+
+449
+00:22:24:19 --> 00:22:27:09
+son cuatro por cada familia,
+
+450
+00:22:27:09 --> 00:22:30:09
+Uno aquí en la cocina, en la encamada adentro
+
+451
+00:22:31:13 --> 00:22:33:21
+y aguanta toda la noche.
+
+452
+00:22:33:21 --> 00:22:35:18
+¿Y alumbra todos los días?
+
+453
+00:22:35:18 --> 00:22:36:16
+Todos los días.
+
+454
+00:22:40:15 --> 00:22:41:06
+Este es el,
+
+455
+00:22:41:06 --> 00:22:44:06
+aquí se conecta,
+
+456
+00:22:44:18 --> 00:22:47:1
+aquí conectamos el,
+
+457
+00:22:48:03 --> 00:22:51:03
+hacemos la conexión acá,
+
+458
+00:22:51:15 --> 00:22:54:07
+aquí conectamos,
+
+459
+00:22:54:07 --> 00:22:56:13
+conectamos acá.
+
+460
+00:22:56:13 --> 00:22:59:13
+Este es el positivo y negativo.
+
+461
+00:23:25:06 --> 00:23:26:23
+Bueno entonces
+
+462
+00:23:26:23 --> 00:23:29:22
+aquí se conectan los paneles,
+
+463
+00:23:30:06 --> 00:23:33:06
+los paneles solares positivo- negativo
+
+464
+00:23:34:01 --> 00:23:36:00
+Batería.
+
+465
+00:23:36:00 --> 00:23:36:21
+Conectamos aquí.
+
+466
+00:23:36:21 --> 00:23:39:21
+Este es para las lámparas
+
+467
+00:23:40:00 --> 00:23:41:17
+en el cuatro lamparita.
+
+468
+00:23:41:17 --> 00:23:45:01
+¿Nunca hiciste corto por error?
+
+469
+00:23:45:07 --> 00:23:46:04
+¿No se te hacia un corto o se quemaba?
+
+470
+00:23:46:04 --> 00:23:49:09
+No, porque hay que tener mucho cuidado que uno
+
+471
+00:23:49:09 --> 00:23:52:23
+no vaya a conectar el positivo al negativo
+
+472
+00:23:53:01 --> 00:23:57:08
+Hay si se hace corto o se quema alguna de las resistencias
+
+473
+00:23:57:14 --> 00:24:00:14
+alguna vez
+¿y cómo sabes cuando están quemadas?
+
+474
+00:24:00:19 --> 00:24:03:03
+Yo con él,
+
+475
+00:24:03:03 --> 00:24:06:03
+con el… como se llama este, el tester
+
+476
+00:24:06:08 --> 00:24:08:12
+¿Ah tienes tester?
+Sí, también.
+
+477
+00:24:08:12 --> 00:24:09:21
+¿Tienes multímetro también?
+
+478
+00:24:09:21 --> 00:24:12:21
+Si.
+Tiene de todo.
+
+479
+00:24:13:07 --> 00:24:15:19
+Con eso que yo
+
+480
+00:24:15:19 --> 00:24:18:15
+me doy cuenta.
