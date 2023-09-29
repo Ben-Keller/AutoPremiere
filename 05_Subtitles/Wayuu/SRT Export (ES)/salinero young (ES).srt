@@ -1,469 +1,469 @@
 1
-00:00:01:01 --> 00:00:04:24
+00:00:01,041 --> 00:00:05,000
 Señor, ¿me puede decir su nombre y de donde es?
 
 2
-00:00:04:25 --> 00:00:07:22
+00:00:05,041 --> 00:00:07,916
 Yo soy. Me llamo Hamilton Sierra.
 
 3
-00:00:07:23 --> 00:00:10:01
+00:00:07,958 --> 00:00:10,041
 Yo no soy de acá,
 pero mi mujer es de aquí, de Manaure.
 
 4
-00:00:10:11 --> 00:00:13:28
+00:00:10,458 --> 00:00:14,166
 Yo soy de allá de la costa del bajo Magdalena.
 
 5
-00:00:13:29 --> 00:00:15:07
+00:00:14,208 --> 00:00:15,291
 ¿Hace cuánto ha estado trabajando acá?
 
 6
-00:00:15:15 --> 00:00:17:23
+00:00:15,625 --> 00:00:17,958
 Hace dos años,
 
 7
-00:00:17:24 --> 00:00:20:20
+00:00:18,000 --> 00:00:20,833
 estoy aquí apenas aprendiendo la sal.
 
 8
-00:00:21:02 --> 00:00:22:19
+00:00:21,083 --> 00:00:22,791
 ¿Y qué tal has ido aprendiendo?
 
 9
-00:00:22:20 --> 00:00:26:25
+00:00:22,833 --> 00:00:27,041
 Pues gracias a Dios bien, porque de esto
 vivimos y de esto comemos acá y
 
 10
-00:00:27:25 --> 00:00:29:04
+00:00:28,041 --> 00:00:29,166
 me ha ido bien
 
 11
-00:00:29:04 --> 00:00:31:24
+00:00:29,166 --> 00:00:32,000
 gracias a Dios, ya he aprendido muchas cosas que no sabía de la sal.
 
 12
-00:00:33:06 --> 00:00:35:00
+00:00:33,250 --> 00:00:35,000
 ¿Qué has aprendido?
 
 13
-00:00:35:01 --> 00:00:37:13
+00:00:35,041 --> 00:00:37,541
 He aprendido a recoger,
 
 14
-00:00:38:08 --> 00:00:41:28
+00:00:38,333 --> 00:00:42,166
 a cargar, no sabía, pero acá todo eso lo he aprendido acá.
 
 15
-00:00:42:14 --> 00:00:44:20
+00:00:42,583 --> 00:00:44,833
 Okay.
 
 16
-00:00:45:14 --> 00:00:50:08
+00:00:45,583 --> 00:00:50,333
 Y bueno, ¿cuál es la diferencia en este trabajo
 a otro trabajo que has hecho?
 
 17
-00:00:50:26 --> 00:00:54:09
+00:00:51,083 --> 00:00:54,375
 Puede la diferencia es que este trabajo para mi es pesado.
 
 18
-00:00:55:01 --> 00:00:57:09
+00:00:55,041 --> 00:00:57,375
 Sí, pesado.
 
 19
-00:00:57:10 --> 00:01:00:09
+00:00:57,416 --> 00:01:00,375
 Nunca había experimentado la sal, pero la experimente y
 
 20
-00:01:01:15 --> 00:01:02:17
+00:01:01,625 --> 00:01:02,708
 de acá
 
 21
-00:01:02:17 --> 00:01:05:17
+00:01:02,708 --> 00:01:05,708
 se vive de esto de acá, se vive de la sal.
 
 22
-00:01:05:18 --> 00:01:08:12
+00:01:05,750 --> 00:01:08,500
 Acá pues no se quiere que caiga lluvia
 
 23
-00:01:08:13 --> 00:01:11:15
+00:01:08,541 --> 00:01:11,625
 porque si cae lluvia,
 no hay trabajo de la sal, ¿me entiendes?
 
 24
-00:01:12:00 --> 00:01:14:01
+00:01:12,000 --> 00:01:14,041
 Entonces necesitamos que este el clima, así como está ahora,
 
 25
-00:01:14:19 --> 00:01:18:26
+00:01:14,791 --> 00:01:19,083
 que pegue brisa, que este despejado, que pegue sol,
 entre más sol pegue y brisa mejor para nosotros.
 
 26
-00:01:18:27 --> 00:01:22:18
+00:01:19,125 --> 00:01:22,750
 Porque como vivimos de esto, entonces
 
 27
-00:01:22:19 --> 00:01:24:27
+00:01:22,791 --> 00:01:25,125
 necesitamos que el sol pegue, que pegue brisa.
 
 28
-00:01:25:19 --> 00:01:28:22
+00:01:25,791 --> 00:01:28,916
 la mayoría de gente quiere que llueva ¿no?
 
 29
-00:01:29:08 --> 00:01:34:04
+00:01:29,333 --> 00:01:34,166
 Si la mayoría de gente quiere que llueva, pero entonces
 si llueve no tenemos recursos para comer,
 
 30
-00:01:34:07 --> 00:01:37:11
+00:01:34,291 --> 00:01:37,458
 porque si no sacamos la sal
 tampoco tenemos para comer.
 
 31
-00:01:37:24 --> 00:01:39:01
+00:01:38,000 --> 00:01:39,041
 ¿Y cómo se hace?
 
 32
-00:01:39:02 --> 00:01:42:14
+00:01:39,083 --> 00:01:42,583
 ¿Como se daña la sal con la lluvia?
 
 33
-00:01:42:15 --> 00:01:44:11
+00:01:42,625 --> 00:01:44,458
 Pues… así como está,
 
 34
-00:01:44:12 --> 00:01:47:27
+00:01:44,500 --> 00:01:48,125
 si está en una parte que esta seca arriba, pues muy poco se lava,
 
 35
-00:01:48:06 --> 00:01:52:21
+00:01:48,250 --> 00:01:52,875
 pero si está dentro de la charca, la charca no tiene salida de agua, se lava,
 
 36
-00:01:54:00 --> 00:01:56:16
+00:01:54,000 --> 00:01:56,666
 se deshace, se derrite en un lavado, se va derritiendo.
 
 37
-00:01:58:03 --> 00:02:00:14
+00:01:58,125 --> 00:02:00,583
 Sí el agua es mayor, si es casi medio poquito
 
 38
-00:02:01:04 --> 00:02:05:21
+00:02:01,166 --> 00:02:05,875
 no se lava, no se consume.
 
 39
-00:02:05:26 --> 00:02:09:02
+00:02:06,083 --> 00:02:09,083
 ¿Has visto que hay una espiritualidad acá también
 
 40
-00:02:09:10 --> 00:02:11:28
+00:02:09,416 --> 00:02:12,166
 relacionado con la sal o con los elementos o no?
 
 41
-00:02:13:00 --> 00:02:15:25
+00:02:13,000 --> 00:02:16,041
 No.
 
 42
-00:02:16:12 --> 00:02:19:23
+00:02:16,500 --> 00:02:19,958
 Y bueno, esto acá del mar también
 vienen la sal, ¿no?
 
 43
-00:02:19:24 --> 00:02:24:07
+00:02:20,000 --> 00:02:24,291
 Sí claro, porque de ahí es de dónde sacan el agua,
 por allá queda un canalito, eso por allá es
 
 44
-00:02:24:08 --> 00:02:27:03
+00:02:24,333 --> 00:02:27,125
 un canal, esa agua la tiran allá,
 
 45
-00:02:28:05 --> 00:02:31:21
+00:02:28,208 --> 00:02:31,875
 de ahí demora una semana o unos quince días.
 
 46
-00:02:31:22 --> 00:02:33:28
+00:02:31,916 --> 00:02:34,166
 De ahí viene para acá.
 
 47
-00:02:35:00 --> 00:02:37:00
+00:02:35,000 --> 00:02:37,000
 Viene para acá y de aquí la sal se va,
 
 48
-00:02:38:06 --> 00:02:41:00
+00:02:38,250 --> 00:02:41,000
 se va cristalizando aquí en las charcas
 
 49
-00:02:41:13 --> 00:02:44:29
+00:02:41,541 --> 00:02:45,208
 con el sol y la brisa. Cuando ya esta lista
 
 50
-00:02:45:00 --> 00:02:49:15
+00:02:45,000 --> 00:02:49,625
 uno viene, le mete la pala y si esta gruesa ya está buena para recogerla.
 
 51
-00:02:49:27 --> 00:02:54:17
+00:02:50,125 --> 00:02:54,708
 Se viene uno a recoger con el dueño de
 la charcha, se saca el agua de nuevo,
 
 52
-00:02:55:07 --> 00:02:57:23
+00:02:55,291 --> 00:02:57,958
 se pasa por la charca y se recoge la sal.
 
 53
-00:02:58:25 --> 00:03:00:29
+00:02:59,041 --> 00:03:01,208
 Y eso, pero viene de…, ¿porque se hace así?
 
 54
-00:03:01:00 --> 00:03:03:15
+00:03:01,000 --> 00:03:03,625
 Se hace así para que se seque, ¿entiendes?
 
 55
-00:03:04:24 --> 00:03:07:29
+00:03:05,000 --> 00:03:08,208
 Para que ella escurra el agua.
 
 56
-00:03:08:00 --> 00:03:09:06
+00:03:08,000 --> 00:03:09,250
 ¿Entonces uno la arregla acá y la pone así?
 
 57
-00:03:10:15 --> 00:03:12:08
+00:03:10,625 --> 00:03:12,333
 Si claro, porque uno la hace así
 
 58
-00:03:12:08 --> 00:03:16:17
+00:03:12,333 --> 00:03:16,708
 para arriba, la va amontonando para arriba y entre más arriba esté
 
 59
-00:03:17:03 --> 00:03:20:09
+00:03:17,125 --> 00:03:20,375
 más el agua baja, ¿entiendes?
 
 60
-00:03:20:10 --> 00:03:22:06
+00:03:20,416 --> 00:03:22,250
 Ah okey no sabía por qué se ponía así
 
 61
-00:03:22:15 --> 00:03:24:03
+00:03:22,625 --> 00:03:24,125
 ¿Cuánto tiempo dura así, que sería lo ideal?
 
 62
-00:03:24:03 --> 00:03:29:20
+00:03:24,125 --> 00:03:29,833
 Pues sí la charca, por ejemplo, se explota
 hoy se puede arar mañana, tiene todo el día
 
 63
-00:03:29:21 --> 00:03:33:06
+00:03:29,875 --> 00:03:33,250
 para cubrirse, ya mañana se puede embarcar
 cómo estamos haciendo ahorita
 
 64
-00:03:33:29 --> 00:03:35:28
+00:03:34,208 --> 00:03:36,166
 para los carros y se la llevan.
 
 65
-00:03:36:12 --> 00:03:38:14
+00:03:36,500 --> 00:03:38,583
 ¿Entonces luego se pone en la bolsa?
 
 66
-00:03:38:15 --> 00:03:40:28
+00:03:38,625 --> 00:03:41,166
 En la bolsa y viene el carro y embarcamos los carros.
 
 67
-00:03:42:01 --> 00:03:46:22
+00:03:42,041 --> 00:03:46,916
 ¿Cuál es su ganancia diaria a través del trabajo de la sal?
 
 68
-00:03:46:23 --> 00:03:50:17
+00:03:46,958 --> 00:03:50,708
 Pues aquí dependiendo de los carros.
 
 69
-00:03:51:07 --> 00:03:53:20
+00:03:51,291 --> 00:03:53,833
 Si, por ejemplo, si llenamos solo un carro
 
 70
-00:03:53:21 --> 00:03:56:04
+00:03:53,875 --> 00:03:56,166
 entre diez personas,
 
 71
-00:03:56:22 --> 00:03:59:14
+00:03:56,916 --> 00:03:59,583
 pongámosle $14.000 o $10.000 entre todos,
 
 72
-00:04:00:27 --> 00:04:03:23
+00:04:01,125 --> 00:04:03,958
 si la sal es de nosotros, que la exportamos nosotros,
 
 73
-00:04:04:04 --> 00:04:07:13
+00:04:04,166 --> 00:04:07,541
 pues ya vienen quedando como $30.000
 a cada uno, diario,
 
 74
-00:04:08:26 --> 00:04:12:05
+00:04:09,083 --> 00:04:12,208
 si tenemos más sal y llegan dos carros, tres carros,
 
 75
-00:04:12:06 --> 00:04:17:17
+00:04:12,250 --> 00:04:17,708
 nos quedan $60.000, $80.000, dependiendo los carros,
 
 76
-00:04:18:06 --> 00:04:23:10
+00:04:18,250 --> 00:04:23,416
 porque aquí si no llega carro tampoco hay,
 no hay producción de nada.
 
 77
-00:04:23:11 --> 00:04:26:13
+00:04:23,458 --> 00:04:26,541
 ¿Quiénes son (los) de los carros?
 
 78
-00:04:26:14 --> 00:04:30:01
+00:04:26,583 --> 00:04:30,041
 Pues lo dueños de las charcas son lo que mandan los carros,
 
 79
-00:04:30:21 --> 00:04:33:29
+00:04:30,875 --> 00:04:34,208
 dicen vayan a tal parte que allá hay un carro
 
 80
-00:04:34:00 --> 00:04:35:19
+00:04:34,000 --> 00:04:35,791
 y uno lo carga.
 
 81
-00:04:36:00 --> 00:04:39:13
+00:04:36,000 --> 00:04:39,541
 porque uno aquí tiene la sal,
 pero si ellos no llegan tampoco tenemos
 
 82
-00:04:40:08 --> 00:04:44:15
+00:04:40,333 --> 00:04:44,625
 nada.
 
 83
-00:04:44:16 --> 00:04:46:29
+00:04:44,666 --> 00:04:47,208
 ¿Qué conocimiento tienes de la sal, para que se usa?
 
 84
-00:04:47:00 --> 00:04:50:19
+00:04:47,000 --> 00:04:50,791
 Pues la sal se usa para muchas cosas, para el ganado, para comer,
 
 85
-00:04:51:24 --> 00:04:54:08
+00:04:52,000 --> 00:04:54,333
 para muchas cosas que uno…
 
 86
-00:04:55:26 --> 00:04:57:17
+00:04:56,083 --> 00:04:57,708
 La sal es muy importante
 
 87
-00:04:57:25 --> 00:05:00:12
+00:04:58,041 --> 00:05:00,500
 porque si no es por la sal tampoco se puede,
 
 88
-00:05:00:21 --> 00:05:05:17
+00:05:00,875 --> 00:05:05,708
 no se puede hacer un arrocito, no se puede hacer algo porque la sal es irremplazable.
 
 89
-00:05:06:24 --> 00:05:07:19
+00:05:07,000 --> 00:05:07,791
 ¿Base de la vida?
 
 90
-00:05:07:20 --> 00:05:10:27
+00:05:07,833 --> 00:05:11,125
 Sí, una base que... por ejemplo usted,
 
 91
-00:05:12:01 --> 00:05:14:03
+00:05:12,041 --> 00:05:14,125
 el azúcar, va a hacer un juguito
 
 92
-00:05:14:04 --> 00:05:17:07
+00:05:14,166 --> 00:05:17,291
 le pone una panelita o algo, pero la sal no,
 
 93
-00:05:19:02 --> 00:05:20:02
+00:05:19,083 --> 00:05:20,083
 un arroz no se puede sazonar, no se le puede echar panela,
 
 94
-00:05:20:02 --> 00:05:22:01
+00:05:20,083 --> 00:05:22,041
 no se le puede echar nada.
 
 95
-00:05:22:05 --> 00:05:25:18
+00:05:22,208 --> 00:05:25,750
 Entonces este es un punto
 que es importante para nosotros acá en Manaure.
 
 96
-00:05:25:19 --> 00:05:29:17
+00:05:25,791 --> 00:05:29,708
 Yo no soy de acá, pero es importante
 porque de aquí es que saco la comida
 
 97
-00:05:31:11 --> 00:05:33:20
+00:05:31,458 --> 00:05:33,833
 diario todos los días
 
 98
-00:05:33:21 --> 00:05:37:14
+00:05:33,875 --> 00:05:37,583
 De cuatro de la mañana a veces a las tres,
 dependiendo los carros,
 
 99
-00:05:37:15 --> 00:05:41:28
+00:05:37,625 --> 00:05:42,166
 si llegan temprano a las cinco de la mañana o llegan a las tres,
 a esa hora hay que pararse
 
 100
-00:05:41:29 --> 00:05:43:14
+00:05:42,208 --> 00:05:43,583
 a empacar la sal
 
 101
-00:05:44:27 --> 00:05:47:06
+00:05:45,125 --> 00:05:47,250
 ¿y hasta las diez?
 
 102
-00:05:47:07 --> 00:05:50:10
+00:05:47,291 --> 00:05:50,416
 Hasta las diez de la mañana y a veces se demoran a veces hasta las once,
 
 103
-00:05:50:25 --> 00:05:54:08
+00:05:51,041 --> 00:05:54,333
 a veces hasta el mediodía a más tardar,
 porque es que ellos van y viene ahí a
 
 104
-00:05:54:15 --> 00:05:54:22
+00:05:54,625 --> 00:05:54,916
 Uribia,
 
 105
-00:05:55:28 --> 00:05:58:08
+00:05:56,166 --> 00:05:58,333
 entonces la demora es esa, que vengan hacia acá.
 
 106
-00:05:59:17 --> 00:06:03:20
+00:05:59,708 --> 00:06:03,833
 ¿Tiene que ver también con el sol,
 que está muy, muy fuerte?
 
 107
-00:06:03:21 --> 00:06:07:26
+00:06:03,875 --> 00:06:08,083
 Si a nosotros nos afecta mucho
 cuando llega esta hora de once
 
 108
-00:06:08:12 --> 00:06:11:28
+00:06:08,500 --> 00:06:12,166
 y parquea un carro, a veces hasta uno vomita,
 
 109
-00:06:12:11 --> 00:06:14:25
+00:06:12,458 --> 00:06:15,041
 se desmaya por mucho, mucho sol.
 
 110
-00:06:15:25 --> 00:06:17:26
+00:06:16,041 --> 00:06:18,083
 Pero uno sabe, eso uno lo hace por…
 
 111
-00:06:17:27 --> 00:06:20:16
+00:06:18,125 --> 00:06:20,666
 porque uno tiene que mandar obligado, porque
 
 112
-00:06:21:17 --> 00:06:24:26
+00:06:21,708 --> 00:06:25,083
 la comida sale de ahí.

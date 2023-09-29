@@ -1,4281 +1,4281 @@
 1
-00:00:02:15 --> 00:00:05:15
+00:00:02,625 --> 00:00:05,625
 Good.
 
 2
-00:00:05:17 --> 00:00:07:01
+00:00:05,708 --> 00:00:07,041
 Well,
 
 3
-00:00:07:01 --> 00:00:10:01
+00:00:07,041 --> 00:00:10,041
 first of all, if you could tell us.
 
 4
-00:00:11:09 --> 00:00:12:15
+00:00:11,375 --> 00:00:12,625
 If you could
 
 5
-00:00:12:15 --> 00:00:13:19
+00:00:12,625 --> 00:00:13,791
 Introduce yourself?
 
 6
-00:00:13:19 --> 00:00:14:13
+00:00:13,791 --> 00:00:14,541
 Yeah.
 
 7
-00:00:14:13 --> 00:00:17:22
+00:00:14,541 --> 00:00:17,916
 Well, my name is Weilder Guerra Curbelo,
 
 8
-00:00:17:22 --> 00:00:21:06
+00:00:17,916 --> 00:00:21,250
 I am an anthropologist from Universidad de Los Andes.
 
 9
-00:00:21:06 --> 00:00:23:18
+00:00:21,250 --> 00:00:23,750
 I am a member of the Wayuú people
 
 10
-00:00:23:18 --> 00:00:26:10
+00:00:23,750 --> 00:00:26,416
 and I have dedicated part of my academic life to studying
 
 11
-00:00:26:10 --> 00:00:29:10
+00:00:26,416 --> 00:00:29,416
 Their history and their society.
 
 12
-00:00:29:14 --> 00:00:30:08
+00:00:29,583 --> 00:00:30,333
 Very good.
 
 13
-00:00:30:08 --> 00:00:33:08
+00:00:30,333 --> 00:00:33,333
 And
 
 14
-00:00:33:08 --> 00:00:35:04
+00:00:33,333 --> 00:00:35,166
 well, first of all, for someone
 
 15
-00:00:35:04 --> 00:00:37:02
+00:00:35,166 --> 00:00:37,083
 who knows nothing about Wayuú people,
 
 16
-00:00:37:02 --> 00:00:40:02
+00:00:37,083 --> 00:00:40,083
 who are they and where are they located?
 
 17
-00:00:40:13 --> 00:00:41:23
+00:00:40,541 --> 00:00:42,000
 They are indigenous people
 
 18
-00:00:41:23 --> 00:00:45:11
+00:00:42,000 --> 00:00:45,500
 located at the north of South America, on the peninsula “La Güajira”
 
 19
-00:00:45:11 --> 00:00:48:11
+00:00:45,500 --> 00:00:48,500
 shared by Colombia and Venezuela.
 
 20
-00:00:48:21 --> 00:00:51:15
+00:00:48,916 --> 00:00:51,666
 They are the largest town in Colombia
 
 21
-00:00:51:15 --> 00:00:54:11
+00:00:51,666 --> 00:00:54,500
 and the largest indigenous people in Venezuela.
 
 22
-00:00:54:11 --> 00:00:57:20
+00:00:54,500 --> 00:00:57,875
 Their language is Wayuúnaiki and there’s an estimate of
 
 23
-00:00:57:20 --> 00:01:00:23
+00:00:57,875 --> 00:01:01,000
 some 800,000 of these individuals in both countries.
 
 24
-00:01:01:22 --> 00:01:04:14
+00:01:01,958 --> 00:01:04,625
 Ok. And
 
 25
-00:01:06:11 --> 00:01:07:03
+00:01:06,500 --> 00:01:07,166
 well,
 
 26
-00:01:07:03 --> 00:01:10:10
+00:01:07,166 --> 00:01:10,458
 and right now where are we?
 
 27
-00:01:10:13 --> 00:01:12:00
+00:01:10,583 --> 00:01:12,041
 We are
 
 28
-00:01:12:00 --> 00:01:12:17
+00:01:12,041 --> 00:01:12,750
 In Riohacha,
 
 29
-00:01:12:17 --> 00:01:14:14
+00:01:12,750 --> 00:01:14,625
 capital of the department La Güajira,
 
 30
-00:01:14:14 --> 00:01:16:23
+00:01:14,625 --> 00:01:17,000
 in the Colombian Republic.
 
 31
-00:01:16:23 --> 00:01:18:00
+00:01:17,000 --> 00:01:18,041
 Very good.
 
 32
-00:01:18:00 --> 00:01:20:02
+00:01:18,041 --> 00:01:20,125
 And
 
 33
-00:01:20:02 --> 00:01:23:02
+00:01:20,125 --> 00:01:23,125
 well, for many years you have been
 
 34
-00:01:23:02 --> 00:01:26:02
+00:01:23,125 --> 00:01:26,166
 working with the Wayúu and you are Wayúu as well.
 
 35
-00:01:26:12 --> 00:01:29:15
+00:01:26,583 --> 00:01:29,708
 Can you tell me a little about your family and your work?
 
 36
-00:01:30:09 --> 00:01:33:21
+00:01:30,458 --> 00:01:33,958
 Well, my family is originally from a pearl fishing
 
 37
-00:01:33:21 --> 00:01:35:02
+00:01:33,958 --> 00:01:35,166
 region,
 
 38
-00:01:35:02 --> 00:01:38:04
+00:01:35,166 --> 00:01:38,250
 near El Cabo de la Vela, which is called Carrizal
 
 39
-00:01:38:21 --> 00:01:41:18
+00:01:38,958 --> 00:01:41,833
 and our territory is called Manuyalu'u
 
 40
-00:01:41:18 --> 00:01:45:21
+00:01:41,833 --> 00:01:45,958
 which is a territory inhabited by my ancestors
 
 41
-00:01:46:09 --> 00:01:49:09
+00:01:46,458 --> 00:01:49,458
 since the end of the 19th century.
 
 42
-00:01:49:19 --> 00:01:52:19
+00:01:49,875 --> 00:01:52,875
 Okay.
 
 43
-00:01:54:12 --> 00:01:55:07
+00:01:54,583 --> 00:01:55,375
 And the work
 
 44
-00:01:55:07 --> 00:01:59:19
+00:01:55,375 --> 00:01:59,875
 that you have done, more than anything you are a teacher, but also
 
 45
-00:02:00:01 --> 00:02:02:21
+00:02:00,125 --> 00:02:02,958
 Have you done other things, other professions?
 
 46
-00:02:02:21 --> 00:02:05:21
+00:02:02,958 --> 00:02:06,000
 Yes, I have served as a public official
 
 47
-00:02:06:08 --> 00:02:08:01
+00:02:06,458 --> 00:02:08,166
 at least on two occasions,
 
 48
-00:02:08:01 --> 00:02:10:12
+00:02:08,166 --> 00:02:10,625
 as Secretary of Indigenous Affairs,
 
 49
-00:02:10:12 --> 00:02:13:09
+00:02:10,625 --> 00:02:13,500
 as governor in charge of La Güajira,
 
 50
-00:02:13:09 --> 00:02:16:14
+00:02:13,500 --> 00:02:16,708
 as director of the Colombian Caribbean Observatory,
 
 51
-00:02:16:14 --> 00:02:19:01
+00:02:16,708 --> 00:02:19,166
 what is a research center
 
 52
-00:02:19:01 --> 00:02:22:01
+00:02:19,166 --> 00:02:22,166
 and as manager of the Colombian Central Bank
 
 53
-00:02:22:03 --> 00:02:24:05
+00:02:22,250 --> 00:02:24,333
 in the “San Andrés” archipelago
 
 54
-00:02:24:05 --> 00:02:25:20
+00:02:24,333 --> 00:02:25,958
 and in the La Güajira department.
 
 55
-00:02:27:11 --> 00:02:29:01
+00:02:27,583 --> 00:02:29,166
 And
 
 56
-00:02:29:01 --> 00:02:31:15
+00:02:29,166 --> 00:02:31,750
 well, as we have been talking
 
 57
-00:02:31:15 --> 00:02:34:23
+00:02:31,750 --> 00:02:35,083
 the other day about the Wayuú’s ontology
 
 58
-00:02:35:15 --> 00:02:38:01
+00:02:35,750 --> 00:02:38,166
 and nature
 
 59
-00:02:38:01 --> 00:02:41:02
+00:02:38,166 --> 00:02:41,208
 of the earth, what relationship does it have?
 
 60
-00:02:41:04 --> 00:02:43:02
+00:02:41,291 --> 00:02:43,208
 I mean, we know it's no different,
 
 61
-00:02:43:02 --> 00:02:44:16
+00:02:43,208 --> 00:02:44,791
 but explain that to me.
 
 62
-00:02:44:16 --> 00:02:47:13
+00:02:44,791 --> 00:02:47,708
 well, the Wayuú have an ontological conception
 
 63
-00:02:47:13 --> 00:02:51:02
+00:02:47,708 --> 00:02:51,250
 in which we must first understand the notion of time,
 
 64
-00:02:51:21 --> 00:02:52:20
+00:02:52,041 --> 00:02:53,000
 they have a notion of time
 
 65
-00:02:52:20 --> 00:02:55:21
+00:02:53,000 --> 00:02:56,041
 in which the substance of all life was humanity,
 
 66
-00:02:56:15 --> 00:02:58:21
+00:02:56,791 --> 00:02:59,041
 the stars were human, the wind,
 
 67
-00:02:58:21 --> 00:03:01:21
+00:02:59,041 --> 00:03:02,041
 the current hills, the animals,
 
 68
-00:03:02:23 --> 00:03:04:07
+00:03:03,125 --> 00:03:04,458
 the plants.
 
 69
-00:03:04:07 --> 00:03:07:14
+00:03:04,458 --> 00:03:07,750
 All these beings were human, there were social institutions
 
 70
-00:03:08:01 --> 00:03:10:15
+00:03:08,208 --> 00:03:10,791
 and they communicated throughout human language.
 
 71
-00:03:10:15 --> 00:03:14:03
+00:03:10,791 --> 00:03:14,291
 There was already kinship, agriculture, weaving, music,
 
 72
-00:03:14:03 --> 00:03:17:21
+00:03:14,291 --> 00:03:18,041
 war, all human institutions and practices.
 
 73
-00:03:17:21 --> 00:03:20:17
+00:03:18,041 --> 00:03:20,875
 But the world was undifferentiated,
 
 74
-00:03:20:17 --> 00:03:23:17
+00:03:20,875 --> 00:03:23,875
 It had only one form, one substance.
 
 75
-00:03:23:18 --> 00:03:26:12
+00:03:23,916 --> 00:03:26,666
 Then comes a transformative
 
 76
-00:03:26:12 --> 00:03:30:18
+00:03:26,666 --> 00:03:30,958
 time, several events shape the universe
 
 77
-00:03:31:05 --> 00:03:33:23
+00:03:31,416 --> 00:03:34,166
 and all beings begin to change.
 
 78
-00:03:33:23 --> 00:03:36:22
+00:03:34,166 --> 00:03:37,125
 Many humans become hills,
 
 79
-00:03:36:22 --> 00:03:39:22
+00:03:37,125 --> 00:03:40,125
 others become plants, others become animals.
 
 80
-00:03:40:14 --> 00:03:41:15
+00:03:40,791 --> 00:03:41,833
 And in general,
 
 81
-00:03:41:15 --> 00:03:45:02
+00:03:41,833 --> 00:03:45,291
 The only non-transformed beings are current humans.
 
 82
-00:03:45:20 --> 00:03:48:13
+00:03:46,041 --> 00:03:48,750
 This morphological differentiation
 
 83
-00:03:48:13 --> 00:03:51:08
+00:03:48,750 --> 00:03:51,541
 allows us to move into the current world.
 
 84
-00:03:51:08 --> 00:03:54:22
+00:03:51,541 --> 00:03:55,125
 However, those beings that today have a different form,
 
 85
-00:03:54:22 --> 00:03:57:22
+00:03:55,125 --> 00:03:58,125
 a different taxation,
 
 86
-00:03:58:01 --> 00:04:00:16
+00:03:58,250 --> 00:04:00,875
 They retain a residual humanity
 
 87
-00:04:00:16 --> 00:04:02:18
+00:04:00,875 --> 00:04:02,958
 and a point of view on the universe,
 
 88
-00:04:02:18 --> 00:04:05:09
+00:04:02,958 --> 00:04:05,583
 because they were human in the past,
 
 89
-00:04:05:09 --> 00:04:08:12
+00:04:05,583 --> 00:04:08,708
 then they are fallen humans or ex-humans.
 
 90
-00:04:09:05 --> 00:04:11:12
+00:04:09,416 --> 00:04:11,750
 So they have a voice
 
 91
-00:04:11:12 --> 00:04:14:12
+00:04:11,750 --> 00:04:14,750
 or do they have a story to tell?
 
 92
-00:04:14:13 --> 00:04:15:23
+00:04:14,791 --> 00:04:16,208
 They have a story to tell,
 
 93
-00:04:15:23 --> 00:04:18:23
+00:04:16,208 --> 00:04:19,208
 but they no longer have human language to communicate.
 
 94
-00:04:19:11 --> 00:04:21:15
+00:04:19,708 --> 00:04:21,875
 They have a desire to show themselves in the world,
 
 95
-00:04:21:15 --> 00:04:24:11
+00:04:21,875 --> 00:04:24,708
 plants through flowering,
 
 96
-00:04:24:11 --> 00:04:27:19
+00:04:24,708 --> 00:04:28,041
 of fruiting, of expanding its leaves,
 
 97
-00:04:28:03 --> 00:04:31:05
+00:04:28,375 --> 00:04:31,458
 animals to act as such, to behave.
 
 98
-00:04:32:09 --> 00:04:33:06
+00:04:32,625 --> 00:04:33,500
 and to them
 
 99
-00:04:33:06 --> 00:04:35:16
+00:04:33,500 --> 00:04:35,916
 we owe them the transmission of knowledge,
 
 100
-00:04:35:16 --> 00:04:37:00
+00:04:35,916 --> 00:04:37,250
 to plants and humans
 
 101
-00:04:37:00 --> 00:04:40:04
+00:04:37,250 --> 00:04:40,416
 weaving, agriculture, war,
 
 102
-00:04:40:15 --> 00:04:43:14
+00:04:40,875 --> 00:04:43,833
 justice, rules.
 
 103
-00:04:43:17 --> 00:04:46:19
+00:04:43,958 --> 00:04:47,041
 Everything depends on those mythological beings,
 
 104
-00:04:47:06 --> 00:04:50:09
+00:04:47,500 --> 00:04:50,625
 that live in the current world, but in the past
 
 105
-00:04:50:19 --> 00:04:53:22
+00:04:51,041 --> 00:04:54,208
 They were and continue to be our cosmic relatives.
 
 106
-00:04:54:11 --> 00:04:57:11
+00:04:54,750 --> 00:04:57,750
 So can you talk a bit about that relationship that the Wayúu has
 
 107
-00:04:58:08 --> 00:05:01:08
+00:04:58,625 --> 00:05:01,625
 with their own
 
 108
-00:05:02:02 --> 00:05:02:22
+00:05:02,375 --> 00:05:03,208
 elements
 
 109
-00:05:02:22 --> 00:05:05:01
+00:05:03,208 --> 00:05:05,333
 and characters.
 
 110
-00:05:05:01 --> 00:05:07:08
+00:05:05,333 --> 00:05:07,625
 How in referential time
 
 111
-00:05:07:08 --> 00:05:10:08
+00:05:07,625 --> 00:05:10,625
 called wayúu Sumaiwa (old) or wayuú Jumaiwa (old),
 
 112
-00:05:11:01 --> 00:05:13:15
+00:05:11,333 --> 00:05:13,916
 They were humans, they had clans,
 
 113
-00:05:13:15 --> 00:05:16:12
+00:05:13,916 --> 00:05:16,791
 Therefore, today they also have clans.
 
 114
-00:05:16:12 --> 00:05:21:05
+00:05:16,791 --> 00:05:21,500
 So the jaguar, the cat, the wild pig,
 
 115
-00:05:22:00 --> 00:05:25:00
+00:05:22,291 --> 00:05:25,291
 certain birds, certain bees
 
 116
-00:05:25:16 --> 00:05:27:14
+00:05:25,958 --> 00:05:27,875
 They have clans because they had them
 
 117
-00:05:27:14 --> 00:05:30:14
+00:05:27,875 --> 00:05:30,875
 in the past, therefore they are still related.
 
 118
-00:05:31:04 --> 00:05:34:18
+00:05:31,458 --> 00:05:35,083
 These clans not only refer to that time,
 
 119
-00:05:34:18 --> 00:05:36:21
+00:05:35,083 --> 00:05:37,208
 but social attributes
 
 120
-00:05:36:21 --> 00:05:40:03
+00:05:37,208 --> 00:05:40,458
 like being numerous, being brave, being cunning,
 
 121
-00:05:40:13 --> 00:05:43:22
+00:05:40,875 --> 00:05:44,250
 be meek, be hardworking, be united.
 
 122
-00:05:44:06 --> 00:05:46:17
+00:05:44,583 --> 00:05:47,041
 All those social attributes
 
 123
-00:05:46:17 --> 00:05:48:16
+00:05:47,041 --> 00:05:49,000
 are shared by humans and animals
 
 124
-00:05:48:16 --> 00:05:52:02
+00:05:49,000 --> 00:05:52,416
 and it's a way of somehow organizing the world,
 
 125
-00:05:52:14 --> 00:05:55:15
+00:05:52,916 --> 00:05:55,958
 but through a metonymic vision of the world,
 
 126
-00:05:56:02 --> 00:05:58:18
+00:05:56,416 --> 00:05:59,083
 which is the sharing of social attributes.
 
 127
-00:06:00:09 --> 00:06:02:18
+00:06:00,708 --> 00:06:03,083
 We're going to talk more about that in a bit,
 
 128
-00:06:02:18 --> 00:06:03:19
+00:06:03,083 --> 00:06:04,125
 but I also wanted
 
 129
-00:06:03:19 --> 00:06:07:23
+00:06:04,125 --> 00:06:08,291
 ask about the history of the people, that is
 
 130
-00:06:08:06 --> 00:06:11:12
+00:06:08,583 --> 00:06:11,833
 because I know that they were not colonized, they are the
 
 131
-00:06:11:13 --> 00:06:14:18
+00:06:11,875 --> 00:06:15,125
 only non-colonized people or nation.
 
 132
-00:06:15:11 --> 00:06:16:22
+00:06:15,833 --> 00:06:17,291
 Yes, Wayuú are people that,
 
 133
-00:06:16:22 --> 00:06:19:22
+00:06:17,291 --> 00:06:20,291
 They are a maritime people from the Caribbean
 
 134
-00:06:20:03 --> 00:06:23:00
+00:06:20,500 --> 00:06:23,375
 That adopted cattle in the 16th century
 
 135
-00:06:23:00 --> 00:06:26:13
+00:06:23,375 --> 00:06:26,916
 They transition to pastoralism,
 
 136
-00:06:27:01 --> 00:06:28:05
+00:06:27,416 --> 00:06:28,583
 from being hunters,
 
 137
-00:06:28:05 --> 00:06:31:14
+00:06:28,583 --> 00:06:31,958
 fishermen, horticulturists, fruit collectors.
 
 138
-00:06:32:00 --> 00:06:35:16
+00:06:32,375 --> 00:06:36,041
 This whole set of groups that today we call Wayuú
 
 139
-00:06:36:06 --> 00:06:39:15
+00:06:36,625 --> 00:06:40,000
 They adopted cattle as a way of life
 
 140
-00:06:39:15 --> 00:06:42:20
+00:06:40,000 --> 00:06:43,208
 and they took horses, donkeys, cows,
 
 141
-00:06:42:20 --> 00:06:46:14
+00:06:43,208 --> 00:06:46,958
 goats and sheep and made a transition to pastoralism.
 
 142
-00:06:46:14 --> 00:06:48:17
+00:06:46,958 --> 00:06:49,083
 A large part of the population,
 
 143
-00:06:48:17 --> 00:06:51:19
+00:06:49,083 --> 00:06:52,166
 a part of that population on the coast
 
 144
-00:06:52:07 --> 00:06:55:18
+00:06:52,666 --> 00:06:56,125
 were dedicated to fishing and therefore also
 
 145
-00:06:55:18 --> 00:07:00:06
+00:06:56,125 --> 00:07:00,666
 They appropriated navigation techniques, engines, fishing nets
 
 146
-00:07:00:18 --> 00:07:03:07
+00:07:01,166 --> 00:07:03,708
 who were from the Western culture and so too
 
 147
-00:07:03:07 --> 00:07:06:13
+00:07:03,708 --> 00:07:06,958
 They strengthened their economic activities on the coast,
 
 148
-00:07:06:23 --> 00:07:10:12
+00:07:07,375 --> 00:07:10,916
 but they also crossed empires, they went to Jamaica,
 
 149
-00:07:10:22 --> 00:07:13:00
+00:07:11,333 --> 00:07:13,416
 They went to the French keys,
 
 150
-00:07:13:00 --> 00:07:16:00
+00:07:13,416 --> 00:07:16,416
 Traveled to the Dutch possessions of Aruba,
 
 151
-00:07:16:06 --> 00:07:18:05
+00:07:16,666 --> 00:07:18,625
 Curaçao, Bonaire,
 
 152
-00:07:18:05 --> 00:07:21:04
+00:07:18,625 --> 00:07:21,583
 throughout the Dutch Caribbean and other Caribbean ports.
 
 153
-00:07:21:12 --> 00:07:23:05
+00:07:21,916 --> 00:07:23,625
 This allowed them
 
 154
-00:07:23:05 --> 00:07:26:18
+00:07:23,625 --> 00:07:27,166
 cross several empires and have an open mind,
 
 155
-00:07:27:02 --> 00:07:31:09
+00:07:27,500 --> 00:07:31,791
 conceive maps of the world, a very extensive geography,
 
 156
-00:07:31:09 --> 00:07:32:17
+00:07:31,791 --> 00:07:33,125
 very wide,
 
 157
-00:07:32:17 --> 00:07:36:01
+00:07:33,125 --> 00:07:36,458
 and see the world beyond the jurisdiction of
 
 158
-00:07:36:01 --> 00:07:37:07
+00:07:36,458 --> 00:07:37,708
 the Spanish monarchy.
 
 159
-00:07:38:07 --> 00:07:41:07
+00:07:38,750 --> 00:07:41,750
 That is why they are trans-imperial historical subjects.
 
 160
-00:07:41:15 --> 00:07:44:03
+00:07:42,083 --> 00:07:44,583
 When they arrive to the Colombian Republic
 
 161
-00:07:44:03 --> 00:07:46:14
+00:07:44,583 --> 00:07:47,041
 These ties were cut
 
 162
-00:07:46:14 --> 00:07:47:03
+00:07:47,041 --> 00:07:47,583
 and the wayuú
 
 163
-00:07:47:03 --> 00:07:50:20
+00:07:47,583 --> 00:07:51,291
 were trapped in their peninsula, circumscribed
 
 164
-00:07:51:05 --> 00:07:54:05
+00:07:51,666 --> 00:07:54,666
 to the jurisdiction of the Republic of Colombia.
 
 165
-00:07:56:02 --> 00:07:56:19
+00:07:56,541 --> 00:07:57,250
 Interesting.
 
 166
-00:07:56:19 --> 00:07:59:20
+00:07:57,250 --> 00:08:00,291
 And before that, I think I had also read that never
 
 167
-00:07:59:20 --> 00:08:02:22
+00:08:00,291 --> 00:08:03,375
 were conquered or colonized.
 The Wayuú were not
 
 168
-00:08:02:22 --> 00:08:03:22
+00:08:03,375 --> 00:08:04,375
 subjugated,
 
 169
-00:08:03:22 --> 00:08:06:23
+00:08:04,375 --> 00:08:07,416
 They always rebelled against any form
 
 170
-00:08:06:23 --> 00:08:10:00
+00:08:07,416 --> 00:08:10,458
 Of limitation to their political autonomy.
 
 171
-00:08:10:12 --> 00:08:14:09
+00:08:10,958 --> 00:08:14,833
 To give an example, in 1769
 
 172
-00:08:15:11 --> 00:08:18:11
+00:08:15,916 --> 00:08:18,916
 They revolted against the Spanish crown on May 2
 
 173
-00:08:18:19 --> 00:08:21:19
+00:08:19,250 --> 00:08:22,291
 and in a war that lasted more than four years,
 
 174
-00:08:21:20 --> 00:08:23:10
+00:08:22,333 --> 00:08:23,916
 They burned many Spaniards villages,
 
 175
-00:08:23:10 --> 00:08:27:12
+00:08:23,916 --> 00:08:28,000
 defeated the Spanish military forces,
 
 176
-00:08:27:23 --> 00:08:30:23
+00:08:28,458 --> 00:08:31,458
 They killed missionaries, they destroyed churches
 
 177
-00:08:31:07 --> 00:08:34:16
+00:08:31,791 --> 00:08:35,166
 and that is known as the May 69 uprising.
 
 178
-00:08:35:07 --> 00:08:37:16
+00:08:35,791 --> 00:08:38,166
 In 1752
 
 179
-00:08:37:16 --> 00:08:38:09
+00:08:38,166 --> 00:08:38,875
 they had done
 
 180
-00:08:38:09 --> 00:08:39:09
+00:08:38,875 --> 00:08:39,875
 formal agreements
 
 181
-00:08:39:09 --> 00:08:40:19
+00:08:39,875 --> 00:08:41,291
 with the Republic of Holland
 
 182
-00:08:40:19 --> 00:08:42:20
+00:08:41,291 --> 00:08:43,333
 to protect Dutch trade
 
 183
-00:08:42:20 --> 00:08:45:23
+00:08:43,333 --> 00:08:46,458
 In the güajiro ports, they were historical subjects
 
 184
-00:08:46:14 --> 00:08:49:14
+00:08:47,083 --> 00:08:50,083
 collectives, capable of protecting their territory.
 
 185
-00:08:49:21 --> 00:08:52:21
+00:08:50,375 --> 00:08:53,375
 So, this people have been a people that has
 
 186
-00:08:53:01 --> 00:08:55:06
+00:08:53,541 --> 00:08:55,750
 resisted those forms of external domination
 
 187
-00:08:57:12 --> 00:09:01:07
+00:08:58,000 --> 00:09:01,833
 Today it has two republics that control its territory
 
 188
-00:09:01:07 --> 00:09:04:10
+00:09:01,833 --> 00:09:04,958
 and they divided it, which are Venezuela and Colombia.
 
 189
-00:09:07:08 --> 00:09:10:04
+00:09:07,875 --> 00:09:10,708
 And
 
 190
-00:09:10:04 --> 00:09:13:04
+00:09:10,708 --> 00:09:13,708
 following that, that is, as
 
 191
-00:09:15:05 --> 00:09:16:13
+00:09:15,750 --> 00:09:17,083
 nan
 
 192
-00:09:16:13 --> 00:09:20:05
+00:09:17,083 --> 00:09:20,750
 well, can you tell me a little about your justice system?
 
 193
-00:09:20:08 --> 00:09:23:00
+00:09:20,875 --> 00:09:23,541
 with the palabrero.
 
 194
-00:09:23:00 --> 00:09:25:01
+00:09:23,541 --> 00:09:25,583
 The Wayúu have a justice system
 
 195
-00:09:25:01 --> 00:09:27:01
+00:09:25,583 --> 00:09:27,583
 based on rhetoric
 
 196
-00:09:27:01 --> 00:09:30:01
+00:09:27,583 --> 00:09:30,583
 and in persuasion and compensation.
 
 197
-00:09:30:15 --> 00:09:34:17
+00:09:31,166 --> 00:09:35,250
 Any physical offense, any aggression or any moral affront
 
 198
-00:09:35:03 --> 00:09:37:19
+00:09:35,666 --> 00:09:38,333
 that one person causes another, voluntary
 
 199
-00:09:37:19 --> 00:09:40:19
+00:09:38,333 --> 00:09:41,333
 or involuntarily, must be compensated.
 
 200
-00:09:41:01 --> 00:09:43:22
+00:09:41,583 --> 00:09:44,500
 This compensation is not requested directly,
 
 201
-00:09:43:22 --> 00:09:46:22
+00:09:44,500 --> 00:09:47,500
 but through specialists, called Pütchipü
 
 202
-00:09:47:03 --> 00:09:49:21
+00:09:47,708 --> 00:09:50,458
 or palabrero, and the compensation
 
 203
-00:09:49:21 --> 00:09:51:08
+00:09:50,458 --> 00:09:51,916
 is not delivered to the victim,
 
 204
-00:09:51:08 --> 00:09:53:15
+00:09:51,916 --> 00:09:54,208
 but to the relatives of the victim.
 
 205
-00:09:53:15 --> 00:09:56:13
+00:09:54,208 --> 00:09:57,125
 This norm is called sukuaipa wayuu, which means
 
 206
-00:09:56:13 --> 00:09:59:13
+00:09:57,125 --> 00:10:00,125
 the güajiro way of doing things,
 
 207
-00:09:59:14 --> 00:10:02:13
+00:10:00,166 --> 00:10:03,125
 and these elements that are given are cattle,
 
 208
-00:10:02:13 --> 00:10:05:13
+00:10:03,125 --> 00:10:06,125
 necklaces, animals, and weapons.
 
 209
-00:10:05:15 --> 00:10:06:23
+00:10:06,208 --> 00:10:07,541
 Lately money,
 
 210
-00:10:06:23 --> 00:10:09:01
+00:10:07,541 --> 00:10:09,625
 but money was not in the tradition
 
 211
-00:10:09:01 --> 00:10:12:05
+00:10:09,625 --> 00:10:12,791
 Where money is involved, it goes like cattle or like a necklace.
 
 212
-00:10:13:01 --> 00:10:16:01
+00:10:13,625 --> 00:10:16,625
 Did they use barter a lot?
 
 213
-00:10:16:01 --> 00:10:17:15
+00:10:16,625 --> 00:10:18,208
 They exchanged things
 
 214
-00:10:17:15 --> 00:10:21:07
+00:10:18,208 --> 00:10:21,875
 but also the money, because the Wayúu first
 
 215
-00:10:21:19 --> 00:10:24:22
+00:10:22,375 --> 00:10:25,541
 They exported pearls, they exchanged pearls for weapons,
 
 216
-00:10:24:22 --> 00:10:27:22
+00:10:25,541 --> 00:10:28,541
 for food, for fabric, for metal objects,
 
 217
-00:10:28:03 --> 00:10:29:12
+00:10:28,750 --> 00:10:30,125
 Brazilwood,
 
 218
-00:10:29:12 --> 00:10:33:08
+00:10:30,125 --> 00:10:33,958
 cowhide, cattle with the English, a lot of cattle
 
 219
-00:10:34:10 --> 00:10:37:02
+00:10:35,041 --> 00:10:37,708
 divi-divi, and other elements,
 
 220
-00:10:37:02 --> 00:10:40:04
+00:10:37,708 --> 00:10:40,791
 all this until the 19th and early 20th centuries.
 
 221
-00:10:41:07 --> 00:10:44:07
+00:10:41,916 --> 00:10:44,916
 And you told me that your family
 
 222
-00:10:44:10 --> 00:10:47:04
+00:10:45,041 --> 00:10:47,791
 did they start with that pearl collecting?
 
 223
-00:10:47:04 --> 00:10:49:03
+00:10:47,791 --> 00:10:49,750
 Is that still going on?
 No.
 
 224
-00:10:49:03 --> 00:10:52:04
+00:10:49,750 --> 00:10:52,791
 Pearls were very important in life in La Güajira
 
 225
-00:10:52:14 --> 00:10:56:21
+00:10:53,208 --> 00:10:57,500
 in the 16th, 17th, 18th, 19th and early 20th centuries,
 
 226
-00:10:57:06 --> 00:11:00:11
+00:10:57,875 --> 00:11:01,083
 but the Japanese introduced pearl farming,
 
 227
-00:11:00:19 --> 00:11:03:19
+00:11:01,416 --> 00:11:04,416
 with which the pearl dived,
 
 228
-00:11:04:13 --> 00:11:07:05
+00:11:05,166 --> 00:11:07,875
 which was already more difficult to obtain, which required
 
 229
-00:11:07:05 --> 00:11:10:05
+00:11:07,875 --> 00:11:10,875
 a lot of human effort and not the cultivated one,
 
 230
-00:11:10:18 --> 00:11:13:13
+00:11:11,416 --> 00:11:14,208
 fell somehow as an activity
 
 231
-00:11:13:13 --> 00:11:17:18
+00:11:14,208 --> 00:11:18,416
 and therefore today the Wayuú do not fish for pearls,
 
 232
-00:11:17:18 --> 00:11:20:09
+00:11:18,416 --> 00:11:21,041
 although the pearl banks are
 
 233
-00:11:20:09 --> 00:11:23:01
+00:11:21,041 --> 00:11:23,708
 full in La Güajira’s sea.
 
 234
-00:11:23:01 --> 00:11:23:20
+00:11:23,708 --> 00:11:24,500
 Interesting,
 
 235
-00:11:23:20 --> 00:11:26:20
+00:11:24,500 --> 00:11:27,500
 didn't know that.
 
 236
-00:11:27:09 --> 00:11:30:09
+00:11:28,041 --> 00:11:31,041
 Well,
 
 237
-00:11:30:18 --> 00:11:31:18
+00:11:31,416 --> 00:11:32,416
 can you talk to me
 
 238
-00:11:31:18 --> 00:11:35:15
+00:11:32,416 --> 00:11:36,291
 a bit about dreams and the importance they have
 
 239
-00:11:35:15 --> 00:11:36:20
+00:11:36,291 --> 00:11:37,500
 dreams in the Wayúu culture?
 
 240
-00:11:37:22 --> 00:11:40:22
+00:11:38,583 --> 00:11:41,583
 Dreams are prescriptive in the Wayúu world.
 
 241
-00:11:41:05 --> 00:11:43:06
+00:11:41,875 --> 00:11:43,916
 It's called Lapü,
 
 242
-00:11:43:06 --> 00:11:47:12
+00:11:43,916 --> 00:11:48,166
 Lapü is a character, he generates the dream
 
 243
-00:11:47:12 --> 00:11:51:09
+00:11:48,166 --> 00:11:52,083
 Himself. He’s so powerful that when cultural heroes,
 
 244
-00:11:51:09 --> 00:11:52:17
+00:11:52,083 --> 00:11:53,416
 Wayúu semi-divine figures
 
 245
-00:11:52:17 --> 00:11:56:00
+00:11:53,416 --> 00:11:56,708
 like Maleiwa dream, they have to obey the dream.
 
 246
-00:11:56:15 --> 00:12:00:13
+00:11:57,333 --> 00:12:01,250
 So dreams are instructions for every living being.
 
 247
-00:12:00:13 --> 00:12:01:23
+00:12:01,250 --> 00:12:02,666
 It is not discussed.
 
 248
-00:12:01:23 --> 00:12:05:01
+00:12:02,666 --> 00:12:05,750
 The dream can order the sacrifice of animals,
 
 249
-00:12:05:17 --> 00:12:07:15
+00:12:06,416 --> 00:12:08,333
 sleep can order confinement
 
 250
-00:12:07:15 --> 00:12:10:06
+00:12:08,333 --> 00:12:10,958
 of some people, rituals,
 
 251
-00:12:10:06 --> 00:12:12:20
+00:12:10,958 --> 00:12:13,541
 different decisions and you have to obey them.
 
 252
-00:12:12:20 --> 00:12:15:14
+00:12:13,541 --> 00:12:16,291
 Dream governs much of Wayúu life,
 
 253
-00:12:15:14 --> 00:12:17:21
+00:12:16,291 --> 00:12:18,583
 the dreamlike is fundamental.
 
 254
-00:12:17:21 --> 00:12:20:19
+00:12:18,583 --> 00:12:21,500
 One wayúu can ask the other
 
 255
-00:12:20:19 --> 00:12:21:12
+00:12:21,500 --> 00:12:22,208
 the next day
 
 256
-00:12:21:12 --> 00:12:24:12
+00:12:22,208 --> 00:12:25,208
 When they wake up, “what did you dream of?” instead of “good morning!”
 
 257
-00:12:25:14 --> 00:12:27:06
+00:12:26,291 --> 00:12:27,958
 Nice.
 
 258
-00:12:27:06 --> 00:12:31:15
+00:12:27,958 --> 00:12:32,375
 And that brings me a bit to the idea of a world
 
 259
-00:12:32:07 --> 00:12:35:07
+00:12:33,041 --> 00:12:36,041
 Nazu versus the Ulazu
 
 260
-00:12:35:19 --> 00:12:38:19
+00:12:36,541 --> 00:12:39,541
 how the visible and non-visible world.
 
 261
-00:12:38:23 --> 00:12:40:16
+00:12:39,708 --> 00:12:41,416
 Yes, it's because the dream
 
 262
-00:12:40:16 --> 00:12:43:16
+00:12:41,416 --> 00:12:44,416
 It is a bridge that allows us to communicate,
 
 263
-00:12:44:03 --> 00:12:47:19
+00:12:44,875 --> 00:12:48,541
 for example, with corn, with beans, with pumpkin,
 
 264
-00:12:47:21 --> 00:12:49:09
+00:12:48,625 --> 00:12:50,125
 with these ex humans
 
 265
-00:12:49:09 --> 00:12:52:08
+00:12:50,125 --> 00:12:53,083
 and see them in the dream with their original appearance,
 
 266
-00:12:52:17 --> 00:12:54:11
+00:12:53,458 --> 00:12:55,208
 not like today's vegetables,
 
 267
-00:12:54:11 --> 00:12:57:04
+00:12:55,208 --> 00:12:57,916
 but like the humans they were in the past.
 
 268
-00:12:57:04 --> 00:12:58:15
+00:12:57,916 --> 00:12:59,375
 The dream is revealing,
 
 269
-00:12:58:15 --> 00:12:59:15
+00:12:59,375 --> 00:13:00,375
 can announce you
 
 270
-00:12:59:15 --> 00:13:04:10
+00:13:00,375 --> 00:13:05,166
 happy or tragic events in the life of a family group.
 
 271
-00:13:06:01 --> 00:13:08:18
+00:13:06,791 --> 00:13:09,500
 Interesting.
 
 272
-00:13:08:18 --> 00:13:10:09
+00:13:09,500 --> 00:13:11,125
 Well,
 
 273
-00:13:10:09 --> 00:13:13:09
+00:13:11,125 --> 00:13:14,166
 can you explain me about.
 
 274
-00:13:13:09 --> 00:13:15:10
+00:13:14,166 --> 00:13:16,208
 Well, two things. One,
 
 275
-00:13:15:10 --> 00:13:18:10
+00:13:16,208 --> 00:13:19,208
 What has recently happened with the
 
 276
-00:13:20:00 --> 00:13:20:23
+00:13:20,791 --> 00:13:21,750
 hydrogen generators? and also
 
 277
-00:13:20:23 --> 00:13:23:11
+00:13:21,750 --> 00:13:24,250
 with that topic
 
 278
-00:13:23:11 --> 00:13:25:10
+00:13:24,250 --> 00:13:26,208
 linked is obviously the wind,
 
 279
-00:13:25:10 --> 00:13:28:14
+00:13:26,208 --> 00:13:29,375
 What is this ontological conflict that is happening there?
 
 280
-00:13:28:23 --> 00:13:30:06
+00:13:29,750 --> 00:13:31,041
 La Güajira
 
 281
-00:13:30:06 --> 00:13:32:17
+00:13:31,041 --> 00:13:33,500
 is a region located in the north of Colombia that has
 
 282
-00:13:32:17 --> 00:13:35:17
+00:13:33,500 --> 00:13:36,500
 many natural resources, coal.
 
 283
-00:13:35:19 --> 00:13:38:19
+00:13:36,583 --> 00:13:39,583
 That's why there are very powerful mining companies here,
 
 284
-00:13:38:21 --> 00:13:39:22
+00:13:39,666 --> 00:13:40,708
 gas, that's why
 
 285
-00:13:39:22 --> 00:13:43:09
+00:13:40,708 --> 00:13:44,166
 Texaco, Chevron, all these companies have been here.
 
 286
-00:13:44:01 --> 00:13:46:17
+00:13:44,833 --> 00:13:47,500
 It also has
 
 287
-00:13:46:17 --> 00:13:49:16
+00:13:47,500 --> 00:13:50,458
 salt in abundance and that’s why it has been the first producer of
 
 288
-00:13:49:16 --> 00:13:50:17
+00:13:50,458 --> 00:13:51,500
 Salt of the country.
 
 289
-00:13:50:17 --> 00:13:54:16
+00:13:51,500 --> 00:13:55,500
 And now, a renewable energy bonanza is coming
 
 290
-00:13:55:04 --> 00:13:57:16
+00:13:56,000 --> 00:13:58,500
 based on solar luminosity,
 
 291
-00:13:57:16 --> 00:14:00:00
+00:13:58,500 --> 00:14:00,833
 but mainly in the wind.
 
 292
-00:14:00:00 --> 00:14:00:19
+00:14:00,833 --> 00:14:01,625
 These companies
 
 293
-00:14:00:19 --> 00:14:02:02
+00:14:01,625 --> 00:14:02,916
 They are arriving in Colombia
 
 294
-00:14:02:02 --> 00:14:04:08
+00:14:02,916 --> 00:14:05,166
 or to La Güajira along with the Government
 
 295
-00:14:04:08 --> 00:14:07:00
+00:14:05,166 --> 00:14:07,833
 to make an Energy transition,
 
 296
-00:14:07:00 --> 00:14:10:21
+00:14:07,833 --> 00:14:11,708
 But practices can continue to be extractive.
 
 297
-00:14:11:11 --> 00:14:11:19
+00:14:12,291 --> 00:14:12,625
 I mean,
 
 298
-00:14:11:19 --> 00:14:13:15
+00:14:12,625 --> 00:14:14,458
 They are called “clean energies”,
 
 299
-00:14:13:15 --> 00:14:15:17
+00:14:14,458 --> 00:14:16,541
 but in the relationship with the communities
 
 300
-00:14:15:17 --> 00:14:18:10
+00:14:16,541 --> 00:14:19,250
 They can rely on behaviors that are the same
 
 301
-00:14:18:10 --> 00:14:20:16
+00:14:19,250 --> 00:14:21,500
 to those of the old companies.
 
 302
-00:14:20:16 --> 00:14:24:14
+00:14:21,500 --> 00:14:25,416
 So, at this moment there are ontological conflicts
 
 303
-00:14:25:01 --> 00:14:28:14
+00:14:25,875 --> 00:14:29,416
 between the Wayúu people and those companies,
 
 304
-00:14:29:01 --> 00:14:32:14
+00:14:29,875 --> 00:14:33,416
 Because they don't understand how the Wayúu see the world,
 
 305
-00:14:32:23 --> 00:14:36:08
+00:14:33,791 --> 00:14:37,208
 how the Wayúu see the winds: They see them as plural beings,
 
 306
-00:14:36:16 --> 00:14:39:20
+00:14:37,541 --> 00:14:40,708
 ambiguous, which can be masculine or feminine,
 
 307
-00:14:40:04 --> 00:14:43:11
+00:14:41,041 --> 00:14:44,333
 that have no fixed place, but paths through which they cross,
 
 308
-00:14:43:19 --> 00:14:45:21
+00:14:44,666 --> 00:14:46,750
 that are related to well-being,
 
 309
-00:14:45:21 --> 00:14:48:03
+00:14:46,750 --> 00:14:49,000
 with certain elements of life
 
 310
-00:14:48:03 --> 00:14:51:17
+00:14:49,000 --> 00:14:52,583
 and therefore the vision is not understood
 
 311
-00:14:52:02 --> 00:14:55:11
+00:14:52,958 --> 00:14:56,333
 who sees the wind as a business, as an air mass
 
 312
-00:14:55:11 --> 00:14:58:18
+00:14:56,333 --> 00:14:59,625
 hot, like inanimate geophysical agents,
 
 313
-00:14:59:01 --> 00:15:00:15
+00:14:59,916 --> 00:15:01,500
 of this Wayuú’s vision
 
 314
-00:15:00:15 --> 00:15:04:00
+00:15:01,500 --> 00:15:04,875
 who see them as beings with the capacity for agency,
 
 315
-00:15:04:10 --> 00:15:07:10
+00:15:05,291 --> 00:15:08,291
 with reflexivity and with a moral code.
 
 316
-00:15:07:13 --> 00:15:09:09
+00:15:08,416 --> 00:15:10,250
 And that's why there was a conflict?
 
 317
-00:15:09:09 --> 00:15:12:09
+00:15:10,250 --> 00:15:13,250
 And what happened to the recent companies?
 
 318
-00:15:12:15 --> 00:15:15:15
+00:15:13,500 --> 00:15:16,500
 What has happened lately is that some companies
 
 319
-00:15:15:18 --> 00:15:18:03
+00:15:16,666 --> 00:15:19,041
 who do not know the social organization,
 
 320
-00:15:18:03 --> 00:15:20:08
+00:15:19,041 --> 00:15:21,250
 Wayúu territorial rights,
 
 321
-00:15:20:08 --> 00:15:21:16
+00:15:21,250 --> 00:15:22,583
 They reached some areas,
 
 322
-00:15:21:16 --> 00:15:24:11
+00:15:22,583 --> 00:15:25,375
 they made some quick questions
 
 323
-00:15:24:11 --> 00:15:27:14
+00:15:25,375 --> 00:15:28,500
 and then the projects began to be built,
 
 324
-00:15:27:14 --> 00:15:31:08
+00:15:28,500 --> 00:15:32,250
 but the underlying conflicts that were there and the
 
 325
-00:15:31:08 --> 00:15:32:10
+00:15:32,250 --> 00:15:33,333
 Lack of understanding
 
 326
-00:15:32:10 --> 00:15:36:08
+00:15:33,333 --> 00:15:37,250
 with the Wayúu social environment, has led to blockades,
 
 327
-00:15:36:08 --> 00:15:39:18
+00:15:37,250 --> 00:15:40,666
 The differences between the Wayúu population and companies.
 
 328
-00:15:40:01 --> 00:15:40:21
+00:15:40,958 --> 00:15:41,791
 And one of them,
 
 329
-00:15:40:21 --> 00:15:43:21
+00:15:41,791 --> 00:15:44,791
 in Green Power, decided to abandon his project.
 
 330
-00:15:44:02 --> 00:15:44:19
+00:15:45,000 --> 00:15:45,708
 Right now,
 
 331
-00:15:44:19 --> 00:15:45:22
+00:15:45,708 --> 00:15:46,833
 the president of La Güajira
 
 332
-00:15:45:22 --> 00:15:47:03
+00:15:46,833 --> 00:15:48,041
 is here
 
 333
-00:15:47:03 --> 00:15:49:09
+00:15:48,041 --> 00:15:50,291
 to rebuild those relationships
 
 334
-00:15:49:09 --> 00:15:51:09
+00:15:50,291 --> 00:15:52,291
 and try to generate an agreement
 
 335
-00:15:51:09 --> 00:15:53:02
+00:15:52,291 --> 00:15:54,000
 among indigenous peoples
 
 336
-00:15:53:02 --> 00:15:55:14
+00:15:54,000 --> 00:15:56,500
 and those renewable energy projects.
 
 337
-00:15:57:00 --> 00:16:00:00
+00:15:57,916 --> 00:16:00,958
 And for you, what steps need to be taken?
 
 338
-00:16:01:04 --> 00:16:04:04
+00:16:02,125 --> 00:16:05,125
 to reach an agreement like this between the people and the government?
 
 339
-00:16:05:11 --> 00:16:08:15
+00:16:06,416 --> 00:16:09,583
 A set of rules, the first thing the government
 
 340
-00:16:08:15 --> 00:16:11:19
+00:16:09,583 --> 00:16:12,750
 Has to do is to establish a set of rules that enforce
 
 341
-00:16:11:19 --> 00:16:14:19
+00:16:12,750 --> 00:16:15,750
 Indigenous and communities rights.
 
 342
-00:16:15:03 --> 00:16:17:16
+00:16:16,083 --> 00:16:18,625
 So companies do not see the Wayúu territory
 
 343
-00:16:17:16 --> 00:16:20:23
+00:16:18,625 --> 00:16:21,916
 like a national wasteland, like a land without an owner, it is a
 
 344
-00:16:20:23 --> 00:16:23:23
+00:16:21,916 --> 00:16:24,916
 constitutionally protected reservation.
 
 345
-00:16:24:01 --> 00:16:28:00
+00:16:25,000 --> 00:16:28,958
 It has 1,070,000 hectares, therefore large.
 
 346
-00:16:28:08 --> 00:16:29:02
+00:16:29,291 --> 00:16:30,041
 But the Wayuú
 
 347
-00:16:29:02 --> 00:16:32:02
+00:16:30,041 --> 00:16:33,041
 They have notions of territory that must be respected,
 
 348
-00:16:32:03 --> 00:16:35:10
+00:16:33,083 --> 00:16:36,375
 They have notions of social organization, of family
 
 349
-00:16:35:19 --> 00:16:38:22
+00:16:36,750 --> 00:16:39,875
 and notions of rights and territorial control
 
 350
-00:16:39:08 --> 00:16:43:04
+00:16:40,333 --> 00:16:44,166
 and ontological that these companies must know
 
 351
-00:16:43:04 --> 00:16:46:18
+00:16:44,166 --> 00:16:47,750
 and understand. When they talk to the Wayuú, when they understand
 
 352
-00:16:47:08 --> 00:16:50:15
+00:16:48,333 --> 00:16:51,625
 how this society thinks and what its norms are like,
 
 353
-00:16:51:02 --> 00:16:54:12
+00:16:52,083 --> 00:16:55,500
 then there could be an understandable dialogue between the two.
 
 354
-00:16:54:12 --> 00:16:56:15
+00:16:55,500 --> 00:16:57,625
 One has a commercial logic,
 
 355
-00:16:56:15 --> 00:16:59:08
+00:16:57,625 --> 00:17:00,333
 the others have their own ontological mission.
 
 356
-00:16:59:08 --> 00:17:00:16
+00:17:00,333 --> 00:17:01,666
 Bringing that closer is key.
 
 357
-00:17:00:16 --> 00:17:03:20
+00:17:01,666 --> 00:17:04,833
 Now, the indigenous people are economic subjects, that is,
 
 358
-00:17:03:20 --> 00:17:06:21
+00:17:04,833 --> 00:17:07,875
 They have valid, legitimate expectations and interests.
 
 359
-00:17:07:17 --> 00:17:10:17
+00:17:08,708 --> 00:17:11,708
 Therefore, companies see it as Rousseau beings,
 
 360
-00:17:10:22 --> 00:17:13:17
+00:17:11,916 --> 00:17:14,708
 like the noble savage who does not aspire for money
 
 361
-00:17:13:17 --> 00:17:14:21
+00:17:14,708 --> 00:17:15,875
 nor can he aspire to money
 
 362
-00:17:14:21 --> 00:17:17:21
+00:17:15,875 --> 00:17:18,875
 because it contaminates his condition as a noble savage.
 
 363
-00:17:18:14 --> 00:17:21:06
+00:17:19,583 --> 00:17:22,291
 It is different from the Wayúu, who crossed Empires
 
 364
-00:17:21:06 --> 00:17:26:05
+00:17:22,291 --> 00:17:27,250
 to carry contraband, merchandise, to Holland, to Jamaica.
 
 365
-00:17:26:15 --> 00:17:30:09
+00:17:27,666 --> 00:17:31,416
 So that’s ignoring their history as an maritime indigenous people
 
 366
-00:17:32:18 --> 00:17:34:00
+00:17:33,791 --> 00:17:35,041
 Yes, of course.
 
 367
-00:17:34:00 --> 00:17:38:01
+00:17:35,041 --> 00:17:39,083
 And that's talking about the norms of the Wayúu people,
 
 368
-00:17:38:17 --> 00:17:42:22
+00:17:39,750 --> 00:17:43,958
 Maybe a very important one is the matrilineal.
 
 369
-00:17:44:01 --> 00:17:44:16
+00:17:45,083 --> 00:17:45,708
 Definitely.
 
 370
-00:17:44:16 --> 00:17:46:01
+00:17:45,708 --> 00:17:47,083
 What they must understand
 
 371
-00:17:46:01 --> 00:17:48:08
+00:17:47,083 --> 00:17:49,375
 is that in the Wayúu territoriality
 
 372
-00:17:48:08 --> 00:17:50:15
+00:17:49,375 --> 00:17:51,666
 lands are inherited from the uterine side,
 
 373
-00:17:50:15 --> 00:17:52:04
+00:17:51,666 --> 00:17:53,208
 on the maternal side,
 
 374
-00:17:52:04 --> 00:17:55:02
+00:17:53,208 --> 00:17:56,125
 for what the Wayúu call Wapushi, our family,
 
 375
-00:17:55:02 --> 00:17:58:05
+00:17:56,125 --> 00:17:59,250
 and therefore sometimes they can be left to children
 
 376
-00:17:58:13 --> 00:18:01:08
+00:17:59,583 --> 00:18:02,375
 living in the territory without having the right
 
 377
-00:18:01:08 --> 00:18:05:08
+00:18:02,375 --> 00:18:06,416
 to decide. These companies
 
 378
-00:18:05:08 --> 00:18:06:13
+00:18:06,416 --> 00:18:07,625
 they reach the territories
 
 379
-00:18:06:13 --> 00:18:09:13
+00:18:07,625 --> 00:18:10,625
 and talk to the first person they find,
 
 380
-00:18:09:16 --> 00:18:11:07
+00:18:10,750 --> 00:18:12,375
 thinking that because they live there
 
 381
-00:18:11:07 --> 00:18:13:03
+00:18:12,375 --> 00:18:14,208
 They are the owners of the territory.
 
 382
-00:18:13:03 --> 00:18:16:03
+00:18:14,208 --> 00:18:17,208
 It turns out that it is not like that and it is not usually like that.
 
 383
-00:18:16:09 --> 00:18:18:17
+00:18:17,458 --> 00:18:19,791
 Someone can live far away without having
 
 384
-00:18:18:17 --> 00:18:20:06
+00:18:19,791 --> 00:18:21,333
 that presence
 
 385
-00:18:20:06 --> 00:18:23:06
+00:18:21,333 --> 00:18:24,333
 in the occupation of the land and that belonging.
 
 386
-00:18:23:10 --> 00:18:26:07
+00:18:24,500 --> 00:18:27,375
 There have been many disagreements in two
 
 387
-00:18:26:07 --> 00:18:29:19
+00:18:27,375 --> 00:18:30,875
 logics of seeing the world, two ways of seeing the universe.
 
 388
-00:18:31:00 --> 00:18:31:05
+00:18:32,083 --> 00:18:32,291
 Sure
 
 389
-00:18:31:05 --> 00:18:34:05
+00:18:32,291 --> 00:18:35,291
 and that is I think the axis of everything.
 
 390
-00:18:34:09 --> 00:18:35:13
+00:18:35,458 --> 00:18:36,625
 Definitely.
 
 391
-00:18:35:13 --> 00:18:38:02
+00:18:36,625 --> 00:18:39,166
 And for someone who doesn't know
 
 392
-00:18:38:02 --> 00:18:41:02
+00:18:39,166 --> 00:18:42,166
 what is an ontology and what is ontology,
 
 393
-00:18:41:02 --> 00:18:44:08
+00:18:42,166 --> 00:18:45,458
 so as a summary
 
 394
-00:18:44:08 --> 00:18:48:02
+00:18:45,458 --> 00:18:49,208
 of the Wayúu people or summarized.
 Correct.
 
 395
-00:18:48:09 --> 00:18:49:21
+00:18:49,500 --> 00:18:51,000
 Well, ontology is the science of
 
 396
-00:18:49:21 --> 00:18:51:15
+00:18:51,000 --> 00:18:52,750
 The being in all human lives
 
 397
-00:18:51:15 --> 00:18:54:12
+00:18:52,750 --> 00:18:55,625
 and it is a field of philosophy and metaphysics.
 
 398
-00:18:54:12 --> 00:18:56:15
+00:18:55,625 --> 00:18:57,750
 But,
 
 399
-00:18:56:15 --> 00:18:59:04
+00:18:57,750 --> 00:19:00,291
 Well, anthropology has been very interested
 
 400
-00:18:59:04 --> 00:19:00:02
+00:19:00,291 --> 00:19:01,208
 for the ways
 
 401
-00:19:00:02 --> 00:19:01:11
+00:19:01,208 --> 00:19:02,583
 in which human societies
 
 402
-00:19:01:11 --> 00:19:04:05
+00:19:02,583 --> 00:19:05,333
 give signficance to the universe.
 
 403
-00:19:04:05 --> 00:19:07:05
+00:19:05,333 --> 00:19:08,333
 How they classify the stars, the winds,
 
 404
-00:19:07:07 --> 00:19:11:01
+00:19:08,416 --> 00:19:12,166
 vegetation, animals, other non-human beings.
 
 405
-00:19:11:09 --> 00:19:15:00
+00:19:12,500 --> 00:19:16,125
 And find knowledge and ways
 
 406
-00:19:15:00 --> 00:19:18:07
+00:19:16,125 --> 00:19:19,416
 of conceiving time and beings very sophisticated.
 
 407
-00:19:18:20 --> 00:19:22:06
+00:19:19,958 --> 00:19:23,375
 Not only taxonomy, categorization principles,
 
 408
-00:19:23:10 --> 00:19:25:20
+00:19:24,541 --> 00:19:27,000
 ways of relating to non-humans,
 
 409
-00:19:25:20 --> 00:19:30:00
+00:19:27,000 --> 00:19:31,166
 modes of classification and categorization.
 
 410
-00:19:30:09 --> 00:19:31:02
+00:19:31,541 --> 00:19:32,250
 So the Wayuú
 
 411
-00:19:31:02 --> 00:19:35:09
+00:19:32,250 --> 00:19:36,541
 They are a people who first of all consider
 
 412
-00:19:35:09 --> 00:19:39:05
+00:19:36,541 --> 00:19:40,375
 that many non-humans were humans in the past.
 
 413
-00:19:39:05 --> 00:19:39:23
+00:19:40,375 --> 00:19:41,125
 Therefore,
 
 414
-00:19:39:23 --> 00:19:41:19
+00:19:41,125 --> 00:19:42,958
 They have a residual humanity
 
 415
-00:19:41:19 --> 00:19:44:11
+00:19:42,958 --> 00:19:45,625
 that inhabits them and are relatives.
 
 416
-00:19:44:11 --> 00:19:46:10
+00:19:45,625 --> 00:19:47,583
 They are not inanimate beings.
 
 417
-00:19:46:10 --> 00:19:49:14
+00:19:47,583 --> 00:19:50,750
 A fishing company can see many fish
 
 418
-00:19:49:14 --> 00:19:53:05
+00:19:50,750 --> 00:19:54,375
 per metric tons of production, a stock.
 
 419
-00:19:53:21 --> 00:19:56:05
+00:19:55,041 --> 00:19:57,375
 The Wayuú see them as relatives,
 
 420
-00:19:56:05 --> 00:19:58:19
+00:19:57,375 --> 00:19:59,958
 They don't see it from instrumental mathematics,
 
 421
-00:19:58:19 --> 00:20:01:13
+00:19:59,958 --> 00:20:02,708
 but sees them from kinship.
 
 422
-00:20:01:13 --> 00:20:03:03
+00:20:02,708 --> 00:20:04,291
 It’s another type of.
 
 423
-00:20:03:03 --> 00:20:05:01
+00:20:04,291 --> 00:20:06,208
 Well, science as we know in the West
 
 424
-00:20:06:04 --> 00:20:07:04
+00:20:07,333 --> 00:20:08,375
 is a type of
 
 425
-00:20:07:04 --> 00:20:10:04
+00:20:08,375 --> 00:20:11,375
 science, a type of knowing a world.
 
 426
-00:20:10:17 --> 00:20:13:22
+00:20:11,916 --> 00:20:15,125
 Well, the Wayúu has that, as they say, like complex
 
 427
-00:20:14:04 --> 00:20:19:14
+00:20:15,375 --> 00:20:20,791
 and full of important, small, big things.
 
 428
-00:20:20:02 --> 00:20:23:00
+00:20:21,291 --> 00:20:24,208
 Exact. The deep difference
 
 429
-00:20:23:00 --> 00:20:25:04
+00:20:24,208 --> 00:20:26,375
 the ontological separation
 
 430
-00:20:25:04 --> 00:20:28:04
+00:20:26,375 --> 00:20:29,375
 among humanity
 
 431
-00:20:28:14 --> 00:20:32:02
+00:20:29,791 --> 00:20:33,291
 and non-humans is very deep in the West.
 
 432
-00:20:32:14 --> 00:20:33:21
+00:20:33,791 --> 00:20:35,083
 In these type of communities
 
 433
-00:20:33:21 --> 00:20:36:21
+00:20:35,083 --> 00:20:38,083
 as the wayúu is not so deep and they can be
 
 434
-00:20:36:21 --> 00:20:39:23
+00:20:38,083 --> 00:20:41,166
 closer to some non-humans than to some humans,
 
 435
-00:20:40:07 --> 00:20:43:07
+00:20:41,500 --> 00:20:44,500
 because these non-humans are their relatives
 
 436
-00:20:43:07 --> 00:20:46:12
+00:20:44,500 --> 00:20:47,708
 and they were humans in the past and have social attributes
 
 437
-00:20:46:20 --> 00:20:48:03
+00:20:48,041 --> 00:20:49,333
 that are shared.
 
 438
-00:20:48:03 --> 00:20:52:11
+00:20:49,333 --> 00:20:53,708
 The Wayuú do not see other beings as natural strangers,
 
 439
-00:20:52:22 --> 00:20:56:15
+00:20:54,166 --> 00:20:57,875
 but as relatives who in the past were
 
 440
-00:20:57:01 --> 00:21:00:01
+00:20:58,291 --> 00:21:01,291
 and the world more than in its creation,
 
 441
-00:21:00:13 --> 00:21:03:21
+00:21:01,791 --> 00:21:05,125
 They see it as a modeling and a transformation.
 
 442
-00:21:04:10 --> 00:21:05:15
+00:21:05,666 --> 00:21:06,875
 Focus on transformative events
 
 443
-00:21:06:20 --> 00:21:09:11
+00:21:08,083 --> 00:21:10,708
 and they believe that the world is subject to modeling,
 
 444
-00:21:09:11 --> 00:21:11:08
+00:21:10,708 --> 00:21:12,583
 because Mma, the Earth,
 
 445
-00:21:11:08 --> 00:21:14:15
+00:21:12,583 --> 00:21:15,875
 which is the mother of all living beings, is mysterious,
 
 446
-00:21:15:05 --> 00:21:17:01
+00:21:16,458 --> 00:21:18,291
 and therefore has the capacity
 
 447
-00:21:17:01 --> 00:21:20:01
+00:21:18,291 --> 00:21:21,291
 to transform the beings that inhabit it.
 
 448
-00:21:20:04 --> 00:21:23:11
+00:21:21,416 --> 00:21:24,708
 Tell me a little about that, about the transformation, the Mma
 
 449
-00:21:23:23 --> 00:21:27:11
+00:21:25,208 --> 00:21:28,708
 and how he was telling me that she is mysterious, but also
 
 450
-00:21:28:04 --> 00:21:32:23
+00:21:29,416 --> 00:21:34,250
 is not 100% righteous, because she is also a human.
 
 451
-00:21:33:15 --> 00:21:37:21
+00:21:34,916 --> 00:21:39,166
 Yes, Mma (Earth), as in principle she is seen as human in that
 
 452
-00:21:38:20 --> 00:21:39:17
+00:21:40,125 --> 00:21:41,000
 referential time,
 
 453
-00:21:39:17 --> 00:21:41:22
+00:21:41,000 --> 00:21:43,208
 that referential order of things
 
 454
-00:21:41:22 --> 00:21:44:02
+00:21:43,208 --> 00:21:45,375
 She is the sister of Palaa, the Sea.
 
 455
-00:21:44:02 --> 00:21:46:18
+00:21:45,375 --> 00:21:48,041
 Then Mma every so often
 
 456
-00:21:46:18 --> 00:21:49:18
+00:21:48,041 --> 00:21:51,041
 It has conflicts with the Sea, and the Sea invades it
 
 457
-00:21:50:00 --> 00:21:50:23
+00:21:51,291 --> 00:21:52,250
 and then the Earth
 
 458
-00:21:50:23 --> 00:21:52:03
+00:21:52,250 --> 00:21:53,416
 and the beings of the Earth
 
 459
-00:21:52:03 --> 00:21:56:07
+00:21:53,416 --> 00:21:57,583
 They have to use torches and fire to make her come back
 
 460
-00:21:56:17 --> 00:21:59:18
+00:21:58,000 --> 00:22:01,041
 to its limits and its initial shores.
 
 461
-00:22:00:02 --> 00:22:02:22
+00:22:01,375 --> 00:22:04,208
 But in that flooding process
 
 462
-00:22:02:22 --> 00:22:05:00
+00:22:04,208 --> 00:22:06,291
 there is a transformation of beings.
 
 463
-00:22:05:00 --> 00:22:08:09
+00:22:06,291 --> 00:22:09,666
 So life is in a continuous transformation
 
 464
-00:22:08:18 --> 00:22:12:00
+00:22:10,041 --> 00:22:13,333
 And those transformative events are very important
 
 465
-00:22:12:09 --> 00:22:14:13
+00:22:13,708 --> 00:22:15,875
 for peoples like the Wayúu,
 
 466
-00:22:14:13 --> 00:22:17:13
+00:22:15,875 --> 00:22:18,875
 who are very aware of that.
 
 467
-00:22:17:13 --> 00:22:19:07
+00:22:18,875 --> 00:22:20,625
 What matters for the Wayúu is not
 
 468
-00:22:19:07 --> 00:22:22:18
+00:22:20,625 --> 00:22:24,083
 when an event occurred, but rather that the event occurred.
 
 469
-00:22:23:08 --> 00:22:26:11
+00:22:24,666 --> 00:22:27,791
 Out of those events, there are transformations in the landscape
 
 470
-00:22:26:20 --> 00:22:30:09
+00:22:28,166 --> 00:22:31,708
 a rock, some drawings, a mirage,
 
 471
-00:22:30:14 --> 00:22:34:15
+00:22:31,916 --> 00:22:35,958
 a hill or hills that have distinctive features.
 
 472
-00:22:34:23 --> 00:22:38:04
+00:22:36,291 --> 00:22:39,500
 That is why for the Wayúu the territory is an open book,
 
 473
-00:22:38:10 --> 00:22:41:10
+00:22:39,750 --> 00:22:42,750
 because it is the stage where the events occur,
 
 474
-00:22:41:14 --> 00:22:43:14
+00:22:42,916 --> 00:22:44,916
 the events that shape beings.
 
 475
-00:22:44:21 --> 00:22:47:04
+00:22:46,208 --> 00:22:48,500
 Can you tell me about two things, one
 
 476
-00:22:47:04 --> 00:22:50:21
+00:22:48,500 --> 00:22:52,208
 a bit more about how land or a territory
 
 477
-00:22:50:21 --> 00:22:52:01
+00:22:52,208 --> 00:22:53,375
 it’s a book?
 
 478
-00:22:52:01 --> 00:22:55:23
+00:22:53,375 --> 00:22:57,333
 And related to that, what subjects,
 
 479
-00:22:55:23 --> 00:22:57:12
+00:22:57,333 --> 00:22:58,875
 which ones
 
 480
-00:22:57:12 --> 00:23:00:12
+00:22:58,875 --> 00:23:01,875
 chapters we find in that,
 
 481
-00:23:00:17 --> 00:23:02:04
+00:23:02,083 --> 00:23:03,541
 That book?
 
 482
-00:23:02:04 --> 00:23:05:04
+00:23:03,541 --> 00:23:06,541
 Many hills, the hills that make up La Güajira,
 
 483
-00:23:05:23 --> 00:23:08:10
+00:23:07,333 --> 00:23:09,791
 They were humans who traveled,
 
 484
-00:23:08:10 --> 00:23:10:07
+00:23:09,791 --> 00:23:11,666
 They traveled through the güajiro territory,
 
 485
-00:23:10:07 --> 00:23:13:07
+00:23:11,666 --> 00:23:14,666
 some stayed in it and became a hill
 
 486
-00:23:13:07 --> 00:23:14:15
+00:23:14,666 --> 00:23:16,000
 Due to thirst,
 
 487
-00:23:14:15 --> 00:23:18:02
+00:23:16,000 --> 00:23:19,458
 because they got lost, because they found love,
 
 488
-00:23:18:15 --> 00:23:20:06
+00:23:20,000 --> 00:23:21,625
 as in the case of Kamaishi,
 
 489
-00:23:20:06 --> 00:23:23:02
+00:23:21,625 --> 00:23:24,458
 The case of Episcua, Sosopo, Iitüjo´i.
 
 490
-00:23:23:02 --> 00:23:26:02
+00:23:24,458 --> 00:23:27,458
 The monks as well, Walirajau,
 
 491
-00:23:26:02 --> 00:23:28:18
+00:23:27,458 --> 00:23:30,125
 that are in the sea, in the gulf with Venezuela,
 
 492
-00:23:28:18 --> 00:23:30:21
+00:23:30,125 --> 00:23:32,250
 all the hills have a story,
 
 493
-00:23:30:21 --> 00:23:33:04
+00:23:32,250 --> 00:23:34,541
 Pa´ntui in Cabo de la Vela
 
 494
-00:23:33:04 --> 00:23:36:04
+00:23:34,541 --> 00:23:37,583
 and that history shapes the territory,
 
 495
-00:23:36:08 --> 00:23:37:17
+00:23:37,750 --> 00:23:39,125
 shaping the landscape
 
 496
-00:23:37:17 --> 00:23:40:17
+00:23:39,125 --> 00:23:42,125
 As they were frozen footprints of the ancestors.
 
 497
-00:23:40:20 --> 00:23:44:06
+00:23:42,250 --> 00:23:45,666
 Therefore, seeing a landscape, seeing a hill, seeing a rock,
 
 498
-00:23:44:19 --> 00:23:46:01
+00:23:46,208 --> 00:23:47,458
 is to evoke stories,
 
 499
-00:23:46:01 --> 00:23:49:18
+00:23:47,458 --> 00:23:51,166
 stories interconnected with other places that form
 
 500
-00:23:49:18 --> 00:23:53:12
+00:23:51,166 --> 00:23:54,916
 that intelligible text of life that is the landscape.
 
 501
-00:23:53:16 --> 00:23:56:21
+00:23:55,083 --> 00:23:58,291
 Those movements, those traces of the ancestors.
 
 502
-00:23:57:06 --> 00:23:58:23
+00:23:58,666 --> 00:24:00,375
 So, that's why the territory
 
 503
-00:23:58:23 --> 00:24:01:10
+00:24:00,375 --> 00:24:02,833
 It is so important for the Wayuú.
 
 504
-00:24:01:10 --> 00:24:04:07
+00:24:02,833 --> 00:24:05,708
 Each of these places has a tale.
 
 505
-00:24:04:07 --> 00:24:06:03
+00:24:05,708 --> 00:24:07,541
 How it was transformed
 
 506
-00:24:06:03 --> 00:24:09:03
+00:24:07,541 --> 00:24:10,541
 why this hill came and found a female wind
 
 507
-00:24:09:10 --> 00:24:12:16
+00:24:10,833 --> 00:24:14,083
 and fell in love with her and his cattle went to the sea like Kamaishi
 
 508
-00:24:13:14 --> 00:24:17:11
+00:24:15,000 --> 00:24:18,916
 and therefore, it regulates the things of the sea.
 
 509
-00:24:17:11 --> 00:24:18:10
+00:24:18,916 --> 00:24:19,875
 As another regulated
 
 510
-00:24:18:10 --> 00:24:21:17
+00:24:19,875 --> 00:24:23,166
 agriculture, as another was a shepherd in the past.
 
 511
-00:24:22:10 --> 00:24:25:10
+00:24:23,875 --> 00:24:26,875
 All these things explain how the world works.
 
 512
-00:24:25:17 --> 00:24:28:02
+00:24:27,166 --> 00:24:29,541
 and they give meaning to the universe.
 
 513
-00:24:28:02 --> 00:24:28:12
+00:24:29,541 --> 00:24:29,958
 Can you explain to me or
 
 514
-00:24:29:15 --> 00:24:31:15
+00:24:31,083 --> 00:24:33,083
 tell how the most important
 
 515
-00:24:31:15 --> 00:24:34:15
+00:24:33,083 --> 00:24:36,083
 hills and shapes
 
 516
-00:24:35:12 --> 00:24:38:01
+00:24:36,958 --> 00:24:39,500
 non-human or ex-human
 
 517
-00:24:38:01 --> 00:24:39:19
+00:24:39,500 --> 00:24:41,250
 of the territory
 
 518
-00:24:39:19 --> 00:24:42:19
+00:24:41,250 --> 00:24:44,250
 and maybe a bit about their...
 
 519
-00:24:42:23 --> 00:24:45:23
+00:24:44,416 --> 00:24:47,416
 character or how they were like?
 
 520
-00:24:46:12 --> 00:24:49:13
+00:24:47,958 --> 00:24:51,000
 Yes, I can tell the story of Kamaishi
 
 521
-00:24:49:18 --> 00:24:53:21
+00:24:51,208 --> 00:24:55,333
 or Epitsu, they are two sister hills, they are three hills.
 
 522
-00:24:53:21 --> 00:24:56:21
+00:24:55,333 --> 00:24:58,333
 The older brother was in Macuira, Iitüjo'i.
 
 523
-00:24:56:21 --> 00:24:57:15
+00:24:58,333 --> 00:24:59,083
 Once upon a time,
 
 524
-00:24:57:15 --> 00:25:00:15
+00:24:59,083 --> 00:25:02,125
 With a very intense summer, he told his brothers
 
 525
-00:25:00:22 --> 00:25:02:00
+00:25:02,416 --> 00:25:03,500
 that the land
 
 526
-00:25:02:00 --> 00:25:05:00
+00:25:03,500 --> 00:25:06,500
 was not enough for the herd of the three
 
 527
-00:25:05:01 --> 00:25:08:01
+00:25:06,541 --> 00:25:09,541
 Then they both left
 
 528
-00:25:08:06 --> 00:25:11:19
+00:25:09,750 --> 00:25:13,291
 towards the base of the peninsula to search for land
 
 529
-00:25:12:05 --> 00:25:13:09
+00:25:13,708 --> 00:25:14,875
 and then one of them
 
 530
-00:25:13:09 --> 00:25:16:09
+00:25:14,875 --> 00:25:17,875
 He reached Cabo de la Vela, near Cabo de la Vela.
 
 531
-00:25:16:17 --> 00:25:17:18
+00:25:18,208 --> 00:25:19,250
 Over there,
 
 532
-00:25:17:18 --> 00:25:20:20
+00:25:19,250 --> 00:25:22,333
 While he was with his animals, a woman named Jepiraichi passed by.
 
 533
-00:25:21:08 --> 00:25:23:16
+00:25:22,833 --> 00:25:25,166
 This woman asked him what he came for.
 
 534
-00:25:23:16 --> 00:25:26:16
+00:25:25,166 --> 00:25:28,166
 He told him, I've come to seek land for my herd.
 
 535
-00:25:27:06 --> 00:25:28:06
+00:25:28,750 --> 00:25:29,750
 She left
 
 536
-00:25:28:06 --> 00:25:31:06
+00:25:29,750 --> 00:25:32,750
 and returned in the evening and brought him fish to eat,
 
 537
-00:25:31:14 --> 00:25:34:14
+00:25:33,083 --> 00:25:36,083
 delicious fish to eat, snapper, grouper.
 
 538
-00:25:34:21 --> 00:25:38:00
+00:25:36,375 --> 00:25:39,500
 And then he asked her if she lived there.
 
 539
-00:25:38:00 --> 00:25:40:15
+00:25:39,500 --> 00:25:42,166
 She told him that she didn’t live here, but she would passed by.
 
 540
-00:25:40:15 --> 00:25:42:17
+00:25:42,166 --> 00:25:44,250
 The winds do not live in one place,
 
 541
-00:25:42:17 --> 00:25:45:17
+00:25:44,250 --> 00:25:47,250
 the winds pass through the places, they fell in love
 
 542
-00:25:46:01 --> 00:25:49:01
+00:25:47,583 --> 00:25:50,583
 and all Kamaishi's herd ended up in the Sea
 
 543
-00:25:49:06 --> 00:25:52:03
+00:25:50,791 --> 00:25:53,666
 and they are many of the fish we have today.
 
 544
-00:25:52:03 --> 00:25:56:06
+00:25:53,666 --> 00:25:57,791
 The other brother went to where his place is today,
 
 545
-00:25:57:04 --> 00:25:59:23
+00:25:58,708 --> 00:26:01,500
 He met a wind woman called Arüleshi
 
 546
-00:25:59:23 --> 00:26:01:16
+00:26:01,500 --> 00:26:03,208
 and she asked him what he was doing.
 
 547
-00:26:01:16 --> 00:26:03:08
+00:26:03,208 --> 00:26:04,875
 He told her what he was doing
 
 548
-00:26:03:08 --> 00:26:06:08
+00:26:04,875 --> 00:26:07,875
 and she returned in the evening with corn,
 
 549
-00:26:06:13 --> 00:26:09:14
+00:26:08,083 --> 00:26:11,125
 beans, pumpkin, cassava, food.
 
 550
-00:26:09:23 --> 00:26:14:01
+00:26:11,500 --> 00:26:15,583
 And then the two fell in love and this man became
 
 551
-00:26:14:10 --> 00:26:17:11
+00:26:15,958 --> 00:26:19,000
 Who, in some way, influences
 
 552
-00:26:18:05 --> 00:26:21:04
+00:26:19,750 --> 00:26:22,708
 the food on Earth.
 
 553
-00:26:21:13 --> 00:26:23:17
+00:26:23,083 --> 00:26:25,291
 So there it stayed and became a hill
 
 554
-00:26:23:17 --> 00:26:24:15
+00:26:25,291 --> 00:26:26,208
 and it is the hill that
 
 555
-00:26:24:15 --> 00:26:28:13
+00:26:26,208 --> 00:26:30,125
 we know today. That triad of brother hills,
 
 556
-00:26:28:14 --> 00:26:31:14
+00:26:30,166 --> 00:26:33,166
 They are a territorial arrangement,
 
 557
-00:26:31:20 --> 00:26:33:11
+00:26:33,416 --> 00:26:35,041
 of economic activities
 
 558
-00:26:33:11 --> 00:26:36:11
+00:26:35,041 --> 00:26:38,041
 of the territory written from a referential time.
 
 559
-00:26:37:10 --> 00:26:39:08
+00:26:39,000 --> 00:26:40,916
 Interesting.
 
 560
-00:26:39:08 --> 00:26:39:18
+00:26:40,916 --> 00:26:41,333
 Well, I
 
 561
-00:26:39:18 --> 00:26:41:10
+00:26:41,333 --> 00:26:43,000
 I think at one point,
 
 562
-00:26:41:10 --> 00:26:45:18
+00:26:43,000 --> 00:26:47,333
 we want you to maybe give us a little tour of
 
 563
-00:26:46:22 --> 00:26:49:22
+00:26:48,500 --> 00:26:51,500
 your books and also the room and
 
 564
-00:26:50:10 --> 00:26:53:10
+00:26:52,000 --> 00:26:55,000
 the painting there and can you tell me
 
 565
-00:26:53:10 --> 00:26:56:18
+00:26:55,000 --> 00:26:58,333
 which room or house are we in now?
 
 566
-00:26:57:06 --> 00:26:59:12
+00:26:58,833 --> 00:27:01,083
 Of course. Well, it’s my house.
 
 567
-00:26:59:12 --> 00:27:02:11
+00:27:01,083 --> 00:27:04,041
 This is my house that I am just building,
 
 568
-00:27:02:11 --> 00:27:05:11
+00:27:04,041 --> 00:27:07,083
 It's not finished,
 
 569
-00:27:05:18 --> 00:27:07:11
+00:27:07,375 --> 00:27:09,083
 but hey, I'm building it just the way I like it
 
 570
-00:27:07:11 --> 00:27:11:02
+00:27:09,083 --> 00:27:12,708
 like a enrramada Wayúu open to the winds.
 
 571
-00:27:11:11 --> 00:27:12:08
+00:27:13,083 --> 00:27:13,958
 Yes.
 
 572
-00:27:12:08 --> 00:27:14:06
+00:27:13,958 --> 00:27:15,875
 Tell me a little about that architecture.
 
 573
-00:27:14:06 --> 00:27:17:02
+00:27:15,875 --> 00:27:18,708
 Is it anything like the original?
 
 574
-00:27:17:02 --> 00:27:20:02
+00:27:18,708 --> 00:27:21,708
 Yes, it is very original and it is open.
 
 575
-00:28:19:02 --> 00:28:19:22
+00:28:20,750 --> 00:28:21,583
 This is a girl in the
 
 576
-00:28:19:22 --> 00:28:21:15
+00:28:21,583 --> 00:28:23,291
 confinement, to the Wayúu girls,
 
 577
-00:28:21:15 --> 00:28:24:17
+00:28:23,291 --> 00:28:26,375
 When they experience their first menstruation they lock them up
 
 578
-00:28:25:01 --> 00:28:28:18
+00:28:26,708 --> 00:28:30,458
 and she spends months there, learning how to knit,
 
 579
-00:28:29:02 --> 00:28:32:13
+00:28:30,791 --> 00:28:34,250
 who is her family, learning how to think, her grandmother, her mother, her aunts,
 
 580
-00:28:32:20 --> 00:28:33:18
+00:28:34,541 --> 00:28:35,458
 They are going to teach it.
 
 581
-00:28:33:18 --> 00:28:36:19
+00:28:35,458 --> 00:28:38,500
 And that's what she's doing there. She’s in limbo
 
 582
-00:28:37:06 --> 00:28:40:16
+00:28:38,958 --> 00:28:42,375
 She is neither a girl nor a woman, she is like a chrysalis.
 
 583
-00:28:40:23 --> 00:28:43:02
+00:28:42,666 --> 00:28:44,791
 When she comes out, she comes out as a woman.
 
 584
-00:28:44:16 --> 00:28:45:15
+00:28:46,375 --> 00:28:47,333
 Can you tell me a
 
 585
-00:28:45:15 --> 00:28:48:15
+00:28:47,333 --> 00:28:50,333
 bit of this cane
 
 586
-00:28:49:11 --> 00:28:51:19
+00:28:51,166 --> 00:28:53,500
 and
 
 587
-00:28:51:19 --> 00:28:52:06
+00:28:53,500 --> 00:28:53,958
 what is it?
 
 588
-00:28:52:06 --> 00:28:55:06
+00:28:53,958 --> 00:28:56,958
 And also, can you also explain to me about the graph down there?
 
 589
-00:29:01:10 --> 00:29:06:05
+00:29:03,125 --> 00:29:07,916
 This cane is a wararat or Wayúu palabrero cane,
 
 590
-00:29:06:05 --> 00:29:09:14
+00:29:07,916 --> 00:29:11,333
 It is the one he uses to carry the word,
 
 591
-00:29:10:02 --> 00:29:14:03
+00:29:11,833 --> 00:29:15,875
 It is a support point for the body, a support point for memory.
 
 592
-00:29:14:18 --> 00:29:17:11
+00:29:16,500 --> 00:29:19,208
 It serves to point out someone in a process,
 
 593
-00:29:17:11 --> 00:29:19:15
+00:29:19,208 --> 00:29:21,375
 You can't point your finger at it.
 
 594
-00:29:19:15 --> 00:29:22:03
+00:29:21,375 --> 00:29:23,875
 Used to draw in the sand
 
 595
-00:29:22:03 --> 00:29:25:11
+00:29:23,875 --> 00:29:27,208
 and to retain memory of the arguments
 
 596
-00:29:25:11 --> 00:29:27:17
+00:29:27,208 --> 00:29:29,458
 That is he giving to the other party.
 
 597
-00:29:27:17 --> 00:29:31:14
+00:29:29,458 --> 00:29:33,333
 This is the ground connection point,
 
 598
-00:29:32:03 --> 00:29:35:09
+00:29:33,875 --> 00:29:37,125
 The Earth can convey through the message he must give.
 
 599
-00:29:35:22 --> 00:29:38:11
+00:29:37,666 --> 00:29:40,208
 This is the weapon of the palabrero, because with this
 
 600
-00:29:38:11 --> 00:29:41:11
+00:29:40,208 --> 00:29:43,208
 He defends himself against the dogs that bark on the roads.
 
 601
-00:29:41:11 --> 00:29:44:03
+00:29:43,208 --> 00:29:45,875
 So these are the roles of the cane.
 
 602
-00:29:44:03 --> 00:29:46:19
+00:29:45,875 --> 00:29:48,541
 This bird is called Utta,
 
 603
-00:29:46:19 --> 00:29:50:02
+00:29:48,541 --> 00:29:51,875
 He was the first palabrero that existed in mythological times
 
 604
-00:29:50:09 --> 00:29:53:05
+00:29:52,166 --> 00:29:55,000
 and he was the one who gave it to humans
 
 605
-00:29:53:05 --> 00:29:55:22
+00:29:55,000 --> 00:29:57,708
 the principles of life, of the law on Earth,
 
 606
-00:29:55:22 --> 00:29:57:04
+00:29:57,708 --> 00:29:58,958
 of the standards.
 
 607
-00:29:57:04 --> 00:30:00:07
+00:29:58,958 --> 00:30:02,083
 And then the palabreros, who are they?
 
 608
-00:30:00:07 --> 00:30:00:19
+00:30:02,083 --> 00:30:02,583
 What do they do?
 
 609
-00:30:00:19 --> 00:30:04:05
+00:30:02,583 --> 00:30:06,000
 What is their role?
 The role of palabreros is to be intermediaries,
 
 610
-00:30:04:11 --> 00:30:07:19
+00:30:06,250 --> 00:30:09,583
 rhetoric specialists who know the Wayúu laws
 
 611
-00:30:08:06 --> 00:30:11:08
+00:30:10,041 --> 00:30:13,125
 and mediate family disputes.
 
 612
-00:30:11:16 --> 00:30:15:08
+00:30:13,458 --> 00:30:17,125
 Their role is to bring them to a peaceful settlement
 
 613
-00:30:15:18 --> 00:30:18:08
+00:30:17,541 --> 00:30:20,125
 since they obtain compensation.
 
 614
-00:30:18:08 --> 00:30:22:14
+00:30:20,125 --> 00:30:24,375
 It is the persuasive rhetoric that leads to peace.
 
 615
-00:30:23:01 --> 00:30:25:15
+00:30:24,833 --> 00:30:27,416
 The cane is the vehicle of the word.
 
 616
-00:30:25:15 --> 00:30:27:07
+00:30:27,416 --> 00:30:29,083
 It is known as this.
 
 617
-00:30:27:07 --> 00:30:30:07
+00:30:29,083 --> 00:30:32,083
 That is the role and meaning that these canes have.
 
 618
-00:30:30:16 --> 00:30:31:07
+00:30:32,458 --> 00:30:33,083
 And the,
 
 619
-00:30:32:10 --> 00:30:35:10
+00:30:34,250 --> 00:30:37,250
 That system is not criminal, right?
 
 620
-00:30:36:12 --> 00:30:38:22
+00:30:38,333 --> 00:30:40,750
 Is it a restorative system?
 It is a non-punitive restorative system,
 
 621
-00:30:38:22 --> 00:30:42:18
+00:30:40,750 --> 00:30:44,583
 because it does not seek to punish anyone, it seeks to compensate
 
 622
-00:30:42:18 --> 00:30:43:22
+00:30:44,583 --> 00:30:45,750
 the fault committed
 
 623
-00:30:43:22 --> 00:30:45:12
+00:30:45,750 --> 00:30:47,333
 through material
 
 624
-00:30:45:12 --> 00:30:46:05
+00:30:47,333 --> 00:30:48,041
 and aesthetic elements
 
 625
-00:30:46:05 --> 00:30:50:03
+00:30:48,041 --> 00:30:51,958
 like cattle, collars, even hand over the firearm
 
 626
-00:30:50:12 --> 00:30:53:12
+00:30:52,333 --> 00:30:55,333
 that has caused a death, for example.
 
 627
-00:30:53:14 --> 00:30:56:10
+00:30:55,416 --> 00:30:58,250
 In order to seek restoration
 
 628
-00:30:56:10 --> 00:30:58:03
+00:30:58,250 --> 00:30:59,958
 of family relationships
 
 629
-00:30:58:03 --> 00:31:00:08
+00:30:59,958 --> 00:31:02,166
 between families that are in dispute,
 
 630
-00:31:00:08 --> 00:31:03:09
+00:31:02,166 --> 00:31:05,208
 not between two individuals, between sets
 
 631
-00:31:03:09 --> 00:31:06:09
+00:31:05,208 --> 00:31:08,208
 relatives of those two individuals.
 
 632
-00:31:06:18 --> 00:31:09:16
+00:31:08,583 --> 00:31:11,500
 And can you show me the symbol here?
 
 633
-00:31:09:16 --> 00:31:12:17
+00:31:11,500 --> 00:31:14,541
 Here we have at the base of the cane,
 
 634
-00:31:13:09 --> 00:31:16:17
+00:31:15,250 --> 00:31:18,583
 In this particular cane, there are many types of canes
 
 635
-00:31:16:17 --> 00:31:19:17
+00:31:18,583 --> 00:31:21,583
 and they can be different, even made of different woods.
 
 636
-00:31:20:12 --> 00:31:24:13
+00:31:22,375 --> 00:31:26,416
 The clan, the clan emblem of my, of my Uriana clan
 
 637
-00:31:25:00 --> 00:31:27:10
+00:31:26,875 --> 00:31:29,291
 Yes, that is the iron or clan emblem
 
 638
-00:31:34:16 --> 00:31:37:16
+00:31:36,541 --> 00:31:39,541
 Do you consider yourself a palabrero?
 
 639
-00:31:38:02 --> 00:31:41:17
+00:31:39,958 --> 00:31:43,583
 No. Even though I have solved 223
 
 640
-00:31:41:17 --> 00:31:45:04
+00:31:43,583 --> 00:31:47,041
 conflicts, throughout that,
 
 641
-00:31:45:04 --> 00:31:47:19
+00:31:47,041 --> 00:31:49,666
 when I was Secretary of indigenous affairs,
 
 642
-00:31:47:19 --> 00:31:50:19
+00:31:49,666 --> 00:31:52,666
 but I don't consider it because the word palabrero
 
 643
-00:31:50:19 --> 00:31:53:19
+00:31:52,666 --> 00:31:55,666
 It means pütchipü, a person whose job is to speak.
 
 644
-00:31:54:00 --> 00:31:57:06
+00:31:55,875 --> 00:31:59,166
 But there are words in a wayúnaiki like pütcheje'chi and
 
 645
-00:31:57:06 --> 00:32:00:02
+00:31:59,166 --> 00:32:02,000
 is that sometimes settle disputes or Pütchejana,
 
 646
-00:32:00:02 --> 00:32:01:02
+00:32:02,000 --> 00:32:03,000
 which is the messenger.
 
 647
-00:32:01:02 --> 00:32:04:06
+00:32:03,000 --> 00:32:06,166
 So, I have intervened in many Wayúu disputes
 
 648
-00:32:04:15 --> 00:32:07:15
+00:32:06,541 --> 00:32:09,541
 trying to mediate, but it's not my job.
 
 649
-00:32:07:16 --> 00:32:09:09
+00:32:09,583 --> 00:32:11,291
 Okay.
 
 650
-00:32:09:09 --> 00:32:12:09
+00:32:11,291 --> 00:32:14,291
 Can you show me that book,
 
 651
-00:32:14:13 --> 00:32:16:23
+00:32:16,458 --> 00:32:18,875
 “El Cimarrón”?
 
 652
-00:32:16:23 --> 00:32:18:12
+00:32:18,875 --> 00:32:20,416
 This book,
 
 653
-00:32:18:12 --> 00:32:22:01
+00:32:20,416 --> 00:32:23,958
 It is a book of my authorship called El Mar Cimarrón,
 
 654
-00:32:22:19 --> 00:32:26:01
+00:32:24,708 --> 00:32:27,958
 that explains the relationships of the Wayúu with the sea,
 
 655
-00:32:26:11 --> 00:32:29:11
+00:32:28,375 --> 00:32:31,375
 their conceptualizations, their navigation ways,
 
 656
-00:32:29:16 --> 00:32:32:16
+00:32:31,583 --> 00:32:34,583
 the relationship with fish, with turtles,
 
 657
-00:32:32:18 --> 00:32:33:16
+00:32:34,666 --> 00:32:35,583
 with shrimp,
 
 658
-00:32:33:16 --> 00:32:35:20
+00:32:35,583 --> 00:32:37,750
 with all marine beings, but also
 
 659
-00:32:35:20 --> 00:32:38:06
+00:32:37,750 --> 00:32:40,208
 the landscape backgrounds in the sea,
 
 660
-00:32:38:06 --> 00:32:40:19
+00:32:40,208 --> 00:32:42,750
 What are seascapes called?
 
 661
-00:32:40:19 --> 00:32:42:10
+00:32:42,750 --> 00:32:44,375
 How they classify them,
 
 662
-00:32:42:10 --> 00:32:45:05
+00:32:44,375 --> 00:32:47,166
 how they navigate and how they navigate through the stars,
 
 663
-00:32:45:05 --> 00:32:48:17
+00:32:47,166 --> 00:32:50,666
 the constellations, the techniques, the fishing nets.
 
 664
-00:32:49:01 --> 00:32:52:05
+00:32:51,000 --> 00:32:54,166
 Tries to explain the Wayúu system,
 
 665
-00:32:52:05 --> 00:32:55:05
+00:32:54,166 --> 00:32:57,166
 in which fishing is marine cattle
 
 666
-00:32:55:09 --> 00:32:59:12
+00:32:57,333 --> 00:33:01,458
 and therefore there is a relationship of the Wayuú
 
 667
-00:32:59:13 --> 00:33:01:07
+00:33:01,500 --> 00:33:03,250
 with those marine cattle.
 
 668
-00:33:01:07 --> 00:33:04:12
+00:33:03,250 --> 00:33:06,458
 The sea is like a meadow, an immense meadow
 
 669
-00:33:04:12 --> 00:33:06:07
+00:33:06,458 --> 00:33:08,250
 where there are cattle and that animal,
 
 670
-00:33:06:07 --> 00:33:08:09
+00:33:08,250 --> 00:33:10,333
 those cattle are the fish.
 
 671
-00:33:08:09 --> 00:33:09:10
+00:33:10,333 --> 00:33:11,375
 And the symbols?
 
 672
-00:33:09:10 --> 00:33:12:12
+00:33:11,375 --> 00:33:14,458
 This symbol is called jimeuiya,
 
 673
-00:33:12:12 --> 00:33:14:20
+00:33:14,458 --> 00:33:16,791
 It means like the eye of the fish.
 
 674
-00:33:14:20 --> 00:33:17:13
+00:33:16,791 --> 00:33:19,500
 It is in the Wayuú fabric, it is in
 
 675
-00:33:17:13 --> 00:33:20:23
+00:33:19,500 --> 00:33:22,958
 Much of the Wayúu fabric are symbols of the sea.
 
 676
-00:33:20:23 --> 00:33:24:10
+00:33:22,958 --> 00:33:26,416
 There are many other symbols of the sea that can be
 
 677
-00:33:25:19 --> 00:33:27:19
+00:33:27,791 --> 00:33:29,791
 present in ceramics,
 
 678
-00:33:27:19 --> 00:33:30:19
+00:33:29,791 --> 00:33:32,791
 not only in the fabric and
 
 679
-00:33:31:14 --> 00:33:33:17
+00:33:33,583 --> 00:33:35,708
 All these symbols are very important.
 
 680
-00:33:33:17 --> 00:33:36:17
+00:33:35,708 --> 00:33:38,708
 Here, for example, we have
 
 681
-00:33:36:23 --> 00:33:39:16
+00:33:38,958 --> 00:33:41,666
 the snail, the crab,
 
 682
-00:33:39:16 --> 00:33:41:06
+00:33:41,666 --> 00:33:43,250
 this is in wayúu ceramics
 
 683
-00:33:41:06 --> 00:33:44:06
+00:33:43,250 --> 00:33:46,250
 and these are canoe decorations, they are painted,
 
 684
-00:33:44:06 --> 00:33:47:03
+00:33:46,250 --> 00:33:49,125
 the canoes are made up like a flirtatious woman,
 
 685
-00:33:47:03 --> 00:33:48:07
+00:33:49,125 --> 00:33:50,291
 in fact it is called süchepa.
 
 686
-00:33:48:07 --> 00:33:50:07
+00:33:50,291 --> 00:33:52,291
 The makeup of the canoe,
 
 687
-00:33:50:07 --> 00:33:51:10
+00:33:52,291 --> 00:33:53,416
 It is the face of the canoe
 
 688
-00:33:51:10 --> 00:33:53:06
+00:33:53,416 --> 00:33:55,250
 That it adorned like a woman,
 
 689
-00:33:53:06 --> 00:33:56:19
+00:33:55,250 --> 00:33:58,791
 Therefore the canoe is also painted and we can see it
 
 690
-00:33:56:19 --> 00:34:00:10
+00:33:58,791 --> 00:34:02,458
 in the boats, in the different Wayúu boats.
 
 691
-00:34:00:19 --> 00:34:03:19
+00:34:02,833 --> 00:34:05,833
 That canoe makeup.
 
 692
-00:34:04:00 --> 00:34:08:00
+00:34:06,041 --> 00:34:10,041
 Yes, we can, we can see in the boats,
 
 693
-00:34:08:00 --> 00:34:09:10
+00:34:10,041 --> 00:34:11,458
 which is an ornament.
 
 694
-00:34:09:10 --> 00:34:11:20
+00:34:11,458 --> 00:34:13,875
 Yes Yes.
 
 695
-00:34:11:20 --> 00:34:14:00
+00:34:13,875 --> 00:34:16,041
 This is.
 
 696
-00:34:14:00 --> 00:34:17:00
+00:34:16,041 --> 00:34:19,041
 I don't know if there is another book that you want to show us.
 
 697
-00:34:17:01 --> 00:34:19:11
+00:34:19,083 --> 00:34:21,500
 Well, this is my book of dispute (laughs)
 
 698
-00:34:21:23 --> 00:34:24:07
+00:34:24,000 --> 00:34:26,333
 well this is a book
 
 699
-00:34:24:07 --> 00:34:27:11
+00:34:26,333 --> 00:34:29,500
 about the Wayúu law and here we see the bird
 
 700
-00:34:27:11 --> 00:34:31:10
+00:34:29,500 --> 00:34:33,458
 Utta who is also the first palabrero, the first pütchipü.
 
 701
-00:34:31:23 --> 00:34:33:03
+00:34:34,000 --> 00:34:35,166
 and this book
 
 702
-00:34:33:03 --> 00:34:36:03
+00:34:35,166 --> 00:34:38,166
 won the national prize for Culture in Colombia for Anthropology
 
 703
-00:34:36:17 --> 00:34:38:22
+00:34:38,750 --> 00:34:40,958
 in the year 2000-2001
 
 704
-00:34:38:22 --> 00:34:41:21
+00:34:40,958 --> 00:34:43,958
 and well, it was the first book I published
 
 705
-00:34:42:04 --> 00:34:44:23
+00:34:44,250 --> 00:34:47,041
 and it has to do with all
 
 706
-00:34:44:23 --> 00:34:47:23
+00:34:47,041 --> 00:34:50,041
 Wayúu palabreros and the Wayuú regulatory system.
 
 707
-00:34:48:05 --> 00:34:50:21
+00:34:50,291 --> 00:34:52,958
 Here are the great palabreros of La Guajira.
 
 708
-00:34:50:21 --> 00:34:52:22
+00:34:52,958 --> 00:34:55,000
 Many of these have already died,
 
 709
-00:34:52:22 --> 00:34:55:22
+00:34:55,000 --> 00:34:58,000
 They existed and were very prestigious.
 
 710
-00:34:56:07 --> 00:34:59:16
+00:34:58,375 --> 00:35:01,750
 Yeah.
 
 711
-00:35:09:18 --> 00:35:13:22
+00:35:11,833 --> 00:35:16,000
 Here we have pulo'i de mar (of the Sea),
 
 712
-00:35:14:16 --> 00:35:18:10
+00:35:16,750 --> 00:35:20,500
 Pulo'i de mar is the owner of the sea animals, she is very rich.
 
 713
-00:35:19:03 --> 00:35:22:03
+00:35:21,208 --> 00:35:24,208
 To be able to access sea animals
 
 714
-00:35:22:09 --> 00:35:26:10
+00:35:24,458 --> 00:35:28,541
 you have to give her some, do some rituals
 
 715
-00:35:26:10 --> 00:35:27:14
+00:35:28,541 --> 00:35:29,708
 in which it is provided
 
 716
-00:35:27:14 --> 00:35:32:04
+00:35:29,708 --> 00:35:34,291
 an aromatic resin called malambo, malambo in wayunaiki
 
 717
-00:35:32:04 --> 00:35:34:02
+00:35:34,291 --> 00:35:36,208
 is called Alo'uka
 
 718
-00:35:34:02 --> 00:35:36:12
+00:35:36,208 --> 00:35:38,625
 That malambo is also used by divers
 
 719
-00:35:36:12 --> 00:35:39:12
+00:35:38,625 --> 00:35:41,625
 here to throw it when the sharks are around.
 
 720
-00:35:39:21 --> 00:35:43:04
+00:35:42,000 --> 00:35:45,291
 If a person overfishes, she punishes them.
 
 721
-00:35:43:19 --> 00:35:46:14
+00:35:45,916 --> 00:35:48,708
 That's why she doesn't like small turtles.
 
 722
-00:35:46:14 --> 00:35:49:20
+00:35:48,708 --> 00:35:51,958
 nor abuse the fish, but take what is necessary
 
 723
-00:35:50:03 --> 00:35:53:03
+00:35:52,250 --> 00:35:55,250
 to feed and to provide their family,
 
 724
-00:35:53:06 --> 00:35:56:00
+00:35:55,375 --> 00:35:58,125
 but without abusing it, because those fish
 
 725
-00:35:56:00 --> 00:35:57:14
+00:35:58,125 --> 00:35:59,708
 They are not from the fishermen,
 
 726
-00:35:57:14 --> 00:35:59:07
+00:35:59,708 --> 00:36:01,416
 They are her cattle, of pulo'i (spirit) of the sea.
 
 727
-00:36:01:13 --> 00:36:04:03
+00:36:03,666 --> 00:36:06,250
 is this here?
 
 728
-00:36:04:03 --> 00:36:07:03
+00:36:06,250 --> 00:36:09,291
 Familiar? Yeah.
 
 729
-00:36:09:17 --> 00:36:12:10
+00:36:11,875 --> 00:36:14,583
 Well, I wanted to know
 
 730
-00:36:12:10 --> 00:36:15:10
+00:36:14,583 --> 00:36:17,583
 of the origin of the Wayúu people,
 
 731
-00:36:15:20 --> 00:36:18:11
+00:36:18,000 --> 00:36:20,625
 where they have always been from, here?
 
 732
-00:36:18:11 --> 00:36:19:06
+00:36:20,625 --> 00:36:21,416
 Correct.
 
 733
-00:36:19:06 --> 00:36:22:03
+00:36:21,416 --> 00:36:24,291
 on the peninsula or?
 
 734
-00:36:31:06 --> 00:36:32:23
+00:36:33,416 --> 00:36:35,125
 Well,
 
 735
-00:36:32:23 --> 00:36:33:16
+00:36:35,125 --> 00:36:35,833
 the wayuú people
 
 736
-00:36:33:16 --> 00:36:35:05
+00:36:35,833 --> 00:36:37,375
 speaks a language
 
 737
-00:36:35:05 --> 00:36:38:16
+00:36:37,375 --> 00:36:40,833
 which belongs to the Arawak language family.
 
 738
-00:36:39:11 --> 00:36:42:17
+00:36:41,625 --> 00:36:44,875
 The Arawak language family is an Amazonian family.
 
 739
-00:36:44:21 --> 00:36:47:00
+00:36:47,041 --> 00:36:49,208
 Therefore,
 
 740
-00:36:47:00 --> 00:36:50:02
+00:36:49,208 --> 00:36:52,291
 We know that the Wayúu migrated like many peoples
 
 741
-00:36:50:02 --> 00:36:53:02
+00:36:52,291 --> 00:36:55,291
 who occupied the Caribbean, like the Taínos,
 
 742
-00:36:53:02 --> 00:36:56:08
+00:36:55,291 --> 00:36:58,541
 like the Caquetíos, who also had Amazonian languages.
 
 743
-00:36:57:08 --> 00:37:00:03
+00:36:59,541 --> 00:37:02,333
 Some of the Wayúu practices
 
 744
-00:37:00:03 --> 00:37:04:13
+00:37:02,333 --> 00:37:06,750
 fishing with traps have Amazonian features.
 
 745
-00:37:04:13 --> 00:37:07:13
+00:37:06,750 --> 00:37:09,750
 Much of its mythology is full of jaguar,
 
 746
-00:37:07:13 --> 00:37:12:15
+00:37:09,750 --> 00:37:14,833
 of elements of that class and therefore it would seem
 
 747
-00:37:13:02 --> 00:37:15:00
+00:37:15,291 --> 00:37:17,208
 that like many other towns that arrived
 
 748
-00:37:15:00 --> 00:37:16:23
+00:37:17,208 --> 00:37:19,166
 the Caribbean have that origin.
 
 749
-00:37:16:23 --> 00:37:20:03
+00:37:19,166 --> 00:37:22,333
 However, paleo archeologist and linguistics
 
 750
-00:37:20:03 --> 00:37:24:14
+00:37:22,333 --> 00:37:26,791
 studies will have to show that, what that relationship is.
 
 751
-00:37:25:02 --> 00:37:27:15
+00:37:27,291 --> 00:37:29,833
 But they are different from the language family
 
 752
-00:37:27:15 --> 00:37:30:22
+00:37:29,833 --> 00:37:33,166
 of the people of the Sierra, who are a linguistic family
 
 753
-00:37:30:22 --> 00:37:33:22
+00:37:33,166 --> 00:37:36,166
 chibcha, which come from Central America.
 
 754
-00:37:34:07 --> 00:37:37:00
+00:37:36,541 --> 00:37:39,250
 Ok, so it's more likely that they came from the Amazon?
 
 755
-00:37:38:06 --> 00:37:39:10
+00:37:40,500 --> 00:37:41,666
 It is more likely,
 
 756
-00:37:39:10 --> 00:37:42:10
+00:37:41,666 --> 00:37:44,666
 in a process lasting many centuries
 
 757
-00:37:43:12 --> 00:37:45:03
+00:37:45,750 --> 00:37:47,375
 and whether through the Orinoco,
 
 758
-00:37:45:03 --> 00:37:46:20
+00:37:47,375 --> 00:37:49,083
 either through the Llanos,
 
 759
-00:37:46:20 --> 00:37:49:04
+00:37:49,083 --> 00:37:51,416
 but they surely reached the peninsula.
 
 760
-00:37:49:04 --> 00:37:52:16
+00:37:51,416 --> 00:37:54,916
 It is a process of centuries that archeology, linguistics
 
 761
-00:37:53:03 --> 00:37:54:10
+00:37:55,375 --> 00:37:56,666
 will have to
 
 762
-00:37:54:10 --> 00:37:57:13
+00:37:56,666 --> 00:37:59,791
 solve and study more clearly over time.
 
 763
-00:37:58:21 --> 00:38:01:08
+00:38:01,125 --> 00:38:03,583
 And
 
 764
-00:38:01:08 --> 00:38:04:07
+00:38:03,583 --> 00:38:06,541
 that one,
 
 765
-00:38:04:23 --> 00:38:07:23
+00:38:07,208 --> 00:38:10,208
 the Wayuú
 
 766
-00:38:09:10 --> 00:38:10:06
+00:38:11,708 --> 00:38:12,541
 well,
 
 767
-00:38:10:06 --> 00:38:13:06
+00:38:12,541 --> 00:38:15,541
 they live in an almost desert place
 
 768
-00:38:14:16 --> 00:38:16:01
+00:38:16,958 --> 00:38:18,333
 Obviously there are
 
 769
-00:38:16:01 --> 00:38:19:01
+00:38:18,333 --> 00:38:21,333
 many reasons, because one cannot move,
 
 770
-00:38:19:11 --> 00:38:23:00
+00:38:21,750 --> 00:38:25,291
 but is there a reason why they have stayed here or why
 
 771
-00:38:23:08 --> 00:38:26:07
+00:38:25,625 --> 00:38:28,583
 do you keep that specific place?
 
 772
-00:38:26:10 --> 00:38:29:21
+00:38:28,708 --> 00:38:32,166
 Well, like every human society, the Wayúu appropriated
 
 773
-00:38:29:21 --> 00:38:33:16
+00:38:32,166 --> 00:38:35,958
 this territory, they dispersed throughout that territory
 
 774
-00:38:34:02 --> 00:38:37:17
+00:38:36,375 --> 00:38:40,000
 and established an intimate relationship with this territory
 
 775
-00:38:38:03 --> 00:38:41:00
+00:38:40,416 --> 00:38:43,291
 and I would say, with the different places
 
 776
-00:38:41:00 --> 00:38:44:15
+00:38:43,291 --> 00:38:46,916
 that each family group considers its origin
 
 777
-00:38:45:02 --> 00:38:47:17
+00:38:47,375 --> 00:38:50,000
 and to which it is associated, linked,
 
 778
-00:38:47:17 --> 00:38:52:11
+00:38:50,000 --> 00:38:54,791
 through cemeteries, water sources, subsistence areas
 
 779
-00:38:52:11 --> 00:38:56:18
+00:38:54,791 --> 00:38:59,083
 such as the sea or areas of pasture or animal hunting
 
 780
-00:38:57:01 --> 00:39:00:20
+00:38:59,375 --> 00:39:03,166
 and the Wayúu have an intense relationship with those places.
 
 781
-00:39:01:07 --> 00:39:05:05
+00:39:03,625 --> 00:39:07,541
 That's why they talk about ekii, territorial heads
 
 782
-00:39:06:00 --> 00:39:09:06
+00:39:08,333 --> 00:39:11,583
 through which they came into the world, territorial roots
 
 783
-00:39:09:16 --> 00:39:12:13
+00:39:12,000 --> 00:39:14,875
 where they consider themselves to have gone out into the world.
 
 784
-00:39:12:13 --> 00:39:14:19
+00:39:14,875 --> 00:39:17,125
 There is an ontology of place
 
 785
-00:39:14:19 --> 00:39:18:01
+00:39:17,125 --> 00:39:20,375
 and many times the Wayúu have an immense relationship,
 
 786
-00:39:18:07 --> 00:39:20:22
+00:39:20,625 --> 00:39:23,250
 almost always with that place
 
 787
-00:39:20:22 --> 00:39:23:14
+00:39:23,250 --> 00:39:25,916
 which is what in some way gives rise to life.
 
 788
-00:39:25:09 --> 00:39:27:13
+00:39:27,708 --> 00:39:29,875
 And it is, speaking of that a little bit of that,
 
 789
-00:39:27:13 --> 00:39:30:23
+00:39:29,875 --> 00:39:33,291
 can you tell me about the cemetery and the importance of
 
 790
-00:39:30:23 --> 00:39:33:23
+00:39:33,291 --> 00:39:36,333
 for you?
 
 791
-00:39:33:23 --> 00:39:35:09
+00:39:36,333 --> 00:39:37,750
 Well, family groups
 
 792
-00:39:35:09 --> 00:39:38:05
+00:39:37,750 --> 00:39:40,583
 They have a principle they call precedence.
 
 793
-00:39:38:05 --> 00:39:40:17
+00:39:40,583 --> 00:39:43,083
 The precedence is that in a territory
 
 794
-00:39:40:17 --> 00:39:42:09
+00:39:43,083 --> 00:39:44,750
 There are those who arrived first,
 
 795
-00:39:42:09 --> 00:39:45:09
+00:39:44,750 --> 00:39:47,750
 hundreds of years ago or dozens of years ago
 
 796
-00:39:45:10 --> 00:39:48:10
+00:39:47,791 --> 00:39:50,791
 and they began to found the houses,
 
 797
-00:39:48:12 --> 00:39:51:08
+00:39:50,875 --> 00:39:53,708
 water sources, roses for agriculture,
 
 798
-00:39:51:08 --> 00:39:52:20
+00:39:53,708 --> 00:39:55,208
 agricultural areas
 
 799
-00:39:52:20 --> 00:39:56:01
+00:39:55,208 --> 00:39:58,416
 and since they have died, the cemetery is accumulating
 
 800
-00:39:56:13 --> 00:39:59:00
+00:39:58,916 --> 00:40:01,375
 in the sequence of generations
 
 801
-00:39:59:00 --> 00:40:01:15
+00:40:01,375 --> 00:40:04,000
 that are a pact with the territory.
 
 802
-00:40:01:15 --> 00:40:05:12
+00:40:04,000 --> 00:40:07,875
 To offer the bodies and at the same time legitimize the presence
 
 803
-00:40:05:22 --> 00:40:08:02
+00:40:08,291 --> 00:40:10,458
 and the intimate relationship with that territory.
 
 804
-00:40:08:02 --> 00:40:11:16
+00:40:10,458 --> 00:40:14,041
 So the cemeteries are like the Wayúu writings,
 
 805
-00:40:12:02 --> 00:40:14:09
+00:40:14,458 --> 00:40:16,791
 the documents of a territory,
 
 806
-00:40:14:09 --> 00:40:16:01
+00:40:16,791 --> 00:40:18,458
 because there are generations
 
 807
-00:40:16:01 --> 00:40:19:04
+00:40:18,458 --> 00:40:21,583
 of human occupation that are accumulating,
 
 808
-00:40:19:10 --> 00:40:22:05
+00:40:21,833 --> 00:40:24,625
 they feed, they form a memory,
 
 809
-00:40:22:05 --> 00:40:25:08
+00:40:24,625 --> 00:40:27,750
 It is not only a memory in the mind,
 
 810
-00:40:25:17 --> 00:40:28:14
+00:40:28,125 --> 00:40:31,000
 but it has physical evidence, such as bones
 
 811
-00:40:28:14 --> 00:40:29:08
+00:40:31,000 --> 00:40:31,750
 of the ancestors.
 
 812
-00:40:30:21 --> 00:40:31:23
+00:40:33,291 --> 00:40:34,375
 So that
 
 813
-00:40:31:23 --> 00:40:34:23
+00:40:34,375 --> 00:40:37,375
 connection, that attraction like
 
 814
-00:40:35:05 --> 00:40:35:09
+00:40:37,625 --> 00:40:37,791
 is it?
 
 815
-00:40:35:09 --> 00:40:38:19
+00:40:37,791 --> 00:40:41,208
 How important is it to bury someone Wayúu?
 
 816
-00:40:40:00 --> 00:40:42:13
+00:40:42,416 --> 00:40:44,958
 There are two types of importance.
 
 817
-00:40:42:13 --> 00:40:43:22
+00:40:44,958 --> 00:40:46,333
 There are the first burials
 
 818
-00:40:43:22 --> 00:40:46:23
+00:40:46,333 --> 00:40:49,375
 When a person dies unexpectedly,
 
 819
-00:40:47:09 --> 00:40:50:15
+00:40:49,791 --> 00:40:53,041
 It could be due to an illness, it could be a war,
 
 820
-00:40:51:09 --> 00:40:54:03
+00:40:53,791 --> 00:40:56,541
 an epidemic, an accident
 
 821
-00:40:54:03 --> 00:40:55:21
+00:40:56,541 --> 00:40:58,333
 and the wake is held
 
 822
-00:40:55:21 --> 00:40:58:21
+00:40:58,333 --> 00:41:01,333
 which is the most important social event of the Wayú.
 
 823
-00:40:58:23 --> 00:41:03:13
+00:41:01,416 --> 00:41:06,000
 Animals are sacrificed, neighbors, relatives are invited
 
 824
-00:41:04:00 --> 00:41:07:23
+00:41:06,458 --> 00:41:10,416
 and there they are. After a certain time, about ten, twelve years,
 
 825
-00:41:07:23 --> 00:41:08:12
+00:41:10,416 --> 00:41:10,958
 eight years,
 
 826
-00:41:08:12 --> 00:41:12:03
+00:41:10,958 --> 00:41:14,583
 may vary, the family prepares to remove the remains,
 
 827
-00:41:12:13 --> 00:41:15:10
+00:41:15,000 --> 00:41:17,875
 accumulates animals, accumulates goods,
 
 828
-00:41:15:10 --> 00:41:17:22
+00:41:17,875 --> 00:41:20,375
 start preparing the cemetery,
 
 829
-00:41:17:22 --> 00:41:21:00
+00:41:20,375 --> 00:41:23,458
 make dwellings, bowers and make a second
 
 830
-00:41:21:00 --> 00:41:24:00
+00:41:23,458 --> 00:41:26,458
 burial, in that second burial
 
 831
-00:41:24:05 --> 00:41:27:13
+00:41:26,666 --> 00:41:30,000
 the body is separated from the meat from the bones and the bones
 
 832
-00:41:27:13 --> 00:41:31:07
+00:41:30,000 --> 00:41:33,750
 They are kept again in the cemetery, in a special place
 
 833
-00:41:32:02 --> 00:41:34:08
+00:41:34,541 --> 00:41:36,791
 wrapped with a special wrapper
 
 834
-00:41:34:08 --> 00:41:37:10
+00:41:36,791 --> 00:41:39,875
 and a ritual as or more important than the first.
 
 835
-00:41:37:23 --> 00:41:41:14
+00:41:40,458 --> 00:41:44,083
 That is a renewal of the pact with the territory
 
 836
-00:41:42:01 --> 00:41:45:19
+00:41:44,541 --> 00:41:48,291
 and at the same time it is the dilution of the individual in something
 
 837
-00:41:45:19 --> 00:41:49:04
+00:41:48,291 --> 00:41:51,666
 like the ancestors, in something collective
 
 838
-00:41:49:14 --> 00:41:53:00
+00:41:52,083 --> 00:41:55,500
 which is very important, where your individual traits
 
 839
-00:41:53:06 --> 00:41:56:11
+00:41:55,750 --> 00:41:58,958
 They begin to dilute and the collective begins to prevail.
 
 840
-00:41:58:13 --> 00:42:00:07
+00:42:01,041 --> 00:42:02,791
 and do you have a cemetery?
 
 841
-00:42:00:07 --> 00:42:02:09
+00:42:02,791 --> 00:42:04,875
 Definitely. It’s name is Manuyalu'u,
 
 842
-00:42:02:09 --> 00:42:05:09
+00:42:04,875 --> 00:42:07,875
 It is in Carrizal and I have shown it
 
 843
-00:42:06:21 --> 00:42:11:00
+00:42:09,375 --> 00:42:13,500
 in the books that I was able to show you yesterday.
 
 844
-00:42:11:13 --> 00:42:14:01
+00:42:14,041 --> 00:42:16,541
 That was from my great-grandmother who is
 
 845
-00:42:14:01 --> 00:42:17:00
+00:42:16,541 --> 00:42:19,500
 buried there, my grandmother, my great uncles.
 
 846
-00:42:17:10 --> 00:42:19:16
+00:42:19,916 --> 00:42:22,208
 But, that cemetery
 
 847
-00:42:19:16 --> 00:42:22:16
+00:42:22,208 --> 00:42:25,208
 It is later than an older cemetery
 
 848
-00:42:22:18 --> 00:42:26:10
+00:42:25,291 --> 00:42:28,958
 which may be three, four centuries old.
 
 849
-00:42:26:18 --> 00:42:30:12
+00:42:29,291 --> 00:42:33,041
 It is in Alta Guajira, since they migrated in the 19th century,
 
 850
-00:42:31:06 --> 00:42:33:14
+00:42:33,791 --> 00:42:36,125
 to that territory,
 
 851
-00:42:33:14 --> 00:42:36:13
+00:42:36,125 --> 00:42:39,083
 They established a new cemetery.
 
 852
-00:42:36:19 --> 00:42:39:05
+00:42:39,333 --> 00:42:41,750
 And, they did not lose the relationship
 
 853
-00:42:39:05 --> 00:42:42:05
+00:42:41,750 --> 00:42:44,750
 with the family that was in the old cemetery.
 
 854
-00:42:42:10 --> 00:42:45:10
+00:42:44,958 --> 00:42:47,958
 And when there is conflict, disputes or funerals,
 
 855
-00:42:46:09 --> 00:42:48:11
+00:42:48,916 --> 00:42:51,000
 connections between
 
 856
-00:42:48:11 --> 00:42:51:11
+00:42:51,000 --> 00:42:54,000
 those territories and those relatives appear.
 
 857
-00:42:52:09 --> 00:42:55:03
+00:42:54,916 --> 00:42:57,666
 Can you tell me
 
 858
-00:42:55:03 --> 00:42:58:03
+00:42:57,666 --> 00:43:00,666
 of rain, the gender and role of rain?
 
 859
-00:42:58:18 --> 00:43:01:15
+00:43:01,291 --> 00:43:04,208
 The rain,
 
 860
-00:43:01:15 --> 00:43:04:11
+00:43:04,208 --> 00:43:07,041
 Juyá, it's winter,
 
 861
-00:43:04:11 --> 00:43:06:21
+00:43:07,041 --> 00:43:09,458
 the heavy rains of October and November,
 
 862
-00:43:06:21 --> 00:43:09:12
+00:43:09,458 --> 00:43:12,083
 At the same time it is a rainy season,
 
 863
-00:43:09:12 --> 00:43:13:04
+00:43:12,083 --> 00:43:15,750
 He is a hyper masculine being who
 
 864
-00:43:14:14 --> 00:43:16:04
+00:43:17,166 --> 00:43:18,750
 has hypostasis, that is,
 
 865
-00:43:16:04 --> 00:43:21:03
+00:43:18,750 --> 00:43:23,708
 They have other beings that are, for example, iiwa or pamou,
 
 866
-00:43:21:03 --> 00:43:24:03
+00:43:23,708 --> 00:43:26,708
 or there are several that involve rain.
 
 867
-00:43:24:23 --> 00:43:27:23
+00:43:27,541 --> 00:43:30,541
 That hyper masculine being is the one that fertilizes the Earth
 
 868
-00:43:28:17 --> 00:43:32:10
+00:43:31,291 --> 00:43:35,000
 and gives life to the earth so that the earth can
 
 869
-00:43:32:20 --> 00:43:36:09
+00:43:35,416 --> 00:43:38,958
 give more humans, more trees, more animals.
 
 870
-00:43:36:16 --> 00:43:38:23
+00:43:39,250 --> 00:43:41,541
 Fertility itself.
 
 871
-00:43:38:23 --> 00:43:42:08
+00:43:41,541 --> 00:43:44,916
 In summer the earth falls into a faint,
 
 872
-00:43:42:08 --> 00:43:45:23
+00:43:44,916 --> 00:43:48,583
 like a woman, lifeless, falls lifeless, almost lifeless
 
 873
-00:43:46:12 --> 00:43:50:11
+00:43:49,125 --> 00:43:53,083
 and with rain, with Juyá who fertilizes her, her husband,
 
 874
-00:43:50:11 --> 00:43:54:16
+00:43:53,083 --> 00:43:57,291
 she revives, is brought to life again and the vital cycle
 
 875
-00:43:55:04 --> 00:43:58:04
+00:43:57,791 --> 00:44:00,791
 of all living beings returns.
 
 876
-00:43:58:04 --> 00:44:01:21
+00:44:00,791 --> 00:44:04,500
 That is why Juyá is a hyper masculine being, mobile like the rain.
 
 877
-00:44:02:15 --> 00:44:05:22
+00:44:05,250 --> 00:44:08,541
 The rain that there is also iiwa, another type of minor rain
 
 878
-00:44:05:22 --> 00:44:07:23
+00:44:08,541 --> 00:44:10,583
 that there can be feminine and masculine,
 
 879
-00:44:08:23 --> 00:44:11:23
+00:44:11,583 --> 00:44:14,583
 implies a gradualness in the way of falling
 
 880
-00:44:12:03 --> 00:44:15:07
+00:44:14,750 --> 00:44:17,916
 and a sequence in the lands that must be watered.
 
 881
-00:44:15:18 --> 00:44:17:02
+00:44:18,375 --> 00:44:19,708
 The Wayuú
 
 882
-00:44:17:02 --> 00:44:20:04
+00:44:19,708 --> 00:44:22,791
 They are always governed by the notion of order,
 
 883
-00:44:20:17 --> 00:44:22:02
+00:44:23,333 --> 00:44:24,708
 that things,
 
 884
-00:44:22:02 --> 00:44:26:05
+00:44:24,708 --> 00:44:28,875
 phenomena have an order to follow, a protocol
 
 885
-00:44:26:15 --> 00:44:31:18
+00:44:29,291 --> 00:44:34,416
 and a sequence and gradualness that manages intensity.
 
 886
-00:44:32:07 --> 00:44:35:01
+00:44:34,958 --> 00:44:37,708
 If it rains very hard on plants
 
 887
-00:44:35:01 --> 00:44:38:16
+00:44:37,708 --> 00:44:41,333
 small, tiny, this rain is going to destroy them.
 
 888
-00:44:38:16 --> 00:44:41:16
+00:44:41,333 --> 00:44:44,333
 That is equivalent to rape of a woman.
 
 889
-00:44:41:17 --> 00:44:45:00
+00:44:44,375 --> 00:44:47,666
 For this reason, rain is always asked to be gradual.
 
 890
-00:44:45:07 --> 00:44:46:01
+00:44:47,958 --> 00:44:48,708
 and an order,
 
 891
-00:44:46:01 --> 00:44:49:04
+00:44:48,708 --> 00:44:51,833
 a sequence of lands that must reach first,
 
 892
-00:44:49:10 --> 00:44:52:10
+00:44:52,083 --> 00:44:55,083
 others later and others finally.
 
 893
-00:45:16:18 --> 00:45:18:17
+00:45:19,458 --> 00:45:21,416
 Well, the
 
 894
-00:45:18:17 --> 00:45:22:04
+00:45:21,416 --> 00:45:24,875
 garden of life, the garden of the jungle, the garden
 
 895
-00:45:22:04 --> 00:45:26:14
+00:45:24,875 --> 00:45:29,291
 as a meeting place for humans and non-humans.
 
 896
-00:45:30:04 --> 00:45:33:04
+00:45:32,875 --> 00:45:35,875
 The world is seen as a crop.
 
 897
-00:45:33:22 --> 00:45:34:21
+00:45:36,625 --> 00:45:37,583
 The forests
 
 898
-00:45:34:21 --> 00:45:36:06
+00:45:37,583 --> 00:45:38,958
 They are a culture of beings
 
 899
-00:45:36:06 --> 00:45:39:05
+00:45:38,958 --> 00:45:41,916
 like Juya, winter,
 
 900
-00:45:39:15 --> 00:45:41:11
+00:45:42,333 --> 00:45:44,166
 the wild trees,
 
 901
-00:45:41:11 --> 00:45:44:11
+00:45:44,166 --> 00:45:47,166
 wild fruits are products
 
 902
-00:45:44:14 --> 00:45:47:15
+00:45:47,291 --> 00:45:50,375
 of Juya's will to cultivate (the rain)
 
 903
-00:45:48:07 --> 00:45:51:10
+00:45:51,041 --> 00:45:54,166
 The human garden, where the corn is, the watermelon,
 
 904
-00:45:51:10 --> 00:45:53:03
+00:45:54,166 --> 00:45:55,875
 the beans, the pumpkin,
 
 905
-00:45:53:03 --> 00:45:54:18
+00:45:55,875 --> 00:45:57,500
 They are the crops of humans,
 
 906
-00:45:54:18 --> 00:45:55:04
+00:45:57,500 --> 00:45:57,916
 In this way,
 
 907
-00:45:55:04 --> 00:45:58:19
+00:45:57,916 --> 00:46:01,541
 the entire universe corresponds to an order of a cultivation,
 
 908
-00:45:59:04 --> 00:46:02:04
+00:46:01,916 --> 00:46:04,916
 humans and crops of mythological beings.
 
 909
-00:46:02:04 --> 00:46:04:18
+00:46:04,916 --> 00:46:07,500
 So therefore there is no separation
 
 910
-00:46:04:18 --> 00:46:06:21
+00:46:07,500 --> 00:46:09,625
 because everything has an order.
 
 911
-00:46:06:21 --> 00:46:10:03
+00:46:09,625 --> 00:46:12,875
 The garden implies a relationship with many
 
 912
-00:46:10:03 --> 00:46:13:06
+00:46:12,875 --> 00:46:16,000
 beings, it is a stage, the garden is like a theater
 
 913
-00:46:13:23 --> 00:46:16:23
+00:46:16,708 --> 00:46:19,708
 and the actors are humans,
 
 914
-00:46:17:04 --> 00:46:21:02
+00:46:19,916 --> 00:46:23,833
 vegetable seeds, butterflies, worms,
 
 915
-00:46:22:00 --> 00:46:24:02
+00:46:24,750 --> 00:46:26,833
 the monkeys, the flies,
 
 916
-00:46:24:02 --> 00:46:27:02
+00:46:26,833 --> 00:46:29,833
 insects like bees,
 
 917
-00:46:27:15 --> 00:46:29:19
+00:46:30,375 --> 00:46:32,583
 the birds that eat the crops,
 
 918
-00:46:29:19 --> 00:46:33:08
+00:46:32,583 --> 00:46:36,125
 the monkeys, the wild pigs.
 
 919
-00:46:33:08 --> 00:46:35:20
+00:46:36,125 --> 00:46:38,625
 Everyone intervenes in the garden.
 
 920
-00:46:35:20 --> 00:46:39:10
+00:46:38,625 --> 00:46:42,208
 So each moment of a being has its appearance
 
 921
-00:46:39:16 --> 00:46:41:03
+00:46:42,458 --> 00:46:43,916
 like in a drama.
 
 922
-00:46:41:03 --> 00:46:43:14
+00:46:43,916 --> 00:46:46,375
 So the garden is a polyphonic drama,
 
 923
-00:46:43:14 --> 00:46:43:21
+00:46:46,375 --> 00:46:46,666
 And there they
 
 924
-00:46:43:21 --> 00:46:46:19
+00:46:46,666 --> 00:46:49,583
 coexist in a collaborative, harmonious way,
 
 925
-00:46:46:19 --> 00:46:48:03
+00:46:49,583 --> 00:46:50,916
 but also antagonistic
 
 926
-00:46:48:03 --> 00:46:50:13
+00:46:50,916 --> 00:46:53,333
 humans and other species,
 
 927
-00:46:50:13 --> 00:46:52:14
+00:46:53,333 --> 00:46:55,375
 It is not a mere vegetable manipulation.
 
 928
-00:46:53:13 --> 00:46:56:13
+00:46:56,333 --> 00:46:59,333
 That is the garden for the Wayuú.
 
 929
-00:48:28:08 --> 00:48:29:18
+00:48:31,208 --> 00:48:32,625
 Well,
 
 930
-00:48:29:18 --> 00:48:32:20
+00:48:32,625 --> 00:48:35,708
 many in the Western world
 
 931
-00:48:33:19 --> 00:48:35:21
+00:48:36,708 --> 00:48:38,791
 treat the Earth,
 
 932
-00:48:35:21 --> 00:48:39:19
+00:48:38,791 --> 00:48:42,708
 natural resources as something that can be extracted,
 
 933
-00:48:39:21 --> 00:48:42:04
+00:48:42,791 --> 00:48:45,083
 something that can be exploited.
 
 934
-00:48:42:04 --> 00:48:45:23
+00:48:45,083 --> 00:48:48,875
 What would be a lesson from the Wayuú
 
 935
-00:48:46:04 --> 00:48:49:04
+00:48:49,083 --> 00:48:52,083
 about that?
 
 936
-00:48:49:05 --> 00:48:49:19
+00:48:52,125 --> 00:48:52,708
 The Wayuú
 
 937
-00:48:49:19 --> 00:48:52:21
+00:48:52,708 --> 00:48:55,791
 They have a notion that somehow
 
 938
-00:48:53:13 --> 00:48:55:22
+00:48:56,458 --> 00:48:58,833
 the elements found
 
 939
-00:48:55:22 --> 00:48:58:22
+00:48:58,833 --> 00:49:01,833
 Both on land and in the sea they have owners.
 
 940
-00:48:59:04 --> 00:49:02:04
+00:49:02,083 --> 00:49:05,083
 Animals have owners, the deer, the rabbit,
 
 941
-00:49:02:10 --> 00:49:05:02
+00:49:05,333 --> 00:49:08,000
 Hunting animals have an owner.
 
 942
-00:49:05:02 --> 00:49:07:23
+00:49:08,000 --> 00:49:10,875
 To access them you must ask for permission.
 
 943
-00:49:07:23 --> 00:49:09:02
+00:49:10,875 --> 00:49:12,000
 through rituals
 
 944
-00:49:09:02 --> 00:49:12:07
+00:49:12,000 --> 00:49:15,208
 to the owners of these animals and not take them in excess.
 
 945
-00:49:13:07 --> 00:49:17:00
+00:49:16,208 --> 00:49:19,958
 Those animals are relatives and, in the sea, likewise
 
 946
-00:49:17:13 --> 00:49:19:11
+00:49:20,500 --> 00:49:22,416
 It’s not full of natural strangers,
 
 947
-00:49:19:11 --> 00:49:22:19
+00:49:22,416 --> 00:49:25,750
 It's full of relatives from whom we can take
 
 948
-00:49:22:19 --> 00:49:24:17
+00:49:25,750 --> 00:49:27,666
 What we need to feed ourselves,
 
 949
-00:49:24:17 --> 00:49:26:06
+00:49:27,666 --> 00:49:29,208
 But by also asking permission from
 
 950
-00:49:26:06 --> 00:49:29:06
+00:49:29,208 --> 00:49:32,208
 Pulo'i who is the owner of those animals.
 
 951
-00:49:29:12 --> 00:49:32:02
+00:49:32,458 --> 00:49:35,041
 These are relationships of
 
 952
-00:49:32:02 --> 00:49:34:13
+00:49:35,041 --> 00:49:37,500
 in some way reciprocity.
 
 953
-00:49:34:13 --> 00:49:37:11
+00:49:37,500 --> 00:49:40,416
 The Wayuú say, when I'm hungry, says a fisherman,
 
 954
-00:49:37:11 --> 00:49:40:02
+00:49:40,416 --> 00:49:43,041
 I go to the sea, I take an animal and I eat it.
 
 955
-00:49:40:02 --> 00:49:41:23
+00:49:43,041 --> 00:49:44,916
 They are safe at sea.
 
 956
-00:49:41:23 --> 00:49:45:16
+00:49:44,916 --> 00:49:48,625
 The sea is the meadow, the corral of the animals
 
 957
-00:49:46:01 --> 00:49:49:22
+00:49:49,000 --> 00:49:52,875
 and on land there are protective relationships with the sheep,
 
 958
-00:49:49:22 --> 00:49:52:06
+00:49:52,875 --> 00:49:55,208
 goats, which are animals
 
 959
-00:49:52:06 --> 00:49:54:01
+00:49:55,208 --> 00:49:57,000
 that are under the control of humans.
 
 960
-00:49:54:01 --> 00:49:56:20
+00:49:57,000 --> 00:49:59,791
 But humans also lose their autonomy
 
 961
-00:49:56:20 --> 00:49:59:04
+00:49:59,791 --> 00:50:02,166
 when they have animals under their control,
 
 962
-00:49:59:04 --> 00:50:00:17
+00:50:02,166 --> 00:50:03,708
 They have to take them to pasture,
 
 963
-00:50:00:17 --> 00:50:03:14
+00:50:03,708 --> 00:50:06,583
 They have to take him to water, to drink water
 
 964
-00:50:03:14 --> 00:50:05:04
+00:50:06,583 --> 00:50:08,166
 If they are sick, take care of them,
 
 965
-00:50:05:04 --> 00:50:07:13
+00:50:08,166 --> 00:50:10,541
 then both lose their autonomy.
 
 966
-00:50:07:13 --> 00:50:08:07
+00:50:10,541 --> 00:50:11,291
 Somehow,
 
 967
-00:50:08:07 --> 00:50:11:07
+00:50:11,291 --> 00:50:14,291
 the sheep also control the shepherds.
 
 968
-00:50:11:07 --> 00:50:14:00
+00:50:14,291 --> 00:50:17,000
 So it is the Wayúu vision of that, of the world.
 
 969
-00:50:14:00 --> 00:50:16:20
+00:50:17,000 --> 00:50:19,833
 The fisherman privileges his freedom
 
 970
-00:50:16:20 --> 00:50:18:09
+00:50:19,833 --> 00:50:21,375
 to be a free being in the world
 
 971
-00:50:18:09 --> 00:50:20:22
+00:50:21,375 --> 00:50:23,916
 Like fish that are free, they are not confined.
 
 972
-00:50:21:22 --> 00:50:22:21
+00:50:24,916 --> 00:50:25,875
 The Shepherd
 
 973
-00:50:22:21 --> 00:50:26:02
+00:50:25,875 --> 00:50:29,083
 restricts their autonomy as a human and that of other
 
 974
-00:50:26:15 --> 00:50:29:15
+00:50:29,625 --> 00:50:32,625
 non-human beings who are under their protection.
 
 975
-00:50:29:16 --> 00:50:32:16
+00:50:32,666 --> 00:50:35,666
 So it's the world view of that.
 
 976
-00:50:32:16 --> 00:50:35:16
+00:50:35,666 --> 00:50:38,666
 But at no point is the natural seen as strange.
 
 977
-00:50:35:22 --> 00:50:38:22
+00:50:38,916 --> 00:50:41,958
 It is always seen as part of an order
 
 978
-00:50:39:22 --> 00:50:43:04
+00:50:42,958 --> 00:50:46,208
 in which the human is one of the living forms
 
 979
-00:50:43:17 --> 00:50:47:05
+00:50:46,750 --> 00:50:50,250
 and eats the animals because it is subsistence,
 
 980
-00:50:47:05 --> 00:50:48:21
+00:50:50,250 --> 00:50:51,916
 but you have to ask permission
 
 981
-00:50:48:21 --> 00:50:51:21
+00:50:51,916 --> 00:50:54,916
 in some way to be able to take advantage.
 
 982
-00:50:52:00 --> 00:50:53:08
+00:50:55,041 --> 00:50:56,375
 How does one ask for permission?
 
 983
-00:50:53:08 --> 00:50:56:08
+00:50:56,375 --> 00:50:59,375
 Permissions are requested through rituals, in some way
 
 984
-00:50:56:18 --> 00:50:59:22
+00:50:59,791 --> 00:51:02,958
 When the Wayúu use malambo in fishing
 
 985
-00:51:00:08 --> 00:51:03:08
+00:51:03,375 --> 00:51:06,375
 and prepare infusions and
 
 986
-00:51:04:02 --> 00:51:06:20
+00:51:07,125 --> 00:51:09,875
 They narrate or make a spell, they tell Pulo'i
 
 987
-00:51:06:20 --> 00:51:07:17
+00:51:09,875 --> 00:51:10,750
 “here I bring you.
 
 988
-00:51:07:17 --> 00:51:09:23
+00:51:10,750 --> 00:51:13,000
 Don't say I didn't bring you anything:
 
 989
-00:51:09:23 --> 00:51:14:05
+00:51:13,000 --> 00:51:17,250
 Here you have this aromatic resin”, they throw it into the sea
 
 990
-00:51:14:05 --> 00:51:16:09
+00:51:17,250 --> 00:51:19,416
 or rub it on fishing nets
 
 991
-00:51:16:09 --> 00:51:18:10
+00:51:19,416 --> 00:51:21,458
 so that she can give them fish.
 
 992
-00:51:18:10 --> 00:51:21:04
+00:51:21,458 --> 00:51:24,250
 It is a vision that there is a system
 
 993
-00:51:21:04 --> 00:51:25:17
+00:51:24,250 --> 00:51:28,791
 and they are part of that and they need authorization
 
 994
-00:51:25:17 --> 00:51:28:17
+00:51:28,791 --> 00:51:31,791
 to take those animals
 
 995
-00:51:29:00 --> 00:51:30:14
+00:51:32,083 --> 00:51:33,666
 that are their subsistence,
 
 996
-00:51:30:14 --> 00:51:32:09
+00:51:33,666 --> 00:51:35,458
 but which cannot be abused.
 
 997
-00:51:32:09 --> 00:51:33:11
+00:51:35,458 --> 00:51:36,541
 How different it would be
 
 998
-00:51:33:11 --> 00:51:36:07
+00:51:36,541 --> 00:51:39,375
 yes all industrial fishermen
 
 999
-00:51:37:12 --> 00:51:40:12
+00:51:40,583 --> 00:51:43,583
 before doing that they would ask
 
 1000
-00:51:41:16 --> 00:51:43:05
+00:51:44,750 --> 00:51:46,291
 permission.
 That's correct.
 
 1001
-00:51:43:05 --> 00:51:46:05
+00:51:46,291 --> 00:51:49,291
 Even when they are going to take the pottery
 
 1002
-00:51:46:06 --> 00:51:49:12
+00:51:49,333 --> 00:51:52,583
 From the land to make the vessels, they cannot take it like that,
 
 1003
-00:51:50:08 --> 00:51:53:08
+00:51:53,416 --> 00:51:56,416
 just because the land is common or abundant.
 
 1004
-00:51:53:18 --> 00:51:56:23
+00:51:56,833 --> 00:52:00,041
 The women who make Wayúu ceramics,
 
 1005
-00:51:56:23 --> 00:52:01:14
+00:52:00,041 --> 00:52:04,666
 They carry coffee, they carry rice or other food.
 
 1006
-00:52:01:22 --> 00:52:06:00
+00:52:05,041 --> 00:52:09,125
 and first they prepare this in honor of the land, of Mma,
 
 1007
-00:52:06:08 --> 00:52:10:02
+00:52:09,458 --> 00:52:13,208
 to be able to take that element and turn it into clay,
 
 1008
-00:52:10:10 --> 00:52:11:19
+00:52:13,541 --> 00:52:14,916
 turn it into ceramics.
 
 1009
-00:52:11:19 --> 00:52:16:16
+00:52:14,916 --> 00:52:19,791
 There is always a prior ritual, a request for permission
 
 1010
-00:52:16:16 --> 00:52:19:16
+00:52:19,791 --> 00:52:22,791
 before proceeding to take an appeal.
 
 1011
-00:52:20:21 --> 00:52:22:14
+00:52:24,000 --> 00:52:25,708
 Well, I think that
 
 1012
-00:52:22:14 --> 00:52:25:13
+00:52:25,708 --> 00:52:28,666
 the last thing I wanted to ask here, because it's something
 
 1013
-00:52:25:14 --> 00:52:28:14
+00:52:28,708 --> 00:52:31,708
 a little hard to understand, it's Wayúu time
 
 1014
-00:52:29:21 --> 00:52:31:04
+00:52:33,000 --> 00:52:34,291
 Yeah.
 
 1015
-00:52:31:04 --> 00:52:34:04
+00:52:34,291 --> 00:52:37,291
 Why is it different from Western time?
 
 1016
-00:52:34:11 --> 00:52:35:19
+00:52:37,583 --> 00:52:38,916
 That’s correct.
 
 1017
-00:52:35:19 --> 00:52:38:16
+00:52:38,916 --> 00:52:41,791
 The Wayúu have complex notions of time,
 
 1018
-00:52:38:16 --> 00:52:40:20
+00:52:41,791 --> 00:52:43,958
 because time is the horizon
 
 1019
-00:52:40:20 --> 00:52:43:04
+00:52:43,958 --> 00:52:46,291
 for the understanding of being.
 
 1020
-00:52:43:04 --> 00:52:44:10
+00:52:46,291 --> 00:52:47,583
 This phrase was said by Martin Heidegger,
 
 1021
-00:52:45:11 --> 00:52:47:23
+00:52:48,625 --> 00:52:51,125
 but the Wayúu believe it the same
 
 1022
-00:52:47:23 --> 00:52:52:05
+00:52:51,125 --> 00:52:55,375
 because they understand that first there is a referential time,
 
 1023
-00:52:53:03 --> 00:52:54:01
+00:52:56,291 --> 00:52:57,208
 What does it mean?
 
 1024
-00:52:54:01 --> 00:52:55:17
+00:52:57,208 --> 00:52:58,875
 that this time implies a protocol
 
 1025
-00:52:55:17 --> 00:52:58:23
+00:52:58,875 --> 00:53:02,125
 of the correct way to eat, dress and behave.
 
 1026
-00:52:59:14 --> 00:53:03:08
+00:53:02,750 --> 00:53:06,500
 That referential time is universal humanity,
 
 1027
-00:53:03:22 --> 00:53:07:02
+00:53:07,083 --> 00:53:10,250
 the undifferentiation of beings, but which then comes
 
 1028
-00:53:07:02 --> 00:53:08:14
+00:53:10,250 --> 00:53:11,750
 a transformative time
 
 1029
-00:53:08:14 --> 00:53:11:03
+00:53:11,750 --> 00:53:14,291
 in which the beings changed their appearance.
 
 1030
-00:53:11:03 --> 00:53:14:07
+00:53:14,291 --> 00:53:17,458
 And these relatives, like plants, their arms
 
 1031
-00:53:14:07 --> 00:53:17:16
+00:53:17,458 --> 00:53:20,833
 They became branches, their legs into stems and roots.
 
 1032
-00:53:18:01 --> 00:53:20:08
+00:53:21,208 --> 00:53:23,500
 And all this. And that the animals,
 
 1033
-00:53:20:08 --> 00:53:24:07
+00:53:23,500 --> 00:53:27,458
 because they were punished for breaking social norms,
 
 1034
-00:53:24:16 --> 00:53:26:17
+00:53:27,833 --> 00:53:29,916
 for their obsessions
 
 1035
-00:53:26:17 --> 00:53:29:17
+00:53:29,916 --> 00:53:32,916
 with meat or other types of resources,
 
 1036
-00:53:29:21 --> 00:53:31:19
+00:53:33,083 --> 00:53:35,000
 or for being shy like deer,
 
 1037
-00:53:31:19 --> 00:53:33:11
+00:53:35,000 --> 00:53:36,666
 They were so scary,
 
 1038
-00:53:33:11 --> 00:53:36:06
+00:53:36,666 --> 00:53:39,458
 They lived in so much fear that they were converted humans
 
 1039
-00:53:36:06 --> 00:53:39:04
+00:53:39,458 --> 00:53:42,375
 in deer, or for war like the jaguar.
 
 1040
-00:53:39:04 --> 00:53:42:11
+00:53:42,375 --> 00:53:45,666
 Then the world had a differentiation
 
 1041
-00:53:42:11 --> 00:53:43:13
+00:53:45,666 --> 00:53:46,750
 of morphological features.
 
 1042
-00:53:45:07 --> 00:53:46:05
+00:53:48,500 --> 00:53:49,416
 This is one
 
 1043
-00:53:46:05 --> 00:53:49:05
+00:53:49,416 --> 00:53:52,416
 notion of time, and they have everyday social time,
 
 1044
-00:53:49:08 --> 00:53:52:18
+00:53:52,541 --> 00:53:55,958
 the time that is measured in moons, in winter seasons,
 
 1045
-00:53:53:05 --> 00:53:56:05
+00:53:56,416 --> 00:53:59,416
 in the duration of the sunlight, in the moon,
 
 1046
-00:53:56:12 --> 00:53:59:12
+00:53:59,708 --> 00:54:02,708
 They handle the lunar phases a lot.
 
 1047
-00:53:59:17 --> 00:54:02:14
+00:54:02,916 --> 00:54:05,791
 The fishermen, the dark time of the moon,
 
 1048
-00:54:02:14 --> 00:54:04:21
+00:54:05,791 --> 00:54:08,083
 moonlight time marks
 
 1049
-00:54:04:21 --> 00:54:06:18
+00:54:08,083 --> 00:54:10,000
 fishing activities.
 
 1050
-00:54:06:18 --> 00:54:10:21
+00:54:10,000 --> 00:54:14,125
 But there are also social calendars such as wakes,
 
 1051
-00:54:11:10 --> 00:54:14:13
+00:54:14,666 --> 00:54:17,791
 certain events, disputes, everything, funerals,
 
 1052
-00:54:14:13 --> 00:54:17:06
+00:54:17,791 --> 00:54:20,500
 All this marks social time.
 
 1053
-00:54:17:06 --> 00:54:18:15
+00:54:20,500 --> 00:54:21,875
 The West has introduced
 
 1054
-00:54:18:15 --> 00:54:21:22
+00:54:21,875 --> 00:54:25,166
 the notions of Christmas, of the end of the year too
 
 1055
-00:54:22:09 --> 00:54:25:19
+00:54:25,625 --> 00:54:29,041
 and states have introduced election time.
 
 1056
-00:54:26:02 --> 00:54:28:21
+00:54:29,333 --> 00:54:32,125
 The electoral calendars that are somehow
 
 1057
-00:54:28:21 --> 00:54:31:21
+00:54:32,125 --> 00:54:35,125
 holiday-like processes
 
 1058
-00:54:32:13 --> 00:54:34:19
+00:54:35,791 --> 00:54:38,041
 and who have competitions for power
 
 1059
-00:54:34:19 --> 00:54:36:03
+00:54:38,041 --> 00:54:39,375
 in a society that is next
 
 1060
-00:54:36:03 --> 00:54:38:06
+00:54:39,375 --> 00:54:41,500
 but that influences theirs,
 
 1061
-00:54:38:06 --> 00:54:40:22
+00:54:41,500 --> 00:54:44,166
 because they live in a semi-autonomous social field,
 
 1062
-00:54:40:22 --> 00:54:42:13
+00:54:44,166 --> 00:54:45,791
 then they also have relationships
 
 1063
-00:54:42:13 --> 00:54:45:12
+00:54:45,791 --> 00:54:48,750
 with those systems of government power.
 
 1064
-00:54:45:18 --> 00:54:48:18
+00:54:49,000 --> 00:54:52,041
 So the Wayúu live in a heterochronic time,
 
 1065
-00:54:49:01 --> 00:54:53:01
+00:54:52,333 --> 00:54:56,333
 In other words, they have this daily social time next to them,
 
 1066
-00:54:53:19 --> 00:54:56:05
+00:54:57,083 --> 00:54:59,500
 they have those times
 
 1067
-00:54:56:05 --> 00:54:59:08
+00:54:59,500 --> 00:55:02,625
 referential, those transformative times
 
 1068
-00:55:00:16 --> 00:55:03:16
+00:55:03,958 --> 00:55:06,958
 that cannot be placed in the past.
 
 1069
-00:55:03:21 --> 00:55:06:23
+00:55:07,166 --> 00:55:10,250
 So this heterochromia coexists in the Wayúu world.

@@ -1,469 +1,469 @@
 1
-00:00:01:01 --> 00:00:04:24
+00:00:01,041 --> 00:00:05,000
 Sir, can you tell me your name and where you are from?
 
 2
-00:00:04:25 --> 00:00:07:22
+00:00:05,041 --> 00:00:07,916
 I am. My name is Hamilton Sierra.
 
 3
-00:00:07:23 --> 00:00:10:01
+00:00:07,958 --> 00:00:10,041
 I'm not from here
 but my wife is from here, from Manaure.
 
 4
-00:00:10:11 --> 00:00:13:28
+00:00:10,458 --> 00:00:14,166
 I am from there on the lower Magdalena coast.
 
 5
-00:00:13:29 --> 00:00:15:07
+00:00:14,208 --> 00:00:15,291
 How long have you been working here?
 
 6
-00:00:15:15 --> 00:00:17:23
+00:00:15,625 --> 00:00:17,958
 Two years ago,
 
 7
-00:00:17:24 --> 00:00:20:20
+00:00:18,000 --> 00:00:20,833
 I'm here just learning the salt.
 
 8
-00:00:21:02 --> 00:00:22:19
+00:00:21,083 --> 00:00:22,791
 And how have you been learning?
 
 9
-00:00:22:20 --> 00:00:26:25
+00:00:22,833 --> 00:00:27,041
 Well thank God well, because of this
 we live and from this we eat here and
 
 10
-00:00:27:25 --> 00:00:29:04
+00:00:28,041 --> 00:00:29,166
 I have done well
 
 11
-00:00:29:04 --> 00:00:31:24
+00:00:29,166 --> 00:00:32,000
 thank God, I have already learned many things that I did not know about salt.
 
 12
-00:00:33:06 --> 00:00:35:00
+00:00:33,250 --> 00:00:35,000
 What have you learned?
 
 13
-00:00:35:01 --> 00:00:37:13
+00:00:35,041 --> 00:00:37,541
 I have learned to collect
 
 14
-00:00:38:08 --> 00:00:41:28
+00:00:38,333 --> 00:00:42,166
 to load, I did not know, but here I have learned all that here.
 
 15
-00:00:42:14 --> 00:00:44:20
+00:00:42,583 --> 00:00:44,833
 Okay.
 
 16
-00:00:45:14 --> 00:00:50:08
+00:00:45,583 --> 00:00:50,333
 And well, what is the difference in this job
 to another job that you have done?
 
 17
-00:00:50:26 --> 00:00:54:09
+00:00:51,083 --> 00:00:54,375
 The difference may be that this job is heavy for me.
 
 18
-00:00:55:01 --> 00:00:57:09
+00:00:55,041 --> 00:00:57,375
 Yes, heavy.
 
 19
-00:00:57:10 --> 00:01:00:09
+00:00:57,416 --> 00:01:00,375
 I had never experienced salt, but I experienced it and
 
 20
-00:01:01:15 --> 00:01:02:17
+00:01:01,625 --> 00:01:02,708
 from here
 
 21
-00:01:02:17 --> 00:01:05:17
+00:01:02,708 --> 00:01:05,708
 you live from this here, you live from the salt.
 
 22
-00:01:05:18 --> 00:01:08:12
+00:01:05,750 --> 00:01:08,500
 Here, well, you don't want the rain to fall
 
 23
-00:01:08:13 --> 00:01:11:15
+00:01:08,541 --> 00:01:11,625
 because if it rains,
 we won’t have a job, you understand?
 
 24
-00:01:12:00 --> 00:01:14:01
+00:01:12,000 --> 00:01:14,041
 So we need the weather to be, just as it is now,
 
 25
-00:01:14:19 --> 00:01:18:26
+00:01:14,791 --> 00:01:19,083
 that it´s breezy, that it’s clear, that the sun shines,
 the more sun hits and breeze, the better for us.
 
 26
-00:01:18:27 --> 00:01:22:18
+00:01:19,125 --> 00:01:22,750
 Because since we live from this, then
 
 27
-00:01:22:19 --> 00:01:24:27
+00:01:22,791 --> 00:01:25,125
 We need the sun to shine, the breeze to run.
 
 28
-00:01:25:19 --> 00:01:28:22
+00:01:25,791 --> 00:01:28,916
 Most people want it to rain, right?
 
 29
-00:01:29:08 --> 00:01:34:04
+00:01:29,333 --> 00:01:34,166
 If most people want it to rain, but then
 if it rains we don't have resources to eat,
 
 30
-00:01:34:07 --> 00:01:37:11
+00:01:34,291 --> 00:01:37,458
 because if we don't take out the salt
 We don't have anything to eat either.
 
 31
-00:01:37:24 --> 00:01:39:01
+00:01:38,000 --> 00:01:39,041
 And how is it done?
 
 32
-00:01:39:02 --> 00:01:42:14
+00:01:39,083 --> 00:01:42,583
 How does salt get damaged by rain?
 
 33
-00:01:42:15 --> 00:01:44:11
+00:01:42,625 --> 00:01:44,458
 Well... as it is,
 
 34
-00:01:44:12 --> 00:01:47:27
+00:01:44,500 --> 00:01:48,125
 if it’s in a part that is dry above, very little is washed,
 
 35
-00:01:48:06 --> 00:01:52:21
+00:01:48,250 --> 00:01:52,875
 but if it is inside the pond, since the pond has no outlet, it is washed,
 
 36
-00:01:54:00 --> 00:01:56:16
+00:01:54,000 --> 00:01:56,666
 it dissolves, it melts in a wash, it melts away.
 
 37
-00:01:58:03 --> 00:02:00:14
+00:01:58,125 --> 00:02:00,583
 If if rains too hard, I mean, if it doesn’t rain that much
 
 38
-00:02:01:04 --> 00:02:05:21
+00:02:01,166 --> 00:02:05,875
 it is not consumed.
 
 39
-00:02:05:26 --> 00:02:09:02
+00:02:06,083 --> 00:02:09,083
 Have you seen that there is a spirituality here as well?
 
 40
-00:02:09:10 --> 00:02:11:28
+00:02:09,416 --> 00:02:12,166
 related to salt or elements or not?
 
 41
-00:02:13:00 --> 00:02:15:25
+00:02:13,000 --> 00:02:16,041
 No.
 
 42
-00:02:16:12 --> 00:02:19:23
+00:02:16,500 --> 00:02:19,958
 And well, this here by the sea too
 come the salt, right?
 
 43
-00:02:19:24 --> 00:02:24:07
+00:02:20,000 --> 00:02:24,291
 Yes of course, because that's where they get the water from,
 over there there is a little canal, that over there is
 
 44
-00:02:24:08 --> 00:02:27:03
+00:02:24,333 --> 00:02:27,125
 a canal, that water falls there,
 
 45
-00:02:28:05 --> 00:02:31:21
+00:02:28,208 --> 00:02:31,875
 from there it takes a week or about fifteen days.
 
 46
-00:02:31:22 --> 00:02:33:28
+00:02:31,916 --> 00:02:34,166
 To end up here.
 
 47
-00:02:35:00 --> 00:02:37:00
+00:02:35,000 --> 00:02:37,000
 It comes here and from here the salt goes,
 
 48
-00:02:38:06 --> 00:02:41:00
+00:02:38,250 --> 00:02:41,000
 it crystallizes here in the ponds
 
 49
-00:02:41:13 --> 00:02:44:29
+00:02:41,541 --> 00:02:45,208
 with the sun and the breeze. when it's ready
 
 50
-00:02:45:00 --> 00:02:49:15
+00:02:45,000 --> 00:02:49,625
 one comes, puts the shovel in it and if it is thick it is already good to pick it up.
 
 51
-00:02:49:27 --> 00:02:54:17
+00:02:50,125 --> 00:02:54,708
 One comes to pick up with the owner of
 the pond, the water is removed again,
 
 52
-00:02:55:07 --> 00:02:57:23
+00:02:55,291 --> 00:02:57,958
 it passes through the pond and collects the salt.
 
 53
-00:02:58:25 --> 00:03:00:29
+00:02:59,041 --> 00:03:01,208
 And that, but it comes from..., why is it done like that?
 
 54
-00:03:01:00 --> 00:03:03:15
+00:03:01,000 --> 00:03:03,625
 It's done like this to make it dry, do you understand?
 
 55
-00:03:04:24 --> 00:03:07:29
+00:03:05,000 --> 00:03:08,208
 So that it drains the water.
 
 56
-00:03:08:00 --> 00:03:09:06
+00:03:08,000 --> 00:03:09,250
 So one fixes it here and puts it like this?
 
 57
-00:03:10:15 --> 00:03:12:08
+00:03:10,625 --> 00:03:12,333
 Yes of course, because one does it like that
 
 58
-00:03:12:08 --> 00:03:16:17
+00:03:12,333 --> 00:03:16,708
 one piles it up and the higher it is
 
 59
-00:03:17:03 --> 00:03:20:09
+00:03:17,125 --> 00:03:20,375
 The lower goes the water, do you understand?
 
 60
-00:03:20:10 --> 00:03:22:06
+00:03:20,416 --> 00:03:22,250
 Ah okay I didn't know why it was like that
 
 61
-00:03:22:15 --> 00:03:24:03
+00:03:22,625 --> 00:03:24,125
 How long does it last like this, what would be ideal?
 
 62
-00:03:24:03 --> 00:03:29:20
+00:03:24,125 --> 00:03:29,833
 Well, yes, the pond, for example, is exploited
 today you can plow tomorrow, you have all day
 
 63
-00:03:29:21 --> 00:03:33:06
+00:03:29,875 --> 00:03:33,250
 to cover, tomorrow you can load it
 like we´re doing right now
 
 64
-00:03:33:29 --> 00:03:35:28
+00:03:34,208 --> 00:03:36,166
 Load it onto the cars and they take it away.
 
 65
-00:03:36:12 --> 00:03:38:14
+00:03:36,500 --> 00:03:38,583
 So then it's put in the bag?
 
 66
-00:03:38:15 --> 00:03:40:28
+00:03:38,625 --> 00:03:41,166
 In the bag and the car comes and we ship the cars.
 
 67
-00:03:42:01 --> 00:03:46:22
+00:03:42,041 --> 00:03:46,916
 What is your daily earnings through salt work?
 
 68
-00:03:46:23 --> 00:03:50:17
+00:03:46,958 --> 00:03:50,708
 Well here depending on the cars.
 
 69
-00:03:51:07 --> 00:03:53:20
+00:03:51,291 --> 00:03:53,833
 If, for example, if we fill only one car
 
 70
-00:03:53:21 --> 00:03:56:04
+00:03:53,875 --> 00:03:56,166
 among ten people,
 
 71
-00:03:56:22 --> 00:03:59:14
+00:03:56,916 --> 00:03:59,583
 Let's put $14,000 or $10,000 among us together,
 
 72
-00:04:00:27 --> 00:04:03:23
+00:04:01,125 --> 00:04:03,958
 if the salt is from us, that we export it,
 
 73
-00:04:04:04 --> 00:04:07:13
+00:04:04,166 --> 00:04:07,541
 Well, that’s around $30,000
 to each one, daily,
 
 74
-00:04:08:26 --> 00:04:12:05
+00:04:09,083 --> 00:04:12,208
 If we have more salt and two cars arrive, three cars,
 
 75
-00:04:12:06 --> 00:04:17:17
+00:04:12,250 --> 00:04:17,708
 we have $60,000, $80,000 left, depending on the cars,
 
 76
-00:04:18:06 --> 00:04:23:10
+00:04:18,250 --> 00:04:23,416
 because here if a car doesn't arrive there isn't either,
 there is no production of anything.
 
 77
-00:04:23:11 --> 00:04:26:13
+00:04:23,458 --> 00:04:26,541
 Who are the ones from the cars?
 
 78
-00:04:26:14 --> 00:04:30:01
+00:04:26,583 --> 00:04:30,041
 Well, the owners of the ponds command the cars,
 
 79
-00:04:30:21 --> 00:04:33:29
+00:04:30,875 --> 00:04:34,208
 They say “go to that part, that there is a car over there”
 
 80
-00:04:34:00 --> 00:04:35:19
+00:04:34,000 --> 00:04:35,791
 and one loads it.
 
 81
-00:04:36:00 --> 00:04:39:13
+00:04:36,000 --> 00:04:39,541
 because one here has the salt,
 but if they don't arrive we don't have either
 
 82
-00:04:40:08 --> 00:04:44:15
+00:04:40,333 --> 00:04:44,625
 nothing.
 
 83
-00:04:44:16 --> 00:04:46:29
+00:04:44,666 --> 00:04:47,208
 What knowledge do you have of salt, what is it used for?
 
 84
-00:04:47:00 --> 00:04:50:19
+00:04:47,000 --> 00:04:50,791
 Well, salt is used for many things, for livestock, for eating,
 
 85
-00:04:51:24 --> 00:04:54:08
+00:04:52,000 --> 00:04:54,333
 for many things that …
 
 86
-00:04:55:26 --> 00:04:57:17
+00:04:56,083 --> 00:04:57,708
 salt is very important
 
 87
-00:04:57:25 --> 00:05:00:12
+00:04:58,041 --> 00:05:00,500
 because if it wasn’t for the salt you couldn’t,
 
 88
-00:05:00:21 --> 00:05:05:17
+00:05:00,875 --> 00:05:05,708
 You can't make some rice, you can't do something because salt is irreplaceable.
 
 89
-00:05:06:24 --> 00:05:07:19
+00:05:07,000 --> 00:05:07,791
 Basis of life?
 
 90
-00:05:07:20 --> 00:05:10:27
+00:05:07,833 --> 00:05:11,125
 Yes, a base that... for example you,
 
 91
-00:05:12:01 --> 00:05:14:03
+00:05:12,041 --> 00:05:14,125
 with sugar, if you’re going to make some juice
 
 92
-00:05:14:04 --> 00:05:17:07
+00:05:14,166 --> 00:05:17,291
 You can put some cane sugar or something, but you can’t do that with salt,
 
 93
-00:05:19:02 --> 00:05:20:02
+00:05:19,083 --> 00:05:20,083
 You can't season rice, you can't add brown sugar,
 
 94
-00:05:20:02 --> 00:05:22:01
+00:05:20,083 --> 00:05:22,041
 you can't put anything on it.
 
 95
-00:05:22:05 --> 00:05:25:18
+00:05:22,208 --> 00:05:25,750
 So this is a point
 which is important to us here in Manaure.
 
 96
-00:05:25:19 --> 00:05:29:17
+00:05:25,791 --> 00:05:29,708
 I'm not from here, but it's important
 because this is where I get the food from
 
 97
-00:05:31:11 --> 00:05:33:20
+00:05:31,458 --> 00:05:33,833
 Daily, every day
 
 98
-00:05:33:21 --> 00:05:37:14
+00:05:33,875 --> 00:05:37,583
 From 4 in the morning sometimes 3,
 depending on the cars,
 
 99
-00:05:37:15 --> 00:05:41:28
+00:05:37,625 --> 00:05:42,166
 if they arrive early at 5 in the morning or arrive at 3,
 at that time you have to stop
 
 100
-00:05:41:29 --> 00:05:43:14
+00:05:42,208 --> 00:05:43,583
 to pack the salt
 
 101
-00:05:44:27 --> 00:05:47:06
+00:05:45,125 --> 00:05:47,250
 and until ten?
 
 102
-00:05:47:07 --> 00:05:50:10
+00:05:47,291 --> 00:05:50,416
 Until ten in the morning and sometimes they take until eleven,
 
 103
-00:05:50:25 --> 00:05:54:08
+00:05:51,041 --> 00:05:54,333
 sometimes even until noon,
 because they come and go from here to
 
 104
-00:05:54:15 --> 00:05:54:22
+00:05:54,625 --> 00:05:54,916
 Uribia,
 
 105
-00:05:55:28 --> 00:05:58:08
+00:05:56,166 --> 00:05:58,333
 So it takes until that, that they come here.
 
 106
-00:05:59:17 --> 00:06:03:20
+00:05:59,708 --> 00:06:03,833
 Does it also have to do with the sun,
 that is very, very strong?
 
 107
-00:06:03:21 --> 00:06:07:26
+00:06:03,875 --> 00:06:08,083
 Yes, it affects us a lot
 when it’s around this time, eleven o'clock
 
 108
-00:06:08:12 --> 00:06:11:28
+00:06:08,500 --> 00:06:12,166
 and a car parks, sometimes you even vomit,
 
 109
-00:06:12:11 --> 00:06:14:25
+00:06:12,458 --> 00:06:15,041
 Or faint because of the very strong sun.
 
 110
-00:06:15:25 --> 00:06:17:26
+00:06:16,041 --> 00:06:18,083
 But you know, you do that for…
 
 111
-00:06:17:27 --> 00:06:20:16
+00:06:18,125 --> 00:06:20,666
 because one must do it, because
 
 112
-00:06:21:17 --> 00:06:24:26
+00:06:21,708 --> 00:06:25,083
 the food comes from there.

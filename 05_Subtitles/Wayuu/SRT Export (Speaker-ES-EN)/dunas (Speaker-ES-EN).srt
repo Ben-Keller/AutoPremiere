@@ -1,0 +1,555 @@
+1
+00:00:00,000 --> 00:00:02,000
+magalys, neko
+----
+¿De dónde eres Neko?
+----
+Where are you from Neko?
+
+2
+00:00:03,000 --> 00:00:06,000
+magalys, neko
+----
+Soy de un territorio llamado Akualü
+----
+I am from a territory called Akualü
+
+3
+00:00:07,000 --> 00:00:10,000
+magalys, neko
+----
+Aunque los mayores lo denominan Manaure
+----
+Although the elders call it Manaure
+
+4
+00:00:11,000 --> 00:00:16,000
+magalys, neko
+----
+Ah, vienes del lejano oeste y ahora estas aquí
+----
+Ah, you came from the wild west and now you're here
+
+5
+00:00:18,000 --> 00:00:21,000
+magalys, neko
+----
+En Nazareth o corregimiento de Nazareth como le dicen
+----
+In Nazareth or township of Nazareth as they call it
+
+6
+00:00:22,000 --> 00:00:30,000
+magalys, neko
+----
+Estamos en el territorio de Usijou´, en Alewalü.
+No se si has escuchado de que es un lugar sagrado.
+----
+We are in the territory of Usijou´, in Alewalü.
+I don't know if you've heard that it's a sacred place.
+
+7
+00:00:31,000 --> 00:00:36,000
+magalys, neko
+----
+Si, es el único con unas características
+naturales diferentes
+----
+Yes, it is the only one with some characteristics
+different natural
+
+8
+00:00:39,000 --> 00:00:45,000
+magalys, neko
+----
+Si claro. De aquí era mi abuela y la abuela de mi mamá
+----
+Yes of course. My grandmother and my mother's grandmother were from here.
+
+9
+00:00:47,000 --> 00:00:51,000
+magalys, neko
+----
+¿Por dónde está el mar? si por allá, de aquí se ve el mar
+----
+Where is the sea? If over there, from here you can see the sea
+
+10
+00:00:52,000 --> 00:00:56,000
+magalys, neko
+----
+Si es verdad.
+Si, ellos vivían aquí
+----
+Yes it's true.
+Yes, they lived here
+
+11
+00:00:57,000 --> 00:01:01,000
+magalys, neko
+----
+¿pero el mar esta lejos de aquí? Si, está lejos.
+----
+But is the sea far from here? Yes, it's far away.
+
+12
+00:01:02,000 --> 00:01:09,000
+magalys, neko
+----
+Ellos dijeron que se mudaron, habían dejado sus
+cosas como puedes ver
+----
+They said they moved, they had left their
+things as you can see
+
+13
+00:01:10,000 --> 00:01:18,000
+magalys, neko
+----
+Ahí donde están los trozos de amuchi (cerámica),
+están sus restos (hueso) ancestrales
+----
+There where the pieces of amuchi (ceramics) are,
+are their ancestral remains (bone)
+
+14
+00:01:19,000 --> 00:01:27,000
+magalys, neko
+----
+Ellos decidieron irse para la orilla del mar porque
+dicen que ya estaban aburridos aquí
+----
+They decided to go to the seashore because
+They say they were already bored here
+
+15
+00:01:28,000 --> 00:01:33,000
+magalys, neko
+----
+Entonces se fueron, pero regresaron otra vez. Si. Acá mismo
+----
+Then they left, but they came back again. Yeah. right here
+
+16
+00:01:35,000 --> 00:01:42,000
+magalys, neko
+----
+Esto era de lo que hablabas ¿no? Si.
+¿puedo tocarlo? No. Esta prohibido
+----
+This was what you were talking about, right? Yeah.
+I can touch it? No. It is prohibited
+
+17
+00:01:43,000 --> 00:01:49,000
+magalys, neko
+----
+No lo puedes tocar, solo puedes verlo. Si lo tocas
+te puedes enfermar
+----
+You can't touch it, you can only see it. If you touch it
+you can get sick
+
+18
+00:01:51,000 --> 00:01:59,000
+magalys, neko
+----
+Al tocarlo te llevas las energías de los muertos
+que te pueden provocar algún daño
+----
+When you touch it you take away the energies of the dead
+that can cause you some harm
+
+19
+00:02:00,000 --> 00:02:02,000
+magalys, neko
+----
+Igual con tu llegada aquí
+----
+Same with your arrival here
+
+20
+00:02:03,000 --> 00:02:09,000
+magalys, neko
+----
+Cierto. Debiste armonizar con el territorio porque nos
+rodean las almas de los que vivían aquí
+----
+TRUE. You had to harmonize with the territory because we
+surround the souls of those who lived here
+
+21
+00:02:10,000 --> 00:02:18,000
+magalys, neko
+----
+¿Esto pertenecía a ellos no? Si, por eso sus almas
+están aquí porque esas son sus pertenencias
+----
+This belonged to them right? Yes, that's why their souls
+They are here because those are their belongings.
+
+22
+00:02:21,000 --> 00:02:28,000
+magalys, neko
+----
+Este era su territorio y ellos decían que nadie puede
+llevarse parte de esta arena
+----
+This was their territory and they said that no one can
+take part of this sand
+
+23
+00:02:29,000 --> 00:02:36,000
+magalys, neko
+----
+Después llegamos nosotros los Pausayu para habitarlo
+----
+Then we, the Pausayu, arrived to inhabit it.
+
+24
+00:02:37,000 --> 00:02:40,000
+magalys, neko
+----
+Entiendo. Y ¿Qué fue lo que trajeron del mar?
+----
+I understand. And what did they bring from the sea?
+
+25
+00:02:41,000 --> 00:02:46,000
+magalys, neko
+----
+La arena, ellos lo echaban aquí para que quedara así
+----
+The sand, they threw it here so that it would stay like this
+
+26
+00:02:47,000 --> 00:02:53,000
+magalys, neko
+----
+Es decir, que ellos traían la arena de la playa en
+este pedazo desértico
+----
+That is, they brought the sand from the beach in
+this desert piece
+
+27
+00:02:56,000 --> 00:03:03,000
+magalys, neko
+----
+Dicen los viejos que a través de un sueño les dijeron
+que trajeran la arena de allá
+----
+The old people say that through a dream they were told
+to bring the sand from there
+
+28
+00:03:04,000 --> 00:03:07,000
+magalys, neko
+----
+Te lo digo para que lo digas, esta parte
+después lo cortan
+----
+I'm telling you so you can say it, this part
+then they cut it
+
+29
+00:03:08,000 --> 00:03:12,000
+magalys, neko
+----
+Guille decía que en el sueño a ellos les dijeron
+lo siguiente
+----
+Guille said that in the dream they were told
+the next
+
+30
+00:03:13,000 --> 00:03:18,000
+magalys, neko
+----
+Que, si amaban tanto esta tierra, podían traer la
+tierra hasta acá
+----
+That, if they loved this land so much, they could bring the
+earth up to here
+
+31
+00:03:19,000 --> 00:03:26,000
+magalys, neko
+----
+y eso hicieron. Así es como se origino este lugar
+----
+and that's what they did. This is how this place originated
+
+32
+00:03:27,000 --> 00:03:34,000
+magalys, neko
+----
+Podrías decir eso. Que comenzó desde un sueño
+y así sucesivamente
+----
+You could say that. That started from a dream
+and so on
+
+33
+00:03:39,000 --> 00:03:48,000
+magalys, neko
+----
+Entonces lo trajeron aquí ¿no? Si.
+Lo traían poco a poco hasta que se iba extendiendo
+----
+So they brought him here, right? Yeah.
+They brought it little by little until it spread
+
+34
+00:03:49,000 --> 00:03:58,000
+magalys, neko
+----
+Como puedes ver esto antes esto era pequeño, pero después
+lo fueron ampliando hasta por allá
+----
+As you can see this before this was small, but after
+They expanded it up to there
+
+35
+00:03:59,000 --> 00:04:05,000
+magalys, neko
+----
+Si, ahora comprendo. Que lindo conocer la historia
+detrás de esto
+----
+Yes, now I understand. How nice to know the history
+behind this
+
+36
+00:04:06,000 --> 00:04:10,000
+magalys, neko
+----
+Si claro, de hecho, todo esto que está aquí
+también es bello
+----
+Yes of course, in fact, all this that is here
+It's also beautiful
+
+37
+00:04:13,000 --> 00:04:21,000
+magalys, neko
+----
+si. Es muy bueno dar a conocer lo que
+tenemos porque es parte de nuestra cultura wayuu
+----
+Yeah. It is very good to make known what
+we have because it is part of our Wayuu culture
+
+38
+00:04:22,000 --> 00:04:29,000
+magalys, neko
+----
+Ya sabrán que en La Guajira existe este lugar, Alewalü
+será reconocida por el mundo
+----
+You will already know that this place exists in La Guajira, Alewalü
+will be recognized by the world
+
+39
+00:04:30,000 --> 00:04:37,000
+magalys, neko
+----
+A través de historias como estas conocerán no solo
+el lugar sino su espiritualidad
+----
+Through stories like these you will learn not only
+the place but its spirituality
+
+40
+00:04:38,000 --> 00:04:45,000
+magalys, neko
+----
+Ya que aquí también se encuentran muchas joyas de
+los fallecidos
+----
+Since there are also many jewels of
+the deceased
+
+41
+00:04:46,000 --> 00:04:52,000
+magalys, neko
+----
+Por eso es un lugar sagrado porque aquí están las
+cosas de los que la crearon
+----
+That is why it is a sacred place because here are the
+things from those who created it
+
+42
+00:04:55,000 --> 00:05:03,000
+magalys, neko
+----
+Las personas dicen que aquí en el norte es donde
+están los lugares más sagrados
+----
+People say that here in the north is where
+are the most sacred places
+
+43
+00:05:04,000 --> 00:05:07,000
+magalys, neko
+----
+Y por eso es importante darlos a conocer. Si claro.
+----
+And that is why it is important to make them known. Yes of course.
+
+44
+00:05:08,000 --> 00:05:15,000
+magalys, neko
+----
+Bueno, muchas gracias por lo que nos compartiste.
+Igual gracias a ti por venir,
+----
+Well, thank you very much for what you shared with us.
+Anyway, thanks to you for coming,
+
+45
+00:05:16,000 --> 00:05:20,000
+magalys, neko
+----
+Por venir desde tan lejos para conocer nuestro territorio
+----
+For coming from so far to know our territory
+
+46
+00:05:22,000 --> 00:05:29,000
+magalys, neko
+----
+¿Después del invierno no florece aquí? No,
+¿se queda así? Si claro, se moja y ya
+----
+After winter it doesn't bloom here? No,
+Does it stay like this? Yes of course, it gets wet and that's it
+
+47
+00:05:30,000 --> 00:05:38,000
+magalys, neko
+----
+los animales caminan y no se mojan las patas.
+Ves que no hay pasto. No.
+----
+The animals walk and do not get their paws wet.
+You see there is no grass. No.
+
+48
+00:05:39,000 --> 00:05:45,000
+magalys, neko
+----
+Y si ¿llueve mucho? Puede que llueva mucho pero igual
+no florece porque es un lugar sagrado
+----
+And if it rains a lot? It may rain a lot but still
+It does not bloom because it is a sacred place
+
+49
+00:05:46,000 --> 00:05:47,000
+magalys, neko
+----
+El territorio es sagrado
+----
+The territory is sacred
+
+50
+00:05:48,000 --> 00:05:55,000
+magalys, neko
+----
+Eso estaba destinado. Si, por eso los crearon los
+ancestros que vieron aquí
+----
+That was destined. Yes, that's why they were created
+ancestors who saw here
+
+51
+00:05:56,000 --> 00:06:02,000
+magalys, neko
+----
+Las personas que vienen a Nazareth dicen que sus
+ancestros son de aquí también
+----
+People who come to Nazareth say that their
+ancestors are from here too
+
+52
+00:06:03,000 --> 00:06:11,000
+magalys, neko
+----
+Los de Dusakawi (asociación en salud), dijeron que sus
+abuelas les dijeron que tienen ancestros acá
+----
+Those from Dusakawi (health association) said that their
+grandmothers told them that they have ancestors here
+
+53
+00:06:14,000 --> 00:06:22,000
+magalys, neko
+----
+Ellos dicen que volverán otra vez por aquí.
+Si, eso está bien
+----
+They say they will come back here again.
+Yes, that's OK
+
+54
+00:06:23,000 --> 00:06:31,000
+magalys, neko
+----
+Me parece bien que vengan de nuevo para que
+conozcan más, los hacemos subir a las montañas
+----
+I think it's good that they come again so that
+learn more, we make you climb the mountains
+
+55
+00:06:32,000 --> 00:06:39,000
+magalys, neko
+----
+Si, tenemos que llegar mas temprano, mira que ya nos están apurando. Si, es cierto, es complejo.
+----
+Yes, we have to arrive earlier, look, they are already rushing us. Yes, it's true, it is complex.
+
+56
+00:06:40,000 --> 00:06:47,000
+magalys, neko
+----
+Porque ya se está haciendo de noche y ya tenemos
+que irnos por lo sagrado que es
+----
+Because it is already getting dark and we already have
+we have to leave because of how sacred it is
+
+57
+00:06:48,000 --> 00:06:50,000
+magalys, neko
+----
+Estas en Alewalü en las Dunas de Alewalü
+----
+You are in Alewalü in the Alewalü Dunes
+
+58
+00:06:51,000 --> 00:06:54,000
+magalys, neko
+----
+Sonríe, sonríe. Estira las manos. Eso
+----
+Smile smile. Stretch your hands. That
+
+59
+00:06:57,000 --> 00:07:01,000
+magalys, neko
+----
+Eso, eso levanten las manos, aja saluda, saluda.
+----
+That, that raise your hands, aha say hello, say hello.
+
+60
+00:07:02,000 --> 00:07:03,000
+magalys, neko
+----
+Alewalü
+----
+Alewalu

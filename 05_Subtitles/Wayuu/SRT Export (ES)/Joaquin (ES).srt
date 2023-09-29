@@ -1,3483 +1,3483 @@
 1
-00:00:00:20 --> 00:00:04:18
+00:00:00,833 --> 00:00:04,750
 Tanülia tayakai Joaquín Ramón Prince
 
 2
-00:00:04:20 --> 00:00:08:00
+00:00:04,833 --> 00:00:08,000
 Jayariyu, tayakai
 
 3
-00:00:08:21 --> 00:00:11:21
+00:00:08,875 --> 00:00:11,875
 Ekirajüi tepichi sunain tüü wemirakat.
 
 4
-00:00:13:04 --> 00:00:15:01
+00:00:13,166 --> 00:00:15,041
 Sünain tüü weinrankat,
 
 5
-00:00:15:01 --> 00:00:18:01
+00:00:15,041 --> 00:00:18,041
 Sunain tüü wakuwaipakat sunai tüü
 
 6
-00:00:18:04 --> 00:00:18:18
+00:00:18,166 --> 00:00:18,750
 Supushuakat
 
 7
-00:00:18:18 --> 00:00:23:05
+00:00:18,750 --> 00:00:23,208
 Sulukat tüü woumainkat tuvo un mal trato y se robó mi mano
 
 8
-00:00:23:19 --> 00:00:28:02
+00:00:23,791 --> 00:00:28,083
 Ani taya ya´ya sunai tüü tekirajüin naa tepichikana sunain tüü ontoroyoi
 
 9
-00:00:28:11 --> 00:00:32:01
+00:00:28,458 --> 00:00:32,041
 Maasi, sawawa, turompa
 
 10
-00:00:32:01 --> 00:00:35:02
+00:00:32,041 --> 00:00:35,083
 Sunain tüü yonna suma tüü jieyu ekirajaka ya´ya tüü wakuwaipakat
 
 11
-00:00:36:05 --> 00:00:37:13
+00:00:36,208 --> 00:00:37,541
 Bueno mi nombre.
 
 12
-00:00:37:13 --> 00:00:40:13
+00:00:37,541 --> 00:00:40,541
 Hable en mi lengua Wayunaiki primero,
 
 13
-00:00:40:16 --> 00:00:42:08
+00:00:40,666 --> 00:00:42,375
 dije que
 
 14
-00:00:42:08 --> 00:00:44:09
+00:00:42,375 --> 00:00:44,416
 mi nombre es Joaquín Ramón
 
 15
-00:00:44:09 --> 00:00:47:11
+00:00:44,416 --> 00:00:47,500
 Prince Bruges de Clan, del eiruku Jayariyu.
 
 16
-00:00:48:21 --> 00:00:50:18
+00:00:48,916 --> 00:00:50,791
 Soy músico,
 
 17
-00:00:50:18 --> 00:00:53:02
+00:00:50,791 --> 00:00:53,125
 soy gestor cultural,
 
 18
-00:00:53:02 --> 00:00:55:20
+00:00:53,125 --> 00:00:55,875
 vengo trabajando un proceso de formación
 con niños wayuu
 
 19
-00:00:55:20 --> 00:00:59:04
+00:00:55,875 --> 00:00:59,208
 acá en este espacio que ustedes ven y hay también otros espacios
 
 20
-00:01:00:01 --> 00:01:02:07
+00:01:00,083 --> 00:01:02,333
 para conservar y mantener la música
 
 21
-00:01:02:07 --> 00:01:05:14
+00:01:02,333 --> 00:01:05,625
 y la armonía del pueblo wayuu a través de la danza,
 
 22
-00:01:05:19 --> 00:01:10:04
+00:01:05,833 --> 00:01:10,208
 el arte y los cantos y los instrumentos musicales
 
 23
-00:01:10:04 --> 00:01:14:06
+00:01:10,208 --> 00:01:14,291
 wayuu, como el Ontoroyoi, Sawawa, Maasi, Turompa y Kasha.
 
 24
-00:01:16:17 --> 00:01:19:16
+00:01:16,750 --> 00:01:19,708
 Yo bueno, voy a
 
 25
-00:01:20:00 --> 00:01:22:03
+00:01:20,041 --> 00:01:22,166
 hablar otra vez mi lengua
 
 26
-00:01:22:03 --> 00:01:25:03
+00:01:22,166 --> 00:01:25,208
 Wayakana shipi´jala tüü mmakat.
 
 27
-00:01:26:05 --> 00:01:29:05
+00:01:26,291 --> 00:01:29,291
 Esü wunu´u, esü mürüt
 
 28
-00:01:30:00 --> 00:01:32:00
+00:01:30,083 --> 00:01:32,083
 Esü uchi,
 
 29
-00:01:32:00 --> 00:01:34:19
+00:01:32,083 --> 00:01:34,875
 esü wayuu,
 
 30
-00:01:34:19 --> 00:01:37:19
+00:01:34,875 --> 00:01:37,875
 Wayakana yashi sulu´u tüü woumaikat
 
 31
-00:01:37:23 --> 00:01:41:14
+00:01:38,041 --> 00:01:41,666
 tüü woumainkat nojotsü wakoroloin, waya sukorolo tüü mmakat
 
 32
-00:01:42:20 --> 00:01:45:11
+00:01:42,916 --> 00:01:45,541
 werüin tüü, palajana, antushi
 
 33
-00:01:45:11 --> 00:01:48:11
+00:01:45,541 --> 00:01:48,541
 chi juyakai sulu´u tüü wouman tüü mmakat
 
 34
-00:01:49:12 --> 00:01:52:12
+00:01:49,583 --> 00:01:52,583
 chi juyakai nia Chi watushikai
 
 35
-00:01:53:09 --> 00:01:56:09
+00:01:53,458 --> 00:01:56,458
 tüü mmakat shia weika woushi
 
 36
-00:01:56:17 --> 00:01:59:17
+00:01:56,791 --> 00:01:59,791
 anchi jolu aijuin tüü wunu´ukat
 
 37
-00:01:59:20 --> 00:02:04:20
+00:01:59,916 --> 00:02:04,916
 supula nanjuin tüü weirainkat sünain tüü jo´utai
 
 38
-00:02:05:20 --> 00:02:08:12
+00:02:05,958 --> 00:02:08,625
 sunain tu wekiru sünain tüü wainkat
 
 39
-00:02:08:12 --> 00:02:12:16
+00:02:08,625 --> 00:02:12,791
 sunain, piruin antüshin
 
 40
-00:02:13:01 --> 00:02:17:00
+00:02:13,166 --> 00:02:17,125
 chi jichikua nanjuin tu wakuwaipakat sünain tüü weirankat
 
 41
-00:02:20:20 --> 00:02:22:01
+00:02:20,958 --> 00:02:22,166
 bueno ya hablé en mi lengua y vuelvo
 
 42
-00:02:22:01 --> 00:02:26:07
+00:02:22,166 --> 00:02:26,416
 repito ahora para que me entiendan. Dije que nosotros somos
 dije que nosotros somos
 
 43
-00:02:26:07 --> 00:02:29:07
+00:02:26,416 --> 00:02:29,416
 la crianza de la tierra,
 
 44
-00:02:30:04 --> 00:02:32:11
+00:02:30,291 --> 00:02:32,583
 hubo un tiempo antiguo,
 
 45
-00:02:32:11 --> 00:02:34:05
+00:02:32,583 --> 00:02:34,333
 dicen los viejos.
 
 46
-00:02:34:05 --> 00:02:37:06
+00:02:34,333 --> 00:02:37,375
 Hubo un principio, un tiempo antiguo
 
 47
-00:02:37:06 --> 00:02:40:06
+00:02:37,375 --> 00:02:40,375
 donde llegó nuestro padre Juya,
 
 48
-00:02:40:13 --> 00:02:43:14
+00:02:40,666 --> 00:02:43,708
 que es el lluvio, para nosotros es lluvio y no la lluvia porque es hombre
 
 49
-00:02:44:21 --> 00:02:46:04
+00:02:45,000 --> 00:02:46,291
 y la tierra es nuestra
 
 50
-00:02:46:04 --> 00:02:49:14
+00:02:46,291 --> 00:02:49,750
 madre antigua, él llega,
 
 51
-00:02:50:18 --> 00:02:52:16
+00:02:50,916 --> 00:02:52,833
 llueve, la insemina, le hace el amor
 
 52
-00:02:52:16 --> 00:02:57:23
+00:02:52,833 --> 00:02:58,125
 a nuestra madre y nacen las plantas, primer ser, segundo
 
 53
-00:02:59:03 --> 00:03:02:03
+00:02:59,291 --> 00:03:02,291
 los animales, tercero las aves
 
 54
-00:03:02:06 --> 00:03:05:13
+00:03:02,416 --> 00:03:05,708
 y la cuarta generación nosotros,
 los hombres, la persona, el Wayúu.
 
 55
-00:03:06:13 --> 00:03:09:13
+00:03:06,708 --> 00:03:09,708
 Pero fue una mujer.
 
 56
-00:03:11:16 --> 00:03:14:10
+00:03:11,833 --> 00:03:14,583
 Dicen los viejos que la tierra
 
 57
-00:03:14:10 --> 00:03:17:23
+00:03:14,583 --> 00:03:18,125
 es muy sagrada para nosotros
 es nuestra madre, que la tierra
 
 58
-00:03:18:10 --> 00:03:23:00
+00:03:18,583 --> 00:03:23,166
 no debemos venderla,
 que nosotros no somos dueños de la tierra
 
 59
-00:03:23:00 --> 00:03:26:02
+00:03:23,166 --> 00:03:26,250
 ella es dueña de nosotros,
 porque nosotros nacimos de ella
 
 60
-00:03:26:02 --> 00:03:29:02
+00:03:26,250 --> 00:03:29,291
 y volvemos cuando morimos donde ella.
 
 61
-00:03:29:20 --> 00:03:31:20
+00:03:30,041 --> 00:03:32,041
 Por eso es que es muy importante
 
 62
-00:03:31:20 --> 00:03:34:08
+00:03:32,041 --> 00:03:34,541
 conservar los instrumentos y la música
 
 63
-00:03:34:08 --> 00:03:39:04
+00:03:34,541 --> 00:03:39,375
 a través del pensamiento, del corazón y del viento,
 porque mi cuerpo
 
 64
-00:03:39:08 --> 00:03:42:08
+00:03:39,541 --> 00:03:42,541
 es el que hace la música a través del pensamiento a través
 del viento.
 
 65
-00:03:43:20 --> 00:03:46:07
+00:03:44,041 --> 00:03:46,500
 Y por eso existen nuestros ancestros
 
 66
-00:03:46:07 --> 00:03:49:19
+00:03:46,500 --> 00:03:50,000
 que es el viento, el viento papá,
 
 67
-00:03:50:11 --> 00:03:54:11
+00:03:50,666 --> 00:03:54,666
 que es nuestro viento
 el que sopla y los remolinos
 
 68
-00:03:55:10 --> 00:03:58:10
+00:03:55,625 --> 00:03:58,625
 que nacen en la naturaleza, eso nos enseñanza a hacer la música.
 
 69
-00:03:59:10 --> 00:04:05:02
+00:03:59,625 --> 00:04:05,291
 Yo le voy a hacer un toque, lo que le dije que se llama
 la crianza en la tierra wayakana shipi´jala tüü mmakat.
 
 70
-00:04:05:11 --> 00:04:07:22
+00:04:05,666 --> 00:04:08,125
 Nosotros somos la crianza de la tierra.
 
 71
-00:04:07:22 --> 00:04:09:06
+00:04:08,125 --> 00:04:09,458
 Y es así.
 
 72
-00:04:09:06 --> 00:04:12:18
+00:04:09,458 --> 00:04:13,000
 Un momentito antes de comenzar
 para cambiar la configuración atlántica,
 
 73
-00:04:13:11 --> 00:04:16:11
+00:04:13,708 --> 00:04:16,708
 pone trabajadores.
 
 74
-00:04:17:20 --> 00:04:21:13
+00:04:18,083 --> 00:04:21,791
 Del Estado, Estrellas de Iberoamérica Contexto
 
 75
-00:04:25:11 --> 00:04:26:08
+00:04:25,708 --> 00:04:26,583
 Listo.
 
 76
-00:04:26:08 --> 00:04:31:21
+00:04:26,583 --> 00:04:32,125
 Es así.
 
 77
-00:04:34:04 --> 00:04:41:12
+00:04:34,416 --> 00:04:41,750
 Oh, oh oh oh.
 
 78
-00:04:42:18 --> 00:04:51:06
+00:04:43,000 --> 00:04:51,500
 Oh, oh, oh
 
 79
-00:05:04:07 --> 00:05:06:22
+00:05:04,583 --> 00:05:07,208
 Oh, oh, oh
 
 80
-00:05:06:22 --> 00:05:09:02
+00:05:07,208 --> 00:05:09,375
 Bueno, este es otro instrumento
 
 81
-00:05:09:02 --> 00:05:12:02
+00:05:09,375 --> 00:05:12,375
 también hecho por nosotros, igual como le contaron,
 
 82
-00:05:12:16 --> 00:05:15:09
+00:05:12,958 --> 00:05:15,666
 se llama Maasi.
 
 83
-00:05:15:09 --> 00:05:18:04
+00:05:15,666 --> 00:05:18,458
 esto lo usamos nosotros en el momento del pastoreo
 
 84
-00:05:18:04 --> 00:05:20:18
+00:05:18,458 --> 00:05:21,041
 y para comunicarnos con otros compañeros.
 
 85
-00:05:20:18 --> 00:05:24:08
+00:05:21,041 --> 00:05:24,625
 Por eso te decía que mejor hacerlo en la comunidad
 
 86
-00:05:24:08 --> 00:05:27:08
+00:05:24,625 --> 00:05:27,625
 para tener la conexión espiritual.
 
 87
-00:05:28:07 --> 00:05:31:10
+00:05:28,583 --> 00:05:31,708
 El viento nos ayuda a hacer la música
 entonces nos ayuda también a comunicarnos
 
 88
-00:05:31:23 --> 00:05:35:14
+00:05:32,250 --> 00:05:35,916
 a través de la música,
 entonces con ello les voy a contar una historia,
 
 89
-00:05:36:23 --> 00:05:37:14
+00:05:37,291 --> 00:05:37,916
 cuando estamos pastoreando
 
 90
-00:05:37:14 --> 00:05:40:14
+00:05:37,916 --> 00:05:40,916
 nosotros, nos comunicamos, cada quien tiene su ritmo,
 su sonido
 
 91
-00:05:41:05 --> 00:05:43:09
+00:05:41,541 --> 00:05:43,708
 y sonido sonoro.
 
 92
-00:05:43:09 --> 00:05:46:09
+00:05:43,708 --> 00:05:46,708
 Si yo escucho un sonido, yo digo ese es de Pedro,
 
 93
-00:05:46:10 --> 00:05:50:08
+00:05:46,750 --> 00:05:50,666
 si es otro sonido diferente,
 ese es de Juan y el mío también es diferente.
 
 94
-00:05:50:19 --> 00:05:54:03
+00:05:51,125 --> 00:05:54,458
 Entonces yo le digo a Pedro a través de la música,
 
 95
-00:05:54:14 --> 00:05:59:11
+00:05:54,916 --> 00:05:59,791
 o sea, hacemos como un dialogo de hablar,
 si no ha visto una oveja que se me perdió
 
 96
-00:05:59:22 --> 00:06:02:22
+00:06:00,250 --> 00:06:03,250
 cuando estoy pastoreando y es así.
 
 97
-00:06:56:12 --> 00:06:58:22
+00:06:56,916 --> 00:06:59,333
 Ese es el sonido hecho por nosotros mismos
 
 98
-00:06:58:22 --> 00:07:03:18
+00:06:59,333 --> 00:07:04,166
 La música, la música, lo sacamos de la cabeza,
 o sea, nosotros debemos tener solamente oído,
 
 99
-00:07:04:16 --> 00:07:07:16
+00:07:05,083 --> 00:07:08,083
 oído y pensar, pensar con la naturaleza.
 
 100
-00:07:08:14 --> 00:07:11:04
+00:07:09,000 --> 00:07:11,583
 Las plantas, el aire son los que nos ayudan a nosotros
 
 101
-00:07:11:04 --> 00:07:14:04
+00:07:11,583 --> 00:07:14,583
 hacer la música, la interpretación del sonido.
 
 102
-00:07:14:10 --> 00:07:16:19
+00:07:14,833 --> 00:07:17,208
 Por eso que para nosotros es importante,
 
 103
-00:07:16:19 --> 00:07:21:02
+00:07:17,208 --> 00:07:21,500
 estas plantas tuvieron una vida,
 este material es de una planta, el vuelve a otra vida.
 
 104
-00:07:21:02 --> 00:07:23:02
+00:07:21,500 --> 00:07:23,500
 Ahora está hablando y nos está cantando.
 
 105
-00:07:24:01 --> 00:07:26:11
+00:07:24,458 --> 00:07:26,875
 él está vivo todavía
 
 106
-00:07:26:11 --> 00:07:30:04
+00:07:26,875 --> 00:07:30,583
 ustedes saben que nacen, se reproducen,
 pero como dicen de pronto ustedes que son
 
 107
-00:07:30:04 --> 00:07:33:05
+00:07:30,583 --> 00:07:33,625
 los arijuna nosotros decimos arijuna porque no es wayuu. No,
 ya se me murió, no
 
 108
-00:07:33:08 --> 00:07:36:06
+00:07:33,750 --> 00:07:36,666
 para nosotros está vivo, él tiene otra vida
 
 109
-00:07:36:06 --> 00:07:40:01
+00:07:36,666 --> 00:07:40,500
 y él está hablando a través de mi cuerpo,
 a través del viento que estoy haciendo.
 
 110
-00:07:40:17 --> 00:07:42:05
+00:07:41,166 --> 00:07:42,666
 No habla
 
 111
-00:07:42:05 --> 00:07:45:05
+00:07:42,666 --> 00:07:45,666
 y por eso el sonido, él tiene un sonido alto y uno bajo.
 
 112
-00:07:45:15 --> 00:07:48:15
+00:07:46,083 --> 00:07:49,083
 Mira que este es el alto,
 
 113
-00:07:55:15 --> 00:07:58:15
+00:07:56,083 --> 00:07:59,083
 esté es el bajo,
 
 114
-00:08:08:11 --> 00:08:11:11
+00:08:08,916 --> 00:08:11,916
 ese es el maasi, en la lengua en nosotros.
 
 115
-00:08:11:11 --> 00:08:15:16
+00:08:11,916 --> 00:08:16,125
 ontoroyoi en la lengua de nosotros no tiene nombre
 en español
 
 116
-00:08:16:00 --> 00:08:19:04
+00:08:16,458 --> 00:08:19,625
 en verdad los viejos dicen que esto lo hicimos por necesidad
 
 117
-00:08:19:04 --> 00:08:22:11
+00:08:19,625 --> 00:08:22,958
 para mantener la armonía del pueblo wayuu y mantener la
 
 118
-00:08:23:02 --> 00:08:27:12
+00:08:23,583 --> 00:08:28,000
 la amistad entre los que convivimos.
 y así es la música para la tristeza
 
 119
-00:08:27:12 --> 00:08:31:06
+00:08:28,000 --> 00:08:31,750
 al momento de enamorar a una mujer,
 una hembra también lo hacemos.
 
 120
-00:08:32:14 --> 00:08:34:21
+00:08:33,083 --> 00:08:35,375
 Este se llama sawawa
 
 121
-00:08:34:21 --> 00:08:36:16
+00:08:35,375 --> 00:08:37,166
 este lo usamos nosotros mismos también,
 
 122
-00:08:36:16 --> 00:08:41:09
+00:08:37,166 --> 00:08:41,875
 los jóvenes para enamorar a las mujeres, con un
 sentimiento cuando estamos triste,
 
 123
-00:08:42:05 --> 00:08:46:19
+00:08:42,708 --> 00:08:47,291
 cuando estamos enamorados
 hacemos la música y también con la naturaleza.
 
 124
-00:08:46:19 --> 00:08:49:08
+00:08:47,291 --> 00:08:49,833
 Cuando escuchamos las aves
 
 125
-00:08:49:08 --> 00:08:51:09
+00:08:49,833 --> 00:08:51,875
 hacemos la música, las aves nos ayudan a hacer
 
 126
-00:08:51:09 --> 00:08:54:09
+00:08:51,875 --> 00:08:54,875
 la música, el viento y el mar.
 
 127
-00:08:54:15 --> 00:08:57:15
+00:08:55,125 --> 00:08:58,125
 Este es un toque aquí del wayuu enamorado y es así
 
 128
-00:09:29:13 --> 00:09:42:22
+00:09:30,083 --> 00:09:43,500
 Oh, oh, oh.
 
 129
-00:09:45:15 --> 00:09:47:16
+00:09:46,208 --> 00:09:48,250
 Bueno ese es el sawawa,
 
 130
-00:09:47:16 --> 00:09:50:16
+00:09:48,250 --> 00:09:51,250
 como les cuento, es hecho por nosotros mismos
 
 131
-00:09:52:11 --> 00:09:55:03
+00:09:53,041 --> 00:09:55,708
 y estos son materiales de la naturaleza,
 
 132
-00:09:55:03 --> 00:09:58:03
+00:09:55,708 --> 00:09:58,708
 estos instrumentos tienen un ritual, estos tres
 
 133
-00:09:59:06 --> 00:10:02:12
+00:09:59,833 --> 00:10:03,083
 estos instrumentos
 solamente lo podemos interpretar de día y de noche
 
 134
-00:10:02:12 --> 00:10:06:14
+00:10:03,083 --> 00:10:07,166
 no se puede interpretar, sí lo hacemos de noche
 de pronto cuando viaje a una ciudad.
 
 135
-00:10:06:22 --> 00:10:12:13
+00:10:07,500 --> 00:10:13,125
 Pero en nuestro territorio no lo puedo hacer y,
 si lo hago de noche tengo que pedir permiso
 
 136
-00:10:12:13 --> 00:10:17:16
+00:10:13,125 --> 00:10:18,250
 a la madre tierra y al padre lluvia,
 porque ellos tienen un ritual.
 
 137
-00:10:17:16 --> 00:10:21:22
+00:10:18,250 --> 00:10:22,500
 Ellos dicen que a esa hora
 ya después de las seis cuando el sol se oculta ellos ya están descansando.
 
 138
-00:10:22:19 --> 00:10:28:00
+00:10:23,375 --> 00:10:28,625
 No los podemos estar molestando en la mañana si, para que
 se levante con ese sonoro musical,
 
 139
-00:10:28:00 --> 00:10:31:23
+00:10:28,625 --> 00:10:32,583
 para alegrar a nuestro territorio
 y solo lo interpretan los hombres.
 
 140
-00:10:32:14 --> 00:10:35:14
+00:10:33,208 --> 00:10:36,208
 Claro, una mujer lo puede hacer,
 pero está mal visto para nosotros los wayuu.
 
 141
-00:10:36:00 --> 00:10:39:00
+00:10:36,625 --> 00:10:39,625
 De pronto ustedes lo pueden hacer, una mujer que no sea wayuu lo puede hacer,
 
 142
-00:10:39:10 --> 00:10:42:14
+00:10:40,041 --> 00:10:43,208
 pero una mujer wayuu no lo puede hacer
 porque es un oficio fundamental del hombre
 
 143
-00:10:43:03 --> 00:10:46:05
+00:10:43,750 --> 00:10:46,833
 en el momento que está pastoreando
 en el momento que esté buscando el agua del Jagüey o la casimba
 
 144
-00:10:47:15 --> 00:10:50:15
+00:10:48,250 --> 00:10:51,250
 y en el momento en que siente algo por una mujer.
 
 145
-00:10:50:21 --> 00:10:55:22
+00:10:51,500 --> 00:10:56,541
 Por eso es muy importante los instrumentos, que conozcan
 que es la música wayuu y para donde van estos instrumentos.
 
 146
-00:10:55:23 --> 00:10:58:21
+00:10:56,583 --> 00:10:59,500
 Este se llama un ontoroyoi, perdón
 
 147
-00:11:00:21 --> 00:11:04:09
+00:11:01,500 --> 00:11:05,000
 turompa, este es el birimbao le dicen arpa de boca,
 
 148
-00:11:04:18 --> 00:11:07:18
+00:11:05,375 --> 00:11:08,416
 es un instrumento muy conocido por varios indígenas,
 
 149
-00:11:07:22 --> 00:11:09:07
+00:11:08,583 --> 00:11:09,958
 esto fue traído por colonizadores.
 
 150
-00:11:09:07 --> 00:11:14:02
+00:11:09,958 --> 00:11:14,750
 Nosotros la adaptamos
 de una manera para nosotros y la hicimos para nosotros,
 
 151
-00:11:14:04 --> 00:11:17:04
+00:11:14,833 --> 00:11:17,833
 la fabricamos, este si lo pueden interpretar las mujeres y los hombres
 
 152
-00:11:17:19 --> 00:11:20:19
+00:11:18,458 --> 00:11:21,458
 Y como ven es de metal muy diferente a la planta.
 
 153
-00:11:23:23 --> 00:11:27:06
+00:11:24,625 --> 00:11:27,916
 las plantas tienen vida, este nunca tuvo vida
 y este es hecho
 
 154
-00:11:27:06 --> 00:11:30:06
+00:11:27,916 --> 00:11:30,916
 por el hombre y es remachado, en cambio este tiene
 
 155
-00:11:30:10 --> 00:11:33:10
+00:11:31,083 --> 00:11:34,083
 un carácter más espiritual para hacerlo,
 
 156
-00:11:33:15 --> 00:11:36:15
+00:11:34,291 --> 00:11:37,291
 estos que son de plantas,
 
 157
-00:11:37:03 --> 00:11:41:10
+00:11:37,791 --> 00:11:42,083
 les voy hacer un toque, se llama el aleteo de las aves, a esta
 
 158
-00:11:41:10 --> 00:11:45:07
+00:11:42,083 --> 00:11:45,958
 hora las aves como están escuchando están aleteando para descansar
 
 159
-00:11:45:07 --> 00:11:49:21
+00:11:45,958 --> 00:11:50,583
 y comienzan a hacer de esta manera así
 y cuando llueve también comienzan aletear.
 
 160
-00:12:01:11 --> 00:12:18:19
+00:12:02,166 --> 00:12:19,500
 Oh, oh, oh
 
 161
-00:12:23:03 --> 00:12:26:03
+00:12:23,833 --> 00:12:26,833
 Oh, oh, oh.
 
 162
-00:12:29:02 --> 00:12:31:00
+00:12:29,791 --> 00:12:31,750
 Oh, oh, oh
 
 163
-00:12:31:00 --> 00:12:36:11
+00:12:31,750 --> 00:12:37,208
 usted
 
 164
-00:12:37:05 --> 00:12:40:03
+00:12:37,958 --> 00:12:40,875
 ¿Está soplando o nada más está usando la boca?
 
 165
-00:12:40:03 --> 00:12:43:10
+00:12:40,875 --> 00:12:44,166
 No la boca, la boca es la resonancia y yo aspiro
 
 166
-00:12:43:10 --> 00:12:46:10
+00:12:44,166 --> 00:12:47,166
 y soplo, pero no muy fuerte, poco.
 
 167
-00:12:46:23 --> 00:12:49:23
+00:12:47,708 --> 00:12:50,708
 Si, la boca hace la resonancia y
 
 168
-00:12:50:04 --> 00:12:53:06
+00:12:50,916 --> 00:12:54,000
 tengo que tener los dientes pegados aquí
 para que haga la vibración
 
 169
-00:12:54:17 --> 00:12:56:18
+00:12:55,458 --> 00:12:57,500
 de la lengüeta que está en el centro.
 
 170
-00:12:56:18 --> 00:12:57:21
+00:12:57,500 --> 00:12:58,625
 Es interesante eso.
 
 171
-00:12:57:21 --> 00:13:00:21
+00:12:58,625 --> 00:13:01,625
 Esos son vivos, pero usted está vivo también.
 
 172
-00:13:01:05 --> 00:13:02:20
+00:13:01,958 --> 00:13:03,583
 Aja, estoy usando este sí,
 
 173
-00:13:02:20 --> 00:13:04:13
+00:13:03,583 --> 00:13:05,291
 Si, correcto.
 
 174
-00:13:04:13 --> 00:13:08:22
+00:13:05,291 --> 00:13:09,666
 Entonces para nosotros
 es importante mantener la música, buena esta es la tambora.
 
 175
-00:13:08:22 --> 00:13:13:17
+00:13:09,666 --> 00:13:14,500
 Ahorita esta es la kasha que usamos para el baile
 en la yonna. Usamos
 
 176
-00:13:13:17 --> 00:13:18:18
+00:13:14,500 --> 00:13:19,541
 Los toques de bailes de la yonna hay un toque
 que se llama la carrera de caballo,
 
 177
-00:13:18:19 --> 00:13:19:18
+00:13:19,583 --> 00:13:20,541
 Por eso quería hacerlo y
 
 178
-00:13:19:18 --> 00:13:24:04
+00:13:20,541 --> 00:13:24,958
 los estaba invitando a ustedes
 porque de pronto en la comunidad uno se concentra
 
 179
-00:13:24:04 --> 00:13:28:08
+00:13:24,958 --> 00:13:29,125
 más y más tiempo,
 porque uno escucha ruido por aquí y ruido por allá.
 
 180
-00:13:28:08 --> 00:13:34:11
+00:13:29,125 --> 00:13:35,250
 Entonces no se escucha, en la comunidad la naturaleza nos ayuda
 a concentrarnos y así las cosa en verdad se pueden
 
 181
-00:13:36:00 --> 00:13:39:00
+00:13:36,791 --> 00:13:39,791
 mostrar, lo que es nosotros, la música y
 
 182
-00:13:39:17 --> 00:13:42:20
+00:13:40,500 --> 00:13:43,625
 y de pronto llevo a otro músico de la escuela porque es
 diferente
 
 183
-00:13:42:20 --> 00:13:47:05
+00:13:43,625 --> 00:13:48,000
 lo que él toca a lo que yo hago, tiene un sonido diferente,
 es el mismo instrumento,
 
 184
-00:13:47:05 --> 00:13:51:04
+00:13:48,000 --> 00:13:51,958
 son el mismo toque, pero tiene otro lenguaje.
 
 185
-00:13:52:01 --> 00:13:55:07
+00:13:52,833 --> 00:13:56,125
 El sonoro es diferente, cada quien tiene su toque.
 
 186
-00:13:55:07 --> 00:13:58:07
+00:13:56,125 --> 00:13:59,125
 Es como si el compone una canción es
 diferente a la que yo compongo,
 
 187
-00:13:58:21 --> 00:14:02:15
+00:13:59,708 --> 00:14:03,458
 esa es la música wayuu, lo hacemos y para nosotros es muy importante.
 
 188
-00:14:02:15 --> 00:14:05:15
+00:14:03,458 --> 00:14:06,458
 Como le dije, el viento
 
 189
-00:14:05:21 --> 00:14:10:02
+00:14:06,708 --> 00:14:10,916
 y el remolino pichikua
 lo decimos en nuestra lengua pichikua que es remolino
 
 190
-00:14:11:03 --> 00:14:13:20
+00:14:11,958 --> 00:14:14,666
 y jo´utai que es el viento,
 
 191
-00:14:13:20 --> 00:14:18:06
+00:14:14,666 --> 00:14:19,083
 porque en el cuerpo
 hacemos a través del viento, del pensamiento, del corazón
 
 192
-00:14:18:17 --> 00:14:22:14
+00:14:19,541 --> 00:14:23,416
 y lo que tu piensas
 hacemos la música y con el instrumento nos ayudamos.
 
 193
-00:14:23:02 --> 00:14:28:03
+00:14:23,916 --> 00:14:28,958
 Por eso es muy importante que la música wayuu se conserve
 y que usted lo conozcan.
 
 194
-00:14:28:23 --> 00:14:31:23
+00:14:29,791 --> 00:14:32,791
 Llevar la música a un nivel
 
 195
-00:14:32:11 --> 00:14:35:16
+00:14:33,291 --> 00:14:36,541
 sonoro con otros instrumentos que no son wayuu y
 
 196
-00:14:35:17 --> 00:14:41:01
+00:14:36,583 --> 00:14:41,916
 ya lo estamos haciendo, la función y las pruebas
 y nos ha dado un resultado buenísimo.
 
 197
-00:14:41:17 --> 00:14:44:08
+00:14:42,583 --> 00:14:45,208
 Si de pronto con la música de
 
 198
-00:14:44:08 --> 00:14:49:22
+00:14:45,208 --> 00:14:50,791
 reggaetón con la turompa,
 la tambora con tambora llamador africano,
 
 199
-00:14:50:16 --> 00:14:55:09
+00:14:51,541 --> 00:14:56,250
 estamos haciendo todo ese trabajo musical
 para mantener y conservar toda la riqueza cultural,
 
 200
-00:14:55:22 --> 00:15:00:16
+00:14:56,791 --> 00:15:01,541
 sin olvidarnos de nosotros
 que nuestra lengua, nuestra espiritualidad,
 
 201
-00:15:01:22 --> 00:15:04:15
+00:15:02,791 --> 00:15:05,500
 nuestro territorio,
 
 202
-00:15:04:15 --> 00:15:07:15
+00:15:05,500 --> 00:15:08,500
 nuestro clan que es la organización social
 
 203
-00:15:07:19 --> 00:15:10:08
+00:15:08,666 --> 00:15:11,208
 y la economía tradicional donde tú vives.
 
 204
-00:15:10:08 --> 00:15:14:19
+00:15:11,208 --> 00:15:15,666
 Muy importante esos cinco ejes principales
 que son nuestras manifestaciones culturales que esta
 
 205
-00:15:14:19 --> 00:15:19:12
+00:15:15,666 --> 00:15:20,416
 dentro del sistema normativo
 wayuu, que nuestras voces siempre sean en nuestra
 lengua, por eso empecé
 
 206
-00:15:20:04 --> 00:15:24:12
+00:15:21,083 --> 00:15:25,416
 a hablar con mi lengua, que es el Wayunaiki,
 por eso es importante
 
 207
-00:15:24:17 --> 00:15:29:08
+00:15:25,625 --> 00:15:30,250
 Wayunaiki significa personas de
 buen pensamiento wayuu ana´a eki
 
 208
-00:15:30:05 --> 00:15:33:06
+00:15:31,125 --> 00:15:34,166
 personas de buen pensamiento o de buena cabeza.
 
 209
-00:15:34:01 --> 00:15:37:01
+00:15:34,958 --> 00:15:37,958
 Entonces a eso los invito, no sé qué dicen ustedes,
 
 210
-00:15:38:06 --> 00:15:40:16
+00:15:39,166 --> 00:15:41,583
 se van con nosotros mañana para allá
 
 211
-00:15:40:16 --> 00:15:43:05
+00:15:41,583 --> 00:15:44,125
 es un lugar muy bonito
 
 212
-00:15:43:05 --> 00:15:46:00
+00:15:44,125 --> 00:15:46,916
 y tengo que llamar y decir que vamos con ustedes.
 
 213
-00:15:46:00 --> 00:15:49:01
+00:15:46,916 --> 00:15:49,958
 Entonces sí, porque la idea es esa entonces no sé.
 
 214
-00:15:49:09 --> 00:15:51:05
+00:15:50,291 --> 00:15:52,125
 Si ahí cuadrando,
 
 215
-00:15:51:05 --> 00:15:53:18
+00:15:52,125 --> 00:15:54,666
 y eso de lo que me estaba hablando al inicio,
 
 216
-00:15:53:18 --> 00:15:58:05
+00:15:54,666 --> 00:15:59,166
 un poco de la armonía o armonía de la música y la naturaleza del tema.
 
 217
-00:16:01:10 --> 00:16:04:18
+00:16:02,375 --> 00:16:05,708
 Puede hablar un poco más de eso,
 de conservar una armonía.
 
 218
-00:16:04:21 --> 00:16:09:02
+00:16:05,833 --> 00:16:10,041
 Pues hay una armonía en la naturaleza ya, y para mi
 parece que la música está
 intentando de llegar a esa armonía más, de
 concentrar las cosas de estar como más conectado.
 
 219
-00:16:18:10 --> 00:16:24:04
+00:16:19,375 --> 00:16:25,125
 Si nosotros
 mantenemos la música a través de la espiritualidad,
 
 220
-00:16:24:04 --> 00:16:29:01
+00:16:25,125 --> 00:16:30,000
 de la conexión espiritual, yo aquí te
 puedo tocar el instrumento, pero no es lo mismo
 
 221
-00:16:29:01 --> 00:16:35:09
+00:16:30,000 --> 00:16:36,333
 yo tocarlo en mi comunidad
 y allá es diferente porque tengo conexión con la naturaleza,
 
 222
-00:16:35:14 --> 00:16:38:14
+00:16:36,541 --> 00:16:39,541
 con las aves y los animales
 
 223
-00:16:38:14 --> 00:16:40:12
+00:16:39,541 --> 00:16:41,500
 y las plantas son las que me ayudan
 
 224
-00:16:40:12 --> 00:16:43:12
+00:16:41,500 --> 00:16:44,500
 a mantener esa energía
 
 225
-00:16:43:16 --> 00:16:45:15
+00:16:44,666 --> 00:16:46,625
 y el cuerpo,
 
 226
-00:16:45:15 --> 00:16:48:08
+00:16:46,625 --> 00:16:49,333
 porque con el cuerpo yo pienso,
 
 227
-00:16:48:08 --> 00:16:51:08
+00:16:49,333 --> 00:16:52,333
 porque somos en la cuarta generación,
 
 228
-00:16:52:06 --> 00:16:55:13
+00:16:53,250 --> 00:16:56,541
 hacemos la interpretación sonora
 
 229
-00:16:56:18 --> 00:16:59:02
+00:16:57,750 --> 00:17:00,083
 y no tanto con los dedos
 
 230
-00:16:59:02 --> 00:17:02:15
+00:17:00,083 --> 00:17:03,625
 sino lo que yo pienso y lo que yo veo,
 porque uno aprende a través de la observación.
 
 231
-00:17:03:11 --> 00:17:05:22
+00:17:04,458 --> 00:17:06,916
 Si, lo que yo escucho le pongo el oído
 
 232
-00:17:05:22 --> 00:17:08:22
+00:17:06,916 --> 00:17:09,916
 escucho muy bien los pájaros, escucho las
 
 233
-00:17:09:11 --> 00:17:12:01
+00:17:10,458 --> 00:17:13,041
 las olas del mar, escucho el
 
 234
-00:17:13:01 --> 00:17:14:21
+00:17:14,041 --> 00:17:15,875
 aleteo de las aves,
 
 235
-00:17:14:21 --> 00:17:18:21
+00:17:15,875 --> 00:17:19,875
 escucho también las plantas como se mueven. Todo eso
 
 236
-00:17:19:08 --> 00:17:22:08
+00:17:20,333 --> 00:17:23,375
 ellos son lo que nos enseñan juntos a hacer la música,
 
 237
-00:17:22:19 --> 00:17:25:18
+00:17:23,833 --> 00:17:26,791
 con eso hacemos nosotros la música y también
 
 238
-00:17:26:23 --> 00:17:28:18
+00:17:28,000 --> 00:17:29,791
 los animales como las aves.
 
 239
-00:17:28:18 --> 00:17:31:18
+00:17:29,791 --> 00:17:32,791
 Por eso les toque un toque del aleteo de las aves.
 
 240
-00:17:32:12 --> 00:17:35:12
+00:17:33,541 --> 00:17:36,541
 Todo es a través de la naturaleza,
 
 241
-00:17:35:23 --> 00:17:38:23
+00:17:37,000 --> 00:17:40,000
 por eso que la música para nosotros es muy importante
 
 242
-00:17:40:01 --> 00:17:44:04
+00:17:41,083 --> 00:17:45,208
 y dentro de nuestra comunidad,
 porque nos ayuda a hacer la armonía
 
 243
-00:17:44:23 --> 00:17:49:11
+00:17:46,000 --> 00:17:50,500
 y la connotación espiritual,
 porque hay música espiritual como la tambora,
 
 244
-00:17:49:11 --> 00:17:53:02
+00:17:50,500 --> 00:17:54,125
 hay una música de sanación que ayudan a sanar a enfermos
 
 245
-00:17:53:20 --> 00:17:56:17
+00:17:54,875 --> 00:17:57,750
 y ayuda a alejar las malas energías.
 
 246
-00:17:56:17 --> 00:17:59:17
+00:17:57,750 --> 00:18:00,750
 En el tiempo del COVID
 
 247
-00:18:00:00 --> 00:18:03:21
+00:18:01,041 --> 00:18:04,958
 hubo sueño de mujeres, autoridades espirituales
 del pueblo wayuu
 
 248
-00:18:04:10 --> 00:18:07:15
+00:18:05,500 --> 00:18:08,708
 porque hay una autoridad espiritual de mujeres.
 
 249
-00:18:08:15 --> 00:18:11:15
+00:18:09,708 --> 00:18:12,708
 Hubo un sueño que ella tuvo donde se debía hacer un baile de yonna,
 que es la danza,
 
 250
-00:18:11:22 --> 00:18:16:08
+00:18:13,000 --> 00:18:17,416
 por eso decía que era mejor explicar
 allá como era y que había que tocar la tambora que es la kasha
 
 251
-00:18:16:22 --> 00:18:19:08
+00:18:18,000 --> 00:18:20,416
 para que esa energía del COVID se alejara
 
 252
-00:18:19:08 --> 00:18:22:22
+00:18:20,416 --> 00:18:24,000
 y dijo que nos colocáramos una planta que se llama malu´a
 
 253
-00:18:23:20 --> 00:18:26:20
+00:18:24,916 --> 00:18:27,916
 que tiene una buena energía y
 
 254
-00:18:27:06 --> 00:18:29:02
+00:18:28,333 --> 00:18:30,166
 así la energía del COVID no
 
 255
-00:18:29:02 --> 00:18:32:14
+00:18:30,166 --> 00:18:33,666
 llegara a nuestro territorio
 y en verdad no llegó tanto, sino afectó
 
 256
-00:18:32:14 --> 00:18:36:13
+00:18:33,666 --> 00:18:37,625
 en la ciudad y en el casco urbano, y eso nos ayudó bastante
 
 257
-00:18:36:13 --> 00:18:38:15
+00:18:37,625 --> 00:18:39,708
 a nosotros conservar a través de la música.
 
 258
-00:18:38:15 --> 00:18:42:04
+00:18:39,708 --> 00:18:43,250
 Ayudo a defendernos de enfermedades, de las malas energías
 
 259
-00:18:42:22 --> 00:18:45:22
+00:18:44,000 --> 00:18:47,041
 y a conservar lo que uno quiere y lo que tú sientes.
 
 260
-00:18:47:04 --> 00:18:50:04
+00:18:48,291 --> 00:18:51,291
 si, si tiene poder
 
 261
-00:18:50:05 --> 00:18:52:13
+00:18:51,333 --> 00:18:53,666
 yo lo he llevado a la Filarmónica de Bogotá,
 
 262
-00:18:53:15 --> 00:18:55:01
+00:18:54,750 --> 00:18:56,166
 si ahí estamos haciendo una función para ir,
 
 263
-00:18:55:01 --> 00:18:58:14
+00:18:56,166 --> 00:18:59,708
 estamos haciendo prueba con otros instrumentos,
 como el violín,
 
 264
-00:18:58:22 --> 00:19:01:22
+00:19:00,041 --> 00:19:03,041
 como el bombo de esos grandes, estamos haciendo todas las pruebas
 
 265
-00:19:02:04 --> 00:19:05:04
+00:19:03,291 --> 00:19:06,291
 para llevarlo a un sonoro
 
 266
-00:19:05:09 --> 00:19:07:04
+00:19:06,500 --> 00:19:08,291
 que se pueda mostrar al mundo.
 
 267
-00:19:07:04 --> 00:19:11:02
+00:19:08,291 --> 00:19:12,208
 Que en el pueblo
 wayúu también tenemos un instrumento.
 
 268
-00:19:11:19 --> 00:19:12:18
+00:19:12,916 --> 00:19:13,875
 A pesar de que es pequeño.
 
 269
-00:19:12:18 --> 00:19:16:12
+00:19:13,875 --> 00:19:17,625
 Y esto que es así, sonoros, significa algo
 
 270
-00:19:16:23 --> 00:19:20:22
+00:19:18,083 --> 00:19:22,041
 muy, muy espiritual para nosotros,
 muy importante para el pueblo wayuu
 
 271
-00:19:21:12 --> 00:19:24:22
+00:19:22,625 --> 00:19:26,041
 y por eso lo conservamos a través de la escuela
 que tenemos acá,
 
 272
-00:19:26:04 --> 00:19:29:04
+00:19:27,333 --> 00:19:30,333
 enseñando a los niños y las niñas
 
 273
-00:19:29:22 --> 00:19:33:12
+00:19:31,083 --> 00:19:34,666
 que es la música wayuu y por qué lo hacemos y cómo lo hacemos
 
 274
-00:19:34:01 --> 00:19:37:01
+00:19:35,208 --> 00:19:38,208
 y por qué es importante mantener la música wayuu.
 
 275
-00:19:38:01 --> 00:19:40:18
+00:19:39,208 --> 00:19:41,916
 ¿Y eso me puedes comentar un poco
 
 276
-00:19:40:18 --> 00:19:44:14
+00:19:41,916 --> 00:19:45,750
 más de la escuela y mañana que vamos a hacer?
 
 277
-00:19:44:14 --> 00:19:49:03
+00:19:45,750 --> 00:19:50,291
 bueno, ustedes ven la imagen que está ahí
 ese es el maestro Jorge Enrique,
 
 278
-00:19:49:16 --> 00:19:53:10
+00:19:50,833 --> 00:19:54,583
 un maestro músico wayuu quien me enseñó, él falleció.
 
 279
-00:19:54:00 --> 00:19:57:17
+00:19:55,166 --> 00:19:58,875
 está descansando en Jepira, porque cuando morimos nosotros no
 
 280
-00:19:57:17 --> 00:20:02:00
+00:19:58,875 --> 00:20:03,166
 vamos ni al cielo
 ni a la diestra de Dios, nosotros emprendemos un largo camino
 
 281
-00:20:03:02 --> 00:20:04:05
+00:20:04,250 --> 00:20:05,375
 al paraíso de los muertos que
 
 282
-00:20:04:05 --> 00:20:07:07
+00:20:05,375 --> 00:20:08,500
 es donde ustedes van al cabo de la vela, ahí descansa
 
 283
-00:20:07:07 --> 00:20:10:07
+00:20:08,500 --> 00:20:11,500
 nuestra alma, emprendemos un largo camino
 
 284
-00:20:10:21 --> 00:20:14:06
+00:20:12,083 --> 00:20:15,458
 y a través de todo lo que uno siente y lo que hacemos.
 
 285
-00:20:14:07 --> 00:20:17:16
+00:20:15,500 --> 00:20:18,875
 dicen los viejos
 
 286
-00:20:17:16 --> 00:20:20:15
+00:20:18,875 --> 00:20:21,833
 que nosotros nos convertimos en agua,
 
 287
-00:20:20:20 --> 00:20:24:20
+00:20:22,041 --> 00:20:26,041
 caemos en el mar de allá del cabo o Jepira y después
 
 288
-00:20:24:20 --> 00:20:28:08
+00:20:26,041 --> 00:20:29,541
 se evapora, sube al cielo, y vuelve a caer en la tierra
 
 289
-00:20:28:14 --> 00:20:31:10
+00:20:29,791 --> 00:20:32,625
 a fertilizar la tierra y
 
 290
-00:20:31:10 --> 00:20:35:13
+00:20:32,625 --> 00:20:36,750
 Ya nosotros volvemos a otra vida,
 las plantas también son iguales.
 
 291
-00:20:36:05 --> 00:20:39:10
+00:20:37,416 --> 00:20:40,625
 Las plantas en el pueblo wayúu nosotros no la contaminamos,
 
 292
-00:20:40:04 --> 00:20:43:04
+00:20:41,375 --> 00:20:44,375
 nosotros no dañamos la naturaleza,
 
 293
-00:20:43:14 --> 00:20:47:11
+00:20:44,791 --> 00:20:48,666
 sino que ha habido muchas personas
 que han venido a contaminar nuestro territorio
 
 294
-00:20:48:00 --> 00:20:51:22
+00:20:49,208 --> 00:20:53,166
 y nosotros mismos, algunos wayuu también
 han aprendido a hacer eso y eso ha perdido también
 
 295
-00:20:51:22 --> 00:20:56:07
+00:20:53,166 --> 00:20:57,541
 la forma de mantener, de cuidar los instrumentos porque hay plantas que ya no están
 
 296
-00:20:57:00 --> 00:21:01:07
+00:20:58,250 --> 00:21:02,541
 en algunas partes, como no hay toca buscarlo
 en otros territorios
 
 297
-00:21:02:01 --> 00:21:06:08
+00:21:03,291 --> 00:21:07,583
 porque en la cultura hay un espacio que solamente
 son para las plantas y eso no se puede tocar.
 
 298
-00:21:06:18 --> 00:21:09:08
+00:21:08,000 --> 00:21:10,583
 Es como si fuera nuestro corazón, es el wayuu,
 
 299
-00:21:09:08 --> 00:21:12:20
+00:21:10,583 --> 00:21:14,083
 ahí es donde nosotros sembramos,
 mantenemos toda la siembra para poder comer
 
 300
-00:21:13:12 --> 00:21:16:19
+00:21:14,750 --> 00:21:18,041
 porque en todas partes
 no se puede sembrar sino en esa parte que está ahí,
 
 301
-00:21:16:19 --> 00:21:20:02
+00:21:18,041 --> 00:21:21,333
 que el wayuu identifica a través del corazón
 y ahí están las plantas
 
 302
-00:21:20:02 --> 00:21:23:17
+00:21:21,333 --> 00:21:24,958
 y los instrumentos musicales donde podemos hacer
 cada instrumento para hacer
 
 303
-00:21:25:00 --> 00:21:28:06
+00:21:26,250 --> 00:21:29,500
 el sawawa, el maasi y el ontoroyoi.
 
 304
-00:21:28:23 --> 00:21:30:13
+00:21:30,208 --> 00:21:31,833
 A través de eso.
 
 305
-00:21:30:13 --> 00:21:32:22
+00:21:31,833 --> 00:21:34,208
 ¿Usted mismo escoge una planta?
 
 306
-00:21:32:22 --> 00:21:36:05
+00:21:34,208 --> 00:21:37,500
 si nosotros mismos lo fabricamos
 yo mismo lo fabrico busco la planta,
 
 307
-00:21:36:16 --> 00:21:38:11
+00:21:37,958 --> 00:21:39,750
 tienen su tiempo, el momento en que lo puedo cortar,
 
 308
-00:21:38:11 --> 00:21:40:15
+00:21:39,750 --> 00:21:41,916
 no todo el tiempo lo puedo cortar,
 
 309
-00:21:40:15 --> 00:21:43:03
+00:21:41,916 --> 00:21:44,416
 tiene su tiempo de luna
 
 310
-00:21:43:03 --> 00:21:46:09
+00:21:44,416 --> 00:21:47,666
 y no lo puedo cortar, nosotros
 
 311
-00:21:46:10 --> 00:21:49:16
+00:21:47,708 --> 00:21:50,958
 le pedimos permiso a la madre Tierra a través de rituales
 
 312
-00:21:50:09 --> 00:21:53:23
+00:21:51,666 --> 00:21:55,250
 para poder cortar las plantas. No se puede
 
 313
-00:21:53:23 --> 00:21:58:05
+00:21:55,250 --> 00:21:59,500
 de pronto cortar en cualquier momento, no, tiene su tiempo.
 
 314
-00:22:01:01 --> 00:22:04:01
+00:22:02,333 --> 00:22:05,333
 Y¿ hay
 
 315
-00:22:04:07 --> 00:22:07:07
+00:22:05,583 --> 00:22:08,583
 conexión entre el baile y la música?
 
 316
-00:22:07:22 --> 00:22:11:01
+00:22:09,208 --> 00:22:12,333
 O sea, pues he visto que los tambores no.
 
 317
-00:22:11:20 --> 00:22:12:15
+00:22:13,125 --> 00:22:13,958
 Si, el baile de la yonna
 
 318
-00:22:12:15 --> 00:22:15:23
+00:22:13,958 --> 00:22:17,291
 Se hace con la Kasha que para nosotros es una tambora
 
 319
-00:22:17:05 --> 00:22:20:00
+00:22:18,541 --> 00:22:21,333
 y en el baile
 
 320
-00:22:20:00 --> 00:22:23:05
+00:22:21,333 --> 00:22:24,541
 Hay un ritual que hacemos antes del baile
 
 321
-00:22:24:09 --> 00:22:27:09
+00:22:25,708 --> 00:22:28,708
 en un espacio sagrado que se llama piyoi que es un círculo
 
 322
-00:22:27:13 --> 00:22:30:08
+00:22:28,875 --> 00:22:31,666
 Un círculo en donde las niñas bailan descalzas
 
 323
-00:22:30:08 --> 00:22:33:02
+00:22:31,666 --> 00:22:34,416
 a veces, por estos días como el sol ha estado mucho caliente
 
 324
-00:22:33:02 --> 00:22:38:08
+00:22:34,416 --> 00:22:39,666
 les ha tocado en un espacio que les toca bailar
 con unas sandalias puestas, pero siempre es descalza.
 
 325
-00:22:39:09 --> 00:22:43:13
+00:22:40,708 --> 00:22:44,875
 Van con su manta estampada roja, simbolizando
 lo que es el rojo
 
 326
-00:22:43:18 --> 00:22:47:11
+00:22:45,083 --> 00:22:48,791
 La sangre de nosotros,la tierra,
 especialmente lo que es la espiritualidad
 
 327
-00:22:48:23 --> 00:22:50:11
+00:22:50,291 --> 00:22:51,791
 y hay bailes diferente,
 
 328
-00:22:50:11 --> 00:22:55:03
+00:22:51,791 --> 00:22:56,500
 ¿que muestran ahí? los pasos como el del alcaraván,
 hacen el paso de la tortolita,
 
 329
-00:22:55:03 --> 00:22:59:12
+00:22:56,500 --> 00:23:00,875
 la paloma, el gallinazo,
 todo lo que hay en la naturaleza,
 
 330
-00:23:00:02 --> 00:23:03:02
+00:23:01,458 --> 00:23:04,458
 mostrando toda la riqueza que vemos en nuestro territorio,
 
 331
-00:23:03:09 --> 00:23:06:03
+00:23:04,750 --> 00:23:07,500
 eso es lo que muestran a través del baile. El baile
 
 332
-00:23:06:03 --> 00:23:10:09
+00:23:07,500 --> 00:23:11,750
 de la Yonna es un reto
 entre el hombre y la mujer, en la fuerza que miden.
 
 333
-00:23:10:15 --> 00:23:14:10
+00:23:12,000 --> 00:23:15,791
 es por eso que el hombre va hacia atrás
 y la mujer hacia adelante siempre.
 
 334
-00:23:15:00 --> 00:23:17:23
+00:23:16,375 --> 00:23:19,333
 Y ahí se ve la destreza de la mujer no tanto del hombre.
 
 335
-00:23:18:08 --> 00:23:19:16
+00:23:19,708 --> 00:23:21,041
 Por eso, que es importante que la mujer en la
 
 336
-00:23:20:18 --> 00:23:23:18
+00:23:22,125 --> 00:23:25,125
 danza tiene que ir con su velo (kiara) bien linda
 
 337
-00:23:24:01 --> 00:23:27:01
+00:23:25,416 --> 00:23:28,416
 Su rostro maquillado con palisha (vija roja)
 
 338
-00:23:27:02 --> 00:23:29:21
+00:23:28,458 --> 00:23:31,250
 y su cabellera bien elegante.
 
 339
-00:23:29:21 --> 00:23:32:21
+00:23:31,250 --> 00:23:34,250
 Eso es lo que le da belleza a la yonna.
 
 340
-00:23:39:12 --> 00:23:42:12
+00:23:40,916 --> 00:23:43,916
 Si, eso es muy bueno
 
 341
-00:23:43:19 --> 00:23:47:19
+00:23:45,208 --> 00:23:49,208
 también podría ser posible de tocar un poco más
 
 342
-00:23:48:22 --> 00:23:51:07
+00:23:50,333 --> 00:23:52,708
 Bueno, sí,
 
 343
-00:23:51:07 --> 00:23:53:14
+00:23:52,708 --> 00:23:55,000
 bueno, vamos a tocar un toque aquí
 
 344
-00:23:53:14 --> 00:23:55:21
+00:23:55,000 --> 00:23:57,291
 En el tambor también,
 
 345
-00:23:55:21 --> 00:23:59:04
+00:23:57,291 --> 00:24:00,583
 pero me puedo parar porque tengo que pararme
 
 346
-00:24:03:06 --> 00:24:05:20
+00:24:04,666 --> 00:24:07,250
 Listo voy a meter
 
 347
-00:24:05:20 --> 00:24:08:20
+00:24:07,250 --> 00:24:10,250
 Esto por dentro en el bolsillo si quieres.
 
 348
-00:24:27:03 --> 00:24:28:21
+00:24:28,583 --> 00:24:30,333
 Ahí mismo.
 
 349
-00:24:28:21 --> 00:24:31:21
+00:24:30,333 --> 00:24:33,333
 Si. ¡No, no!
 
 350
-00:24:32:14 --> 00:24:33:17
+00:24:34,041 --> 00:24:35,166
 Bueno, el toque que
 
 351
-00:24:33:17 --> 00:24:36:06
+00:24:35,166 --> 00:24:37,708
 voy a hacer un toque
 
 352
-00:24:36:06 --> 00:24:38:12
+00:24:37,708 --> 00:24:39,958
 de yonna.
 
 353
-00:24:38:12 --> 00:24:41:12
+00:24:39,958 --> 00:24:42,958
 Lo que es el baile tradicional
 
 354
-00:25:51:16 --> 00:25:53:08
+00:25:53,208 --> 00:25:54,875
 de la Yonna.
 
 355
-00:25:53:08 --> 00:25:53:14
+00:25:54,875 --> 00:25:55,125
 Voy a hacer
 
 356
-00:25:53:14 --> 00:25:56:14
+00:25:55,125 --> 00:25:58,125
 Un toque de la carrera de caballo.
 
 357
-00:26:28:12 --> 00:26:30:04
+00:26:30,083 --> 00:26:31,750
 Bueno, esos son los toques
 
 358
-00:26:30:04 --> 00:26:34:04
+00:26:31,750 --> 00:26:35,750
 que hacemos nosotros con la kasha
 y bueno, con el baile de la Yonna, se hacen más
 
 359
-00:26:44:02 --> 00:26:44:15
+00:26:45,666 --> 00:26:46,208
 bueno.
 
 360
-00:26:44:15 --> 00:26:47:11
+00:26:46,208 --> 00:26:49,041
 ¿qué otra cosita sería?
 
 361
-00:26:47:11 --> 00:26:52:03
+00:26:49,041 --> 00:26:53,708
 Nosotros con el gusto de escuchar
 
 362
-00:26:52:19 --> 00:26:55:11
+00:26:54,375 --> 00:26:57,041
 Nos puede tocar la canción si quieres
 
 363
-00:26:55:11 --> 00:26:57:17
+00:26:57,041 --> 00:26:59,291
 la que dijiste que ibas a tocar, otro.
 
 364
-00:26:57:17 --> 00:27:00:15
+00:26:59,291 --> 00:27:02,208
 No, no si quieren toco otro instrumento
 
 365
-00:27:00:15 --> 00:27:03:15
+00:27:02,208 --> 00:27:05,250
 Seguimos, ese fue el de la turompa y
 
 366
-00:27:03:23 --> 00:27:05:08
+00:27:05,583 --> 00:27:06,958
 Bueno,
 
 367
-00:27:05:08 --> 00:27:08:08
+00:27:06,958 --> 00:27:09,958
 Voy a tocar la turompa con un sonido
 
 368
-00:27:08:12 --> 00:27:11:12
+00:27:10,125 --> 00:27:13,125
 que se llama el perro saltarín
 
 369
-00:27:11:19 --> 00:27:14:19
+00:27:13,416 --> 00:27:16,416
 o el perro jayariyu
 
 370
-00:27:14:22 --> 00:27:17:17
+00:27:16,541 --> 00:27:19,333
 se llama el perro jayariyu, o sea de mi clan
 
 371
-00:27:17:17 --> 00:27:20:17
+00:27:19,333 --> 00:27:22,333
 nosotros nos identificamos por eirüku.
 
 372
-00:27:21:19 --> 00:27:25:17
+00:27:23,416 --> 00:27:27,333
 Bueno, ustedes los arijunas dicen el clan,
 pero no es el clan sino el eiruku
 
 373
-00:27:25:21 --> 00:27:28:21
+00:27:27,500 --> 00:27:30,500
 que es mi
 
 374
-00:27:29:12 --> 00:27:34:01
+00:27:31,125 --> 00:27:35,666
 mama, que son parte del interclanil
 que son una familia de nosotros
 
 375
-00:27:34:01 --> 00:27:38:01
+00:27:35,666 --> 00:27:39,666
 nosotros no tenemos ninguna parte de interclanil
 
 376
-00:27:38:02 --> 00:27:41:02
+00:27:39,708 --> 00:27:42,708
 por lo menos los hijos míos no son hijos míos,
 
 377
-00:27:41:03 --> 00:27:43:13
+00:27:42,750 --> 00:27:45,166
 los hijos míos son los hijos de mis hermanas
 
 378
-00:27:43:13 --> 00:27:46:09
+00:27:45,166 --> 00:27:48,041
 y los hijos de sus hijas son Mis hijos
 
 379
-00:27:47:08 --> 00:27:50:18
+00:27:49,000 --> 00:27:52,416
 porque son los que tiene mi clan, mi eirüku
 
 380
-00:27:51:16 --> 00:27:54:20
+00:27:53,333 --> 00:27:56,500
 y nosotros hacemos un toque del eirüku que es así.
 
 381
-00:27:59:02 --> 00:28:02:02
+00:28:00,750 --> 00:28:03,750
 Oh, oh, oh
 
 382
-00:28:02:16 --> 00:28:06:13
+00:28:04,333 --> 00:28:08,208
 Oh, oh, oh
 
 383
-00:28:07:20 --> 00:28:10:17
+00:28:09,500 --> 00:28:12,375
 un muy
 
 384
-00:28:10:17 --> 00:28:13:17
+00:28:12,375 --> 00:28:15,375
 Oh, oh, oh
 
 385
-00:28:18:09 --> 00:28:33:14
+00:28:20,041 --> 00:28:35,291
 Oh, oh, oh
 
 386
-00:28:41:21 --> 00:28:42:13
+00:28:43,583 --> 00:28:44,250
 Bueno ese es un toque
 
 387
-00:28:42:13 --> 00:28:45:22
+00:28:44,250 --> 00:28:47,625
 que siempre he hecho,
 pero con música, melodías, también
 
 388
-00:28:45:22 --> 00:28:49:14
+00:28:47,625 --> 00:28:51,291
 lo hago con música de fusión con otros instrumentos
 que no es wayuu.
 
 389
-00:28:50:18 --> 00:28:52:21
+00:28:52,458 --> 00:28:54,583
 Les voy hacer un toque,
 
 390
-00:28:52:21 --> 00:28:55:21
+00:28:54,583 --> 00:28:57,583
 de lo que uno siente, lo que uno piensa,
 
 391
-00:28:56:12 --> 00:28:59:08
+00:28:58,208 --> 00:29:01,041
 lo que
 
 392
-00:28:59:08 --> 00:29:01:23
+00:29:01,041 --> 00:29:03,666
 se llama, se llama los sonidos de la tierra.
 
 393
-00:29:01:23 --> 00:29:06:01
+00:29:03,666 --> 00:29:07,750
 Si con la tierra siente, uno siente un viento, un ruido
 
 394
-00:29:06:20 --> 00:29:09:20
+00:29:08,541 --> 00:29:11,583
 y es de esta manera así.
 
 395
-00:30:06:19 --> 00:30:09:19
+00:30:08,583 --> 00:30:11,583
 ¿Usted cómo se aprende sus canciones?
 
 396
-00:30:09:21 --> 00:30:14:06
+00:30:11,666 --> 00:30:16,041
 usted mismo se crea unos
 pero, ¿otros se pasa por generaciones?
 
 397
-00:30:14:13 --> 00:30:18:17
+00:30:16,333 --> 00:30:20,500
 No, no, no, uno mismo hace la música es de uno mismo,
 a veces uno imita los de otros
 
 398
-00:30:18:17 --> 00:30:23:16
+00:30:20,500 --> 00:30:25,458
 otro toque de otro compañero,
 pero la mayoría es de la inspiración de nosotros mismos
 
 399
-00:30:24:07 --> 00:30:27:18
+00:30:26,083 --> 00:30:29,541
 en el momento que uno piensa y lo que uno siente
 y lo que tú ves
 
 400
-00:30:27:18 --> 00:30:32:08
+00:30:29,541 --> 00:30:34,166
 como te acabe de decir, en la naturaleza,
 estos son los que nos enseñan a nosotros
 
 401
-00:30:32:08 --> 00:30:35:23
+00:30:34,166 --> 00:30:37,791
 Los maestros las plantas, animales, las aves
 
 402
-00:30:35:23 --> 00:30:37:07
+00:30:37,791 --> 00:30:39,125
 El viento hace la música.
 
 403
-00:30:38:17 --> 00:30:41:21
+00:30:40,541 --> 00:30:43,708
 Bueno
 aquí creo que vamos a hacer aquí el de la casimba.
 
 404
-00:30:41:21 --> 00:30:48:16
+00:30:43,708 --> 00:30:50,500
 Cuando se agarra el agua del pozo
 le sale unos sonidos que son unos sonidos de lamento.
 
 405
-00:30:48:17 --> 00:30:51:17
+00:30:50,541 --> 00:30:53,541
 y es así.
 
 406
-00:31:09:10 --> 00:31:13:18
+00:31:11,250 --> 00:31:15,625
 Oh oh, oh
 
 407
-00:31:22:11 --> 00:31:25:11
+00:31:24,333 --> 00:31:27,333
 oh. Oh.
 
 408
-00:31:26:02 --> 00:31:27:11
+00:31:27,958 --> 00:31:29,333
 Esos son los sonidos.
 
 409
-00:31:27:11 --> 00:31:29:23
+00:31:29,333 --> 00:31:31,833
 ¿Que tiene eso que es la cosa de ahí abajo?
 
 410
-00:31:29:23 --> 00:31:32:07
+00:31:31,833 --> 00:31:34,166
 Esto es calabazo, se llama aliita
 
 411
-00:31:32:07 --> 00:31:35:07
+00:31:34,166 --> 00:31:37,166
 en wayunaiki, que tenemos nosotros de calabaza
 Este es mokochira (planta).
 
 412
-00:31:36:06 --> 00:31:38:09
+00:31:38,125 --> 00:31:40,250
 Si, nosotros siempre le colocamos esto como a veces
 
 413
-00:31:38:09 --> 00:31:41:09
+00:31:40,250 --> 00:31:43,250
 de adorno  para que se sostenga.
 
 414
-00:31:41:09 --> 00:31:43:01
+00:31:43,250 --> 00:31:44,916
 Y eso se desarma así
 
 415
-00:31:43:01 --> 00:31:46:01
+00:31:44,916 --> 00:31:47,916
 para poder guardarlo
 
 416
-00:31:47:03 --> 00:31:50:16
+00:31:49,000 --> 00:31:52,541
 se desarma y se arma como en los clarinetes.
 
 417
-00:31:50:16 --> 00:31:53:13
+00:31:52,541 --> 00:31:55,416
 ¿Cierto?
 
 418
-00:31:53:13 --> 00:31:57:04
+00:31:55,416 --> 00:31:59,083
 Los llaman de una manera igual.
 
 419
-00:31:57:14 --> 00:31:58:08
+00:31:59,500 --> 00:32:00,250
 Y es eso.
 
 420
-00:31:58:08 --> 00:31:59:23
+00:32:00,250 --> 00:32:01,875
 ¿En cuales
 
 421
-00:31:59:23 --> 00:32:00:19
+00:32:01,875 --> 00:32:02,708
 ambientes?
 
 422
-00:32:00:19 --> 00:32:02:19
+00:32:02,708 --> 00:32:04,708
 Normalmente se toca la música
 
 423
-00:32:02:19 --> 00:32:04:08
+00:32:04,708 --> 00:32:06,250
 O sea, en el día.
 
 424
-00:32:04:08 --> 00:32:07:02
+00:32:06,250 --> 00:32:09,000
 Bueno, estaba diciendo unos son para la noche
 
 425
-00:32:07:02 --> 00:32:09:02
+00:32:09,000 --> 00:32:11,000
 Si, estos tienen unos rituales.
 
 426
-00:32:09:02 --> 00:32:11:21
+00:32:11,000 --> 00:32:13,791
 Este instrumento solamente es de día,
 
 427
-00:32:12:22 --> 00:32:13:10
+00:32:14,833 --> 00:32:15,333
 no se pueden
 
 428
-00:32:13:10 --> 00:32:16:13
+00:32:15,333 --> 00:32:18,458
 tocar de noche, porque si nosotros lo hacemos
 de noche llama
 
 429
-00:32:16:13 --> 00:32:20:18
+00:32:18,458 --> 00:32:22,666
 Las mala energías dicen los viejos,
 porque en esos momentos ya ellos están descansando,
 
 430
-00:32:21:16 --> 00:32:24:16
+00:32:23,583 --> 00:32:26,583
 ya descansan para pensar,
 
 431
-00:32:24:21 --> 00:32:28:08
+00:32:26,791 --> 00:32:30,250
 para mantener otro día y hablar, hablando bien
 
 432
-00:32:30:04 --> 00:32:31:21
+00:32:32,083 --> 00:32:33,791
 la trompa  si no, normal.
 
 433
-00:32:31:21 --> 00:32:34:21
+00:32:33,791 --> 00:32:36,791
 la kasha también se puede interpretar en cualquier momento
 
 434
-00:32:35:13 --> 00:32:37:20
+00:32:37,458 --> 00:32:39,791
 porque la kasha es en ocasiones de comida
 
 435
-00:32:37:20 --> 00:32:39:05
+00:32:39,791 --> 00:32:41,166
 Dicen que la tambora también
 
 436
-00:32:39:05 --> 00:32:44:21
+00:32:41,166 --> 00:32:46,833
 Nosotros nos copiamos de los tambores que traían los españoles
 a nuestro territorio con redoblantes.
 
 437
-00:32:44:21 --> 00:32:48:07
+00:32:46,833 --> 00:32:50,250
 Lo miramos y por la necesidad que tuvo el pueblo
 wayuu de hacer algo
 
 438
-00:32:49:09 --> 00:32:52:09
+00:32:51,333 --> 00:32:54,333
 armónico para mantener el sonido,
 mantener el baile.
 
 439
-00:32:52:23 --> 00:32:55:16
+00:32:54,916 --> 00:32:57,625
 Y así es la kasha, pero con materiales de nosotros
 
 440
-00:32:55:16 --> 00:33:00:02
+00:32:57,625 --> 00:33:02,041
 porque tienen la planta, mira esta es planta
 y estos son cuero de animales.
 
 441
-00:33:00:15 --> 00:33:03:20
+00:33:02,583 --> 00:33:05,791
 Aquí tienen lo de la generación que está dentro de
 nuestra cosmovisión
 
 442
-00:33:04:12 --> 00:33:07:14
+00:33:06,458 --> 00:33:09,541
 de la generación y que está tocando exacto.
 
 443
-00:33:07:23 --> 00:33:11:00
+00:33:09,916 --> 00:33:12,958
 Y esto sí, es un material que no tiene vida,
 
 444
-00:33:11:21 --> 00:33:15:20
+00:33:13,833 --> 00:33:17,791
 es metálico,fue traído por los colonizadores
 
 445
-00:33:16:10 --> 00:33:18:23
+00:33:18,375 --> 00:33:20,958
 y luego nosotros lo fabricamos
 y hacemos la música con ello.
 
 446
-00:33:20:02 --> 00:33:22:07
+00:33:22,083 --> 00:33:24,291
 Ya y ¿ la cosa roja?
 
 447
-00:33:22:07 --> 00:33:26:21
+00:33:24,291 --> 00:33:28,875
 Esto si lo hacemos como adorno para mantener la
 energía y la armonía.
 
 448
-00:33:27:07 --> 00:33:30:01
+00:33:29,291 --> 00:33:32,041
 para identificarnos porque ya este es mío.
 
 449
-00:33:30:01 --> 00:33:33:02
+00:33:32,041 --> 00:33:35,083
 Ya me identifico con este color
 y los colores y la borla
 
 450
-00:33:33:17 --> 00:33:36:17
+00:33:35,708 --> 00:33:38,708
 si la hacemos como un adorno para mantenerlo
 así.
 
 451
-00:33:37:22 --> 00:33:41:01
+00:33:39,916 --> 00:33:43,041
 Y otra cosa ¿qué es esa cosa de ahí?
 
 452
-00:33:41:10 --> 00:33:44:15
+00:33:43,416 --> 00:33:46,625
 Este es un Koushut, Koushut se llama así
 
 453
-00:33:45:02 --> 00:33:49:16
+00:33:47,083 --> 00:33:51,666
 pero hoy lo hacemos, así como tiene el maestro
 Enrique, como está la imagen esa que tiene la pluma,
 
 454
-00:33:49:16 --> 00:33:55:05
+00:33:51,666 --> 00:33:57,208
 se llama karatsü y se utiliza para bailar la yonna
 como parte de la presentación, pero, lo usan más para identificarnos
 
 455
-00:33:55:16 --> 00:33:58:23
+00:33:57,666 --> 00:34:00,958
 si es un buen músico,
 un buen  artesano.
 
 456
-00:33:59:11 --> 00:34:01:23
+00:34:01,458 --> 00:34:04,000
 Si, anteriormente se identificaba en las guerras,
 
 457
-00:34:01:23 --> 00:34:06:01
+00:34:04,000 --> 00:34:08,083
 cuando había guerras interclaniles
 o con españoles se lo colocaban.
 
 458
-00:34:07:02 --> 00:34:10:09
+00:34:09,125 --> 00:34:12,416
 Hay uno que se llama tu´upana
 y esto se llama koushut.
 
 459
-00:34:10:10 --> 00:34:14:15
+00:34:12,458 --> 00:34:16,666
 se los colocaban para identificarse
 entre ellos quien era el que lideraba
 
 460
-00:34:14:17 --> 00:34:19:18
+00:34:16,750 --> 00:34:21,791
 Entonces se llama liderazgo
 entre el grupo interclanil.
 
 461
-00:34:20:15 --> 00:34:23:00
+00:34:22,666 --> 00:34:25,041
 Si me marco con eso, me identifico bastante
 
 462
-00:34:23:00 --> 00:34:26:00
+00:34:25,041 --> 00:34:28,041
 y me reconocen con esto bastante.
 
 463
-00:34:26:02 --> 00:34:29:04
+00:34:28,125 --> 00:34:31,208
 donde voy, yo tengo de diferentes colores,
 
 464
-00:34:29:17 --> 00:34:33:01
+00:34:31,750 --> 00:34:35,083
 depende de pronto de la vestimenta que me pongo, la guayabera
 
 465
-00:34:33:01 --> 00:34:36:23
+00:34:35,083 --> 00:34:39,000
 o me pongo mi vestimenta tradicional, que de pronto
 
 466
-00:34:37:00 --> 00:34:40:00
+00:34:39,041 --> 00:34:42,041
 si van mañana me van a ver vestido mañana allá.
 
 467
-00:34:43:02 --> 00:34:46:02
+00:34:45,166 --> 00:34:48,166
 ¿Qué tan importante considera la música?
 
 468
-00:34:46:06 --> 00:34:49:01
+00:34:48,333 --> 00:34:51,125
 ¿En la comunidad es como todos terminan
 
 469
-00:34:49:01 --> 00:34:53:02
+00:34:51,125 --> 00:34:55,166
 siendo músicos de alguna manera
 los niños, los grandes?,
 
 470
-00:34:54:04 --> 00:34:57:04
+00:34:56,250 --> 00:34:59,250
 como la música, ¿cómo te afecta a ti?
 ¿cómo te cambia?
 
 471
-00:34:58:11 --> 00:35:02:13
+00:35:00,541 --> 00:35:04,625
 La música viene como un legado,
 un legado de la familia.
 
 472
-00:35:02:22 --> 00:35:07:03
+00:35:05,000 --> 00:35:09,208
 Todo los wayuu no son músicos, es un legado.
 
 473
-00:35:07:17 --> 00:35:11:05
+00:35:09,791 --> 00:35:13,291
 Y si nosotros le enseñamos a
 los niños todos los instrumentos de pronto se aprenden uno solo
 
 474
-00:35:11:14 --> 00:35:12:13
+00:35:13,666 --> 00:35:14,625
 el que le guste de pronto
 
 475
-00:35:12:13 --> 00:35:15:19
+00:35:14,625 --> 00:35:17,875
 este o cualquiera, pero no todos lo van a aprender.
 
 476
-00:35:15:20 --> 00:35:19:09
+00:35:17,916 --> 00:35:21,458
 Si tengo 40 niños, todos los 40
 no van a aprender a tocar todos los instrumentos
 
 477
-00:35:20:09 --> 00:35:22:16
+00:35:22,458 --> 00:35:24,750
 Puede que salga uno bueno o dos
 
 478
-00:35:22:16 --> 00:35:25:16
+00:35:24,750 --> 00:35:27,791
 con un maasi o un sawawa nada más, pero
 
 479
-00:35:25:18 --> 00:35:29:00
+00:35:27,875 --> 00:35:31,125
 con el tiempo le van gustando y van aprendiendo
 
 480
-00:35:29:00 --> 00:35:30:16
+00:35:31,125 --> 00:35:32,791
 ellos mismos,
 
 481
-00:35:30:16 --> 00:35:35:10
+00:35:32,791 --> 00:35:37,541
 con el oído y viendo, nosotros aprendemos a
 través de la observación y escuchando,
 
 482
-00:35:36:07 --> 00:35:39:20
+00:35:38,416 --> 00:35:41,958
 no escribimos, no grabamos
 
 483
-00:35:39:20 --> 00:35:43:02
+00:35:41,958 --> 00:35:45,208
 es solo oído, oído y observación.
 
 484
-00:35:43:22 --> 00:35:44:19
+00:35:46,041 --> 00:35:46,916
 Así aprendemos nosotros.
 
 485
-00:35:44:19 --> 00:35:47:20
+00:35:46,916 --> 00:35:49,958
 Y ese es el legado que tenemos nosotros en la escuela,
 el legado que deja mi tío
 
 486
-00:35:48:04 --> 00:35:51:15
+00:35:50,291 --> 00:35:53,750
 el maestro Jorge Enrique, que está ahí en la imagen,
 el legado de los abuelos
 
 487
-00:35:52:07 --> 00:35:54:16
+00:35:54,416 --> 00:35:56,791
 ese es el legado que nos dan y ellos están preocupados
 
 488
-00:35:54:16 --> 00:35:58:00
+00:35:56,791 --> 00:36:00,125
 porque dicen que nosotros como persona
 ya los que estamos quedando,
 
 489
-00:35:58:11 --> 00:36:02:10
+00:36:00,583 --> 00:36:04,541
 porque ellos se fueron ya a descansar allá en jepira,
 nosotros tenemos que mantener y conservar
 
 490
-00:36:03:01 --> 00:36:07:18
+00:36:05,166 --> 00:36:09,916
 la música a través de esto,
 lo que hacemos como escuela, nosotros decimos
 
 491
-00:36:08:15 --> 00:36:11:14
+00:36:10,791 --> 00:36:13,750
 Ekiraja en nuestra lengua, pero,
 
 492
-00:36:11:14 --> 00:36:14:19
+00:36:13,750 --> 00:36:16,958
 en el arte de ustedes como arijuna
 
 493
-00:36:15:08 --> 00:36:18:05
+00:36:17,500 --> 00:36:20,375
 le decimos escuela, como ustedes pueden ver los telares, también
 
 494
-00:36:18:05 --> 00:36:21:21
+00:36:20,375 --> 00:36:24,041
 la mujer hace su tejido
 lo que nosotros necesitamos para ponernos el siira.
 
 495
-00:36:22:23 --> 00:36:23:15
+00:36:25,125 --> 00:36:25,791
 Todo tiene un
 
 496
-00:36:23:15 --> 00:36:27:19
+00:36:25,791 --> 00:36:29,958
 legado y tiene una connotación espiritual,
 porque eso es lo que permiten las mujeres
 
 497
-00:36:27:19 --> 00:36:30:21
+00:36:29,958 --> 00:36:33,041
 Si no hacemos la música, si no tenemos mujeres
 
 498
-00:36:30:21 --> 00:36:33:21
+00:36:33,041 --> 00:36:36,041
 que nos hagan esto, no podemos hacer la música
 
 499
-00:36:34:06 --> 00:36:36:02
+00:36:36,416 --> 00:36:38,250
 porque con ella nosotros también
 
 500
-00:36:36:02 --> 00:36:39:02
+00:36:38,250 --> 00:36:41,250
 pensamos y sentimos para cantar
 y hacerles la música a ellas.
 
 501
-00:36:41:07 --> 00:36:44:04
+00:36:43,458 --> 00:36:46,333
 ¿Y canciones? ¿hay canciones también del amor?
 
 502
-00:36:44:04 --> 00:36:47:01
+00:36:46,333 --> 00:36:49,250
 Si, si, si hay cantos,Jayechi,
 
 503
-00:36:47:01 --> 00:36:50:03
+00:36:49,250 --> 00:36:52,333
 pero yo no canto Jayechi porque es un canto espiritual.
 
 504
-00:36:50:17 --> 00:36:57:06
+00:36:52,916 --> 00:36:59,458
 Si, eso, cada quien tiene su tema
 y eso es  canción de personas que ya interpretan y más
 
 505
-00:36:57:06 --> 00:37:01:15
+00:36:59,458 --> 00:37:03,833
 que todo lo hacen las mujeres, no tanto los hombres,
 los hombres lo hacen, pero más que todo las mujeres
 
 506
-00:37:02:10 --> 00:37:05:10
+00:37:04,625 --> 00:37:07,625
 si hacen un canto espiritual para sanación
 lo hace una mujer Outsü
 
 507
-00:37:05:12 --> 00:37:08:09
+00:37:07,708 --> 00:37:10,583
 que es la autoridad espiritual,lo hacen mujeres cantadoras,y
 
 508
-00:37:09:10 --> 00:37:10:20
+00:37:11,625 --> 00:37:13,041
 también lo cantan los hombres
 
 509
-00:37:10:20 --> 00:37:14:03
+00:37:13,041 --> 00:37:16,333
 en parrandas
 cuando están tomando, cuando hay chirrinchi (bebida alcohólica wayuu)
 comienzan a cantar jayechi
 
 510
-00:37:14:16 --> 00:37:17:16
+00:37:16,875 --> 00:37:19,875
 y son anécdotas que cuentan su historia
 
 511
-00:37:18:07 --> 00:37:20:03
+00:37:20,500 --> 00:37:22,333
 en su lengua.
 
 512
-00:37:20:03 --> 00:37:22:12
+00:37:22,333 --> 00:37:24,708
 ¿Y hay canciones
 
 513
-00:37:22:12 --> 00:37:26:21
+00:37:24,708 --> 00:37:29,083
 que no sean propios,
 sino  que han pasado en un legado? , o sea, canciones
 
 514
-00:37:26:21 --> 00:37:30:23
+00:37:29,083 --> 00:37:33,208
 que todos sepan o que los músicos sepan que alguien creó
 
 515
-00:37:30:23 --> 00:37:35:02
+00:37:33,208 --> 00:37:37,333
 y se ha vuelto a interpretar
 
 516
-00:37:36:04 --> 00:37:39:04
+00:37:38,416 --> 00:37:41,416
 No, si tú lo has escuchado
 
 517
-00:37:39:04 --> 00:37:42:22
+00:37:41,416 --> 00:37:45,166
 un wayuu cantando una música que no es wayuu de pronto te
 cante una ranchera.
 
 518
-00:37:43:18 --> 00:37:44:03
+00:37:46,000 --> 00:37:46,375
 ¿Por qué?
 
 519
-00:37:44:03 --> 00:37:48:20
+00:37:46,375 --> 00:37:51,083
 Porque en la costa
 los primero que llegaron a nuestro territorio
 
 520
-00:37:49:06 --> 00:37:52:06
+00:37:51,500 --> 00:37:54,500
 fueron mexicanos.
 
 521
-00:37:52:06 --> 00:37:53:08
+00:37:54,500 --> 00:37:55,583
 Eso es lo que cuentan nuestros viejos
 
 522
-00:37:53:08 --> 00:37:57:12
+00:37:55,583 --> 00:37:59,750
 Por eso es que nosotros usamos los pocillos en donde
 ustedes tomaron son de peltre y ¿de dónde son?
 
 523
-00:37:58:13 --> 00:38:00:11
+00:38:00,791 --> 00:38:02,708
 son de México
 
 524
-00:38:00:11 --> 00:38:04:13
+00:38:02,708 --> 00:38:06,791
 Esos Peltres no son de nosotros, eso vino desde la conquista
 
 525
-00:38:05:22 --> 00:38:09:02
+00:38:08,166 --> 00:38:11,333
 entonces si tú le dices a un wayuu un señor ya de edad
 que te cante una canción
 
 526
-00:38:09:02 --> 00:38:10:07
+00:38:11,333 --> 00:38:12,583
 Te canta una ranchera
 
 527
-00:38:10:07 --> 00:38:14:15
+00:38:12,583 --> 00:38:16,916
 ¿Por qué? Porque es un legado que viene de
 hace años,
 
 528
-00:38:15:02 --> 00:38:19:07
+00:38:17,375 --> 00:38:21,583
 dicen nuestros viejos que dentro de la música,
 la primera música que llegó,
 
 529
-00:38:19:19 --> 00:38:21:23
+00:38:22,083 --> 00:38:24,250
 que no es de nosotros, fueron las rancheras
 
 530
-00:38:21:23 --> 00:38:24:23
+00:38:24,250 --> 00:38:27,250
 Ni siquiera fue el vallenato, porque el vallenato se creó acá
 
 531
-00:38:25:03 --> 00:38:27:13
+00:38:27,416 --> 00:38:29,833
 el vallenato de acordeón se creó acá
 
 532
-00:38:27:13 --> 00:38:30:17
+00:38:29,833 --> 00:38:33,000
 se creó en La Guajira y corrió para el sur
 
 533
-00:38:31:08 --> 00:38:34:20
+00:38:33,625 --> 00:38:37,125
 Llego hasta Valledupar
 y en Valledupar se creó la música vallenata
 
 534
-00:38:34:20 --> 00:38:37:20
+00:38:37,125 --> 00:38:40,125
 porque era de guitarra y entro el acordeón,
 
 535
-00:38:38:01 --> 00:38:41:01
+00:38:40,333 --> 00:38:43,333
 porque es una música, que prácticamente
 
 536
-00:38:41:12 --> 00:38:44:14
+00:38:43,791 --> 00:38:46,875
 podemos decir que es indígena,
 porque también la tambora
 
 537
-00:38:45:00 --> 00:38:48:01
+00:38:47,291 --> 00:38:50,333
 es de África, de los africanos o afros
 
 538
-00:38:49:14 --> 00:38:52:14
+00:38:51,875 --> 00:38:54,916
 y la guacharaca también es indígena
 porque es de la Sierra Nevada.
 
 539
-00:38:53:05 --> 00:38:55:10
+00:38:55,541 --> 00:38:57,750
 ¿No? Pues es interesante que aquí en la península
 
 540
-00:38:55:10 --> 00:38:59:05
+00:38:57,750 --> 00:39:01,541
 ha sido mucho lo de los wayuu lo que
 veo de lo que he leído, he escuchado siempre.
 
 541
-00:39:00:23 --> 00:39:03:09
+00:39:03,291 --> 00:39:05,708
 Bueno, han hecho trueques
 
 542
-00:39:03:09 --> 00:39:06:09
+00:39:05,708 --> 00:39:08,708
 entre con cosas interculturales no con los
 
 543
-00:39:06:09 --> 00:39:10:02
+00:39:08,708 --> 00:39:12,416
 de todo el mundo aquí por Caribe, México, norteamerica.
 
 544
-00:39:10:11 --> 00:39:13:14
+00:39:12,791 --> 00:39:15,916
 Si claro.
 
 545
-00:39:13:19 --> 00:39:16:03
+00:39:16,125 --> 00:39:18,458
 Un punto de
 
 546
-00:39:16:03 --> 00:39:16:20
+00:39:18,458 --> 00:39:19,166
 Intercambio.
 
 547
-00:39:16:20 --> 00:39:18:22
+00:39:19,166 --> 00:39:21,250
 Claro por eso es que hay mucha mezcla.
 
 548
-00:39:18:22 --> 00:39:23:00
+00:39:21,250 --> 00:39:25,333
 Mi abuelo, es holandés, era holandés porque murió.
 
 549
-00:39:23:00 --> 00:39:25:03
+00:39:25,333 --> 00:39:27,458
 Por eso que mi apellido es Prince
 
 550
-00:39:25:03 --> 00:39:26:00
+00:39:27,458 --> 00:39:28,333
 dice mi abuelo,
 
 551
-00:39:26:00 --> 00:39:29:19
+00:39:28,333 --> 00:39:32,125
 mi papá, que cuando llegaban los barcos
 ahí en la costa costera,
 
 552
-00:39:29:19 --> 00:39:34:08
+00:39:32,125 --> 00:39:36,708
 en Puerto
 López, llegaba y él se enamoró de mi abuela.
 
 553
-00:39:34:20 --> 00:39:37:20
+00:39:37,208 --> 00:39:40,208
 Vivieron en la playa de Carrizal, donde vamos mañana,
 
 554
-00:39:38:02 --> 00:39:41:09
+00:39:40,458 --> 00:39:43,750
 Por eso ese territorio es de mi papa, pero mi territorio propio
 
 555
-00:39:41:09 --> 00:39:45:17
+00:39:43,750 --> 00:39:48,083
 del clan es por acá, por la zona fronteriza,
 pero tengo derechos porque mi papá era de ahí.
 
 556
-00:39:46:09 --> 00:39:50:19
+00:39:48,750 --> 00:39:53,166
 Y siempre vivimos de
 la economía tradicional de la playa, que es la pesca.
 
 557
-00:39:51:11 --> 00:39:52:20
+00:39:53,833 --> 00:39:55,208
 Y eso, porque tenemos el
 
 558
-00:39:52:20 --> 00:39:58:08
+00:39:55,208 --> 00:40:00,708
 mar, somos apalanchi en nuestra lengua,
 los apalanchi son personas que tienen mar
 
 559
-00:40:01:15 --> 00:40:03:02
+00:40:04,000 --> 00:40:05,458
 Bueno
 
 560
-00:40:03:02 --> 00:40:06:01
+00:40:05,458 --> 00:40:08,416
 Tengo una pregunta
 
 561
-00:40:06:01 --> 00:40:08:08
+00:40:08,416 --> 00:40:10,708
 quisiera saber
 
 562
-00:40:08:08 --> 00:40:11:00
+00:40:10,708 --> 00:40:13,375
 si los hombres son los que
 
 563
-00:40:11:00 --> 00:40:14:16
+00:40:13,375 --> 00:40:17,083
 hacen la música,
 las mujeres como para su rol, su papel.
 
 564
-00:40:14:16 --> 00:40:17:16
+00:40:17,083 --> 00:40:20,083
 Entonces como que más allá de recibir la música,
 
 565
-00:40:18:09 --> 00:40:20:16
+00:40:20,791 --> 00:40:23,083
 ¿ellas que Rol tienen?
 
 566
-00:40:20:16 --> 00:40:21:15
+00:40:23,083 --> 00:40:24,041
 Bueno,
 
 567
-00:40:21:15 --> 00:40:24:00
+00:40:24,041 --> 00:40:26,416
 Las mujeres también tocan instrumentos
 
 568
-00:40:24:00 --> 00:40:26:18
+00:40:26,416 --> 00:40:29,166
 hay un instrumento que es con la mano
 pero lo hacen las niñas,
 
 569
-00:40:26:18 --> 00:40:30:06
+00:40:29,166 --> 00:40:32,666
 las mayores no, que es el wawai y el iruwai que es de un arbolito
 
 570
-00:40:30:06 --> 00:40:32:17
+00:40:32,666 --> 00:40:35,125
 no lo  tengo acá de pronto allá si lo van a tener los niños
 
 571
-00:40:32:17 --> 00:40:36:05
+00:40:35,125 --> 00:40:38,625
 Lo pueden hacer los niños, ese instrumento
 lo hacen la mayoría de las niñas
 
 572
-00:40:37:00 --> 00:40:39:18
+00:40:39,416 --> 00:40:42,166
 Y también, como le dije, la mujer,
 
 573
-00:40:39:18 --> 00:40:44:14
+00:40:42,166 --> 00:40:47,000
 para nosotros es muy importantes para uno
 poder hacer la música y las que cantan jayechi
 
 574
-00:40:45:16 --> 00:40:49:04
+00:40:48,083 --> 00:40:51,583
 en su jayechi canta anécdota
 
 575
-00:40:49:13 --> 00:40:53:14
+00:40:51,958 --> 00:40:56,000
 de su historia, de ella, lo
 que vive de tristeza o de lamento.
 
 576
-00:40:54:12 --> 00:40:57:16
+00:40:56,916 --> 00:41:00,125
 Si, como una canción en donde son composiciones de ellas mismas.
 
 577
-00:40:58:11 --> 00:41:00:12
+00:41:00,916 --> 00:41:02,958
 Si muy importante, Las mujeres también hacen música,
 
 578
-00:41:01:13 --> 00:41:04:05
+00:41:04,000 --> 00:41:06,666
 pero aquí  depende del trabajo fundamental
 
 579
-00:41:04:05 --> 00:41:07:05
+00:41:06,666 --> 00:41:09,666
 que hace porque en la cultura wayuu
 tenemos un sistema normativo
 
 580
-00:41:07:10 --> 00:41:12:15
+00:41:09,875 --> 00:41:15,083
 un plan en donde cada quien tiene su oficio fundamental,
 la mujer tiene su oficio fundamental
 
 581
-00:41:13:00 --> 00:41:17:06
+00:41:15,458 --> 00:41:19,708
 y el hombre también tiene su oficio fundamental,
 por eso es que siempre mantenemos la cultura wayuu
 
 582
-00:41:17:18 --> 00:41:20:16
+00:41:20,208 --> 00:41:23,125
 y conservamos manifestaciones culturales a través
 
 583
-00:41:20:16 --> 00:41:23:16
+00:41:23,125 --> 00:41:26,125
 de la organización social que tenemos.
 
 584
-00:41:24:09 --> 00:41:26:08
+00:41:26,833 --> 00:41:28,791
 ¿Cuál es el oficio de cada uno?
 
 585
-00:41:26:08 --> 00:41:28:18
+00:41:28,791 --> 00:41:31,208
 ¿Cuál es el oficio tanto de la mujer como la del hombre?
 
 586
-00:41:28:18 --> 00:41:31:02
+00:41:31,208 --> 00:41:33,541
 Bueno, el oficio de la mujer son varios.
 
 587
-00:41:31:02 --> 00:41:32:17
+00:41:33,541 --> 00:41:35,166
 Hay mujer Outsü (guía espiritual)
 
 588
-00:41:32:17 --> 00:41:35:17
+00:41:35,166 --> 00:41:38,166
 hay mujer Oulaküt (visionaria)
 
 589
-00:41:35:18 --> 00:41:38:18
+00:41:38,208 --> 00:41:41,250
 hay mujer einülü (artesana)
 
 590
-00:41:40:22 --> 00:41:43:00
+00:41:43,416 --> 00:41:45,500
 y mujer eikülü (mujer formadora) y atükalü (ceramista)
 
 591
-00:41:43:00 --> 00:41:45:15
+00:41:45,500 --> 00:41:48,125
 son cinco oficios fundamentales de la mujer wayuu
 
 592
-00:41:45:15 --> 00:41:48:16
+00:41:48,125 --> 00:41:51,166
 y el hombre está el pütchipüi (palabrero)
 
 593
-00:41:49:07 --> 00:41:52:22
+00:41:51,791 --> 00:41:55,416
 el wayuu alaüla, que es
 
 594
-00:41:54:07 --> 00:41:57:22
+00:41:56,791 --> 00:42:00,416
 el tío materno, wayuu ekirajasu (enseñar)
 
 595
-00:41:58:13 --> 00:42:02:01
+00:42:01,041 --> 00:42:04,541
 sunai tu wakuwaipakat (nuestra cultura), eso se miraría así,
 
 596
-00:42:02:17 --> 00:42:05:02
+00:42:05,208 --> 00:42:07,583
 mira yo tengo mi mano,
 
 597
-00:42:05:02 --> 00:42:09:00
+00:42:07,583 --> 00:42:11,500
 Esta de acá es la abuela y esta es la madre
 
 598
-00:42:10:02 --> 00:42:11:13
+00:42:12,583 --> 00:42:14,041
 y este
 
 599
-00:42:11:13 --> 00:42:14:17
+00:42:14,041 --> 00:42:17,208
 ei tío materno, este la achon que es el hijo,
 
 600
-00:42:14:21 --> 00:42:19:09
+00:42:17,375 --> 00:42:21,916
 o sea que yo para hacer mi instrumento, tengo que agarrar
 
 601
-00:42:20:06 --> 00:42:23:22
+00:42:22,791 --> 00:42:26,458
 a mi abuela, mi mamá para poder agarrar el cuchillo
 y me enseñan a hacer el instrumento.
 
 602
-00:42:23:22 --> 00:42:26:22
+00:42:26,458 --> 00:42:29,458
 Siempre está la mujer dentro de la cosmovisión
 
 603
-00:42:28:06 --> 00:42:31:06
+00:42:30,791 --> 00:42:33,791
 y aquí también lo está agarrando mamá,
 
 604
-00:42:31:21 --> 00:42:34:21
+00:42:34,416 --> 00:42:37,416
 oushi (abuela) tatushi (mi tío materno)
 
 605
-00:42:36:01 --> 00:42:38:11
+00:42:38,583 --> 00:42:41,000
 porque el achon (hijo)
 
 606
-00:42:38:11 --> 00:42:40:23
+00:42:41,000 --> 00:42:43,500
 el achon aquí ya no tiene clan,
 
 607
-00:42:40:23 --> 00:42:43:23
+00:42:43,500 --> 00:42:46,500
 el esta acá agarrando y hago el instrumento de esta manera
 
 608
-00:42:44:13 --> 00:42:47:00
+00:42:47,083 --> 00:42:49,541
 cuando agarro la lengüeta, mira ahí está
 
 609
-00:42:47:00 --> 00:42:50:00
+00:42:49,541 --> 00:42:52,541
 agarrando la madre, oushi
 
 610
-00:42:50:19 --> 00:42:52:18
+00:42:53,333 --> 00:42:55,291
 Abuela y mama
 
 611
-00:42:52:18 --> 00:42:55:10
+00:42:55,291 --> 00:42:57,958
 siempre está la mujer wayuu
 
 612
-00:42:55:10 --> 00:42:58:11
+00:42:57,958 --> 00:43:01,000
 y el tío materno aquí en el medio,
 
 613
-00:43:00:18 --> 00:43:01:17
+00:43:03,333 --> 00:43:04,291
 este es el tío materno,
 
 614
-00:43:01:17 --> 00:43:05:09
+00:43:04,291 --> 00:43:07,958
 es el que ejerce la autoridad, que ejerce
 
 615
-00:43:06:00 --> 00:43:09:00
+00:43:08,583 --> 00:43:11,583
 la conducta dentro de la comunidad
 
 616
-00:43:09:23 --> 00:43:11:11
+00:43:12,541 --> 00:43:14,041
 ahí están.
 
 617
-00:43:11:11 --> 00:43:14:11
+00:43:14,041 --> 00:43:17,041
 Nosotros siempre somos cinco, cinco manifestaciones
 
 618
-00:43:14:23 --> 00:43:15:09
+00:43:17,541 --> 00:43:17,958
 que son
 
 619
-00:43:19:21 --> 00:43:22:17
+00:43:22,458 --> 00:43:25,291
 lengua materna, espiritualidad,
 
 620
-00:43:22:17 --> 00:43:26:19
+00:43:25,291 --> 00:43:29,375
 territorio, organización social y economía tradicional.
 
 621
-00:43:27:12 --> 00:43:29:14
+00:43:30,083 --> 00:43:32,166
 Ahí están las cinco en el dedo
 
 622
-00:43:29:14 --> 00:43:32:03
+00:43:32,166 --> 00:43:34,708
 y también están las cinco.
 
 623
-00:43:32:03 --> 00:43:34:13
+00:43:34,708 --> 00:43:37,125
 Abuela
 
 624
-00:43:34:13 --> 00:43:37:12
+00:43:37,125 --> 00:43:40,083
 ¿cuál es esta? madre, tío materno,
 
 625
-00:43:38:14 --> 00:43:41:14
+00:43:41,166 --> 00:43:44,166
 el nieto y achon (hijo)
 
 626
-00:43:43:19 --> 00:43:45:15
+00:43:46,416 --> 00:43:48,250
 Ahí están las cinco y eso
 
 627
-00:43:45:15 --> 00:43:49:14
+00:43:48,250 --> 00:43:52,208
 siempre están dentro de la organización,
 siempre está la mujer
 
 628
-00:43:50:16 --> 00:43:52:16
+00:43:53,291 --> 00:43:55,291
 Por eso se llama
 
 629
-00:43:52:16 --> 00:43:55:02
+00:43:55,291 --> 00:43:57,708
 eei es madre.
 
 630
-00:43:55:02 --> 00:43:58:14
+00:43:57,708 --> 00:44:01,208
 Eei.
 
 631
-00:43:58:18 --> 00:44:00:11
+00:44:01,375 --> 00:44:03,083
 Gracias.
 
 632
-00:44:00:11 --> 00:44:03:02
+00:44:03,083 --> 00:44:05,708
 Bueno, y si usted tuviera un mensaje
 
 633
-00:44:03:02 --> 00:44:06:11
+00:44:05,708 --> 00:44:09,083
 que le gustaría llevar al mundo, ¿cual seria?
 
 634
-00:44:07:05 --> 00:44:09:19
+00:44:09,833 --> 00:44:12,416
 El mensaje, sería
 
 635
-00:44:09:19 --> 00:44:15:05
+00:44:12,416 --> 00:44:17,833
 bueno estos días estábamos con la venida
 del presidente, si nos tocó bastante duro,
 
 636
-00:44:15:14 --> 00:44:17:11
+00:44:18,208 --> 00:44:20,083
 fue una buena visita
 
 637
-00:44:17:11 --> 00:44:21:08
+00:44:20,083 --> 00:44:23,958
 y en lo que dice el presidente
 
 638
-00:44:23:06 --> 00:44:26:20
+00:44:25,875 --> 00:44:29,500
 de nosotros, lo que dijo el presidente de
 
 639
-00:44:28:21 --> 00:44:30:04
+00:44:31,541 --> 00:44:32,833
 ser nosotros.
 
 640
-00:44:30:04 --> 00:44:33:03
+00:44:32,833 --> 00:44:35,791
 Yo siempre he dicho un tema,
 
 641
-00:44:33:08 --> 00:44:36:06
+00:44:36,000 --> 00:44:38,916
 la vida es sagrada,
 
 642
-00:44:36:06 --> 00:44:40:03
+00:44:38,916 --> 00:44:42,791
 la vida para hacer
 la música es sagrada y la vida para nosotros
 
 643
-00:44:41:07 --> 00:44:43:02
+00:44:43,958 --> 00:44:45,750
 es muy importante,
 
 644
-00:44:43:02 --> 00:44:46:01
+00:44:45,750 --> 00:44:48,708
 porque cuando morimos vamos a otra vida,
 
 645
-00:44:46:12 --> 00:44:51:12
+00:44:49,166 --> 00:44:54,166
 no estamos muertos, por eso es que nos hacen los velorios
 y cuando nos sacan o nos exhuman los restos
 
 646
-00:44:52:01 --> 00:44:55:01
+00:44:54,708 --> 00:44:57,708
 nos dicen que todavía
 estamos vivos y todavía estamos aquí en la tierra,
 
 647
-00:44:56:02 --> 00:45:01:05
+00:44:58,750 --> 00:45:03,875
 O sea, como le dije al principio, no vamos
 ni siquiera a la diestra de Dios, no vamos al infierno,
 
 648
-00:45:01:19 --> 00:45:05:18
+00:45:04,458 --> 00:45:08,458
 sino que tenemos un largo camino,
 y ese largo camino es el mensaje
 
 649
-00:45:05:18 --> 00:45:09:05
+00:45:08,458 --> 00:45:11,916
 que le llevo a la comunidad wayuu y a todo el mundo
 
 650
-00:45:09:13 --> 00:45:12:08
+00:45:12,250 --> 00:45:15,041
 que conozca que
 
 651
-00:45:12:08 --> 00:45:15:08
+00:45:15,041 --> 00:45:18,041
 en el departamento de la guajira hay un pueblo originario
 
 652
-00:45:16:06 --> 00:45:18:09
+00:45:18,958 --> 00:45:21,083
 que tiene una música,
 
 653
-00:45:18:09 --> 00:45:21:07
+00:45:21,083 --> 00:45:24,000
 que tiene una espiritualidad, tiene unos principios,
 
 654
-00:45:21:07 --> 00:45:25:06
+00:45:24,000 --> 00:45:27,958
 unos valores para mantener la música
 y la armonía del pueblo Wayuu.
 
 655
-00:45:25:19 --> 00:45:28:19
+00:45:28,500 --> 00:45:31,500
 Es el mensaje que puedo llevar y que conozcan
 
 656
-00:45:28:20 --> 00:45:32:08
+00:45:31,541 --> 00:45:35,041
 la música, que escuchen los sawawa,
 
 657
-00:45:33:13 --> 00:45:34:01
+00:45:36,250 --> 00:45:36,750
 la música sonora
 
 658
-00:45:34:01 --> 00:45:37:01
+00:45:36,750 --> 00:45:39,750
 de nuestros instrumentos wayuu.
 
 659
-00:45:37:11 --> 00:45:40:22
+00:45:40,166 --> 00:45:43,625
 Y para confirmar que todo lo que has dicho
 
 660
-00:45:41:15 --> 00:45:45:07
+00:45:44,333 --> 00:45:48,000
 tenemos conocimiento de usarlo en el documental
 y la música también.
 
 661
-00:45:45:15 --> 00:45:46:12
+00:45:48,333 --> 00:45:49,208
 ¿Lo permites? Ósea
 
 662
-00:45:46:12 --> 00:45:49:11
+00:45:49,208 --> 00:45:52,208
 ¿Nos permitirías utilizar tu música
 
 663
-00:45:49:13 --> 00:45:53:10
+00:45:52,291 --> 00:45:56,166
 o lo que nos tocaste
 para ser parte de este proyecto que estamos haciendo?
 
 664
-00:45:54:06 --> 00:45:57:13
+00:45:57,000 --> 00:46:00,291
 Pues sí puedo hacer, pero nosotros
 
 665
-00:45:57:13 --> 00:46:00:13
+00:46:00,291 --> 00:46:03,291
 si somos celosos en el sentido que
 
 666
-00:46:01:06 --> 00:46:03:14
+00:46:04,000 --> 00:46:06,333
 sea para un beneficio de bien
 
 667
-00:46:03:14 --> 00:46:06:14
+00:46:06,333 --> 00:46:09,333
 no tanto para usted sino también para nosotros,
 
 668
-00:46:06:16 --> 00:46:10:16
+00:46:09,416 --> 00:46:13,416
 porque ustedes se están llevando un legado
 no es cualquier cosa
 
 669
-00:46:10:16 --> 00:46:14:03
+00:46:13,416 --> 00:46:16,875
 porque esto no se consigue en una tienda de música,
 
 670
-00:46:14:11 --> 00:46:17:11
+00:46:17,208 --> 00:46:20,208
 como una guitarra, como una trompeta, no se consigue
 
 671
-00:46:18:10 --> 00:46:21:02
+00:46:21,166 --> 00:46:23,833
 ninguno de estos instrumentos ni la Kasha.
 
 672
-00:46:21:02 --> 00:46:24:02
+00:46:23,833 --> 00:46:26,833
 Es un esfuerzo que hacemos nosotros para fabricar
 y hacerlo.
 
 673
-00:46:24:19 --> 00:46:29:15
+00:46:27,541 --> 00:46:32,416
 No, no por hacerlo por la necesidad de vender,
 sino una necesidad que tenemos nosotros como pueblo
 
 674
-00:46:29:15 --> 00:46:33:00
+00:46:32,416 --> 00:46:35,791
 wayuu para mantener y conservar nuestras manifestaciones
 
 675
-00:46:33:00 --> 00:46:36:00
+00:46:35,791 --> 00:46:38,791
 a través de nuestra espiritualidad.
 
 676
-00:46:36:00 --> 00:46:39:00
+00:46:38,791 --> 00:46:41,791
 Entonces, si nosotros vemos una imagen de Saüyepia (la escuela)
 
 677
-00:46:39:01 --> 00:46:43:02
+00:46:41,833 --> 00:46:45,875
 o mía de pronto que éste en las redes y están promocionando
 
 678
-00:46:44:11 --> 00:46:45:11
+00:46:47,250 --> 00:46:48,250
 ya piensan que yo estoy
 
 679
-00:46:45:11 --> 00:46:48:15
+00:46:48,250 --> 00:46:51,416
 vendiendo, que ya tengo plata y también como vivo acá,
 
 680
-00:46:49:06 --> 00:46:53:18
+00:46:52,041 --> 00:46:56,541
 estas sillas estas bancas son para las niñas
 y los niños que vienen a escuchar la música,
 
 681
-00:46:54:07 --> 00:46:57:20
+00:46:57,083 --> 00:47:00,625
 este pedazo de zinc que ustedes ven ahí con rotos,
 es donde hacemos la música.
 
 682
-00:46:58:05 --> 00:47:01:08
+00:47:01,000 --> 00:47:04,125
 No hace mucho nos ganamos una platica
 y cuando vino el presidente mandamos hacer esos
 
 683
-00:47:01:08 --> 00:47:07:19
+00:47:04,125 --> 00:47:10,583
 telares para que las mujeres y niñas nos hagan los siira
 (fajón de hombres) con los hilos y eso se ganó
 
 684
-00:47:07:19 --> 00:47:10:19
+00:47:10,583 --> 00:47:13,625
 porque vinieron a traernos algo a nosotros
 
 685
-00:47:10:20 --> 00:47:15:15
+00:47:13,666 --> 00:47:18,458
 y vamos a Bogotá
 a presentarnos en la primera semana de agosto,
 
 686
-00:47:16:03 --> 00:47:19:11
+00:47:18,958 --> 00:47:22,291
 vamos a durar una semana allá
 un grupo grande de Saüyepia de la escuela
 
 687
-00:47:20:13 --> 00:47:23:09
+00:47:23,375 --> 00:47:26,208
 a mostrar la música y a mostrar la manifestación del baile.
 
 688
-00:47:23:09 --> 00:47:28:05
+00:47:26,208 --> 00:47:31,041
 Vamos a un encuentro de pueblos originarios
 y los que van a representar a La Guajira, al pueblo
 
 689
-00:47:28:05 --> 00:47:29:12
+00:47:31,041 --> 00:47:32,333
 somos nosotros los de la escuela
 
 690
-00:47:31:10 --> 00:47:34:10
+00:47:34,250 --> 00:47:37,250
 vamos la primera semana de agosto
 
 691
-00:47:34:14 --> 00:47:38:06
+00:47:37,416 --> 00:47:41,083
 voy a ir con mi grupo,
 más de 15 niñas aquí entre niños y niñas
 
 692
-00:47:38:22 --> 00:47:41:22
+00:47:41,750 --> 00:47:44,750
 y después voy solo el 22
 
 693
-00:47:42:02 --> 00:47:43:12
+00:47:44,916 --> 00:47:46,333
 hasta el 26.
 
 694
-00:47:43:12 --> 00:47:46:12
+00:47:46,333 --> 00:47:49,333
 Eso va a ser del 6 al 13 de agosto en el Teatro Colón,
 
 695
-00:47:48:00 --> 00:47:51:08
+00:47:50,833 --> 00:47:54,166
 vamos a presentarnos en el Teatro Colón
 
 696
-00:47:51:11 --> 00:47:54:11
+00:47:54,291 --> 00:47:57,333
 y en el Centro Nacional de Arte el Nuevo Teatro que hizo
 
 697
-00:47:54:17 --> 00:47:57:17
+00:47:57,583 --> 00:48:00,583
 el maestro Iván Benavides,
 
 698
-00:47:58:05 --> 00:47:59:19
+00:48:01,083 --> 00:48:02,666
 que es director
 
 699
-00:47:59:19 --> 00:48:01:20
+00:48:02,666 --> 00:48:04,708
 En Bogotá.
 
 700
-00:48:01:20 --> 00:48:04:20
+00:48:04,708 --> 00:48:07,708
 del seis al trece  de agosto.
 
 701
-00:48:05:09 --> 00:48:06:16
+00:48:08,250 --> 00:48:09,541
 Y después vuelvo otra vez.
 
 702
-00:48:06:16 --> 00:48:09:21
+00:48:09,541 --> 00:48:12,750
 me vengo con mi grupo
 grande, me voy yo solo con otra persona,
 
 703
-00:48:10:15 --> 00:48:13:15
+00:48:13,500 --> 00:48:16,500
 me presento en la universidad creo que es la javeriana.
 
 704
-00:48:13:20 --> 00:48:17:05
+00:48:16,708 --> 00:48:20,083
 el 23 al 27 del mismo mes.
 
 705
-00:48:17:23 --> 00:48:20:23
+00:48:20,833 --> 00:48:23,833
 Entonces eso es lo que yo digo,
 nosotros lo que queremos
 
 706
-00:48:21:04 --> 00:48:25:11
+00:48:24,041 --> 00:48:28,333
 de pronto como una donación
 no es para mí, es para todos nosotros,
 
 707
-00:48:26:12 --> 00:48:29:12
+00:48:29,375 --> 00:48:32,375
 con eso nos mantenemos nosotros
 
 708
-00:48:29:21 --> 00:48:34:10
+00:48:32,750 --> 00:48:37,333
 y buscar los materiales, porque esto no se consigue aquí mismo
 
 709
-00:48:35:12 --> 00:48:38:23
+00:48:38,416 --> 00:48:41,875
 hay que buscarlo por la serranía de la macuira
 o en la sierra Nevada,
 
 710
-00:48:38:23 --> 00:48:43:09
+00:48:41,875 --> 00:48:46,291
 que es donde están los wiwa, que nos prestan su territorio
 y tengo que pedir permiso para pedir los
 
 711
-00:48:43:09 --> 00:48:47:21
+00:48:46,291 --> 00:48:50,791
 materiales para mantener más instrumentos
 y hacer todo
 
 712
-00:48:48:14 --> 00:48:51:09
+00:48:51,500 --> 00:48:54,291
 con los niños de la escuela.
 
 713
-00:48:51:09 --> 00:48:54:09
+00:48:54,291 --> 00:48:57,291
 Si, si mira que a la actividad que vamos mañana
 
 714
-00:48:54:19 --> 00:48:57:19
+00:48:57,708 --> 00:49:00,708
 yo los estoy invitando a ustedes porque es una comunidad
 
 715
-00:48:58:07 --> 00:49:02:12
+00:49:01,208 --> 00:49:05,416
 en donde van hacer un evento que es un ritual de armonización
 y nos invitan a nosotros a participar
 
 716
-00:49:02:22 --> 00:49:05:18
+00:49:05,833 --> 00:49:08,666
 Yo voy a hablar con las personas,
 voy a decir que ustedes van
 
 717
-00:49:05:18 --> 00:49:11:01
+00:49:08,666 --> 00:49:13,958
 yo sé que ellos no van a decir que no, entonces ustedes van con nosotros
 y nos regalan de pronto un video,
 
 718
-00:49:11:01 --> 00:49:15:07
+00:49:13,958 --> 00:49:18,208
 una entrevista no los pasa que nos sirve también para mantenernos.
 
 719
-00:49:15:07 --> 00:49:15:17
+00:49:18,208 --> 00:49:18,666
 la
 
 720
-00:49:17:07 --> 00:49:20:02
+00:49:20,250 --> 00:49:23,041
 la escuela ya me entiendes.
 
 721
-00:49:20:02 --> 00:49:22:14
+00:49:23,041 --> 00:49:25,541
 Si lo que nosotros no queremos es que eso
 
 722
-00:49:22:14 --> 00:49:24:22
+00:49:25,541 --> 00:49:27,875
 porque nos ha pasado a nosotros
 no solamente con personas
 
 723
-00:49:24:22 --> 00:49:29:05
+00:49:27,875 --> 00:49:32,166
 como ustedes sino con personas de aquí de la Guajira
 que a veces cogen material de nosotros y lo publican.
 
 724
-00:49:29:05 --> 00:49:32:05
+00:49:32,166 --> 00:49:35,166
 Por lo menos pasó en el tiempo de pandemia
 cogieron imágenes
 
 725
-00:49:33:03 --> 00:49:36:21
+00:49:36,083 --> 00:49:39,833
 de un video que hicimos, para un festival de Uribia,
 pero no hubo festival
 
 726
-00:49:37:13 --> 00:49:40:13
+00:49:40,500 --> 00:49:43,500
 y el departamento lo
 cogió, lo publicó en tiempo de pandemia
 
 727
-00:49:40:13 --> 00:49:44:13
+00:49:43,500 --> 00:49:47,500
 y todas las madres me llamaron porque yo no había visto
 que estaban las niñas en la publicación
 
 728
-00:49:44:13 --> 00:49:48:11
+00:49:47,500 --> 00:49:51,416
 y yo llamé, pasé un oficio al gobernador y enseguida
 lo bajaron de las redes
 
 729
-00:49:49:13 --> 00:49:53:15
+00:49:52,500 --> 00:49:56,583
 y yo dejé eso así porque quise, no quise,
 no quise demandarlos tampoco por los derechos de autor
 
 730
-00:49:54:01 --> 00:49:57:01
+00:49:57,000 --> 00:50:00,041
 porque ellos no tenían permiso de publicar eso
 
 731
-00:49:57:14 --> 00:50:00:00
+00:50:00,583 --> 00:50:03,000
 y estaban vendiendo eso como material.
 
 732
-00:50:00:00 --> 00:50:03:07
+00:50:03,000 --> 00:50:06,291
 Y eso es así porque realmente no dimos
 ningún permiso y nos han pasado varias veces
 
 733
-00:50:03:07 --> 00:50:07:03
+00:50:06,291 --> 00:50:10,125
 con imágenes de nosotros
 porque en verdad y no es por decir una mentira
 
 734
-00:50:08:15 --> 00:50:10:16
+00:50:11,625 --> 00:50:13,666
 La única escuela que existe
 
 735
-00:50:10:16 --> 00:50:13:16
+00:50:13,666 --> 00:50:16,666
 de carácter wayuu somos nosotros.
 
 736
-00:50:15:03 --> 00:50:18:10
+00:50:18,125 --> 00:50:21,416
 Y aquí en La Guajira
 hay más de 600 fundaciones culturales
 
 737
-00:50:18:22 --> 00:50:21:17
+00:50:21,916 --> 00:50:24,708
 Nosotros somos una fundación cultural a través de la escuela
 
 738
-00:50:21:17 --> 00:50:24:19
+00:50:24,708 --> 00:50:27,791
 y somos el único que tiene carácter cultural
 somos nosotros
 
 739
-00:50:25:08 --> 00:50:30:02
+00:50:28,333 --> 00:50:33,083
 y se lo demostramos al ministerio de Cultura
 cuando vino el presidente
 
 740
-00:50:31:19 --> 00:50:32:05
+00:50:34,791 --> 00:50:35,208
 nosotros
 
 741
-00:50:32:05 --> 00:50:36:05
+00:50:35,208 --> 00:50:39,208
 nos reunimos con el ministro de Cultura y la viceministra
 
 742
-00:50:36:05 --> 00:50:39:12
+00:50:39,208 --> 00:50:42,541
 se sentaron así con toda la cúpula del Ministerio,
 
 743
-00:50:39:14 --> 00:50:43:02
+00:50:42,625 --> 00:50:46,125
 Población, Patrimonio, con nosotros
 
 744
-00:50:43:07 --> 00:50:46:16
+00:50:46,333 --> 00:50:49,708
 y no dejaron entrar a más nadie porque mucha gente quería entrar,
 
 745
-00:50:47:10 --> 00:50:49:19
+00:50:50,458 --> 00:50:52,833
 El del fondo mixto del departamento
 
 746
-00:50:49:19 --> 00:50:54:05
+00:50:52,833 --> 00:50:57,250
 aquí en la Alcaldía y dijeron que no,
 nosotros nada vamos a hacer la reunión con
 Saüyepia con ustedes de la escuela,
 
 747
-00:50:55:09 --> 00:50:56:15
+00:50:58,416 --> 00:50:59,666
 Entonces eso era nada más para nosotros.
 
 748
-00:50:56:15 --> 00:51:01:13
+00:50:59,666 --> 00:51:04,583
 Se llevaron una impresión de nosotros
 preguntaron ¿cómo viven ustedes? ¿por qué hacen eso?
 
 749
-00:51:01:13 --> 00:51:04:04
+00:51:04,583 --> 00:51:07,208
 ¿Qué tiempo tienen ustedes de estar trabajando con la cultura?
 
 750
-00:51:04:04 --> 00:51:05:21
+00:51:07,208 --> 00:51:08,916
 Les contamos todo.
 
 751
-00:51:05:21 --> 00:51:10:15
+00:51:08,916 --> 00:51:13,666
 Primeramente, la verdad que nosotros no tenemos apoyo
 del municipio ni del departamento, nosotros vivimos de los que
 
 752
-00:51:10:17 --> 00:51:13:17
+00:51:13,750 --> 00:51:16,750
 de pronto llegan, personas como ustedes que nos
 visitan y nos traen
 
 753
-00:51:14:10 --> 00:51:17:12
+00:51:17,458 --> 00:51:20,541
 así! de eso vivimos y de los políticos
 
 754
-00:51:18:09 --> 00:51:20:14
+00:51:21,416 --> 00:51:23,666
 que a veces cuando vamos a Bogotá nos regalan
 
 755
-00:51:20:14 --> 00:51:25:05
+00:51:23,666 --> 00:51:28,291
 los abrigos, los zapatos, entonces vivimos de donaciones.
 
 756
-00:51:25:05 --> 00:51:28:05
+00:51:28,291 --> 00:51:31,291
 Nosotros trabajamos con cooperación
 
 757
-00:51:28:19 --> 00:51:32:12
+00:51:31,875 --> 00:51:35,583
 tenemos unos aliados,
 una escuela igual que está, pero de tambores africanos
 nosotros tenemos
 
 758
-00:51:32:15 --> 00:51:36:04
+00:51:35,708 --> 00:51:39,250
 y yo tengo tambores allá adentro que nos han regalado,
 son una escuela de tambores
 
 759
-00:51:36:19 --> 00:51:40:13
+00:51:39,875 --> 00:51:43,625
 en la boquilla de Cartagena que son tambores afros.
 
 760
-00:51:41:05 --> 00:51:44:21
+00:51:44,291 --> 00:51:47,958
 y tenemos un proyecto que se llama Escuela
 de Saberes de Derechos Culturales.
 
 761
-00:51:46:10 --> 00:51:49:10
+00:51:49,500 --> 00:51:52,500
 Con ellos armamos un plan de vida cultural
 
 762
-00:51:50:00 --> 00:51:53:00
+00:51:53,083 --> 00:51:56,083
 para mantener y conservar todo lo cultural.
 
 763
-00:51:54:14 --> 00:51:54:20
+00:51:57,666 --> 00:51:57,916
 Por eso les digo a ustedes
 
 764
-00:51:54:20 --> 00:51:57:23
+00:51:57,916 --> 00:52:01,041
 les dije al amigo que no a cualquiera
 
 765
-00:51:58:14 --> 00:52:01:13
+00:52:01,666 --> 00:52:04,625
 lo dejamos entrar ninguno que no haga esto,
 
 766
-00:52:01:13 --> 00:52:04:12
+00:52:04,625 --> 00:52:07,625
 Si, si porque tiene un valor,
 
 767
-00:52:04:12 --> 00:52:10:03
+00:52:07,625 --> 00:52:13,250
 no tanto el dinero, sino el valor cultural,
 el valor que tiene como pueblo
 
 768
-00:52:10:03 --> 00:52:13:03
+00:52:13,250 --> 00:52:16,250
 que es milenario lo que tenemos nosotros.
 
 769
-00:52:13:17 --> 00:52:16:01
+00:52:16,833 --> 00:52:19,166
 Bueno entonces seguimos en contacto,
 
 770
-00:52:16:01 --> 00:52:19:21
+00:52:19,166 --> 00:52:23,000
 Colaboramos y antes de publicar cualquier cosa primero
 
 771
-00:52:20:04 --> 00:52:24:10
+00:52:23,291 --> 00:52:27,541
 Claro, con nombre nosotros,
 la dirección de una escuela ya en la Guajira,
 
 772
-00:52:25:00 --> 00:52:28:00
+00:52:28,125 --> 00:52:31,125
 claro, exacto con el nombre de nosotros
 
 773
-00:52:28:04 --> 00:52:30:05
+00:52:31,291 --> 00:52:33,333
 y si eso, mire
 
 774
-00:52:30:05 --> 00:52:34:08
+00:52:33,333 --> 00:52:37,458
 También le voy a regalar una foto
 
 775
-00:52:36:06 --> 00:52:36:17
+00:52:39,375 --> 00:52:39,833
 y mil.
 
 776
-00:52:36:17 --> 00:52:39:16
+00:52:39,833 --> 00:52:42,791
 Eso es
 
 777
-00:52:39:16 --> 00:52:42:10
+00:52:42,791 --> 00:52:45,541
 a lo que estoy.
 
 778
-00:52:42:10 --> 00:52:45:10
+00:52:45,541 --> 00:52:48,583
 No tiene que
 
 779
-00:52:49:05 --> 00:52:52:05
+00:52:52,375 --> 00:52:55,375
 hacer.
 
 780
-00:52:56:23 --> 00:52:59:02
+00:53:00,125 --> 00:53:02,250
 Es bueno empezar a la introducción y
 
 781
-00:52:59:02 --> 00:53:02:02
+00:53:02,250 --> 00:53:05,250
 Bueno,
 es una foto que le voy a dar a usted un Polaroid.
 
 782
-00:53:02:02 --> 00:53:04:12
+00:53:05,250 --> 00:53:07,666
 No sé si la has visto, pero sale
 
 783
-00:53:06:13 --> 00:53:09:12
+00:53:09,708 --> 00:53:12,666
 Pero antes de que hacemos eso,
 
 784
-00:53:09:12 --> 00:53:12:20
+00:53:12,666 --> 00:53:16,000
 usted puede decir de nuevo
 
 785
-00:53:12:20 --> 00:53:15:20
+00:53:16,000 --> 00:53:19,000
 ¿Solo para que aseguramos que
 
 786
-00:53:16:06 --> 00:53:18:19
+00:53:19,416 --> 00:53:21,958
 claro, donde estamos ahora?
 
 787
-00:53:18:19 --> 00:53:19:09
+00:53:21,958 --> 00:53:22,541
 La escuela
 
 788
-00:53:19:09 --> 00:53:22:14
+00:53:22,541 --> 00:53:25,750
 Y digo que en wayunaiki está bien también.
 
 789
-00:53:23:06 --> 00:53:25:23
+00:53:26,416 --> 00:53:29,166
 ¿Que tengo que decir?
 
 790
-00:53:25:23 --> 00:53:27:19
+00:53:29,166 --> 00:53:31,000
 Simplemente tu nombre.
 
 791
-00:53:27:19 --> 00:53:30:19
+00:53:31,000 --> 00:53:34,000
 Y que autorizo en la escuela.
 
 792
-00:53:30:19 --> 00:53:33:01
+00:53:34,000 --> 00:53:36,250
 En la escuela
 
 793
-00:53:33:01 --> 00:53:35:16
+00:53:36,250 --> 00:53:38,875
 que es lo como se llama aquí
 
 794
-00:53:35:16 --> 00:53:40:07
+00:53:38,875 --> 00:53:43,500
 Uribia mi nombre es tal, estamos en la escuela tuya
 es en Uribia
 
 795
-00:53:40:13 --> 00:53:44:08
+00:53:43,750 --> 00:53:47,541
 la fecha y estamos compartiendo un poco
 de nuestros conocimientos.
 
 796
-00:53:44:15 --> 00:53:47:15
+00:53:47,833 --> 00:53:50,833
 ¿Ok? Música Okey.
 
 797
-00:53:47:20 --> 00:53:49:04
+00:53:51,041 --> 00:53:52,375
 Listo.
 
 798
-00:53:49:04 --> 00:53:51:19
+00:53:52,375 --> 00:53:55,000
 Bueno mi nombre es Joaquín Prince
 
 799
-00:53:51:19 --> 00:53:55:01
+00:53:55,000 --> 00:53:58,250
 del eirüku jayariyu y estamos aquí
 
 800
-00:53:55:02 --> 00:54:01:15
+00:53:58,291 --> 00:54:04,833
 en la escuela tradicional semillero Wayuu, Saüyepia wayuu
 y compartiendo con ustedes
 
 801
-00:54:01:15 --> 00:54:04:17
+00:54:04,833 --> 00:54:07,916
 la riqueza cultural a través de la música, a través
 
 802
-00:54:04:17 --> 00:54:07:17
+00:54:07,916 --> 00:54:10,958
 de la espiritualidad de nuestra comunidad
 
 803
-00:54:07:18 --> 00:54:10:17
+00:54:11,000 --> 00:54:13,958
 Y bueno, gracias a ustedes por esta visita
 
 804
-00:54:10:17 --> 00:54:15:04
+00:54:13,958 --> 00:54:18,416
 muy bueno que vengan, conozcan
 todo este legado cultural que tenemos nosotros
 
 805
-00:54:16:09 --> 00:54:18:06
+00:54:19,625 --> 00:54:21,500
 Como ven, este el espacio que tenemos
 
 806
-00:54:18:06 --> 00:54:21:23
+00:54:21,500 --> 00:54:25,208
 este es un espacio sagrado para nosotros,
 
 807
-00:54:21:23 --> 00:54:24:23
+00:54:25,208 --> 00:54:28,208
 porque aquí mantenemos toda la riqueza con la espiritualidad
 
 808
-00:54:24:23 --> 00:54:28:04
+00:54:28,208 --> 00:54:31,416
 del señor Maestro Jorge Enrique,
 que falleció, nos dejó ese legado
 
 809
-00:54:29:05 --> 00:54:31:15
+00:54:32,458 --> 00:54:34,875
 y nosotros queremos que ustedes conozcan también
 
 810
-00:54:31:15 --> 00:54:34:15
+00:54:34,875 --> 00:54:37,875
 que ustedes lo lleven lejos y conozcan la escuela
 
 811
-00:54:34:20 --> 00:54:39:03
+00:54:38,083 --> 00:54:42,375
 que de donde comienza Colombia,
 hay una escuela que está fortaleciendo
 
 812
-00:54:39:03 --> 00:54:42:10
+00:54:42,375 --> 00:54:45,666
 y manteniendo la riqueza de la música wayuu.

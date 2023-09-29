@@ -1,963 +1,963 @@
 1
-00:00:03:16 --> 00:00:06:08
+00:00:03,666 --> 00:00:06,333
 Sucede que en La Guajira
 
 2
-00:00:06:08 --> 00:00:09:01
+00:00:06,333 --> 00:00:09,041
 la contaminación por plástico es un tema
 
 3
-00:00:09:01 --> 00:00:11:23
+00:00:09,041 --> 00:00:11,958
 bastante complejo,
 
 4
-00:00:11:23 --> 00:00:14:23
+00:00:11,958 --> 00:00:14,958
 bastante, bastante serio.
 
 5
-00:00:15:15 --> 00:00:19:02
+00:00:15,625 --> 00:00:19,083
 Porque una de las causas, digámoslo así,
 
 6
-00:00:20:18 --> 00:00:23:20
+00:00:20,750 --> 00:00:23,833
 nosotros desde hace muchas décadas
 
 7
-00:00:24:12 --> 00:00:27:12
+00:00:24,500 --> 00:00:27,500
 llevamos viniendo, comprando
 
 8
-00:00:29:03 --> 00:00:32:06
+00:00:29,125 --> 00:00:32,250
 nuestros alimentos, un ejemplo estaría el arroz,
 
 9
-00:00:32:13 --> 00:00:34:18
+00:00:32,541 --> 00:00:34,750
 eso viene en una envoltura plástica,
 
 10
-00:00:34:18 --> 00:00:36:16
+00:00:34,750 --> 00:00:36,666
 el café viene en una envoltura plástica.
 
 11
-00:00:36:16 --> 00:00:38:23
+00:00:36,666 --> 00:00:38,958
 El espagueti tiene envoltura plástica.
 
 12
-00:00:38:23 --> 00:00:41:19
+00:00:38,958 --> 00:00:41,833
 Entonces comprar eso
 
 13
-00:00:41:19 --> 00:00:42:21
+00:00:41,833 --> 00:00:42,916
 acá en las comunidades,
 
 14
-00:00:42:21 --> 00:00:46:00
+00:00:42,916 --> 00:00:46,041
 en las zonas rurales, no hay un sistema de saneamiento.
 
 15
-00:00:46:19 --> 00:00:49:07
+00:00:46,833 --> 00:00:49,333
 Entonces acá no pasa el carro de aseo,
 
 16
-00:00:49:07 --> 00:00:52:10
+00:00:49,333 --> 00:00:52,458
 acá los plásticos que entran no tienen una salida
 
 17
-00:00:52:11 --> 00:00:55:11
+00:00:52,500 --> 00:00:55,500
 hacia afuera, se quedan en las comunidades
 
 18
-00:00:55:18 --> 00:00:58:23
+00:00:55,791 --> 00:00:59,000
 y por eso digamos que este problema es acumulativo.
 
 19
-00:00:59:07 --> 00:01:03:19
+00:00:59,333 --> 00:01:03,833
 Desde hace muchos años hemos venido comprando ese plástico
 
 20
-00:01:04:18 --> 00:01:07:18
+00:01:04,791 --> 00:01:07,791
 y esos plásticos se han quedado en las comunidades
 
 21
-00:01:08:04 --> 00:01:11:03
+00:01:08,208 --> 00:01:11,166
 y por eso tenemos una contaminación
 
 22
-00:01:12:05 --> 00:01:13:08
+00:01:12,250 --> 00:01:13,375
 por residuos
 
 23
-00:01:13:08 --> 00:01:16:16
+00:01:13,375 --> 00:01:16,708
 bastante visible en las comunidades.
 
 24
-00:01:16:20 --> 00:01:18:12
+00:01:16,875 --> 00:01:18,541
 Así,
 
 25
-00:01:18:12 --> 00:01:20:18
+00:01:18,541 --> 00:01:20,791
 esto se vuelve un conflicto,
 
 26
-00:01:20:18 --> 00:01:23:18
+00:01:20,791 --> 00:01:23,833
 una problemática.
 
 27
-00:01:23:23 --> 00:01:26:07
+00:01:24,041 --> 00:01:26,375
 Tanto así que cuando caminábamos por los senderos
 
 28
-00:01:26:07 --> 00:01:29:07
+00:01:26,375 --> 00:01:29,375
 de las rancherías vamos a ver plásticos,
 
 29
-00:01:30:06 --> 00:01:30:21
+00:01:30,333 --> 00:01:30,958
 Uno va por los cardones y
 
 30
-00:01:30:21 --> 00:01:33:07
+00:01:30,958 --> 00:01:33,375
 los cardones tienen plásticos atascados.
 
 31
-00:01:33:07 --> 00:01:35:19
+00:01:33,375 --> 00:01:35,875
 Uno camina por el mar,
 
 32
-00:01:35:19 --> 00:01:38:18
+00:01:35,875 --> 00:01:38,833
 hay plásticos por las playas también, entonces ya Manaure
 
 33
-00:01:38:18 --> 00:01:40:00
+00:01:38,833 --> 00:01:40,083
 está inundada.
 
 34
-00:01:40:00 --> 00:01:43:07
+00:01:40,083 --> 00:01:43,375
 Tanto así que en el 2019 la revista Semana,
 
 35
-00:01:43:07 --> 00:01:46:06
+00:01:43,375 --> 00:01:46,333
 una revista muy popular en Colombia sacó
 
 36
-00:01:46:11 --> 00:01:50:18
+00:01:46,541 --> 00:01:50,833
 un artículo titulado La Guajira inundada en basura.
 
 37
-00:01:51:20 --> 00:01:54:17
+00:01:51,916 --> 00:01:54,791
 Y es una frase
 
 38
-00:01:54:17 --> 00:01:57:05
+00:01:54,791 --> 00:01:57,291
 que no está alejada de la realidad.
 
 39
-00:01:57:05 --> 00:01:59:21
+00:01:57,291 --> 00:01:59,958
 Realmente La Guaira sí está inundada de plásticos,
 
 40
-00:01:59:21 --> 00:02:05:00
+00:01:59,958 --> 00:02:05,125
 está inundado de residuos y en pro
 
 41
-00:02:05:12 --> 00:02:08:12
+00:02:05,625 --> 00:02:08,625
 de contrarrestar esa problemática
 
 42
-00:02:09:04 --> 00:02:13:22
+00:02:09,291 --> 00:02:14,041
 nosotros creamos esta iniciativa ‘’Hilos por Mma’’ y
 
 43
-00:02:14:12 --> 00:02:15:16
+00:02:14,625 --> 00:02:15,791
 lo que hacemos es
 
 44
-00:02:16:19 --> 00:02:19:15
+00:02:16,916 --> 00:02:19,750
 llevar talleres a las comunidades,
 
 45
-00:02:19:15 --> 00:02:23:20
+00:02:19,750 --> 00:02:23,958
 a las diferentes comunidades, sobre concientización
 
 46
-00:02:24:01 --> 00:02:27:09
+00:02:24,166 --> 00:02:27,500
 en frente al tema, al tema ambiental
 
 47
-00:02:27:22 --> 00:02:30:09
+00:02:28,041 --> 00:02:30,500
 y de cómo el plástico,
 
 48
-00:02:30:09 --> 00:02:33:09
+00:02:30,500 --> 00:02:33,500
 qué daños va a hacer cuando lo dejamos en la naturaleza.
 
 49
-00:02:34:22 --> 00:02:38:05
+00:02:35,041 --> 00:02:38,333
 Estos talleres son también
 
 50
-00:02:38:22 --> 00:02:42:10
+00:02:39,041 --> 00:02:42,541
 contextualizados en la cultura de nosotros.
 
 51
-00:02:42:18 --> 00:02:45:12
+00:02:42,875 --> 00:02:45,625
 No es solamente llegar y decir
 
 52
-00:02:45:12 --> 00:02:48:16
+00:02:45,625 --> 00:02:48,833
 Hay que clasificarlos, clasificar residuos sólidos
 
 53
-00:02:49:11 --> 00:02:52:00
+00:02:49,625 --> 00:02:52,166
 y así, sino también conocer
 
 54
-00:02:52:00 --> 00:02:54:19
+00:02:52,166 --> 00:02:54,958
 como nuestra cultura
 
 55
-00:02:54:19 --> 00:02:58:17
+00:02:54,958 --> 00:02:58,875
 tiene un pensamiento frente a este tema.
 
 56
-00:02:59:10 --> 00:03:02:10
+00:02:59,583 --> 00:03:02,583
 Y por eso, a partir de eso nació ‘’Hilos por Mmá’’,
 
 57
-00:03:02:16 --> 00:03:05:21
+00:03:02,833 --> 00:03:06,041
 donde llevamos talleres a las comunidades y también
 
 58
-00:03:07:12 --> 00:03:09:23
+00:03:07,666 --> 00:03:10,125
 generamos un intercambio
 
 59
-00:03:09:23 --> 00:03:13:03
+00:03:10,125 --> 00:03:13,291
 donde las comunidades nos dan residuos clasificados
 
 60
-00:03:13:03 --> 00:03:15:05
+00:03:13,291 --> 00:03:15,375
 y nosotros a cambio les damos hilos,
 
 61
-00:03:15:05 --> 00:03:18:05
+00:03:15,375 --> 00:03:18,375
 les damos las lanas para hacer
 
 62
-00:03:18:05 --> 00:03:21:05
+00:03:18,375 --> 00:03:21,375
 las mochilas, las
 
 63
-00:03:22:08 --> 00:03:24:08
+00:03:22,500 --> 00:03:24,500
 manillas, el chinchorro.
 
 64
-00:03:24:08 --> 00:03:28:22
+00:03:24,500 --> 00:03:29,125
 Así le damos un valor a los residuos y las comunidades
 
 65
-00:03:28:22 --> 00:03:30:04
+00:03:29,125 --> 00:03:30,375
 dicen bueno, vale la pena
 
 66
-00:03:30:04 --> 00:03:33:19
+00:03:30,375 --> 00:03:34,000
 realmente, porque hay un, hay un valor agregado.
 
 67
-00:03:34:02 --> 00:03:36:03
+00:03:34,291 --> 00:03:36,333
 Entonces ellos nos dan esos residuos,
 
 68
-00:03:36:03 --> 00:03:38:15
+00:03:36,333 --> 00:03:38,833
 nosotros esos residuos lo recogemos,
 
 69
-00:03:38:15 --> 00:03:42:12
+00:03:38,833 --> 00:03:42,708
 hay un centro de acopio aquí en el monte, en el desierto,
 
 70
-00:03:42:12 --> 00:03:43:06
+00:03:42,708 --> 00:03:43,458
 Ahí hay un acopio
 
 71
-00:03:44:06 --> 00:03:45:22
+00:03:44,458 --> 00:03:46,125
 y nosotros esos residuos los
 
 72
-00:03:45:22 --> 00:03:48:22
+00:03:46,125 --> 00:03:49,125
 llevamos al punto de la zona urbana donde está
 
 73
-00:03:49:20 --> 00:03:52:06
+00:03:50,041 --> 00:03:52,458
 el carro de aseo y todo eso.
 
 74
-00:03:52:06 --> 00:03:56:02
+00:03:52,458 --> 00:03:56,291
 Y para darle continuidad también a estos elementos,
 
 75
-00:03:56:02 --> 00:03:59:18
+00:03:56,291 --> 00:03:59,958
 como el cartón lo llevamos a las tiendas recicladoras.
 
 76
-00:04:00:19 --> 00:04:02:09
+00:04:01,000 --> 00:04:02,583
 Por otro lado,
 
 77
-00:04:02:09 --> 00:04:05:02
+00:04:02,583 --> 00:04:05,291
 las comunidades una vez tengan los hilos que nosotros
 
 78
-00:04:05:02 --> 00:04:08:02
+00:04:05,291 --> 00:04:08,291
 les entregamos, ellos con ese hilo hacen un producto.
 
 79
-00:04:09:08 --> 00:04:10:22
+00:04:09,541 --> 00:04:11,166
 Esto como estamos enfocándonos
 
 80
-00:04:10:22 --> 00:04:13:22
+00:04:11,166 --> 00:04:14,166
 en las mochilas y en los accesorios.
 
 81
-00:04:13:22 --> 00:04:17:13
+00:04:14,166 --> 00:04:17,791
 Ellos hacen mochilas, por ejemplo, y nosotros
 
 82
-00:04:17:13 --> 00:04:20:13
+00:04:17,791 --> 00:04:20,791
 viendo que es necesario generar
 
 83
-00:04:21:07 --> 00:04:25:11
+00:04:21,541 --> 00:04:25,708
 una tienda donde todo el fruto
 
 84
-00:04:25:11 --> 00:04:26:09
+00:04:25,708 --> 00:04:26,625
 de ese intercambio y de
 
 85
-00:04:26:09 --> 00:04:30:18
+00:04:26,625 --> 00:04:31,000
 este trueque que hacemos pueda ser expuesto y darle también,
 
 86
-00:04:31:05 --> 00:04:33:19
+00:04:31,458 --> 00:04:34,041
 garantizarle que este artesano que haya hecho el producto
 
 87
-00:04:33:19 --> 00:04:35:13
+00:04:34,041 --> 00:04:35,791
 tenga un pago justo.
 
 88
-00:04:35:13 --> 00:04:36:12
+00:04:35,791 --> 00:04:36,750
 Porque acá en La Guajira
 
 89
-00:04:36:12 --> 00:04:39:19
+00:04:36,750 --> 00:04:40,041
 ese es otro problema también que a los artesanos no les pagan bien,
 
 90
-00:04:40:07 --> 00:04:43:07
+00:04:40,541 --> 00:04:43,541
 entonces siempre resulta ganando el intermediario.
 
 91
-00:04:43:09 --> 00:04:45:22
+00:04:43,625 --> 00:04:46,166
 Por eso tenemos una tienda donde se vende exclusivamente
 
 92
-00:04:45:22 --> 00:04:48:14
+00:04:46,166 --> 00:04:48,833
 todo lo que sea fruto de ese intercambio
 
 93
-00:04:49:13 --> 00:04:50:22
+00:04:49,791 --> 00:04:51,166
 y así
 
 94
-00:04:50:22 --> 00:04:53:02
+00:04:51,166 --> 00:04:53,375
 a partir de la venta de un producto
 
 95
-00:04:53:02 --> 00:04:54:20
+00:04:53,375 --> 00:04:55,125
 como el caso de una mochila,
 
 96
-00:04:54:20 --> 00:05:01:01
+00:04:55,125 --> 00:05:01,333
 una mochila nos da dinero para comprar nuevos
 
 97
-00:05:01:01 --> 00:05:04:13
+00:05:01,333 --> 00:05:04,833
 hilos, nuevas bolsas para trabajar con las comunidades
 
 98
-00:05:05:02 --> 00:05:08:02
+00:05:05,375 --> 00:05:08,375
 y así a partir de un producto es que nos da,
 
 99
-00:05:09:02 --> 00:05:11:19
+00:05:09,375 --> 00:05:12,083
 nos da dinero para alimentar todo el proceso.
 
 100
-00:05:11:19 --> 00:05:15:06
+00:05:12,083 --> 00:05:15,541
 Así los compradores, las personas que
 
 101
-00:05:16:01 --> 00:05:19:01
+00:05:16,333 --> 00:05:19,333
 que encuentran ese producto
 
 102
-00:05:19:14 --> 00:05:22:22
+00:05:19,875 --> 00:05:23,208
 le damos la oportunidad de donde esté en las ciudades
 
 103
-00:05:23:08 --> 00:05:26:05
+00:05:23,625 --> 00:05:26,500
 de que puedan aportar algo
 
 104
-00:05:26:05 --> 00:05:30:05
+00:05:26,500 --> 00:05:30,500
 al final a la salud del planeta.
 
 105
-00:05:30:22 --> 00:05:33:22
+00:05:31,208 --> 00:05:34,250
 Si una persona nos compra un producto, a partir de eso
 
 106
-00:05:34:01 --> 00:05:36:20
+00:05:34,375 --> 00:05:37,166
 ellos están aportando al medio ambiente.
 
 107
-00:05:36:20 --> 00:05:37:09
+00:05:37,166 --> 00:05:37,708
 En este caso
 
 108
-00:05:37:09 --> 00:05:38:14
+00:05:37,708 --> 00:05:38,916
 a esta parte de Colombia,
 
 109
-00:05:38:14 --> 00:05:41:03
+00:05:38,916 --> 00:05:41,458
 tratando de reducir la contaminación que hay
 
 110
-00:05:41:03 --> 00:05:44:16
+00:05:41,458 --> 00:05:45,000
 y a la vez también generar esa conciencia acerca de
 
 111
-00:05:45:10 --> 00:05:50:05
+00:05:45,750 --> 00:05:50,541
 de la artesanía de los grupos indígenas, que no
 
 112
-00:05:52:17 --> 00:05:54:16
+00:05:53,041 --> 00:05:55,000
 es solamente un elemento,
 
 113
-00:05:54:16 --> 00:05:56:07
+00:05:55,000 --> 00:05:56,625
 sino que detrás de una artesanía
 
 114
-00:05:56:07 --> 00:05:57:22
+00:05:56,625 --> 00:05:58,250
 realmente hay una historia.
 
 115
-00:05:57:22 --> 00:06:00:22
+00:05:58,250 --> 00:06:01,250
 Estaba lo que les conté ahorita sobre Wale’kerü
 
 116
-00:06:01:12 --> 00:06:03:21
+00:06:01,833 --> 00:06:04,208
 y sobre lo importante que es esto
 
 117
-00:06:03:21 --> 00:06:07:07
+00:06:04,208 --> 00:06:07,625
 y sobre cómo en una artesanía hay una configuración,
 
 118
-00:06:07:23 --> 00:06:09:22
+00:06:08,291 --> 00:06:10,250
 hay un saber ancestral,
 
 119
-00:06:09:22 --> 00:06:13:04
+00:06:10,250 --> 00:06:13,500
 entonces también generando esa conciencia al comprador,
 
 120
-00:06:13:08 --> 00:06:16:18
+00:06:13,666 --> 00:06:17,125
 a la persona de decirle no compren por tendencia,
 
 121
-00:06:17:02 --> 00:06:20:06
+00:06:17,458 --> 00:06:20,625
 no compren por consumir,
 
 122
-00:06:20:10 --> 00:06:21:08
+00:06:20,791 --> 00:06:21,708
 que es
 
 123
-00:06:21:08 --> 00:06:23:09
+00:06:21,708 --> 00:06:23,750
 lo último que hacemos ahora solo compramos,
 
 124
-00:06:23:09 --> 00:06:26:23
+00:06:23,750 --> 00:06:27,333
 No, compren por conciencia que a donde yo compre
 
 125
-00:06:27:11 --> 00:06:29:10
+00:06:27,833 --> 00:06:29,791
 a partir de esto que estoy generando,
 
 126
-00:06:29:10 --> 00:06:31:08
+00:06:29,791 --> 00:06:31,708
 que impacto estoy generando.
 
 127
-00:06:31:08 --> 00:06:34:07
+00:06:31,708 --> 00:06:34,666
 Entonces este producto es muy bonito,
 
 128
-00:06:34:13 --> 00:06:38:05
+00:06:34,916 --> 00:06:38,583
 se está haciendo en las zonas rurales Manaure y
 
 129
-00:06:38:05 --> 00:06:41:14
+00:06:38,583 --> 00:06:41,958
 la Guajira y acá donde estamos
 
 130
-00:06:43:02 --> 00:06:45:00
+00:06:43,458 --> 00:06:45,375
 donde
 
 131
-00:06:45:00 --> 00:06:48:00
+00:06:45,375 --> 00:06:48,375
 como le decía ahorita acá
 
 132
-00:06:48:14 --> 00:06:50:05
+00:06:48,958 --> 00:06:50,583
 es una idea,
 
 133
-00:06:51:08 --> 00:06:52:18
+00:06:51,708 --> 00:06:53,125
 acá ni siquiera entran
 
 134
-00:06:52:18 --> 00:06:55:18
+00:06:53,125 --> 00:06:56,125
 las entidades políticas o las entidades
 
 135
-00:06:56:23 --> 00:06:58:13
+00:06:57,375 --> 00:06:58,958
 que tienen responsabilidades de mirar
 
 136
-00:06:58:13 --> 00:07:00:14
+00:06:58,958 --> 00:07:01,000
 cómo están las comunidades.
 
 137
-00:07:00:14 --> 00:07:02:12
+00:07:01,000 --> 00:07:02,916
 Entonces estamos haciendo un impacto muy chévere
 
 138
-00:07:02:12 --> 00:07:04:05
+00:07:02,916 --> 00:07:04,625
 y esperamos que este trabajo, que
 
 139
-00:07:04:05 --> 00:07:07:05
+00:07:04,625 --> 00:07:07,625
 esta idea se pueda replicar en otros contextos,
 
 140
-00:07:07:12 --> 00:07:09:20
+00:07:07,916 --> 00:07:10,250
 no solamente en nuestra cultura Wayuu,
 
 141
-00:07:09:20 --> 00:07:13:02
+00:07:10,250 --> 00:07:13,500
 sino también en otros hermanos e indígenas,
 
 142
-00:07:13:02 --> 00:07:16:01
+00:07:13,500 --> 00:07:16,458
 puedan de alguna manera replicar esta idea.
 
 143
-00:07:16:04 --> 00:07:18:12
+00:07:16,583 --> 00:07:18,916
 Y esperamos seguir creciendo.
 
 144
-00:07:18:12 --> 00:07:21:05
+00:07:18,916 --> 00:07:21,625
 Esperamos ayudar a más familias Wayuu,
 
 145
-00:07:21:05 --> 00:07:24:05
+00:07:21,625 --> 00:07:24,625
 esperamos ayudar a más comunidades mediante esto
 
 146
-00:07:24:09 --> 00:07:26:22
+00:07:24,791 --> 00:07:27,333
 y a mediano plazo,
 
 147
-00:07:26:22 --> 00:07:28:01
+00:07:27,333 --> 00:07:28,458
 o bueno, el fin,
 
 148
-00:07:28:01 --> 00:07:31:21
+00:07:28,458 --> 00:07:32,291
 el objetivo de todo esto también es algún día decir
 
 149
-00:07:31:21 --> 00:07:32:14
+00:07:32,291 --> 00:07:33,000
 vean, mira,
 
 150
-00:07:32:14 --> 00:07:34:02
+00:07:33,000 --> 00:07:34,500
 aportamos un granito
 
 151
-00:07:34:02 --> 00:07:37:02
+00:07:34,500 --> 00:07:37,500
 a la reducción de contaminación en La Guajira.
 
 152
-00:07:37:02 --> 00:07:40:17
+00:07:37,500 --> 00:07:41,166
 Eso es nuestro sueño mediante ese proyecto.
 
 153
-00:07:41:12 --> 00:07:43:12
+00:07:41,958 --> 00:07:43,958
 Y así que bueno,
 
 154
-00:07:43:12 --> 00:07:45:13
+00:07:43,958 --> 00:07:46,000
 agradecer
 
 155
-00:07:45:13 --> 00:07:48:13
+00:07:46,000 --> 00:07:49,000
 por visibilizarnos un poco
 
 156
-00:07:50:07 --> 00:07:54:17
+00:07:50,750 --> 00:07:55,166
 y bueno, a seguir luchando en estos procesos,
 
 157
-00:07:55:19 --> 00:07:57:11
+00:07:56,250 --> 00:07:57,916
 en este caso en La Guajira.
 
 158
-00:07:57:11 --> 00:08:00:06
+00:07:57,916 --> 00:08:00,708
 ¿Y cómo se llama la tienda del proyecto?
 
 159
-00:08:00:06 --> 00:08:01:10
+00:08:00,708 --> 00:08:01,875
 Tenemos la tienda
 
 160
-00:08:01:10 --> 00:08:04:19
+00:08:01,875 --> 00:08:05,250
 Ishototnosune que Ishotot tiene la palabra Isho,
 
 161
-00:08:05:09 --> 00:08:06:14
+00:08:05,833 --> 00:08:07,041
 que es sangre,
 
 162
-00:08:06:14 --> 00:08:10:09
+00:08:07,041 --> 00:08:10,833
 entonces color de sangre o la sangre nos une realmente
 
 163
-00:08:11:01 --> 00:08:11:07
+00:08:11,500 --> 00:08:11,750
 que eso es
 
 164
-00:08:11:07 --> 00:08:13:00
+00:08:11,750 --> 00:08:13,458
 como que
 
 165
-00:08:13:00 --> 00:08:14:23
+00:08:13,458 --> 00:08:15,416
 una tienda creada en la comunidad,
 
 166
-00:08:14:23 --> 00:08:16:14
+00:08:15,416 --> 00:08:17,041
 todavía no tenemos un establecimiento
 
 167
-00:08:16:14 --> 00:08:18:05
+00:08:17,041 --> 00:08:18,666
 físico, todo es virtual,
 
 168
-00:08:18:05 --> 00:08:21:05
+00:08:18,666 --> 00:08:21,708
 nos pueden encontrar en las diferentes redes sociales
 
 169
-00:08:21:09 --> 00:08:24:09
+00:08:21,875 --> 00:08:24,875
 y estamos ahí como Ishototnosune y como hilos por Mma.
 
 170
-00:08:24:09 --> 00:08:27:17
+00:08:24,875 --> 00:08:28,208
 Esas dos fuentes nos pueden llegar hasta nosotros.
 
 171
-00:08:28:16 --> 00:08:31:16
+00:08:29,166 --> 00:08:32,166
 Chévere y pues como resumir
 
 172
-00:08:32:03 --> 00:08:35:04
+00:08:32,625 --> 00:08:35,666
 el proyecto en como una oración de
 
 173
-00:08:36:01 --> 00:08:39:14
+00:08:36,541 --> 00:08:40,083
 como rápido como de un resumen de todo,
 
 174
-00:08:40:10 --> 00:08:43:10
+00:08:40,916 --> 00:08:43,916
 de la idea del proyecto.
 
 175
-00:08:45:05 --> 00:08:48:05
+00:08:45,708 --> 00:08:48,708
 Claro, si.
 
 176
-00:08:49:09 --> 00:08:52:21
+00:08:49,875 --> 00:08:53,375
 A partir de la compra de un producto
 
 177
-00:08:55:08 --> 00:08:58:08
+00:08:55,833 --> 00:08:58,833
 generamos impactos,
 
 178
-00:08:58:23 --> 00:09:00:22
+00:08:59,458 --> 00:09:01,416
 un impacto social y un impacto…
 
 179
-00:09:00:22 --> 00:09:03:05
+00:09:01,416 --> 00:09:03,750
 dos impactos puntuales,
 
 180
-00:09:03:05 --> 00:09:05:19
+00:09:03,750 --> 00:09:06,333
 un impacto ambiental y un impacto social.
 
 181
-00:09:05:19 --> 00:09:08:08
+00:09:06,333 --> 00:09:08,875
 Por eso es compremos
 
 182
-00:09:08:08 --> 00:09:10:22
+00:09:08,875 --> 00:09:11,458
 o que los productos
 
 183
-00:09:10:22 --> 00:09:14:02
+00:09:11,458 --> 00:09:14,625
 que compremos sea un producto que tenga un fin
 
 184
-00:09:15:10 --> 00:09:18:10
+00:09:15,958 --> 00:09:18,958
 bastante,
 
 185
-00:09:19:15 --> 00:09:22:15
+00:09:20,166 --> 00:09:23,166
 bastante bueno, tanto para
 
 186
-00:09:22:16 --> 00:09:25:16
+00:09:23,208 --> 00:09:26,208
 el artesano como para el planeta.
 
 187
-00:09:26:14 --> 00:09:27:11
+00:09:27,125 --> 00:09:28,000
 Si.
 
 188
-00:09:27:11 --> 00:09:31:03
+00:09:28,000 --> 00:09:31,666
 Si, ¿Ustedes recogen, recolectan el plástico,
 
 189
-00:09:31:03 --> 00:09:34:03
+00:09:31,666 --> 00:09:34,666
 lo venden y compra el hilo?
 
 190
-00:09:35:03 --> 00:09:38:03
+00:09:35,666 --> 00:09:38,666
 Pues digamos que el plástico acá,
 
 191
-00:09:38:06 --> 00:09:41:16
+00:09:38,791 --> 00:09:42,208
 acá en las comunidades el uso de plástico,
 
 192
-00:09:41:16 --> 00:09:45:14
+00:09:42,208 --> 00:09:46,166
 acá las comunidades tienen, los rehúsan, entonces así
 
 193
-00:09:45:14 --> 00:09:49:22
+00:09:46,166 --> 00:09:50,500
 por ejemplo, el pote, el de la gaseosa, el refresco
 
 194
-00:09:50:15 --> 00:09:51:04
+00:09:51,208 --> 00:09:51,750
 acá lo
 
 195
-00:09:51:04 --> 00:09:54:10
+00:09:51,750 --> 00:09:55,000
 reusan para guardar aceite, para guardar otros líquidos
 
 196
-00:09:54:19 --> 00:09:57:22
+00:09:55,375 --> 00:09:58,500
 y cuando este material plástico realmente ya no tenga
 
 197
-00:09:58:19 --> 00:10:01:19
+00:09:59,375 --> 00:10:02,375
 un último uso, es que
 
 198
-00:10:02:02 --> 00:10:03:16
+00:10:02,666 --> 00:10:04,250
 quedan libres. ¿No?
 
 199
-00:10:03:16 --> 00:10:06:08
+00:10:04,250 --> 00:10:06,916
 Por eso cuando recogemos todo ese material,
 
 200
-00:10:06:08 --> 00:10:09:10
+00:10:06,916 --> 00:10:10,000
 mayormente son ya materiales muy muy dañados,
 
 201
-00:10:10:00 --> 00:10:13:00
+00:10:10,583 --> 00:10:13,583
 pues lo que nos toca es llevarlo directamente
 
 202
-00:10:13:07 --> 00:10:15:00
+00:10:13,875 --> 00:10:15,583
 al punto de saneamiento.
 
 203
-00:10:15:00 --> 00:10:16:22
+00:10:15,583 --> 00:10:17,500
 Otros materiales como el cartón,
 
 204
-00:10:16:22 --> 00:10:19:22
+00:10:17,500 --> 00:10:20,500
 ese sí lo llevamos a las tiendas recicladora,
 
 205
-00:10:20:12 --> 00:10:23:02
+00:10:21,083 --> 00:10:23,666
 ellos le dan una continuidad y
 
 206
-00:10:23:02 --> 00:10:26:17
+00:10:23,666 --> 00:10:27,333
 nosotros recibimos una moneda a cambio de llevar eso
 
 207
-00:10:26:17 --> 00:10:30:20
+00:10:27,333 --> 00:10:31,458
 Allá, pero no es nuestro fuerte, realmente nuestro fuerte
 
 208
-00:10:30:20 --> 00:10:32:06
+00:10:31,458 --> 00:10:32,875
 es el producto.
 
 209
-00:10:32:06 --> 00:10:33:19
+00:10:32,875 --> 00:10:34,416
 A partir de la compra del producto
 
 210
-00:10:33:19 --> 00:10:36:13
+00:10:34,416 --> 00:10:37,166
 es que nos da dinero para comprar más hilos,
 
 211
-00:10:36:13 --> 00:10:38:09
+00:10:37,166 --> 00:10:39,000
 para comprar más bolsas,
 
 212
-00:10:38:09 --> 00:10:39:08
+00:10:39,000 --> 00:10:39,958
 porque nosotros entregamos
 
 213
-00:10:39:08 --> 00:10:40:20
+00:10:39,958 --> 00:10:41,458
 bolsas a las comunidades para que ellos puedan
 
 214
-00:10:43:07 --> 00:10:46:01
+00:10:43,916 --> 00:10:46,666
 recoger los residuos. Nuestro fuerte
 
 215
-00:10:46:01 --> 00:10:49:01
+00:10:46,666 --> 00:10:49,666
 está en el producto de la artesanía.
 
 216
-00:10:49:09 --> 00:10:53:02
+00:10:50,000 --> 00:10:53,708
 Si nos pagan por el cartón, por los plásticos, pero no
 
 217
-00:10:53:02 --> 00:10:56:02
+00:10:53,708 --> 00:10:56,708
 es un pago bastante suficiente.
 
 218
-00:10:56:02 --> 00:10:58:14
+00:10:56,708 --> 00:10:59,208
 Pero sí nos alegra mucho que estas tiendas
 
 219
-00:10:58:14 --> 00:11:01:14
+00:10:59,208 --> 00:11:02,208
 le dan esa continuidad, le dan un uso a eso.
 
 220
-00:11:02:14 --> 00:11:03:14
+00:11:03,208 --> 00:11:04,208
 Sí.
 
 221
-00:11:03:14 --> 00:11:07:04
+00:11:04,208 --> 00:11:07,833
 Y bueno, hay algo más que quieras contar de tejer o
 
 222
-00:11:08:09 --> 00:11:10:09
+00:11:09,041 --> 00:11:11,041
 de este sitio
 
 223
-00:11:10:09 --> 00:11:13:09
+00:11:11,041 --> 00:11:14,041
 o de lo que hemos visto hoy.
 
 224
-00:11:14:04 --> 00:11:17:04
+00:11:14,833 --> 00:11:17,833
 Algo más que podría contar
 
 225
-00:11:19:15 --> 00:11:21:14
+00:11:20,291 --> 00:11:22,250
 sería que es necesario
 
 226
-00:11:21:14 --> 00:11:25:07
+00:11:22,250 --> 00:11:25,958
 cambiar la perspectiva de
 
 227
-00:11:25:08 --> 00:11:28:17
+00:11:26,000 --> 00:11:29,375
 cómo hay que ver las comunidades y de cómo
 
 228
-00:11:28:21 --> 00:11:31:21
+00:11:29,541 --> 00:11:32,541
 deberían hacerse los futuros
 
 229
-00:11:32:21 --> 00:11:34:11
+00:11:33,541 --> 00:11:35,125
 proyectos con las comunidades.
 
 230
-00:11:34:11 --> 00:11:37:11
+00:11:35,125 --> 00:11:38,125
 Hay muchos proyectos
 
 231
-00:11:38:09 --> 00:11:40:19
+00:11:39,041 --> 00:11:41,458
 del gobierno digámoslo así,
 
 232
-00:11:40:19 --> 00:11:43:08
+00:11:41,458 --> 00:11:44,000
 pero mayormente esos proyectos fracasan
 
 233
-00:11:43:08 --> 00:11:45:15
+00:11:44,000 --> 00:11:46,291
 porque no se está haciendo o no está trabajando
 
 234
-00:11:45:15 --> 00:11:48:15
+00:11:46,291 --> 00:11:49,333
 las comunidades. En este caso nosotros con ‘’Hilos por Mma’’
 
 235
-00:11:49:17 --> 00:11:52:08
+00:11:50,416 --> 00:11:53,041
 vimos la necesidad de crear esa tienda,
 
 236
-00:11:52:08 --> 00:11:55:08
+00:11:53,041 --> 00:11:56,041
 porque al principio
 
 237
-00:11:55:15 --> 00:11:58:08
+00:11:56,333 --> 00:11:59,041
 los productos,
 
 238
-00:11:58:08 --> 00:12:01:15
+00:11:59,041 --> 00:12:02,333
 la artesanía que salía, se la vendían al mercado local
 
 239
-00:12:02:04 --> 00:12:04:00
+00:12:02,875 --> 00:12:04,708
 y ahí no recibía un pago justo.
 
 240
-00:12:04:00 --> 00:12:08:12
+00:12:04,708 --> 00:12:09,208
 Entonces es siempre pensar en todo el proceso, en cada cosa,
 
 241
-00:12:09:18 --> 00:12:12:00
+00:12:10,458 --> 00:12:12,708
 si yo doy esto, ¿dónde va a terminar?

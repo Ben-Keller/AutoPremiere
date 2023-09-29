@@ -1,1717 +1,1717 @@
 1
-00:01:20:08 --> 00:01:24:01
+00:01:20,375 --> 00:01:24,125
 Well, I have been asking you a lot about the Wayúu people,
 
 2
-00:01:24:01 --> 00:01:27:09
+00:01:24,125 --> 00:01:27,458
 but you personally
 
 3
-00:01:28:03 --> 00:01:30:16
+00:01:28,208 --> 00:01:30,750
 in what ways do you interact
 
 4
-00:01:30:16 --> 00:01:35:19
+00:01:30,750 --> 00:01:35,875
 with nature, that is, with humans
 
 5
-00:01:35:19 --> 00:01:40:08
+00:01:35,875 --> 00:01:40,416
 or is there a river or a tree down there that you connect with?
 
 6
-00:01:41:17 --> 00:01:44:22
+00:01:41,791 --> 00:01:45,000
 Well this city is called “Río de la Hacha” (Ax River)
 
 7
-00:01:45:14 --> 00:01:49:02
+00:01:45,666 --> 00:01:49,166
 and this is the river, in wayuunaiki it is said suchi'i,
 
 8
-00:01:49:18 --> 00:01:52:18
+00:01:49,833 --> 00:01:52,833
 It is the most important river in La Guajira,
 
 9
-00:01:53:12 --> 00:01:56:12
+00:01:53,583 --> 00:01:56,583
 perhaps the only one in the Wayúu territory,
 
 10
-00:01:57:01 --> 00:02:00:14
+00:01:57,125 --> 00:02:00,666
 which has many streams that dry up in summer,
 
 11
-00:02:01:00 --> 00:02:04:00
+00:02:01,083 --> 00:02:04,083
 but this is the most important river of the Wayuú.
 
 12
-00:02:04:10 --> 00:02:07:05
+00:02:04,500 --> 00:02:07,333
 and Ríohacha for the Wayúu is called Suchima,
 
 13
-00:02:07:05 --> 00:02:10:09
+00:02:07,333 --> 00:02:10,500
 This is a serpent river, a path river.
 
 14
-00:02:10:22 --> 00:02:13:14
+00:02:11,041 --> 00:02:13,708
 It is linked to the stories of the Wayuú
 
 15
-00:02:13:14 --> 00:02:16:14
+00:02:13,708 --> 00:02:16,708
 and on the way to the interior of the continent.
 
 16
-00:02:16:21 --> 00:02:19:13
+00:02:17,000 --> 00:02:19,666
 It has the story of a snake
 
 17
-00:02:19:13 --> 00:02:23:08
+00:02:19,666 --> 00:02:23,458
 that marks its course in each rainy season.
 
 18
-00:02:23:09 --> 00:02:26:09
+00:02:23,500 --> 00:02:26,500
 That snake is called jerakanauwa
 
 19
-00:02:26:12 --> 00:02:31:03
+00:02:26,625 --> 00:02:31,250
 and many Wayúu settlements are along this river.
 
 20
-00:02:31:13 --> 00:02:36:16
+00:02:31,666 --> 00:02:36,791
 From the middle course of Distracción in the south of La Güajira
 
 21
-00:02:37:05 --> 00:02:40:12
+00:02:37,333 --> 00:02:40,625
 to the mouth here in Riohacha, where it forms
 
 22
-00:02:40:12 --> 00:02:44:04
+00:02:40,625 --> 00:02:44,291
 a Delta with the sea and where there is a lot of bird life
 
 23
-00:02:44:18 --> 00:02:49:04
+00:02:44,875 --> 00:02:49,333
 pelicans, cormorants and formerly alligators.
 
 24
-00:02:49:12 --> 00:02:53:05
+00:02:49,666 --> 00:02:53,375
 And it is a river of many tales for the Wayuú.
 
 25
-00:02:53:18 --> 00:02:56:18
+00:02:53,916 --> 00:02:56,916
 Also, a kind of living being
 
 26
-00:02:56:22 --> 00:03:01:02
+00:02:57,083 --> 00:03:01,250
 that generates a way of life, the way of life of the river
 
 27
-00:03:01:17 --> 00:03:04:02
+00:03:01,875 --> 00:03:04,250
 and that has a forest that gives fruits
 
 28
-00:03:04:02 --> 00:03:05:14
+00:03:04,250 --> 00:03:05,750
 and that also gives food,
 
 29
-00:03:06:16 --> 00:03:09:08
+00:03:06,833 --> 00:03:09,500
 fish and other types of food.
 
 30
-00:03:09:08 --> 00:03:09:18
+00:03:09,500 --> 00:03:09,916
 Therefore,
 
 31
-00:03:09:18 --> 00:03:12:18
+00:03:09,916 --> 00:03:12,916
 this river is key in giving its name to this city
 
 32
-00:03:12:22 --> 00:03:14:03
+00:03:13,083 --> 00:03:14,291
 which is Riohacha.
 
 33
-00:03:14:03 --> 00:03:15:21
+00:03:14,291 --> 00:03:16,041
 It has been its story
 
 34
-00:03:15:21 --> 00:03:19:15
+00:03:16,041 --> 00:03:19,791
 over time and this river originates in the Sierra Nevada,
 
 35
-00:03:19:15 --> 00:03:20:04
+00:03:19,791 --> 00:03:20,333
 where there are
 
 36
-00:03:20:04 --> 00:03:23:23
+00:03:20,333 --> 00:03:24,125
 the Kogis indigenous people and the Wiwas other indigenous peoples,
 
 37
-00:03:24:09 --> 00:03:27:09
+00:03:24,541 --> 00:03:27,541
 who also have many stories about the river.
 
 38
-00:03:27:17 --> 00:03:30:16
+00:03:27,875 --> 00:03:30,875
 So, in some way these rivers are a path and are memory,
 
 39
-00:03:30:19 --> 00:03:33:19
+00:03:31,000 --> 00:03:34,000
 memory of all the people who live along it.
 
 40
-00:03:35:22 --> 00:03:38:12
+00:03:36,125 --> 00:03:38,708
 Shocking and the river too
 
 41
-00:03:38:12 --> 00:03:41:12
+00:03:38,708 --> 00:03:41,708
 is used as a mode of transportation, I guess.
 
 42
-00:03:41:18 --> 00:03:44:18
+00:03:41,958 --> 00:03:44,958
 Well, he is navigable only in the lower part,
 
 43
-00:03:44:21 --> 00:03:47:21
+00:03:45,083 --> 00:03:48,083
 only in this lower area, but
 
 44
-00:03:48:05 --> 00:03:51:09
+00:03:48,416 --> 00:03:51,583
 Only canoes were used to get from one shore to the other.
 
 45
-00:03:51:21 --> 00:03:55:13
+00:03:52,083 --> 00:03:55,750
 In Wayúu Riohacha is called suchimalü, suchima
 
 46
-00:03:56:08 --> 00:03:59:11
+00:03:56,541 --> 00:03:59,666
 which was like a river that goes into the earth.
 
 47
-00:04:01:15 --> 00:04:02:04
+00:04:01,833 --> 00:04:02,375
 That's good.
 
 48
-00:04:25:21 --> 00:04:28:21
+00:04:26,125 --> 00:04:29,125
 And then, talking about this river
 
 49
-00:04:28:23 --> 00:04:32:09
+00:04:29,208 --> 00:04:32,625
 and the stories he has as a being
 
 50
-00:04:32:11 --> 00:04:35:15
+00:04:32,708 --> 00:04:35,875
 Living , can you tell me a little more about that?
 
 51
-00:04:36:02 --> 00:04:38:17
+00:04:36,333 --> 00:04:38,958
 What is the river like?
 
 52
-00:04:38:17 --> 00:04:40:19
+00:04:38,958 --> 00:04:41,041
 in relation to the people there,
 
 53
-00:04:40:19 --> 00:04:42:04
+00:04:41,041 --> 00:04:42,416
 of the Wayuú?
 
 54
-00:04:42:04 --> 00:04:45:14
+00:04:42,416 --> 00:04:45,833
 The river generates games, games for children,
 
 55
-00:04:46:06 --> 00:04:49:04
+00:04:46,500 --> 00:04:49,416
 the Alligator game.
 
 56
-00:04:49:04 --> 00:04:50:20
+00:04:49,416 --> 00:04:51,083
 There is a game called Trapiche, which
 
 57
-00:04:50:20 --> 00:04:54:00
+00:04:51,083 --> 00:04:54,291
 It's like spinning around a river tree,
 
 58
-00:04:54:12 --> 00:04:57:11
+00:04:54,791 --> 00:04:57,750
 water games in which they
 
 59
-00:04:58:11 --> 00:05:01:11
+00:04:58,750 --> 00:05:01,750
 they raise the water with their foot, among the children
 
 60
-00:05:01:13 --> 00:05:03:12
+00:05:01,833 --> 00:05:03,791
 They have a game called sombreros (hats),
 
 61
-00:05:03:12 --> 00:05:06:03
+00:05:03,791 --> 00:05:06,416
 which is like touching and hiding in the water.
 
 62
-00:05:06:03 --> 00:05:07:19
+00:05:06,416 --> 00:05:08,083
 They have many games
 
 63
-00:05:07:19 --> 00:05:10:06
+00:05:08,083 --> 00:05:10,541
 and they are spaces where shaman women
 
 64
-00:05:10:06 --> 00:05:13:09
+00:05:10,541 --> 00:05:13,666
 collect plants for healing,
 
 65
-00:05:14:03 --> 00:05:16:21
+00:05:14,416 --> 00:05:17,166
 where women go to wash clothes from the river,
 
 66
-00:05:16:21 --> 00:05:19:21
+00:05:17,166 --> 00:05:20,166
 where young Wayuú couples fall in love,
 
 67
-00:05:19:23 --> 00:05:22:01
+00:05:20,250 --> 00:05:22,333
 also on the river bank.
 
 68
-00:05:22:01 --> 00:05:25:01
+00:05:22,333 --> 00:05:25,333
 Generates a catch at certain times of the year
 
 69
-00:05:25:07 --> 00:05:29:13
+00:05:25,583 --> 00:05:29,833
 and generates a great relationship with the river's own forest.
 
 70
-00:05:30:19 --> 00:05:32:04
+00:05:31,083 --> 00:05:32,458
 He changes,
 
 71
-00:05:32:04 --> 00:05:35:04
+00:05:32,458 --> 00:05:35,500
 from stones and almost transparent up there,
 
 72
-00:05:35:12 --> 00:05:39:01
+00:05:35,833 --> 00:05:39,375
 until it gradually descends to the Caribbean.
 
 73
-00:05:39:15 --> 00:05:42:15
+00:05:39,958 --> 00:05:42,958
 It is about 250 kilometers long,
 
 74
-00:05:43:12 --> 00:05:45:08
+00:05:43,833 --> 00:05:45,666
 but it is a river that gives meaning
 
 75
-00:05:45:08 --> 00:05:48:23
+00:05:45,666 --> 00:05:49,291
 to the territory in La Guajira, orders the territory.
 
 76
-00:05:48:23 --> 00:05:50:13
+00:05:49,291 --> 00:05:50,875
 That is why it is so important.
 
 77
-00:05:50:13 --> 00:05:52:23
+00:05:50,875 --> 00:05:53,291
 And when it reaches Riohacha it forms a delta,
 
 78
-00:05:52:23 --> 00:05:56:02
+00:05:53,291 --> 00:05:56,416
 This is one of the arms, but there are three more
 
 79
-00:05:56:07 --> 00:05:59:12
+00:05:56,625 --> 00:05:59,833
 in that direction, where there is a lot of life.
 
 80
-00:05:59:12 --> 00:06:01:19
+00:05:59,833 --> 00:06:02,125
 crabs, oysters,
 
 81
-00:06:01:19 --> 00:06:04:19
+00:06:02,125 --> 00:06:05,125
 there were alligators before and anyway,
 
 82
-00:06:05:07 --> 00:06:08:00
+00:06:05,625 --> 00:06:08,333
 structures the territory.
 
 83
-00:06:08:00 --> 00:06:08:19
+00:06:08,333 --> 00:06:09,125
 Very important
 
 84
-00:06:08:19 --> 00:06:12:01
+00:06:09,125 --> 00:06:12,375
 then for entertainment, for experience.
 
 85
-00:06:12:13 --> 00:06:15:10
+00:06:12,875 --> 00:06:15,791
 for humans and…
 Of course
 
 86
-00:06:15:10 --> 00:06:19:11
+00:06:15,791 --> 00:06:19,833
 And the road, he was called a river road because following
 
 87
-00:06:19:11 --> 00:06:22:11
+00:06:19,833 --> 00:06:22,833
 the course of it, you reach the throat
 
 88
-00:06:22:11 --> 00:06:23:15
+00:06:22,833 --> 00:06:24,000
 between the Sierra Nevada
 
 89
-00:06:23:15 --> 00:06:25:03
+00:06:24,000 --> 00:06:25,500
 and the Serranía del Perijá,
 
 90
-00:06:25:03 --> 00:06:27:11
+00:06:25,500 --> 00:06:27,833
 as inside what is now Colombia.
 
 91
-00:06:27:11 --> 00:06:30:13
+00:06:27,833 --> 00:06:30,916
 This is the way, follow the river.
 
 92
-00:06:31:15 --> 00:06:32:19
+00:06:32,000 --> 00:06:33,166
 Union.
 
 93
-00:06:32:19 --> 00:06:35:19
+00:06:33,166 --> 00:06:36,166
 And you as a child,
 
 94
-00:06:37:15 --> 00:06:39:00
+00:06:38,000 --> 00:06:39,375
 did you grow up here in Riohacha?
 
 95
-00:06:39:00 --> 00:06:42:10
+00:06:39,375 --> 00:06:42,791
 Yes, between Riohacha and Carrizal is my original land,
 
 96
-00:06:43:07 --> 00:06:44:09
+00:06:43,666 --> 00:06:44,750
 but I studied here
 
 97
-00:06:44:09 --> 00:06:46:12
+00:06:44,750 --> 00:06:46,875
 and therefore the river was very important.
 
 98
-00:06:46:12 --> 00:06:49:19
+00:06:46,875 --> 00:06:50,166
 I saw the last alligator in the river killed when I
 
 99
-00:06:49:19 --> 00:06:53:08
+00:06:50,166 --> 00:06:53,708
 I was like, seven years old, everyone ran away.
 
 100
-00:06:53:08 --> 00:06:56:18
+00:06:53,708 --> 00:06:57,166
 And here, in this place, here where we are, 20 meters away,
 
 101
-00:06:57:04 --> 00:06:59:08
+00:06:57,583 --> 00:06:59,750
 They hung that alligator.
 
 They hung it?
 
 102
-00:06:59:08 --> 00:07:04:03
+00:06:59,750 --> 00:07:04,541
 Yes, that's how they showed it, it had a salmon-colored stomach.
 
 103
-00:07:04:13 --> 00:07:07:20
+00:07:04,958 --> 00:07:08,250
 and it was big, perhaps it was the last alligator that was in the river.
 
 104
-00:07:08:06 --> 00:07:10:03
+00:07:08,666 --> 00:07:10,541
 Why did they kill him?
 
 105
-00:07:10:03 --> 00:07:13:03
+00:07:10,541 --> 00:07:13,541
 We don't know, because it's full of alligators.
 
 106
-00:07:14:01 --> 00:07:15:23
+00:07:14,458 --> 00:07:16,375
 And do you remember the last alligator?
 
 107
-00:07:15:23 --> 00:07:17:05
+00:07:16,375 --> 00:07:17,625
 The very last.
 
 108
-00:07:17:05 --> 00:07:19:05
+00:07:17,625 --> 00:07:19,625
 Wow, that’s a story!
 
 109
-00:07:19:05 --> 00:07:21:16
+00:07:19,625 --> 00:07:22,083
 Yeah
 
 110
-00:07:41:00 --> 00:07:42:10
+00:07:41,458 --> 00:07:42,875
 and the river
 
 111
-00:07:42:10 --> 00:07:45:19
+00:07:42,875 --> 00:07:46,250
 as a living being, how does he express himself?
 
 112
-00:07:46:03 --> 00:07:47:22
+00:07:46,583 --> 00:07:48,375
 On the riverbed,
 
 113
-00:07:49:04 --> 00:07:51:05
+00:07:49,625 --> 00:07:51,666
 in every rainy season
 
 114
-00:07:51:05 --> 00:07:53:17
+00:07:51,666 --> 00:07:54,166
 he can change his path,
 
 115
-00:07:53:17 --> 00:07:56:07
+00:07:54,166 --> 00:07:56,750
 but at the same time he has a hierarchy.
 
 116
-00:07:56:07 --> 00:07:59:04
+00:07:56,750 --> 00:07:59,625
 There are the small streams that feed it,
 
 117
-00:07:59:04 --> 00:08:01:22
+00:07:59,625 --> 00:08:02,375
 the streams are
 
 118
-00:08:01:22 --> 00:08:05:17
+00:08:02,375 --> 00:08:06,166
 They are like other arms of the river and the river has a bottom
 
 119
-00:08:06:08 --> 00:08:09:05
+00:08:06,791 --> 00:08:09,666
 and the Wayúu know and organize it by bottoms,
 
 120
-00:08:09:05 --> 00:08:10:13
+00:08:09,666 --> 00:08:11,000
 where the bottom is sand,
 
 121
-00:08:10:13 --> 00:08:12:07
+00:08:11,000 --> 00:08:12,750
 where the bottom is stone,
 
 122
-00:08:12:07 --> 00:08:15:00
+00:08:12,750 --> 00:08:15,458
 where the bottom is tree roots, where
 
 123
-00:08:15:00 --> 00:08:18:00
+00:08:15,458 --> 00:08:18,458
 The bottom is ravines and where the bottom is mud.
 
 124
-00:08:18:07 --> 00:08:21:07
+00:08:18,750 --> 00:08:21,791
 This is how the Wayúu categorize the course of the river,
 
 125
-00:08:21:07 --> 00:08:24:07
+00:08:21,791 --> 00:08:24,791
 because of the type of bottom it has below,
 
 126
-00:08:24:14 --> 00:08:27:04
+00:08:25,083 --> 00:08:27,666
 if it is sand, mud, stone, root.
 
 127
-00:08:27:04 --> 00:08:28:22
+00:08:27,666 --> 00:08:29,416
 And does it have different characteristics?
 
 128
-00:08:28:22 --> 00:08:31:13
+00:08:29,416 --> 00:08:32,041
 Different in each place.
 
 129
-00:08:31:13 --> 00:08:34:07
+00:08:32,041 --> 00:08:34,791
 And does it also have any kind of souls, like you’re saying,
 
 130
-00:08:34:07 --> 00:08:35:08
+00:08:34,791 --> 00:08:35,833
 at different times?
 
 131
-00:08:35:08 --> 00:08:40:21
+00:08:35,833 --> 00:08:41,375
 Yes, many myths talk about him, they talk about snakes
 
 132
-00:08:41:16 --> 00:08:44:17
+00:08:42,166 --> 00:08:45,208
 that follow him, of a bull that lives within him.
 
 133
-00:08:45:08 --> 00:08:48:15
+00:08:45,833 --> 00:08:49,125
 They call that snake doroy in some places, in others
 
 134
-00:08:48:15 --> 00:08:51:02
+00:08:49,125 --> 00:08:51,583
 they call him jerakanawa,
 
 135
-00:08:51:02 --> 00:08:54:19
+00:08:51,583 --> 00:08:55,291
 and the songs and stories are given across the river.
 
 136
-00:08:55:07 --> 00:08:56:02
+00:08:55,791 --> 00:08:56,583
 many songs,
 
 137
-00:08:56:02 --> 00:08:57:17
+00:08:56,583 --> 00:08:58,208
 many stories that have to do
 
 138
-00:08:57:17 --> 00:08:59:05
+00:08:58,208 --> 00:08:59,708
 with the river as a space.
 
 139
-00:09:00:19 --> 00:09:02:18
+00:09:01,291 --> 00:09:03,291
 And that tells me a little about
 
 140
-00:09:02:18 --> 00:09:07:11
+00:09:03,291 --> 00:09:08,000
 What is the significance of music and dance among the Wayuú?
 
 141
-00:09:08:07 --> 00:09:11:09
+00:09:08,833 --> 00:09:11,916
 Music is something that was given to us.
 
 142
-00:09:11:19 --> 00:09:15:03
+00:09:12,333 --> 00:09:15,666
 Music is something that more than a human invention,
 
 143
-00:09:15:03 --> 00:09:18:03
+00:09:15,666 --> 00:09:18,666
 It is a legacy of non-humans.
 
 144
-00:09:18:12 --> 00:09:22:14
+00:09:19,041 --> 00:09:23,125
 From the turtle, then the drum, the curlew played it.
 
 145
-00:09:23:02 --> 00:09:27:08
+00:09:23,625 --> 00:09:27,875
 The trees that were musicians give us flutes,
 
 146
-00:09:27:17 --> 00:09:29:13
+00:09:28,250 --> 00:09:30,083
 the wood from which they are built
 
 147
-00:09:29:13 --> 00:09:31:15
+00:09:30,083 --> 00:09:32,166
 the musical instruments.
 
 148
-00:09:31:15 --> 00:09:33:19
+00:09:32,166 --> 00:09:34,333
 Music
 
 149
-00:09:33:19 --> 00:09:35:19
+00:09:34,333 --> 00:09:36,333
 occurs in sociability,
 
 150
-00:09:35:19 --> 00:09:40:01
+00:09:36,333 --> 00:09:40,583
 When dancing, dances, but it can also be given for grazing.
 
 151
-00:09:40:15 --> 00:09:43:14
+00:09:41,166 --> 00:09:44,166
 The drum speaks to the Wayúu, it lifts their spirits
 
 152
-00:09:43:14 --> 00:09:46:01
+00:09:44,166 --> 00:09:46,625
 and they listen to it for a horse race,
 
 153
-00:09:46:01 --> 00:09:49:01
+00:09:46,625 --> 00:09:49,625
 mark the cattle, for a party,
 
 154
-00:09:49:01 --> 00:09:52:01
+00:09:49,625 --> 00:09:52,625
 for a dance for a girl's release from confinement.
 
 155
-00:09:52:14 --> 00:09:55:18
+00:09:53,166 --> 00:09:56,333
 There are many forms of the drum, but the drum speaks
 
 156
-00:09:56:10 --> 00:09:58:22
+00:09:57,000 --> 00:09:59,500
 and every drum performer
 
 157
-00:09:58:22 --> 00:10:02:07
+00:09:59,500 --> 00:10:02,875
 has a characteristic sound that makes it identifiable
 
 158
-00:10:02:07 --> 00:10:04:07
+00:10:02,875 --> 00:10:04,875
 differently from others.
 
 159
-00:10:04:07 --> 00:10:07:01
+00:10:04,875 --> 00:10:07,625
 It serves to make a woman fall in love,
 
 160
-00:10:07:01 --> 00:10:09:22
+00:10:07,625 --> 00:10:10,500
 the drum, which was previously the turtle
 
 161
-00:10:09:22 --> 00:10:12:22
+00:10:10,500 --> 00:10:13,500
 terrestrial, was the first executor of that.
 
 162
-00:10:13:09 --> 00:10:16:09
+00:10:13,958 --> 00:10:16,958
 The birds left us rhetoric
 
 163
-00:10:16:12 --> 00:10:18:22
+00:10:17,083 --> 00:10:19,500
 and harmony in speech,
 
 164
-00:10:18:22 --> 00:10:21:03
+00:10:19,500 --> 00:10:21,708
 that sounds like music too,
 
 165
-00:10:21:03 --> 00:10:22:20
+00:10:21,708 --> 00:10:23,416
 That is the legacy of birds.
 
 166
-00:10:22:20 --> 00:10:26:11
+00:10:23,416 --> 00:10:27,083
 The palabreros are descendants of birds, the good ones
 
 167
-00:10:26:11 --> 00:10:29:13
+00:10:27,083 --> 00:10:30,166
 palavers because persuasive speech
 
 168
-00:10:29:23 --> 00:10:33:08
+00:10:30,583 --> 00:10:33,958
 It must be a seductive song to change behavior
 
 169
-00:10:33:08 --> 00:10:34:20
+00:10:33,958 --> 00:10:35,458
 of human beings,
 
 170
-00:10:34:20 --> 00:10:36:03
+00:10:35,458 --> 00:10:36,750
 that's the role.
 
 171
-00:10:36:03 --> 00:10:39:03
+00:10:36,750 --> 00:10:39,750
 So, music and words are very linked,
 
 172
-00:10:39:05 --> 00:10:41:15
+00:10:39,833 --> 00:10:42,250
 but there is also harvest festival music,
 
 173
-00:10:41:15 --> 00:10:42:19
+00:10:42,250 --> 00:10:43,416
 games,
 
 174
-00:10:42:19 --> 00:10:44:10
+00:10:43,416 --> 00:10:45,041
 like the kaulayawa,
 
 175
-00:10:44:10 --> 00:10:47:10
+00:10:45,041 --> 00:10:48,041
 which are dances and harvest games,
 
 176
-00:10:48:06 --> 00:10:53:05
+00:10:48,875 --> 00:10:53,833
 so the Sawawa, the Maashi, the Uotoroyoi.
 
 177
-00:10:53:05 --> 00:10:56:05
+00:10:53,833 --> 00:10:56,833
 the Taliraai which is a vocal bow,
 
 178
-00:10:56:18 --> 00:11:01:22
+00:10:57,375 --> 00:11:02,541
 the Kasha or drum, the maraca that the Wayúu woman plays,
 
 179
-00:11:01:22 --> 00:11:04:22
+00:11:02,541 --> 00:11:05,541
 the shaman, allows her to ascend
 
 180
-00:11:05:04 --> 00:11:06:22
+00:11:05,791 --> 00:11:07,583
 towards the spirits
 
 181
-00:11:06:22 --> 00:11:09:16
+00:11:07,583 --> 00:11:10,333
 where they are located and find the assistance.
 
 182
-00:11:09:16 --> 00:11:12:16
+00:11:10,333 --> 00:11:13,333
 Then the music helps the shaman to heal and raise
 
 183
-00:11:12:23 --> 00:11:15:16
+00:11:13,625 --> 00:11:16,333
 to seek auxiliary spirits for connection.
 
 184
-00:11:17:16 --> 00:11:18:00
+00:11:18,333 --> 00:11:18,666
 That's it
 
 185
-00:11:18:00 --> 00:11:21:02
+00:11:18,666 --> 00:11:21,750
 a very important role.
 Definitely.
 
 186
-00:11:21:07 --> 00:11:25:07
+00:11:21,958 --> 00:11:25,958
 And something we haven't talked about yet is dance.
 
 187
-00:11:25:20 --> 00:11:28:09
+00:11:26,500 --> 00:11:29,041
 and dancing, what does it have to do with it?
 
 188
-00:11:28:09 --> 00:11:31:06
+00:11:29,041 --> 00:11:31,916
 dancing with the Wayúu people?
 
 189
-00:11:31:06 --> 00:11:33:14
+00:11:31,916 --> 00:11:34,250
 The Wayúu have
 
 190
-00:11:33:14 --> 00:11:36:16
+00:11:34,250 --> 00:11:37,333
 at least two dances that are very important.
 
 191
-00:11:36:23 --> 00:11:39:17
+00:11:37,625 --> 00:11:40,375
 The Kaa'ulayawaa that is on the verge of extinction,
 
 192
-00:11:39:17 --> 00:11:43:10
+00:11:40,375 --> 00:11:44,083
 that lasted days and days during the youth’s harvests,
 
 193
-00:11:43:19 --> 00:11:46:17
+00:11:44,458 --> 00:11:47,375
 which is more numerous and has games.
 
 194
-00:11:46:17 --> 00:11:49:19
+00:11:47,375 --> 00:11:50,500
 And the Yonna, is a ritual dance that is played
 
 195
-00:11:49:19 --> 00:11:52:19
+00:11:50,500 --> 00:11:53,500
 with the drum when a dream occurs,
 
 196
-00:11:52:22 --> 00:11:56:02
+00:11:53,625 --> 00:11:56,791
 Or to celebrate the end of confinement for a girl
 
 197
-00:11:56:02 --> 00:11:59:15
+00:11:56,791 --> 00:12:00,333
 who is already a woman, with a prescription from a female shaman or
 
 198
-00:11:59:15 --> 00:12:04:11
+00:12:00,333 --> 00:12:05,166
 a shaman man. It is a ritual dance that mimes
 
 199
-00:12:05:01 --> 00:12:07:11
+00:12:05,750 --> 00:12:08,166
 of insects,
 
 200
-00:12:07:11 --> 00:12:10:11
+00:12:08,166 --> 00:12:11,166
 a mimesis of birds, for example,
 
 201
-00:12:10:20 --> 00:12:13:20
+00:12:11,541 --> 00:12:14,541
 and that the Wayúu man and women
 
 202
-00:12:13:21 --> 00:12:15:16
+00:12:14,583 --> 00:12:16,375
 perform during festive times.
 
 203
-00:12:16:21 --> 00:12:19:14
+00:12:17,583 --> 00:12:20,291
 Her name is Yonna.
 
 204
-00:12:19:14 --> 00:12:22:01
+00:12:20,291 --> 00:12:22,750
 Is that what we saw on Friday?
 
 205
-00:12:22:01 --> 00:12:24:18
+00:12:22,750 --> 00:12:25,458
 On Friday they saw more of a Kaa'ulayawaa.
 
 206
-00:12:32:12 --> 00:12:37:07
+00:12:33,250 --> 00:12:38,041
 I like how you started talking about the river.
 
 207
-00:12:37:07 --> 00:12:40:07
+00:12:38,041 --> 00:12:41,041
 But I had also asked you about how
 
 208
-00:12:40:17 --> 00:12:41:21
+00:12:41,458 --> 00:12:42,625
 maybe it's the river.
 
 209
-00:12:41:21 --> 00:12:45:21
+00:12:42,625 --> 00:12:46,625
 Is there a non-human person that you have
 
 210
-00:12:45:21 --> 00:12:49:19
+00:12:46,625 --> 00:12:50,541
 a strong connection with, or a place?
 
 211
-00:12:50:05 --> 00:12:53:05
+00:12:50,958 --> 00:12:53,958
 A place, yes.
 
 212
-00:12:53:12 --> 00:12:56:12
+00:12:54,250 --> 00:12:57,250
 There is a place called Pajara Turtles
 
 213
-00:12:57:04 --> 00:12:59:15
+00:12:57,916 --> 00:13:00,375
 in Carrizal,
 
 214
-00:12:59:15 --> 00:13:03:01
+00:13:00,375 --> 00:13:03,791
 where in the desert there are some rocks.
 
 215
-00:13:03:13 --> 00:13:05:15
+00:13:04,291 --> 00:13:06,375
 Those rocks were the cattle,
 
 216
-00:13:05:15 --> 00:13:07:09
+00:13:06,375 --> 00:13:08,125
 They are turtles that came out of the sea
 
 217
-00:13:07:09 --> 00:13:09:18
+00:13:08,125 --> 00:13:10,500
 and they became cattle.
 
 218
-00:13:09:18 --> 00:13:12:03
+00:13:10,500 --> 00:13:12,916
 The Wayuú took cattle from the sea.
 
 219
-00:13:12:03 --> 00:13:14:21
+00:13:12,916 --> 00:13:15,666
 They were turtles that transformed into cows,
 
 220
-00:13:14:21 --> 00:13:17:11
+00:13:15,666 --> 00:13:18,250
 certain fish in goats and sheep,
 
 221
-00:13:17:11 --> 00:13:19:02
+00:13:18,250 --> 00:13:19,875
 and that is why the Wayúu have cattle.
 
 222
-00:13:19:02 --> 00:13:21:17
+00:13:19,875 --> 00:13:22,500
 The origin of cattle for the Wayúu is there.
 
 223
-00:13:22:18 --> 00:13:23:21
+00:13:23,541 --> 00:13:24,666
 One day
 
 224
-00:13:23:21 --> 00:13:26:21
+00:13:24,666 --> 00:13:27,666
 that the Wayúu took over the cattle,
 
 225
-00:13:26:22 --> 00:13:29:22
+00:13:27,708 --> 00:13:30,708
 some turtles did not make it to the Sea
 
 226
-00:13:30:09 --> 00:13:33:01
+00:13:31,166 --> 00:13:33,833
 and the sun rose and turned them into rocks.
 
 227
-00:13:33:01 --> 00:13:34:06
+00:13:33,833 --> 00:13:35,041
 and in the distance
 
 228
-00:13:34:06 --> 00:13:37:06
+00:13:35,041 --> 00:13:38,041
 It looks like cattle trying to return to the sea,
 
 229
-00:13:37:07 --> 00:13:38:05
+00:13:38,083 --> 00:13:39,000
 it's a mirage
 
 230
-00:13:38:05 --> 00:13:41:12
+00:13:39,000 --> 00:13:42,291
 In the desert, it looks like water and the rocks look like cattle.
 
 231
-00:13:41:23 --> 00:13:44:16
+00:13:42,750 --> 00:13:45,458
 That place is called the Pajara turtles,
 
 232
-00:13:44:16 --> 00:13:47:11
+00:13:45,458 --> 00:13:48,250
 but there are many other places, the Aalasü stone,
 
 233
-00:13:47:11 --> 00:13:48:12
+00:13:48,250 --> 00:13:49,291
 where are the emblems
 
 234
-00:13:48:12 --> 00:13:52:01
+00:13:49,291 --> 00:13:52,833
 of all the members of each clan in La Guajira,
 
 235
-00:13:52:16 --> 00:13:55:16
+00:13:53,500 --> 00:13:56,500
 It is a key place in Wayúu mythology.
 
 236
-00:13:56:13 --> 00:13:59:07
+00:13:57,375 --> 00:14:00,125
 This wososopu, there is Wolunka
 
 237
-00:13:59:07 --> 00:14:03:11
+00:14:00,125 --> 00:14:04,291
 the chair where she sang, the woman with the vagina dentata.
 
 238
-00:14:04:00 --> 00:14:06:08
+00:14:04,833 --> 00:14:07,166
 The Wayúu world is full of mythological places,
 
 239
-00:14:06:08 --> 00:14:09:10
+00:14:07,166 --> 00:14:10,250
 all with a very strong and imposing presence that
 
 240
-00:14:09:10 --> 00:14:12:10
+00:14:10,250 --> 00:14:13,250
 When you arrive you feel in a solemn place,
 
 241
-00:14:12:18 --> 00:14:15:18
+00:14:13,583 --> 00:14:16,583
 in a place that condenses time and memory.
 
 242
-00:14:16:09 --> 00:14:17:19
+00:14:17,208 --> 00:14:18,625
 Those are places
 
 243
-00:14:18:18 --> 00:14:19:08
+00:14:19,583 --> 00:14:20,166
 who have a
 
 244
-00:14:19:08 --> 00:14:22:08
+00:14:20,166 --> 00:14:23,166
 narrative structure and that tell us about the
 
 245
-00:14:22:10 --> 00:14:23:20
+00:14:23,250 --> 00:14:24,666
 history.
 
 246
-00:14:23:20 --> 00:14:27:14
+00:14:24,666 --> 00:14:28,416
 It always feels calm, this is so nice
 
 247
-00:14:27:14 --> 00:14:28:19
+00:14:28,416 --> 00:14:29,625
 here
 
 248
-00:14:28:19 --> 00:14:30:00
+00:14:29,625 --> 00:14:30,833
 the river.
 
 249
-00:14:31:00 --> 00:14:32:22
+00:14:31,833 --> 00:14:33,750
 Sadly it’s a bit dirty
 
 250
-00:14:32:22 --> 00:14:35:15
+00:14:33,750 --> 00:14:36,500
 it could be cleaner.
 
 251
-00:14:35:15 --> 00:14:38:15
+00:14:36,500 --> 00:14:39,500
 Yes, to respect the river more,
 
 252
-00:14:39:03 --> 00:14:41:23
+00:14:40,000 --> 00:14:42,833
 but the city is like that.
 
 253
-00:14:41:23 --> 00:14:44:13
+00:14:42,833 --> 00:14:45,416
 How do you see that?
 
 254
-00:14:44:13 --> 00:14:48:02
+00:14:45,416 --> 00:14:48,958
 That clash between modernity
 
 255
-00:14:48:07 --> 00:14:51:11
+00:14:49,166 --> 00:14:52,333
 and the Wayúu people,
 
 256
-00:14:52:19 --> 00:14:55:01
+00:14:53,666 --> 00:14:55,916
 That betrayal, how do you see it
 
 257
-00:14:55:01 --> 00:14:57:03
+00:14:55,916 --> 00:14:58,000
 Interviewer] in the future? How are we doing?
 
 258
-00:14:57:03 --> 00:14:58:22
+00:14:58,000 --> 00:14:59,791
 I think that the Wayúu have known
 
 259
-00:14:58:22 --> 00:15:02:08
+00:14:59,791 --> 00:15:03,208
 respond to many changes since the 15th century,
 
 260
-00:15:02:20 --> 00:15:05:19
+00:15:03,708 --> 00:15:06,666
 when they encountered Europeans.
 
 261
-00:15:05:23 --> 00:15:08:14
+00:15:06,833 --> 00:15:09,458
 In the XVI, XVII,
 
 262
-00:15:08:14 --> 00:15:11:06
+00:15:09,458 --> 00:15:12,125
 They acquired the cattle, the firearms,
 
 263
-00:15:11:06 --> 00:15:13:07
+00:15:12,125 --> 00:15:14,166
 The horse,
 
 264
-00:15:13:07 --> 00:15:15:23
+00:15:14,166 --> 00:15:16,875
 came into conflictive or harmonious contact,
 
 265
-00:15:15:23 --> 00:15:18:22
+00:15:16,875 --> 00:15:19,833
 sometimes with Europeans, with Africans,
 
 266
-00:15:18:23 --> 00:15:21:13
+00:15:19,875 --> 00:15:22,458
 and they have given an answer over time
 
 267
-00:15:21:13 --> 00:15:22:06
+00:15:22,458 --> 00:15:23,166
 to survive.
 
 268
-00:15:23:08 --> 00:15:25:00
+00:15:24,250 --> 00:15:25,916
 Every era,
 
 269
-00:15:25:00 --> 00:15:28:00
+00:15:25,916 --> 00:15:28,916
 Every century, every decade, brings challenges to the Wayuú.
 
 270
-00:15:28:16 --> 00:15:31:13
+00:15:29,583 --> 00:15:32,458
 Now they have others that are typical of this era.
 
 271
-00:15:31:13 --> 00:15:34:02
+00:15:32,458 --> 00:15:35,000
 So far they have been able to respond to that,
 
 272
-00:15:34:02 --> 00:15:38:01
+00:15:35,000 --> 00:15:38,958
 sometimes paying a very high cost in human lives,
 
 273
-00:15:38:11 --> 00:15:41:02
+00:15:39,375 --> 00:15:42,000
 in poverty, in loss of autonomy.
 
 274
-00:15:41:02 --> 00:15:44:11
+00:15:42,000 --> 00:15:45,375
 I trust that the Wayúu will remain over time.
 
 275
-00:15:45:02 --> 00:15:47:11
+00:15:46,000 --> 00:15:48,375
 There is a more complex universe
 
 276
-00:15:47:11 --> 00:15:50:10
+00:15:48,375 --> 00:15:51,333
 than that of their elders.
 
 277
-00:16:09:03 --> 00:16:12:02
+00:16:10,083 --> 00:16:13,041
 Yes, well,
 
 278
-00:16:14:05 --> 00:16:15:12
+00:16:15,166 --> 00:16:16,458
 tell me again.
 
 279
-00:16:15:12 --> 00:16:18:12
+00:16:16,458 --> 00:16:19,458
 What river is this?
 
 280
-00:16:18:12 --> 00:16:21:09
+00:16:19,458 --> 00:16:22,333
 Ranchería River.This river is called Ranchería River,
 
 281
-00:16:21:09 --> 00:16:24:09
+00:16:22,333 --> 00:16:25,333
 It is the most important river in La Güajira.
 
 282
-00:16:25:13 --> 00:16:26:05
+00:16:26,500 --> 00:16:27,166
 and that's why
 
 283
-00:16:26:05 --> 00:16:29:02
+00:16:27,166 --> 00:16:30,041
 is it called Riohacha?
 
 284
-00:16:29:02 --> 00:16:32:11
+00:16:30,041 --> 00:16:33,416
 Yes, Riohacha is due to this river.
 
 285
-00:16:33:02 --> 00:16:33:10
+00:16:34,041 --> 00:16:34,375
 Ok.
 
 286
-00:16:35:04 --> 00:16:35:10
+00:16:36,125 --> 00:16:36,375
 Well,
 
 287
-00:16:35:10 --> 00:16:38:10
+00:16:36,375 --> 00:16:39,375
 Can you tell me a little about,
 
 288
-00:16:39:01 --> 00:16:43:04
+00:16:40,041 --> 00:16:44,166
 an intimate relationship of
 
 289
-00:16:43:16 --> 00:16:49:00
+00:16:44,666 --> 00:16:50,000
 yours with that place or with that river or the sea or the wind
 
 290
-00:16:49:00 --> 00:16:51:07
+00:16:50,000 --> 00:16:52,291
 here?
 Yeah.
 
 291
-00:16:51:07 --> 00:16:53:05
+00:16:52,291 --> 00:16:54,208
 Well, our childhood passed here.
 
 292
-00:16:53:05 --> 00:16:54:13
+00:16:54,208 --> 00:16:55,541
 There in
 
 293
-00:16:54:13 --> 00:16:57:13
+00:16:55,541 --> 00:16:58,541
 That’s the school and the river and the sea,
 
 294
-00:16:58:18 --> 00:17:00:23
+00:16:59,750 --> 00:17:01,958
 that at that time when I was a child,
 
 295
-00:17:00:23 --> 00:17:03:12
+00:17:01,958 --> 00:17:04,500
 There only was had indigenous canoes.
 
 296
-00:17:03:12 --> 00:17:05:22
+00:17:04,500 --> 00:17:06,916
 It's what you saw from the windows
 
 297
-00:17:05:22 --> 00:17:08:16
+00:17:06,916 --> 00:17:09,666
 wayúu fishermen crossing the sea
 
 298
-00:17:08:16 --> 00:17:11:06
+00:17:09,666 --> 00:17:12,250
 with small engines, engines
 
 299
-00:17:11:06 --> 00:17:14:06
+00:17:12,250 --> 00:17:15,250
 very simple, very simple or sailing.
 
 300
-00:17:14:19 --> 00:17:15:05
+00:17:15,791 --> 00:17:16,208
 And well,
 
 301
-00:17:15:05 --> 00:17:15:17
+00:17:16,208 --> 00:17:16,708
 this river
 
 302
-00:17:15:17 --> 00:17:18:17
+00:17:16,708 --> 00:17:19,708
 marks the life of the city just like the Caribbean.
 
 303
-00:17:20:03 --> 00:17:21:11
+00:17:21,125 --> 00:17:22,500
 The sea is very important
 
 304
-00:17:21:11 --> 00:17:24:11
+00:17:22,500 --> 00:17:25,500
 in the Wayúu world.
 
 305
-00:17:24:22 --> 00:17:27:22
+00:17:25,958 --> 00:17:28,958
 Apalanchi means one who lives by the sea.
 
 306
-00:17:28:13 --> 00:17:32:18
+00:17:29,583 --> 00:17:33,791
 But Apalaanchi that is also used,
 
 307
-00:17:32:18 --> 00:17:36:08
+00:17:33,791 --> 00:17:37,375
 It means the one who has his heart turned towards the sea,
 
 308
-00:17:36:21 --> 00:17:39:21
+00:17:37,916 --> 00:17:40,916
 like the Wayúu fishermen, whose world
 
 309
-00:17:39:21 --> 00:17:42:20
+00:17:40,916 --> 00:17:43,875
 is the sea and whose territory is the sea
 
 310
-00:17:43:02 --> 00:17:46:21
+00:17:44,125 --> 00:17:47,916
 and its relationship is with marine beings, turtles, groupers,
 
 311
-00:17:47:18 --> 00:17:50:18
+00:17:48,791 --> 00:17:51,791
 sharks, barracudas,
 
 312
-00:17:51:08 --> 00:17:54:17
+00:17:52,375 --> 00:17:55,750
 clams, oysters, shrimp.
 
 313
-00:17:55:08 --> 00:17:57:10
+00:17:56,375 --> 00:17:58,458
 All that series of beings,
 
 314
-00:17:57:10 --> 00:18:01:03
+00:17:58,458 --> 00:18:02,166
 each of whom have a different personality.
 
 315
-00:18:02:08 --> 00:18:03:03
+00:18:03,416 --> 00:18:04,208
 When the Wayuú
 
 316
-00:18:03:03 --> 00:18:07:06
+00:18:04,208 --> 00:18:08,333
 Find fish cardumen that are marching,
 
 317
-00:18:08:04 --> 00:18:10:23
+00:18:09,250 --> 00:18:12,041
 The Wayuú call it veloriantes (mourners),
 
 318
-00:18:10:23 --> 00:18:13:23
+00:18:12,041 --> 00:18:15,041
 because they march together,
 
 319
-00:18:13:23 --> 00:18:16:23
+00:18:15,041 --> 00:18:18,041
 Just as the human wayúu go to funerals
 
 320
-00:18:17:00 --> 00:18:20:04
+00:18:18,083 --> 00:18:21,250
 In multitude, they too march across the sea,
 
 321
-00:18:20:04 --> 00:18:22:01
+00:18:21,250 --> 00:18:23,125
 in that multitude as well.
 
 322
-00:18:22:01 --> 00:18:25:01
+00:18:23,125 --> 00:18:26,125
 And there are fixed fish that have houses,
 
 323
-00:18:25:16 --> 00:18:26:11
+00:18:26,750 --> 00:18:27,541
 Fish such as the
 
 324
-00:18:26:11 --> 00:18:27:21
+00:18:27,541 --> 00:18:28,958
 grouper who live in
 
 325
-00:18:27:21 --> 00:18:30:21
+00:18:28,958 --> 00:18:31,958
 reefs, near corals, in stony areas
 
 326
-00:18:31:13 --> 00:18:36:06
+00:18:32,625 --> 00:18:37,333
 and there are other fish that are walkers that do not have houses,
 
 327
-00:18:36:06 --> 00:18:39:20
+00:18:37,333 --> 00:18:40,916
 They are wanderers of the sea. One of those fish is the shark
 
 328
-00:18:40:11 --> 00:18:42:00
+00:18:41,541 --> 00:18:43,083
 that wanders through the sea.
 
 329
-00:18:42:00 --> 00:18:45:18
+00:18:43,083 --> 00:18:46,875
 But others, like horse mackerel, also roam the sea.
 
 330
-00:18:46:09 --> 00:18:49:19
+00:18:47,500 --> 00:18:50,916
 There are others like locusts, like certain
 
 331
-00:18:49:19 --> 00:18:53:03
+00:18:50,916 --> 00:18:54,250
 scorpion fish that live in areas
 
 332
-00:18:53:14 --> 00:18:56:14
+00:18:54,708 --> 00:18:57,708
 fixed, which are called beings with a house in the sea,
 
 333
-00:18:56:20 --> 00:18:58:14
+00:18:57,958 --> 00:18:59,708
 that they have a place to live.
 
 334
-00:18:58:14 --> 00:19:00:09
+00:18:59,708 --> 00:19:01,500
 That is.
 
 335
-00:19:00:09 --> 00:19:03:02
+00:19:01,500 --> 00:19:04,208
 Everything has a similar name.
 
 336
-00:19:03:02 --> 00:19:06:11
+00:19:04,208 --> 00:19:07,583
 They are metaphors, a social metaphor.
 
 337
-00:19:06:22 --> 00:19:09:09
+00:19:08,041 --> 00:19:10,500
 That's right, that's right. And
 
 338
-00:19:10:12 --> 00:19:11:20
+00:19:11,625 --> 00:19:12,958
 is there something between the water
 
 339
-00:19:11:20 --> 00:19:15:08
+00:19:12,958 --> 00:19:16,458
 fresh and salt water?
 The estuary.
 
 340
-00:19:15:15 --> 00:19:17:05
+00:19:16,750 --> 00:19:18,333
 The estuary that takes place
 
 341
-00:19:17:05 --> 00:19:20:23
+00:19:18,333 --> 00:19:22,083
 in a river mouth, in the estuary, in the Ranchería delta,
 
 342
-00:19:21:11 --> 00:19:23:12
+00:19:22,583 --> 00:19:24,625
 where there’s fresh water and salty water,
 
 343
-00:19:23:12 --> 00:19:27:03
+00:19:24,625 --> 00:19:28,291
 there are coastal lagoons and there are a series of beings.
 
 344
-00:19:28:08 --> 00:19:31:02
+00:19:29,500 --> 00:19:32,250
 They find shrimp in those lagoons,
 
 345
-00:19:31:02 --> 00:19:32:22
+00:19:32,250 --> 00:19:34,083
 certain fish like the lebranche,
 
 346
-00:19:32:22 --> 00:19:36:13
+00:19:34,083 --> 00:19:37,708
 The Liza, which are costume fish and the Wayúu know it
 
 347
-00:19:36:13 --> 00:19:39:13
+00:19:37,708 --> 00:19:40,708
 and they collect it and have lived for centuries
 
 348
-00:19:40:02 --> 00:19:42:23
+00:19:41,250 --> 00:19:44,125
 Out of those resources, of their knowledge of the periods
 
 349
-00:19:42:23 --> 00:19:46:10
+00:19:44,125 --> 00:19:47,583
 in which they arise, in which they are abundant and so
 
 350
-00:19:47:05 --> 00:19:47:20
+00:19:48,375 --> 00:19:49,000
 They’re part of
 
 351
-00:19:47:20 --> 00:19:50:20
+00:19:49,000 --> 00:19:52,000
 their economic calendar, of their social life.
 
 352
-00:19:51:15 --> 00:19:55:01
+00:19:52,791 --> 00:19:56,208
 And this wind is so strong, right?
 
 353
-00:19:55:01 --> 00:19:58:00
+00:19:56,208 --> 00:19:59,166
 This wind is northeast.
 
 354
-00:19:58:07 --> 00:19:59:17
+00:19:59,458 --> 00:20:00,875
 this wind
 
 355
-00:19:59:17 --> 00:20:04:00
+00:20:00,875 --> 00:20:05,166
 He is a loving father who softens the temperature of the water.
 
 356
-00:20:04:00 --> 00:20:06:01
+00:20:05,166 --> 00:20:07,208
 It's called Jepírachi,
 
 357
-00:20:06:01 --> 00:20:06:18
+00:20:07,208 --> 00:20:07,916
 It's a wind
 
 358
-00:20:06:18 --> 00:20:10:04
+00:20:07,916 --> 00:20:11,375
 northeast trade and always comes in that direction.
 
 359
-00:20:10:04 --> 00:20:13:04
+00:20:11,375 --> 00:20:14,375
 It is the predominant wind of the Wayuú
 
 360
-00:20:13:09 --> 00:20:14:01
+00:20:14,583 --> 00:20:15,250
 and it is a wind
 
 361
-00:20:14:01 --> 00:20:17:00
+00:20:15,250 --> 00:20:18,208
 which has a different character from other winds.
 
 362
-00:20:17:03 --> 00:20:19:03
+00:20:18,333 --> 00:20:20,333
 The Wayuú distinguish the wind from the north,
 
 363
-00:20:20:03 --> 00:20:22:01
+00:20:21,333 --> 00:20:23,250
 to this northeast wind,
 
 364
-00:20:22:01 --> 00:20:23:12
+00:20:23,250 --> 00:20:24,708
 to a false wind
 
 365
-00:20:23:12 --> 00:20:25:03
+00:20:24,708 --> 00:20:26,333
 what passes for this wind
 
 366
-00:20:25:03 --> 00:20:27:02
+00:20:26,333 --> 00:20:28,291
 to deceive the fishermen.
 
 367
-00:20:27:02 --> 00:20:31:10
+00:20:28,291 --> 00:20:32,625
 Jo'utai a wind that comes from the east and brings hunger,
 
 368
-00:20:31:10 --> 00:20:35:05
+00:20:32,625 --> 00:20:36,416
 Drought, is an evil wind. Aruleeshi is another wind,
 
 369
-00:20:35:19 --> 00:20:39:02
+00:20:37,000 --> 00:20:40,291
 There is the road’s wind from and there are other winds.
 
 370
-00:20:39:02 --> 00:20:40:15
+00:20:40,291 --> 00:20:41,833
 Every wind has a character,
 
 371
-00:20:40:15 --> 00:20:43:23
+00:20:41,833 --> 00:20:45,166
 a temperament and a relationship with the Wayuú, and the winds
 
 372
-00:20:43:23 --> 00:20:47:01
+00:20:45,166 --> 00:20:48,250
 They have antagonisms between them, they can fight,
 
 373
-00:20:47:14 --> 00:20:49:19
+00:20:48,791 --> 00:20:51,041
 They can have friendly relations,
 
 374
-00:20:49:19 --> 00:20:52:06
+00:20:51,041 --> 00:20:53,500
 They are people who have paths
 
 375
-00:20:52:06 --> 00:20:54:19
+00:20:53,500 --> 00:20:56,041
 and that's what companies don't understand.
 
 376
-00:20:54:19 --> 00:20:57:19
+00:20:56,041 --> 00:20:59,041
 Like, what is the path of the winds
 
 377
-00:20:57:20 --> 00:21:00:10
+00:20:59,083 --> 00:21:01,666
 and what is the character of the winds.
 
 378
-00:21:00:10 --> 00:21:03:10
+00:21:01,666 --> 00:21:04,666
 And here you can see the wind, the character,
 
 379
-00:21:03:21 --> 00:21:06:21
+00:21:05,125 --> 00:21:08,125
 you can see how he is talking.
 
 380
-00:21:07:12 --> 00:21:09:05
+00:21:08,750 --> 00:21:10,458
 Yes, Yes. Well,
 
 381
-00:21:09:05 --> 00:21:12:22
+00:21:10,458 --> 00:21:14,166
 Father of the Wayúu fishermen, the father is this wind.
 
 382
-00:21:13:02 --> 00:21:14:05
+00:21:14,333 --> 00:21:15,458
 Jepirachi, the father.
 
 383
-00:21:15:15 --> 00:21:18:10
+00:21:16,875 --> 00:21:19,666
 And is there anything else you would like to share?
 
 384
-00:21:18:10 --> 00:21:20:10
+00:21:19,666 --> 00:21:21,666
 Well, no. It was that.
 
 385
-00:21:20:10 --> 00:21:20:22
+00:21:21,666 --> 00:21:22,166
 I think that
 
 386
-00:21:20:22 --> 00:21:23:22
+00:21:22,166 --> 00:21:25,166
 what we have talked about about the sea, the wind, the river.
 
 387
-00:21:24:11 --> 00:21:26:10
+00:21:25,708 --> 00:21:27,666
 Great.
 
 388
-00:21:26:10 --> 00:21:28:16
+00:21:27,666 --> 00:21:29,916
 Well.
 
 389
-00:21:28:16 --> 00:21:30:05
+00:21:29,916 --> 00:21:31,458
 One more thing.
 
 390
-00:21:30:05 --> 00:21:31:20
+00:21:31,458 --> 00:21:33,125
 Of all those relationships,
 
 391
-00:21:31:20 --> 00:21:34:20
+00:21:33,125 --> 00:21:36,125
 Is there some spirituality too, with
 
 392
-00:21:35:05 --> 00:21:38:11
+00:21:36,500 --> 00:21:39,750
 or is it like involved in everything?
 
 393
-00:21:39:04 --> 00:21:40:00
+00:21:40,458 --> 00:21:41,291
 Is involved
 
 394
-00:21:40:00 --> 00:21:43:00
+00:21:41,291 --> 00:21:44,291
 in each thing, in an ontological relationship with each thing,
 
 395
-00:21:44:00 --> 00:21:46:13
+00:21:45,291 --> 00:21:47,833
 wayúu rituals
 
 396
-00:21:46:13 --> 00:21:48:16
+00:21:47,833 --> 00:21:49,958
 many of them have to do
 
 397
-00:21:48:16 --> 00:21:51:16
+00:21:49,958 --> 00:21:52,958
 with rituals of passage, of girls, from girls to women.
 
 398
-00:21:52:02 --> 00:21:55:08
+00:21:53,375 --> 00:21:56,625
 Others are rituals of sprinkling, impregnation
 
 399
-00:21:55:15 --> 00:21:56:23
+00:21:56,916 --> 00:21:58,250
 of fishing nets.
 
 400
-00:21:56:23 --> 00:22:00:00
+00:21:58,250 --> 00:22:01,291
 Others have to do with human contamination.
 
 401
-00:22:00:00 --> 00:22:01:13
+00:22:01,291 --> 00:22:02,833
 that must be decontaminated,
 
 402
-00:22:01:13 --> 00:22:04:07
+00:22:02,833 --> 00:22:05,583
 like a murderer, for example, or who has touched
 
 403
-00:22:04:07 --> 00:22:07:20
+00:22:05,583 --> 00:22:09,125
 the bones of humans in a burial,
 
 404
-00:22:08:10 --> 00:22:11:03
+00:22:09,708 --> 00:22:12,416
 then you can't eat with your hands for a few hours,
 
 405
-00:22:11:03 --> 00:22:12:08
+00:22:12,416 --> 00:22:13,666
 can not sleep,
 
 406
-00:22:12:08 --> 00:22:15:08
+00:22:13,666 --> 00:22:16,666
 He cannot do jobs that require effort.
 
 407
-00:22:15:23 --> 00:22:18:00
+00:22:17,291 --> 00:22:19,333
 There are many Wayúu protection rituals
 
 408
-00:22:18:00 --> 00:22:21:09
+00:22:19,333 --> 00:22:22,708
 that have to do with danger, warning signs,
 
 409
-00:22:21:20 --> 00:22:24:16
+00:22:23,166 --> 00:22:26,000
 signs of risk or that there may be a war
 
 410
-00:22:24:16 --> 00:22:27:16
+00:22:26,000 --> 00:22:29,000
 or simply the warning of a dream.
 
 411
-00:22:28:00 --> 00:22:29:19
+00:22:29,333 --> 00:22:31,125
 These rituals are very familiar among the Wayuú
 
 412
-00:22:30:21 --> 00:22:33:21
+00:22:32,208 --> 00:22:35,208
 and they have relative discretion.
 
 413
-00:22:34:02 --> 00:22:37:02
+00:22:35,416 --> 00:22:38,416
 Great, great.
 
 414
-00:23:46:16 --> 00:23:48:15
+00:23:48,083 --> 00:23:50,041
 One more question
 
 415
-00:23:48:15 --> 00:23:52:16
+00:23:50,041 --> 00:23:54,083
 If you had a message for everyone, what would it be?
 
 416
-00:23:54:03 --> 00:23:57:03
+00:23:55,541 --> 00:23:58,541
 Wow, I think that
 
 417
-00:23:58:05 --> 00:24:00:01
+00:23:59,625 --> 00:24:01,458
 There has to be a very big dialogue
 
 418
-00:24:00:01 --> 00:24:03:01
+00:24:01,458 --> 00:24:04,458
 in humanity between peoples and
 
 419
-00:24:03:12 --> 00:24:05:12
+00:24:04,916 --> 00:24:06,916
 human societies.
 
 420
-00:24:05:12 --> 00:24:09:09
+00:24:06,916 --> 00:24:10,791
 I believe that far from seeing many indigenous peoples
 
 421
-00:24:09:22 --> 00:24:12:22
+00:24:11,333 --> 00:24:14,333
 as societies
 
 422
-00:24:13:04 --> 00:24:16:04
+00:24:14,583 --> 00:24:17,583
 that are behind,
 
 423
-00:24:16:15 --> 00:24:18:04
+00:24:18,041 --> 00:24:19,625
 you must think about how sophisticated and
 
 424
-00:24:18:04 --> 00:24:21:04
+00:24:19,625 --> 00:24:22,625
 complex thinking of ontology,
 
 425
-00:24:21:12 --> 00:24:24:01
+00:24:22,958 --> 00:24:25,500
 from their way of understanding the person,
 
 426
-00:24:24:01 --> 00:24:27:01
+00:24:25,500 --> 00:24:28,500
 the notion of person and the relationship with time as well.
 
 427
-00:24:27:17 --> 00:24:30:16
+00:24:29,166 --> 00:24:32,125
 I believe that there is always a dialogue between ontologies
 
 428
-00:24:30:20 --> 00:24:33:10
+00:24:32,291 --> 00:24:34,875
 It will be very beneficial for this country.
