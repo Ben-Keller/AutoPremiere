@@ -1,0 +1,128 @@
+,id,new_id,name,duration,rate,in,out,start,end,track_index,MZ_TrackTargeted,video_clip_element,type,currentExplodedTrackIndex,audio_clip_element,sourceindex
+0,clipitem-16024ce101c64b5eb8b0c24c73a7a5df,clipitem-a80c061544c949b8a51983ade3ff1768,C0581.MP4,74112,"{'timebase': 24, 'ntsc': True}",1208,73973,0,72765,1,1,<Element 'clipitem' at 0x16665d4e0>,video,,,
+1,clipitem-e86ed2eeead44d01b0a10143d2fb1718,clipitem-3a39873499734544a0dcc301c877869c,wiblo_1_2000-01-01_1147_C0063.mov,275,"{'timebase': 24, 'ntsc': True}",1,275,349,623,1,1,<Element 'clipitem' at 0x167ad3560>,video,,,
+2,clipitem-16024ce101c64b5eb8b0c24c73a7a5df,clipitem-4bd8b29675ff457ca63490bb2cb482c7,C0581.MP4,74112,"{'timebase': 24, 'ntsc': True}",1208,73973,0,72765,1,1,<Element 'clipitem' at 0x167e068e0>,video,,,
+3,clipitem-e86ed2eeead44d01b0a10143d2fb1718,clipitem-c39593dc3f374225aacf94f44276a1ad,wiblo_1_2000-01-01_1147_C0063.mov,275,"{'timebase': 24, 'ntsc': True}",1,275,349,623,1,1,<Element 'clipitem' at 0x1665fb880>,video,,,
+4,clipitem-65b11cf43ad747339feed19f7d8b06bf,clipitem-c1ab57da811e4ea1bc189696f75e998b,wiblo_1_2000-01-01_1147_C0064.mov,107,"{'timebase': 24, 'ntsc': True}",1,107,623,729,1,1,<Element 'clipitem' at 0x167b5dc10>,video,,,
+5,clipitem-16024ce101c64b5eb8b0c24c73a7a5df,clipitem-e4ac9ddae06e4956809c9b8353cc369b,C0581.MP4,74112,"{'timebase': 24, 'ntsc': True}",1208,73973,0,72765,1,1,<Element 'clipitem' at 0x1665f94e0>,video,,,
+6,clipitem-65b11cf43ad747339feed19f7d8b06bf,clipitem-48b9ebf9935f4dbdaa76d2657eea6d62,wiblo_1_2000-01-01_1147_C0064.mov,107,"{'timebase': 24, 'ntsc': True}",1,107,623,729,1,1,<Element 'clipitem' at 0x1664869d0>,video,,,
+7,clipitem-919cc9d620b0463fa4a8ad4fd2b6be63,clipitem-9023b16cc16d46a585a0ece5c4b98c17,wiblo_1_2000-01-01_1148_C0065.mov,513,"{'timebase': 24, 'ntsc': True}",1,513,729,1241,1,1,<Element 'clipitem' at 0x1670c5850>,video,,,
+8,clipitem-733dd93752a348c5be9e44720c5d91c2,clipitem-afe5e5f49d0545ca964dc7bd4573f612,C0233.MP4,18996,"{'timebase': 24, 'ntsc': True}",461,18996,0,18535,1,1,<Element 'clipitem' at 0x16662b150>,video,,,
+9,clipitem-ad7c4ddde93340cbb32405d31d94fc37,clipitem-30a42351c6584fb192f45210636be0e5,C0723.MP4,5892,"{'timebase': 24, 'ntsc': True}",0,5892,0,5892,1,1,<Element 'clipitem' at 0x167e73240>,video,,,
+10,clipitem-1f95c360ed004818afc047853a77b442,clipitem-ccead47da304436aad07f852e415870f,wiblo_1_2000-01-02_0926_C0239.mov,139,"{'timebase': 24, 'ntsc': True}",0,139,817,956,2,0,<Element 'clipitem' at 0x167b65f30>,video,,,
+11,clipitem-f2ed75a6f248437a8f1e85962d16d60b,clipitem-971cba131c054806ba8e4cfbb8ca09c6,wiblo_1_2000-01-02_0926_C0240.mov,3449,"{'timebase': 24, 'ntsc': True}",0,3449,956,4405,2,0,<Element 'clipitem' at 0x167b64450>,video,,,
+12,clipitem-1b3d6991e60c4e189c743ce9a0185cdb,clipitem-479362791bdb485eb08f8cca5c4b47dc,wiblo_1_2000-01-02_1041_C0203.mov,15055,"{'timebase': 24, 'ntsc': True}",562,14388,0,13826,2,0,<Element 'clipitem' at 0x16701b330>,video,,,
+13,clipitem-7beb743ce8ed462cb95743c559dcba88,clipitem-5f793922374c48059ed6d794a886d0d9,BM Adjustment Layer,1035764,"{'timebase': 24, 'ntsc': True}",91996,113569,0,21573,3,0,<Element 'clipitem' at 0x1666f5440>,video,,,
+14,clipitem-16024ce101c64b5eb8b0c24c73a7a5df,clipitem-239051677baf49c38467f8d3ab796ad7,C0581.MP4,74112,"{'timebase': 24, 'ntsc': True}",1208,73973,0,72765,1,1,<Element 'clipitem' at 0x167b7cbd0>,video,,,
+15,clipitem-f2f6af668f004bdb9f15e57361be1285,clipitem-659927e2ad964391994d131962e26e03,wiblo_1_2000-01-01_1053_C0035.mov,8670,"{'timebase': 24, 'ntsc': True}",0,3494,1730,5224,2,0,<Element 'clipitem' at 0x1665911c0>,video,,,
+16,clipitem-0b59e90a4ad24b15a82766e8d2894542,clipitem-f95a30bbc8cf44079b99d5f9dec7ab10,wiblo_1_2000-01-01_1149_C0070.mov,819,"{'timebase': 24, 'ntsc': True}",0,819,2175,2994,1,1,<Element 'clipitem' at 0x16653ee80>,video,,,
+17,clipitem-16024ce101c64b5eb8b0c24c73a7a5df,clipitem-b04c0976ea934681ab167027b2932a48,C0581.MP4,74112,"{'timebase': 24, 'ntsc': True}",1208,73973,0,72765,1,1,<Element 'clipitem' at 0x1664742c0>,video,,,
+18,clipitem-919cc9d620b0463fa4a8ad4fd2b6be63,clipitem-0fc75624f33d49df862f72c2e30babfc,wiblo_1_2000-01-01_1148_C0065.mov,513,"{'timebase': 24, 'ntsc': True}",1,513,729,1241,1,1,<Element 'clipitem' at 0x140295df0>,video,,,
+19,clipitem-16024ce101c64b5eb8b0c24c73a7a5df,clipitem-b9638a6951b04e25a0077dd8fb22ee7a,C0581.MP4,74112,"{'timebase': 24, 'ntsc': True}",1208,73973,0,72765,1,1,<Element 'clipitem' at 0x166590b80>,video,,,
+20,clipitem-f2f6af668f004bdb9f15e57361be1285,clipitem-4b5a25c242684744979682a00b0901c7,wiblo_1_2000-01-01_1053_C0035.mov,8670,"{'timebase': 24, 'ntsc': True}",0,3494,1730,5224,2,0,<Element 'clipitem' at 0x166fc7510>,video,,,
+21,clipitem-d4160c825d1c4bf1918a4eb49efd4bd4,clipitem-4fd2d9260c77421ba2003616319f2890,julian_1_2021-12-26_1651_C0025.mov,800,"{'timebase': 24, 'ntsc': True}",0,800,1638,2438,2,0,<Element 'clipitem' at 0x1678a1440>,video,,,
+22,clipitem-16024ce101c64b5eb8b0c24c73a7a5df,clipitem-cb6f959f7ecb45309cfa505928a5ab5c,C0581.MP4,74112,"{'timebase': 24, 'ntsc': True}",1208,73973,0,72765,1,1,<Element 'clipitem' at 0x167d649a0>,video,,,
+23,clipitem-1fa55432ded24f65ab063ff9b2138be5,clipitem-ff897a7c904b40a499b9d616113fa8f4,wiblo_1_2000-01-01_1053_C0035.mov,8670,"{'timebase': 24, 'ntsc': True}",4009,8670,5739,10400,2,0,<Element 'clipitem' at 0x140173010>,video,,,
+24,clipitem-435cccffc7b0487c9c5bf695dd5b4186,clipitem-976577b6743b4892887d724fbfe332dc,wiblo_1_2000-01-01_1154_C0078.mov,1775,"{'timebase': 24, 'ntsc': True}",0,1775,8098,9873,1,1,<Element 'clipitem' at 0x167dbeb10>,video,,,
+25,clipitem-95627ae2bd2745df9d0f7f22de56f3a4,clipitem-d58562b5980740c28d712a3ffc72639a,julian_1_2021-12-26_1656_C0030.mov,674,"{'timebase': 24, 'ntsc': True}",0,674,8197,8871,2,0,<Element 'clipitem' at 0x167337470>,video,,,
+26,clipitem-16024ce101c64b5eb8b0c24c73a7a5df,clipitem-831da636d94e45a9a8bc7a06cd545d5f,C0581.MP4,74112,"{'timebase': 24, 'ntsc': True}",1208,73973,0,72765,1,1,<Element 'clipitem' at 0x166f95670>,video,,,
+27,clipitem-f2f6af668f004bdb9f15e57361be1285,clipitem-1532eec6f00f4ac9ad5147150b36bf7e,wiblo_1_2000-01-01_1053_C0035.mov,8670,"{'timebase': 24, 'ntsc': True}",0,3494,1730,5224,2,0,<Element 'clipitem' at 0x167d657b0>,video,,,
+28,clipitem-4f8cc3d2285c412db739277753228004,clipitem-1ef26b49e8b549fd88fa9c6e6f11c365,wiblo_1_2000-01-01_1151_C0073.mov,245,"{'timebase': 24, 'ntsc': True}",0,245,4000,4245,1,1,<Element 'clipitem' at 0x1667371f0>,video,,,
+29,clipitem-c6ba078c335741fdacb20666aae31c1c,clipitem-a7bb6f77e784411ebf6e87d49ec05949,julian_1_2021-12-26_1652_C0026.mov,1272,"{'timebase': 24, 'ntsc': True}",0,1272,3163,4435,2,0,<Element 'clipitem' at 0x16704aed0>,video,,,
+30,clipitem-16024ce101c64b5eb8b0c24c73a7a5df,clipitem-aa61894bbe52494dba7e6260b5712b40,C0581.MP4,74112,"{'timebase': 24, 'ntsc': True}",1208,73973,0,72765,1,1,<Element 'clipitem' at 0x166428590>,video,,,
+31,clipitem-1fa55432ded24f65ab063ff9b2138be5,clipitem-145cbc3d2a054f6d98011022119ffbf1,wiblo_1_2000-01-01_1053_C0035.mov,8670,"{'timebase': 24, 'ntsc': True}",4009,8670,5739,10400,2,0,<Element 'clipitem' at 0x1674fc2c0>,video,,,
+32,clipitem-435cccffc7b0487c9c5bf695dd5b4186,clipitem-c5edf6ad2b6c46eaa7bff2d6d7e9ef18,wiblo_1_2000-01-01_1154_C0078.mov,1775,"{'timebase': 24, 'ntsc': True}",0,1775,8098,9873,1,1,<Element 'clipitem' at 0x166503c90>,video,,,
+33,clipitem-95627ae2bd2745df9d0f7f22de56f3a4,clipitem-050de687dd7b4735979da58cf741fac1,julian_1_2021-12-26_1656_C0030.mov,674,"{'timebase': 24, 'ntsc': True}",0,674,8197,8871,2,0,<Element 'clipitem' at 0x167a674c0>,video,,,
+34,clipitem-16024ce101c64b5eb8b0c24c73a7a5df,clipitem-e3bf3b6a29614af79d9cf4dc47b78166,C0581.MP4,74112,"{'timebase': 24, 'ntsc': True}",1208,73973,0,72765,1,1,<Element 'clipitem' at 0x1674059e0>,video,,,
+35,clipitem-1fa55432ded24f65ab063ff9b2138be5,clipitem-450b6264bd0f417dac7f80962579315a,wiblo_1_2000-01-01_1053_C0035.mov,8670,"{'timebase': 24, 'ntsc': True}",4009,8670,5739,10400,2,0,<Element 'clipitem' at 0x1674b31f0>,video,,,
+36,clipitem-d5be763fbee44d0ab794fe55652fdba0,clipitem-e71fd65bc3844d148a13004074002857,wiblo_1_2000-01-01_1153_C0075.mov,443,"{'timebase': 24, 'ntsc': True}",0,443,6719,7162,1,1,<Element 'clipitem' at 0x16726d580>,video,,,
+37,clipitem-8fdaa6becf7e46e78b8ec954faa1ed09,clipitem-edcbda964f4c443f8435a3152f46d299,julian_1_2021-12-26_1655_C0028.mov,401,"{'timebase': 24, 'ntsc': True}",0,401,6711,7112,2,0,<Element 'clipitem' at 0x140193ba0>,video,,,
+38,clipitem-16024ce101c64b5eb8b0c24c73a7a5df,clipitem-6180d7ce05514dc8abb26f6b05d2f08f,C0581.MP4,74112,"{'timebase': 24, 'ntsc': True}",1208,73973,0,72765,1,1,<Element 'clipitem' at 0x16646db20>,video,,,
+39,clipitem-1fa55432ded24f65ab063ff9b2138be5,clipitem-abecc440daa948a4a7e2e4c9cfd72c7f,wiblo_1_2000-01-01_1053_C0035.mov,8670,"{'timebase': 24, 'ntsc': True}",4009,8670,5739,10400,2,0,<Element 'clipitem' at 0x16733cef0>,video,,,
+40,clipitem-16024ce101c64b5eb8b0c24c73a7a5df,clipitem-e09177689b564c0286d121c3b1d4a683,C0581.MP4,74112,"{'timebase': 24, 'ntsc': True}",1208,73973,0,72765,1,1,<Element 'clipitem' at 0x16759e2f0>,video,,,
+41,clipitem-1fa55432ded24f65ab063ff9b2138be5,clipitem-6be1a47aa26442dcbcc64f4659f55d74,wiblo_1_2000-01-01_1053_C0035.mov,8670,"{'timebase': 24, 'ntsc': True}",4009,8670,5739,10400,2,0,<Element 'clipitem' at 0x16733e980>,video,,,
+42,clipitem-c26901f572c041c5ae5966dabfe1254b,clipitem-7817f946c4e84644b2713aad0601164d,wiblo_1_2000-01-01_1151_C0074.mov,1836,"{'timebase': 24, 'ntsc': True}",0,1836,4328,6164,1,1,<Element 'clipitem' at 0x1402089a0>,video,,,
+43,clipitem-16024ce101c64b5eb8b0c24c73a7a5df,clipitem-bd7503d309834464b5851e27c2d38254,C0581.MP4,74112,"{'timebase': 24, 'ntsc': True}",1208,73973,0,72765,1,1,<Element 'clipitem' at 0x14003ff10>,video,,,
+44,clipitem-1fa55432ded24f65ab063ff9b2138be5,clipitem-a393a10c6ddd42b1ad0c46268bc6ddd6,wiblo_1_2000-01-01_1053_C0035.mov,8670,"{'timebase': 24, 'ntsc': True}",4009,8670,5739,10400,2,0,<Element 'clipitem' at 0x1672fc310>,video,,,
+45,clipitem-c26901f572c041c5ae5966dabfe1254b,clipitem-fb5e2e149e694f54ab96bc322bfddff5,wiblo_1_2000-01-01_1151_C0074.mov,1836,"{'timebase': 24, 'ntsc': True}",0,1836,4328,6164,1,1,<Element 'clipitem' at 0x140097970>,video,,,
+46,clipitem-16024ce101c64b5eb8b0c24c73a7a5df,clipitem-09df23215c5646109ede866fa31134c0,C0581.MP4,74112,"{'timebase': 24, 'ntsc': True}",1208,73973,0,72765,1,1,<Element 'clipitem' at 0x1400f5170>,video,,,
+47,clipitem-1fa55432ded24f65ab063ff9b2138be5,clipitem-5853698394f24d9c994f3489ba70ba9a,wiblo_1_2000-01-01_1053_C0035.mov,8670,"{'timebase': 24, 'ntsc': True}",4009,8670,5739,10400,2,0,<Element 'clipitem' at 0x16754aed0>,video,,,
+48,clipitem-435cccffc7b0487c9c5bf695dd5b4186,clipitem-147c576939684500b43c71696daf208b,wiblo_1_2000-01-01_1154_C0078.mov,1775,"{'timebase': 24, 'ntsc': True}",0,1775,8098,9873,1,1,<Element 'clipitem' at 0x14020b240>,video,,,
+0,clipitem-b1c9119ec2fc4c7d8be0d30a13cb9880,,magalys polanco hammock - clip.mp3,90946,"{'timebase': 24, 'ntsc': True}",0,72757,0,72757,1,1,,audio,0,<Element 'clipitem' at 0x167e07b00>,1.0
+1,clipitem-29b1aeffc155434997697dc513110111,,magalys polanco hammock - clip.mp3,90946,"{'timebase': 24, 'ntsc': True}",0,72757,0,72757,2,1,,audio,1,<Element 'clipitem' at 0x167ed3b50>,2.0
+2,clipitem-5e7578f1fc9441e2b7c2a1e8d9e04be2,,magalys polanco hammock - clip (enhanced).wav,90935,"{'timebase': 24, 'ntsc': True}",0,72748,0,72748,3,1,,audio,0,<Element 'clipitem' at 0x1670fca90>,1.0
+3,clipitem-7c5a980f4b644c37b41a1c8122c7abf3,,magalys electrico - clip.mp3,51215,"{'timebase': 24, 'ntsc': True}",0,40972,30,41002,1,1,,audio,0,<Element 'clipitem' at 0x140076890>,1.0
+4,clipitem-a06480a805674099b9163dbc2189e310,,magalys electrico - clip.mp3,51215,"{'timebase': 24, 'ntsc': True}",0,40972,30,41002,2,1,,audio,1,<Element 'clipitem' at 0x167467e20>,2.0
+5,clipitem-b1c9119ec2fc4c7d8be0d30a13cb9880,,magalys polanco hammock - clip.mp3,90946,"{'timebase': 24, 'ntsc': True}",0,72757,0,72757,1,1,,audio,0,<Element 'clipitem' at 0x167dc9760>,1.0
+6,clipitem-29b1aeffc155434997697dc513110111,,magalys polanco hammock - clip.mp3,90946,"{'timebase': 24, 'ntsc': True}",0,72757,0,72757,2,1,,audio,1,<Element 'clipitem' at 0x167e05df0>,2.0
+7,clipitem-5e7578f1fc9441e2b7c2a1e8d9e04be2,,magalys polanco hammock - clip (enhanced).wav,90935,"{'timebase': 24, 'ntsc': True}",0,72748,0,72748,3,1,,audio,0,<Element 'clipitem' at 0x167358220>,1.0
+8,clipitem-7c5a980f4b644c37b41a1c8122c7abf3,,magalys electrico - clip.mp3,51215,"{'timebase': 24, 'ntsc': True}",0,40972,30,41002,1,1,,audio,0,<Element 'clipitem' at 0x167e70680>,1.0
+9,clipitem-a06480a805674099b9163dbc2189e310,,magalys electrico - clip.mp3,51215,"{'timebase': 24, 'ntsc': True}",0,40972,30,41002,2,1,,audio,1,<Element 'clipitem' at 0x167466a70>,2.0
+10,clipitem-b1c9119ec2fc4c7d8be0d30a13cb9880,,magalys polanco hammock - clip.mp3,90946,"{'timebase': 24, 'ntsc': True}",0,72757,0,72757,1,1,,audio,0,<Element 'clipitem' at 0x14009f330>,1.0
+11,clipitem-29b1aeffc155434997697dc513110111,,magalys polanco hammock - clip.mp3,90946,"{'timebase': 24, 'ntsc': True}",0,72757,0,72757,2,1,,audio,1,<Element 'clipitem' at 0x1665fade0>,2.0
+12,clipitem-5e7578f1fc9441e2b7c2a1e8d9e04be2,,magalys polanco hammock - clip (enhanced).wav,90935,"{'timebase': 24, 'ntsc': True}",0,72748,0,72748,3,1,,audio,0,<Element 'clipitem' at 0x140075080>,1.0
+13,clipitem-7c5a980f4b644c37b41a1c8122c7abf3,,magalys electrico - clip.mp3,51215,"{'timebase': 24, 'ntsc': True}",0,40972,30,41002,1,1,,audio,0,<Element 'clipitem' at 0x167e5bfb0>,1.0
+14,clipitem-a06480a805674099b9163dbc2189e310,,magalys electrico - clip.mp3,51215,"{'timebase': 24, 'ntsc': True}",0,40972,30,41002,2,1,,audio,1,<Element 'clipitem' at 0x167b749f0>,2.0
+15,clipitem-fbf298899db247889cf069c2a16e8210,,Neko hilos por mma - clip.mp3,22082,"{'timebase': 24, 'ntsc': True}",0,17665,5,17670,1,1,,audio,0,<Element 'clipitem' at 0x167d24ea0>,1.0
+16,clipitem-1ffdc4126b734b6488a148fce1c7ee4e,,Neko hilos por mma - clip.mp3,22082,"{'timebase': 24, 'ntsc': True}",0,17665,5,17670,2,1,,audio,1,<Element 'clipitem' at 0x1665904f0>,2.0
+17,clipitem-f741165e283a478aa03f82893fd40780,,piedra - clip.mp3,41068,"{'timebase': 24, 'ntsc': True}",0,31751,0,31751,1,1,,audio,0,<Element 'clipitem' at 0x167d669d0>,1.0
+18,clipitem-e32366fe471f4cfb9914d09b525ab656,,piedra - clip.mp3,41068,"{'timebase': 24, 'ntsc': True}",0,31751,0,31751,2,1,,audio,1,<Element 'clipitem' at 0x1400a1120>,2.0
+19,clipitem-f821f75437fe4b96baa5b81c842cd4c7,,Neko Father-clip.mp3,21573,"{'timebase': 24, 'ntsc': True}",10,21545,0,21535,1,1,,audio,0,<Element 'clipitem' at 0x140053a60>,1.0
+20,clipitem-2720d138fc7248268516d0a657e7258e,,Neko Father-clip.mp3,21573,"{'timebase': 24, 'ntsc': True}",10,21545,0,21535,2,1,,audio,1,<Element 'clipitem' at 0x140051f30>,2.0
+21,clipitem-6242d0adadc6420c9f6921979c4c3a55,,neko casa urbana - clip.mp3,41207,"{'timebase': 24, 'ntsc': True}",0,32965,0,32965,1,1,,audio,0,<Element 'clipitem' at 0x167e59300>,1.0
+22,clipitem-e534a8d591184976a0dbc0eb89b800e2,,neko casa urbana - clip.mp3,41207,"{'timebase': 24, 'ntsc': True}",0,32965,0,32965,2,1,,audio,1,<Element 'clipitem' at 0x167e58270>,2.0
+23,clipitem-b1c9119ec2fc4c7d8be0d30a13cb9880,,magalys polanco hammock - clip.mp3,90946,"{'timebase': 24, 'ntsc': True}",0,72757,0,72757,1,1,,audio,0,<Element 'clipitem' at 0x167e58810>,1.0
+24,clipitem-29b1aeffc155434997697dc513110111,,magalys polanco hammock - clip.mp3,90946,"{'timebase': 24, 'ntsc': True}",0,72757,0,72757,2,1,,audio,1,<Element 'clipitem' at 0x167323920>,2.0
+25,clipitem-5e7578f1fc9441e2b7c2a1e8d9e04be2,,magalys polanco hammock - clip (enhanced).wav,90935,"{'timebase': 24, 'ntsc': True}",0,72748,0,72748,3,1,,audio,0,<Element 'clipitem' at 0x167323c90>,1.0
+26,clipitem-7c5a980f4b644c37b41a1c8122c7abf3,,magalys electrico - clip.mp3,51215,"{'timebase': 24, 'ntsc': True}",0,40972,30,41002,1,1,,audio,0,<Element 'clipitem' at 0x14020a4d0>,1.0
+27,clipitem-a06480a805674099b9163dbc2189e310,,magalys electrico - clip.mp3,51215,"{'timebase': 24, 'ntsc': True}",0,40972,30,41002,2,1,,audio,1,<Element 'clipitem' at 0x16722d8a0>,2.0
+28,clipitem-b1c9119ec2fc4c7d8be0d30a13cb9880,,magalys polanco hammock - clip.mp3,90946,"{'timebase': 24, 'ntsc': True}",0,72757,0,72757,1,1,,audio,0,<Element 'clipitem' at 0x167d67e20>,1.0
+29,clipitem-29b1aeffc155434997697dc513110111,,magalys polanco hammock - clip.mp3,90946,"{'timebase': 24, 'ntsc': True}",0,72757,0,72757,2,1,,audio,1,<Element 'clipitem' at 0x166476f20>,2.0
+30,clipitem-5e7578f1fc9441e2b7c2a1e8d9e04be2,,magalys polanco hammock - clip (enhanced).wav,90935,"{'timebase': 24, 'ntsc': True}",0,72748,0,72748,3,1,,audio,0,<Element 'clipitem' at 0x16768dc10>,1.0
+31,clipitem-7c5a980f4b644c37b41a1c8122c7abf3,,magalys electrico - clip.mp3,51215,"{'timebase': 24, 'ntsc': True}",0,40972,30,41002,1,1,,audio,0,<Element 'clipitem' at 0x166fb5170>,1.0
+32,clipitem-a06480a805674099b9163dbc2189e310,,magalys electrico - clip.mp3,51215,"{'timebase': 24, 'ntsc': True}",0,40972,30,41002,2,1,,audio,1,<Element 'clipitem' at 0x167359b20>,2.0
+33,clipitem-b1c9119ec2fc4c7d8be0d30a13cb9880,,magalys polanco hammock - clip.mp3,90946,"{'timebase': 24, 'ntsc': True}",0,72757,0,72757,1,1,,audio,0,<Element 'clipitem' at 0x140296700>,1.0
+34,clipitem-29b1aeffc155434997697dc513110111,,magalys polanco hammock - clip.mp3,90946,"{'timebase': 24, 'ntsc': True}",0,72757,0,72757,2,1,,audio,1,<Element 'clipitem' at 0x167d66200>,2.0
+35,clipitem-5e7578f1fc9441e2b7c2a1e8d9e04be2,,magalys polanco hammock - clip (enhanced).wav,90935,"{'timebase': 24, 'ntsc': True}",0,72748,0,72748,3,1,,audio,0,<Element 'clipitem' at 0x1677ef740>,1.0
+36,clipitem-7c5a980f4b644c37b41a1c8122c7abf3,,magalys electrico - clip.mp3,51215,"{'timebase': 24, 'ntsc': True}",0,40972,30,41002,1,1,,audio,0,<Element 'clipitem' at 0x1674b0ea0>,1.0
+37,clipitem-a06480a805674099b9163dbc2189e310,,magalys electrico - clip.mp3,51215,"{'timebase': 24, 'ntsc': True}",0,40972,30,41002,2,1,,audio,1,<Element 'clipitem' at 0x167a593f0>,2.0
+38,clipitem-b1c9119ec2fc4c7d8be0d30a13cb9880,,magalys polanco hammock - clip.mp3,90946,"{'timebase': 24, 'ntsc': True}",0,72757,0,72757,1,1,,audio,0,<Element 'clipitem' at 0x16414f510>,1.0
+39,clipitem-29b1aeffc155434997697dc513110111,,magalys polanco hammock - clip.mp3,90946,"{'timebase': 24, 'ntsc': True}",0,72757,0,72757,2,1,,audio,1,<Element 'clipitem' at 0x166450cc0>,2.0
+40,clipitem-5e7578f1fc9441e2b7c2a1e8d9e04be2,,magalys polanco hammock - clip (enhanced).wav,90935,"{'timebase': 24, 'ntsc': True}",0,72748,0,72748,3,1,,audio,0,<Element 'clipitem' at 0x16642b7e0>,1.0
+41,clipitem-7c5a980f4b644c37b41a1c8122c7abf3,,magalys electrico - clip.mp3,51215,"{'timebase': 24, 'ntsc': True}",0,40972,30,41002,1,1,,audio,0,<Element 'clipitem' at 0x1672fa570>,1.0
+42,clipitem-a06480a805674099b9163dbc2189e310,,magalys electrico - clip.mp3,51215,"{'timebase': 24, 'ntsc': True}",0,40972,30,41002,2,1,,audio,1,<Element 'clipitem' at 0x167b77510>,2.0
+43,clipitem-b1c9119ec2fc4c7d8be0d30a13cb9880,,magalys polanco hammock - clip.mp3,90946,"{'timebase': 24, 'ntsc': True}",0,72757,0,72757,1,1,,audio,0,<Element 'clipitem' at 0x166f96110>,1.0
+44,clipitem-29b1aeffc155434997697dc513110111,,magalys polanco hammock - clip.mp3,90946,"{'timebase': 24, 'ntsc': True}",0,72757,0,72757,2,1,,audio,1,<Element 'clipitem' at 0x167f39710>,2.0
+45,clipitem-5e7578f1fc9441e2b7c2a1e8d9e04be2,,magalys polanco hammock - clip (enhanced).wav,90935,"{'timebase': 24, 'ntsc': True}",0,72748,0,72748,3,1,,audio,0,<Element 'clipitem' at 0x167f3b3d0>,1.0
+46,clipitem-7c5a980f4b644c37b41a1c8122c7abf3,,magalys electrico - clip.mp3,51215,"{'timebase': 24, 'ntsc': True}",0,40972,30,41002,1,1,,audio,0,<Element 'clipitem' at 0x16733fdd0>,1.0
+47,clipitem-a06480a805674099b9163dbc2189e310,,magalys electrico - clip.mp3,51215,"{'timebase': 24, 'ntsc': True}",0,40972,30,41002,2,1,,audio,1,<Element 'clipitem' at 0x140076b60>,2.0
+48,clipitem-b1c9119ec2fc4c7d8be0d30a13cb9880,,magalys polanco hammock - clip.mp3,90946,"{'timebase': 24, 'ntsc': True}",0,72757,0,72757,1,1,,audio,0,<Element 'clipitem' at 0x166e2a7a0>,1.0
+49,clipitem-29b1aeffc155434997697dc513110111,,magalys polanco hammock - clip.mp3,90946,"{'timebase': 24, 'ntsc': True}",0,72757,0,72757,2,1,,audio,1,<Element 'clipitem' at 0x166f969d0>,2.0
+50,clipitem-5e7578f1fc9441e2b7c2a1e8d9e04be2,,magalys polanco hammock - clip (enhanced).wav,90935,"{'timebase': 24, 'ntsc': True}",0,72748,0,72748,3,1,,audio,0,<Element 'clipitem' at 0x1672c7790>,1.0
+51,clipitem-7c5a980f4b644c37b41a1c8122c7abf3,,magalys electrico - clip.mp3,51215,"{'timebase': 24, 'ntsc': True}",0,40972,30,41002,1,1,,audio,0,<Element 'clipitem' at 0x1663e62f0>,1.0
+52,clipitem-a06480a805674099b9163dbc2189e310,,magalys electrico - clip.mp3,51215,"{'timebase': 24, 'ntsc': True}",0,40972,30,41002,2,1,,audio,1,<Element 'clipitem' at 0x16799c360>,2.0
+53,clipitem-b1c9119ec2fc4c7d8be0d30a13cb9880,,magalys polanco hammock - clip.mp3,90946,"{'timebase': 24, 'ntsc': True}",0,72757,0,72757,1,1,,audio,0,<Element 'clipitem' at 0x167fa0220>,1.0
+54,clipitem-29b1aeffc155434997697dc513110111,,magalys polanco hammock - clip.mp3,90946,"{'timebase': 24, 'ntsc': True}",0,72757,0,72757,2,1,,audio,1,<Element 'clipitem' at 0x167405210>,2.0
+55,clipitem-5e7578f1fc9441e2b7c2a1e8d9e04be2,,magalys polanco hammock - clip (enhanced).wav,90935,"{'timebase': 24, 'ntsc': True}",0,72748,0,72748,3,1,,audio,0,<Element 'clipitem' at 0x167fc60c0>,1.0
+56,clipitem-7c5a980f4b644c37b41a1c8122c7abf3,,magalys electrico - clip.mp3,51215,"{'timebase': 24, 'ntsc': True}",0,40972,30,41002,1,1,,audio,0,<Element 'clipitem' at 0x1670a8a40>,1.0
+57,clipitem-a06480a805674099b9163dbc2189e310,,magalys electrico - clip.mp3,51215,"{'timebase': 24, 'ntsc': True}",0,40972,30,41002,2,1,,audio,1,<Element 'clipitem' at 0x1674fee30>,2.0
+58,clipitem-b1c9119ec2fc4c7d8be0d30a13cb9880,,magalys polanco hammock - clip.mp3,90946,"{'timebase': 24, 'ntsc': True}",0,72757,0,72757,1,1,,audio,0,<Element 'clipitem' at 0x1674b0090>,1.0
+59,clipitem-29b1aeffc155434997697dc513110111,,magalys polanco hammock - clip.mp3,90946,"{'timebase': 24, 'ntsc': True}",0,72757,0,72757,2,1,,audio,1,<Element 'clipitem' at 0x167e02660>,2.0
+60,clipitem-5e7578f1fc9441e2b7c2a1e8d9e04be2,,magalys polanco hammock - clip (enhanced).wav,90935,"{'timebase': 24, 'ntsc': True}",0,72748,0,72748,3,1,,audio,0,<Element 'clipitem' at 0x167e036a0>,1.0
+61,clipitem-7c5a980f4b644c37b41a1c8122c7abf3,,magalys electrico - clip.mp3,51215,"{'timebase': 24, 'ntsc': True}",0,40972,30,41002,1,1,,audio,0,<Element 'clipitem' at 0x167b64bd0>,1.0
+62,clipitem-a06480a805674099b9163dbc2189e310,,magalys electrico - clip.mp3,51215,"{'timebase': 24, 'ntsc': True}",0,40972,30,41002,2,1,,audio,1,<Element 'clipitem' at 0x16759c130>,2.0
+63,clipitem-b1c9119ec2fc4c7d8be0d30a13cb9880,,magalys polanco hammock - clip.mp3,90946,"{'timebase': 24, 'ntsc': True}",0,72757,0,72757,1,1,,audio,0,<Element 'clipitem' at 0x167950b80>,1.0
+64,clipitem-29b1aeffc155434997697dc513110111,,magalys polanco hammock - clip.mp3,90946,"{'timebase': 24, 'ntsc': True}",0,72757,0,72757,2,1,,audio,1,<Element 'clipitem' at 0x16759fce0>,2.0
+65,clipitem-5e7578f1fc9441e2b7c2a1e8d9e04be2,,magalys polanco hammock - clip (enhanced).wav,90935,"{'timebase': 24, 'ntsc': True}",0,72748,0,72748,3,1,,audio,0,<Element 'clipitem' at 0x1678a13f0>,1.0
+66,clipitem-7c5a980f4b644c37b41a1c8122c7abf3,,magalys electrico - clip.mp3,51215,"{'timebase': 24, 'ntsc': True}",0,40972,30,41002,1,1,,audio,0,<Element 'clipitem' at 0x167f868e0>,1.0
+67,clipitem-a06480a805674099b9163dbc2189e310,,magalys electrico - clip.mp3,51215,"{'timebase': 24, 'ntsc': True}",0,40972,30,41002,2,1,,audio,1,<Element 'clipitem' at 0x14003de90>,2.0
+68,clipitem-b1c9119ec2fc4c7d8be0d30a13cb9880,,magalys polanco hammock - clip.mp3,90946,"{'timebase': 24, 'ntsc': True}",0,72757,0,72757,1,1,,audio,0,<Element 'clipitem' at 0x167455670>,1.0
+69,clipitem-29b1aeffc155434997697dc513110111,,magalys polanco hammock - clip.mp3,90946,"{'timebase': 24, 'ntsc': True}",0,72757,0,72757,2,1,,audio,1,<Element 'clipitem' at 0x14003dfd0>,2.0
+70,clipitem-5e7578f1fc9441e2b7c2a1e8d9e04be2,,magalys polanco hammock - clip (enhanced).wav,90935,"{'timebase': 24, 'ntsc': True}",0,72748,0,72748,3,1,,audio,0,<Element 'clipitem' at 0x167263c40>,1.0
+71,clipitem-7c5a980f4b644c37b41a1c8122c7abf3,,magalys electrico - clip.mp3,51215,"{'timebase': 24, 'ntsc': True}",0,40972,30,41002,1,1,,audio,0,<Element 'clipitem' at 0x167bd7010>,1.0
+72,clipitem-a06480a805674099b9163dbc2189e310,,magalys electrico - clip.mp3,51215,"{'timebase': 24, 'ntsc': True}",0,40972,30,41002,2,1,,audio,1,<Element 'clipitem' at 0x1400f5a30>,2.0
+73,clipitem-b1c9119ec2fc4c7d8be0d30a13cb9880,,magalys polanco hammock - clip.mp3,90946,"{'timebase': 24, 'ntsc': True}",0,72757,0,72757,1,1,,audio,0,<Element 'clipitem' at 0x1663e5d50>,1.0
+74,clipitem-29b1aeffc155434997697dc513110111,,magalys polanco hammock - clip.mp3,90946,"{'timebase': 24, 'ntsc': True}",0,72757,0,72757,2,1,,audio,1,<Element 'clipitem' at 0x1400f7740>,2.0
+75,clipitem-5e7578f1fc9441e2b7c2a1e8d9e04be2,,magalys polanco hammock - clip (enhanced).wav,90935,"{'timebase': 24, 'ntsc': True}",0,72748,0,72748,3,1,,audio,0,<Element 'clipitem' at 0x167e47ce0>,1.0
+76,clipitem-7c5a980f4b644c37b41a1c8122c7abf3,,magalys electrico - clip.mp3,51215,"{'timebase': 24, 'ntsc': True}",0,40972,30,41002,1,1,,audio,0,<Element 'clipitem' at 0x1672ff970>,1.0
+77,clipitem-a06480a805674099b9163dbc2189e310,,magalys electrico - clip.mp3,51215,"{'timebase': 24, 'ntsc': True}",0,40972,30,41002,2,1,,audio,1,<Element 'clipitem' at 0x167edacf0>,2.0

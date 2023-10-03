@@ -1,0 +1,547 @@
+<xmeml version="4"><sequence id="sequence-2" TL_SQAudioVisibleBase="0" TL_SQVideoVisibleBase="0" TL_SQVisibleBaseTime="0" TL_SQAVDividerPosition="0.5" TL_SQHideShyTracks="0" TL_SQHeaderWidth="236" TL_SQDataTrackViewControlState="0" Monitor_ProgramZoomOut="340011984312000" Monitor_ProgramZoomIn="0" TL_SQTimePerPixel="1.6034289012958367" MZ_EditLine="333083126376000" MZ_Sequence_PreviewFrameSizeHeight="1080" MZ_Sequence_PreviewFrameSizeWidth="1920" MZ_Sequence_AudioTimeDisplayFormat="200" MZ_Sequence_PreviewUseMaxRenderQuality="false" MZ_Sequence_PreviewUseMaxBitDepth="false" MZ_Sequence_VideoTimeDisplayFormat="110" MZ_WorkOutPoint="15235011792000" MZ_WorkInPoint="0" MZ_ZeroPoint="0" explodedTracks="true"><uuid>50e61931-251f-4069-8193-a3fbad7f93ff</uuid><duration>31533</duration><rate><timebase>24</timebase><ntsc>TRUE</ntsc></rate><name>../06_Export XMLs/Wayuu/magalys-test</name><media><video><format><samplecharacteristics><rate><timebase>24</timebase><ntsc>TRUE</ntsc></rate><codec><name>Apple ProRes 422</name><appspecificdata><appname>Final Cut Pro</appname><appmanufacturer>Apple Inc.</appmanufacturer><appversion>7.0</appversion><data><qtcodec><codecname>Apple ProRes 422</codecname><codectypename>Apple ProRes 422</codectypename><codectypecode>apcn</codectypecode><codecvendorcode>appl</codecvendorcode><spatialquality>1024</spatialquality><temporalquality>0</temporalquality><keyframerate>0</keyframerate><datarate>0</datarate></qtcodec></data></appspecificdata></codec><width>1920</width><height>1080</height><anamorphic>FALSE</anamorphic><pixelaspectratio>square</pixelaspectratio><fielddominance>none</fielddominance><colordepth>24</colordepth></samplecharacteristics></format>
+<track TL_SQTrackShy="0" TL_SQTrackExpandedHeight="25" TL_SQTrackExpanded="0" MZ_TrackTargeted="1"><clipitem id="clipitem-0bd11556740b45f6b6337edd6bfb3245">
+						<masterclipid>masterclip-414</masterclipid>
+						<name>wiblo_1_2000-01-01_1150_C0071.mov</name>
+						<enabled>TRUE</enabled>
+						<duration>21</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>0</start>
+						<end>21</end>
+						<in>285</in>
+						<out>306</out>
+						<pproTicksIn>0</pproTicksIn>
+						<pproTicksOut>3241942704000</pproTicksOut>
+						<alphatype>none</alphatype>
+						<pixelaspectratio>square</pixelaspectratio>
+						<anamorphic>FALSE</anamorphic>
+						<file id="file-414">
+							<name>wiblo_1_2000-01-01_1150_C0071.mov</name>
+							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/7-21%20magalys%20and%20healer%202/../7-21%20magalys%20and%20healer/wiblo_1_2000-01-01_1150_C0071.mov</pathurl>
+							<rate>
+								<timebase>24</timebase>
+								<ntsc>TRUE</ntsc>
+							</rate>
+							<duration>306</duration>
+							<timecode>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>TRUE</ntsc>
+								</rate>
+								<string>11:50:34:00</string>
+								<frame>1023216</frame>
+								<displayformat>NDF</displayformat>
+							</timecode>
+							<media>
+								<video>
+									<samplecharacteristics>
+										<rate>
+											<timebase>24</timebase>
+											<ntsc>TRUE</ntsc>
+										</rate>
+										<width>1920</width>
+										<height>1080</height>
+										<anamorphic>FALSE</anamorphic>
+										<pixelaspectratio>square</pixelaspectratio>
+										<fielddominance>none</fielddominance>
+									</samplecharacteristics>
+								</video>
+								<audio>
+									<samplecharacteristics>
+										<depth>16</depth>
+										<samplerate>48000</samplerate>
+									</samplecharacteristics>
+									<channelcount>2</channelcount>
+								</audio>
+							</media>
+						</file>
+						<logginginfo>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
+						</logginginfo>
+						<colorinfo>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
+						</colorinfo>
+						<labels>
+							<label2>Iris</label2>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-4f8cc3d2285c412db739277753228004">
+						<masterclipid>masterclip-416</masterclipid>
+						<name>wiblo_1_2000-01-01_1151_C0073.mov</name>
+						<enabled>TRUE</enabled>
+						<duration>56</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>640</start>
+						<end>696</end>
+						<in>0</in>
+						<out>56</out>
+						<pproTicksIn>0</pproTicksIn>
+						<pproTicksOut>2595673080000</pproTicksOut>
+						<alphatype>none</alphatype>
+						<pixelaspectratio>square</pixelaspectratio>
+						<anamorphic>FALSE</anamorphic>
+						<file id="file-416">
+							<name>wiblo_1_2000-01-01_1151_C0073.mov</name>
+							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/7-21%20magalys%20and%20healer%202/../7-21%20magalys%20and%20healer/wiblo_1_2000-01-01_1151_C0073.mov</pathurl>
+							<rate>
+								<timebase>24</timebase>
+								<ntsc>TRUE</ntsc>
+							</rate>
+							<duration>245</duration>
+							<timecode>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>TRUE</ntsc>
+								</rate>
+								<string>11:51:13:00</string>
+								<frame>1024152</frame>
+								<displayformat>NDF</displayformat>
+							</timecode>
+							<media>
+								<video>
+									<samplecharacteristics>
+										<rate>
+											<timebase>24</timebase>
+											<ntsc>TRUE</ntsc>
+										</rate>
+										<width>1920</width>
+										<height>1080</height>
+										<anamorphic>FALSE</anamorphic>
+										<pixelaspectratio>square</pixelaspectratio>
+										<fielddominance>none</fielddominance>
+									</samplecharacteristics>
+								</video>
+								<audio>
+									<samplecharacteristics>
+										<depth>16</depth>
+										<samplerate>48000</samplerate>
+									</samplecharacteristics>
+									<channelcount>2</channelcount>
+								</audio>
+							</media>
+						</file>
+						<logginginfo>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
+						</logginginfo>
+						<colorinfo>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
+						</colorinfo>
+						<labels>
+							<label2>Iris</label2>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-e665d9b64a194695a29417304ef5c16c">
+						<masterclipid>masterclip-423</masterclipid>
+						<name>wiblo_1_2000-01-01_1155_C0080.mov</name>
+						<enabled>TRUE</enabled>
+						<duration>672.0</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>665.2799999999993</start>
+						<end>1337.2799999999993</end>
+						<in>1116</in>
+						<out>1788</out>
+						<pproTicksIn>0</pproTicksIn>
+						<pproTicksOut>19642358736000</pproTicksOut>
+						<alphatype>none</alphatype>
+						<pixelaspectratio>square</pixelaspectratio>
+						<anamorphic>FALSE</anamorphic>
+						<file id="file-423">
+							<name>wiblo_1_2000-01-01_1155_C0080.mov</name>
+							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/7-21%20magalys%20and%20healer%202/../7-21%20magalys%20and%20healer/wiblo_1_2000-01-01_1155_C0080.mov</pathurl>
+							<rate>
+								<timebase>24</timebase>
+								<ntsc>TRUE</ntsc>
+							</rate>
+							<duration>1854</duration>
+							<timecode>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>TRUE</ntsc>
+								</rate>
+								<string>11:55:33:00</string>
+								<frame>1030392</frame>
+								<displayformat>NDF</displayformat>
+							</timecode>
+							<media>
+								<video>
+									<samplecharacteristics>
+										<rate>
+											<timebase>24</timebase>
+											<ntsc>TRUE</ntsc>
+										</rate>
+										<width>1920</width>
+										<height>1080</height>
+										<anamorphic>FALSE</anamorphic>
+										<pixelaspectratio>square</pixelaspectratio>
+										<fielddominance>none</fielddominance>
+									</samplecharacteristics>
+								</video>
+								<audio>
+									<samplecharacteristics>
+										<depth>16</depth>
+										<samplerate>48000</samplerate>
+									</samplecharacteristics>
+									<channelcount>2</channelcount>
+								</audio>
+							</media>
+						</file>
+						<logginginfo>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
+						</logginginfo>
+						<colorinfo>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
+						</colorinfo>
+						<labels>
+							<label2>Iris</label2>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-274">
+						<masterclipid>masterclip-219</masterclipid>
+						<name>C0650.MP4</name>
+						<enabled>TRUE</enabled>
+						<duration>396.0</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>1310.8799999999987</start>
+						<end>1706.8799999999987</end>
+						<in>207</in>
+						<out>603</out>
+						<pproTicksIn>1938808872000</pproTicksIn>
+						<pproTicksOut>6388534152000</pproTicksOut>
+						<alphatype>none</alphatype>
+						<pixelaspectratio>square</pixelaspectratio>
+						<anamorphic>FALSE</anamorphic>
+						<file id="file-219">
+							<name>C0650.MP4</name>
+							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/sony/nazareth/C0650.MP4</pathurl>
+							<rate>
+								<timebase>24</timebase>
+								<ntsc>TRUE</ntsc>
+							</rate>
+							<duration>2196</duration>
+							<timecode>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>TRUE</ntsc>
+								</rate>
+								<string>09:35:25:16</string>
+								<frame>828616</frame>
+								<displayformat>NDF</displayformat>
+							</timecode>
+							<media>
+								<video>
+									<samplecharacteristics>
+										<rate>
+											<timebase>24</timebase>
+											<ntsc>TRUE</ntsc>
+										</rate>
+										<width>1920</width>
+										<height>1080</height>
+										<anamorphic>FALSE</anamorphic>
+										<pixelaspectratio>square</pixelaspectratio>
+										<fielddominance>none</fielddominance>
+									</samplecharacteristics>
+								</video>
+								<audio>
+									<samplecharacteristics>
+										<depth>16</depth>
+										<samplerate>48000</samplerate>
+									</samplecharacteristics>
+									<channelcount>2</channelcount>
+								</audio>
+							</media>
+						</file>
+						<logginginfo>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
+						</logginginfo>
+						<colorinfo>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
+						</colorinfo>
+						<labels>
+							<label2>Iris</label2>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-275">
+						<masterclipid>masterclip-219</masterclipid>
+						<name>C0650.MP4</name>
+						<enabled>TRUE</enabled>
+						<duration>255.0</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>2039.8799999999987</start>
+						<end>2294.8799999999987</end>
+						<in>936</in>
+						<out>1191</out>
+						<pproTicksIn>9916530624000</pproTicksIn>
+						<pproTicksOut>14217931728000</pproTicksOut>
+						<alphatype>none</alphatype>
+						<file id="file-219" />
+						<logginginfo>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
+						</logginginfo>
+						<colorinfo>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
+						</colorinfo>
+						<labels>
+							<label2>Iris</label2>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-281">
+						<masterclipid>masterclip-223</masterclipid>
+						<name>C0654.MP4</name>
+						<enabled>TRUE</enabled>
+						<duration>332.0</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>2071.3507320848153</start>
+						<end>2403.3507320848153</end>
+						<in>1216</in>
+						<out>1548</out>
+						<pproTicksIn>7723451736000</pproTicksIn>
+						<pproTicksOut>16400416032000</pproTicksOut>
+						<alphatype>none</alphatype>
+						<file id="file-223" />
+						<logginginfo>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
+						</logginginfo>
+						<colorinfo>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
+						</colorinfo>
+						<labels>
+							<label2>Iris</label2>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-16024ce101c64b5eb8b0c24c73a7a5df">
+						<masterclipid>masterclip-723</masterclipid>
+						<name>C0581.MP4</name>
+						<enabled>TRUE</enabled>
+						<duration>1368.0</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>2611.965152147511</start>
+						<end>3979.965152147511</end>
+						<in>7016</in>
+						<out>8384</out>
+						<pproTicksIn>12798257472000</pproTicksIn>
+						<pproTicksOut>783713162232000</pproTicksOut>
+						<alphatype>none</alphatype>
+						<pixelaspectratio>square</pixelaspectratio>
+						<anamorphic>FALSE</anamorphic>
+						<file id="file-723">
+							<name>C0581.MP4</name>
+							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/sony/nazareth/C0581.MP4</pathurl>
+							<rate>
+								<timebase>24</timebase>
+								<ntsc>TRUE</ntsc>
+							</rate>
+							<duration>74112</duration>
+							<timecode>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>TRUE</ntsc>
+								</rate>
+								<string>07:05:34:04</string>
+								<frame>612820</frame>
+								<displayformat>NDF</displayformat>
+							</timecode>
+							<media>
+								<video>
+									<samplecharacteristics>
+										<rate>
+											<timebase>24</timebase>
+											<ntsc>TRUE</ntsc>
+										</rate>
+										<width>1920</width>
+										<height>1080</height>
+										<anamorphic>FALSE</anamorphic>
+										<pixelaspectratio>square</pixelaspectratio>
+										<fielddominance>none</fielddominance>
+									</samplecharacteristics>
+								</video>
+								<audio>
+									<samplecharacteristics>
+										<depth>16</depth>
+										<samplerate>48000</samplerate>
+									</samplecharacteristics>
+									<channelcount>2</channelcount>
+								</audio>
+							</media>
+						</file>
+						<logginginfo>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
+						</logginginfo>
+						<colorinfo>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
+						</colorinfo>
+						<labels>
+							<label2>Iris</label2>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-16024ce101c64b5eb8b0c24c73a7a5df">
+						<masterclipid>masterclip-723</masterclipid>
+						<name>C0581.MP4</name>
+						<enabled>TRUE</enabled>
+						<duration>936.0000000000005</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>3562.516957099316</start>
+						<end>4498.516957099317</end>
+						<in>40520</in>
+						<out>41456</out>
+						<pproTicksIn>12798257472000</pproTicksIn>
+						<pproTicksOut>783713162232000</pproTicksOut>
+						<alphatype>none</alphatype>
+						<pixelaspectratio>square</pixelaspectratio>
+						<anamorphic>FALSE</anamorphic>
+						<file id="file-723">
+							<name>C0581.MP4</name>
+							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/sony/nazareth/C0581.MP4</pathurl>
+							<rate>
+								<timebase>24</timebase>
+								<ntsc>TRUE</ntsc>
+							</rate>
+							<duration>74112</duration>
+							<timecode>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>TRUE</ntsc>
+								</rate>
+								<string>07:05:34:04</string>
+								<frame>612820</frame>
+								<displayformat>NDF</displayformat>
+							</timecode>
+							<media>
+								<video>
+									<samplecharacteristics>
+										<rate>
+											<timebase>24</timebase>
+											<ntsc>TRUE</ntsc>
+										</rate>
+										<width>1920</width>
+										<height>1080</height>
+										<anamorphic>FALSE</anamorphic>
+										<pixelaspectratio>square</pixelaspectratio>
+										<fielddominance>none</fielddominance>
+									</samplecharacteristics>
+								</video>
+								<audio>
+									<samplecharacteristics>
+										<depth>16</depth>
+										<samplerate>48000</samplerate>
+									</samplecharacteristics>
+									<channelcount>2</channelcount>
+								</audio>
+							</media>
+						</file>
+						<logginginfo>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
+						</logginginfo>
+						<colorinfo>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
+						</colorinfo>
+						<labels>
+							<label2>Iris</label2>
+						</labels>
+					</clipitem>
+					</track>
+		
+					
+					</sequence></xmeml>

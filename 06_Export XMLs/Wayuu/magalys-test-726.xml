@@ -1,0 +1,2555 @@
+<xmeml version="4"><sequence id="sequence-2" TL_SQAudioVisibleBase="0" TL_SQVideoVisibleBase="0" TL_SQVisibleBaseTime="0" TL_SQAVDividerPosition="0.5" TL_SQHideShyTracks="0" TL_SQHeaderWidth="236" TL_SQDataTrackViewControlState="0" Monitor_ProgramZoomOut="340011984312000" Monitor_ProgramZoomIn="0" TL_SQTimePerPixel="1.6034289012958367" MZ_EditLine="333083126376000" MZ_Sequence_PreviewFrameSizeHeight="1080" MZ_Sequence_PreviewFrameSizeWidth="1920" MZ_Sequence_AudioTimeDisplayFormat="200" MZ_Sequence_PreviewUseMaxRenderQuality="false" MZ_Sequence_PreviewUseMaxBitDepth="false" MZ_Sequence_VideoTimeDisplayFormat="110" MZ_WorkOutPoint="15235011792000" MZ_WorkInPoint="0" MZ_ZeroPoint="0" explodedTracks="true"><uuid>50e61931-251f-4069-8193-a3fbad7f93ff</uuid><duration>31533</duration><rate><timebase>24</timebase><ntsc>TRUE</ntsc></rate><name>../06_Export XMLs/Wayuu/magalys-test</name><media><video><format><samplecharacteristics><rate><timebase>24</timebase><ntsc>TRUE</ntsc></rate><codec><name>Apple ProRes 422</name><appspecificdata><appname>Final Cut Pro</appname><appmanufacturer>Apple Inc.</appmanufacturer><appversion>7.0</appversion><data><qtcodec><codecname>Apple ProRes 422</codecname><codectypename>Apple ProRes 422</codectypename><codectypecode>apcn</codectypecode><codecvendorcode>appl</codecvendorcode><spatialquality>1024</spatialquality><temporalquality>0</temporalquality><keyframerate>0</keyframerate><datarate>0</datarate></qtcodec></data></appspecificdata></codec><width>1920</width><height>1080</height><anamorphic>FALSE</anamorphic><pixelaspectratio>square</pixelaspectratio><fielddominance>none</fielddominance><colordepth>24</colordepth></samplecharacteristics></format><track TL_SQTrackShy="0" TL_SQTrackExpandedHeight="25" TL_SQTrackExpanded="0" MZ_TrackTargeted="1"><clipitem id="clipitem-0bd11556740b45f6b6337edd6bfb3245">
+						<masterclipid>masterclip-414</masterclipid>
+						<name>wiblo_1_2000-01-01_1150_C0071.mov</name>
+						<enabled>TRUE</enabled>
+						<duration>21</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>0</start>
+						<end>21</end>
+						<in>285</in>
+						<out>306</out>
+						<pproTicksIn>0</pproTicksIn>
+						<pproTicksOut>3241942704000</pproTicksOut>
+						<alphatype>none</alphatype>
+						<pixelaspectratio>square</pixelaspectratio>
+						<anamorphic>FALSE</anamorphic>
+						<file id="file-414">
+							<name>wiblo_1_2000-01-01_1150_C0071.mov</name>
+							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/7-21%20magalys%20and%20healer%202/../7-21%20magalys%20and%20healer/wiblo_1_2000-01-01_1150_C0071.mov</pathurl>
+							<rate>
+								<timebase>24</timebase>
+								<ntsc>TRUE</ntsc>
+							</rate>
+							<duration>306</duration>
+							<timecode>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>TRUE</ntsc>
+								</rate>
+								<string>11:50:34:00</string>
+								<frame>1023216</frame>
+								<displayformat>NDF</displayformat>
+							</timecode>
+							<media>
+								<video>
+									<samplecharacteristics>
+										<rate>
+											<timebase>24</timebase>
+											<ntsc>TRUE</ntsc>
+										</rate>
+										<width>1920</width>
+										<height>1080</height>
+										<anamorphic>FALSE</anamorphic>
+										<pixelaspectratio>square</pixelaspectratio>
+										<fielddominance>none</fielddominance>
+									</samplecharacteristics>
+								</video>
+								<audio>
+									<samplecharacteristics>
+										<depth>16</depth>
+										<samplerate>48000</samplerate>
+									</samplecharacteristics>
+									<channelcount>2</channelcount>
+								</audio>
+							</media>
+						</file>
+						<logginginfo>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
+						</logginginfo>
+						<colorinfo>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
+						</colorinfo>
+						<labels>
+							<label2>Iris</label2>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-4f8cc3d2285c412db739277753228004">
+						<masterclipid>masterclip-416</masterclipid>
+						<name>wiblo_1_2000-01-01_1151_C0073.mov</name>
+						<enabled>TRUE</enabled>
+						<duration>56</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>640</start>
+						<end>696</end>
+						<in>0</in>
+						<out>56</out>
+						<pproTicksIn>0</pproTicksIn>
+						<pproTicksOut>2595673080000</pproTicksOut>
+						<alphatype>none</alphatype>
+						<pixelaspectratio>square</pixelaspectratio>
+						<anamorphic>FALSE</anamorphic>
+						<file id="file-416">
+							<name>wiblo_1_2000-01-01_1151_C0073.mov</name>
+							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/7-21%20magalys%20and%20healer%202/../7-21%20magalys%20and%20healer/wiblo_1_2000-01-01_1151_C0073.mov</pathurl>
+							<rate>
+								<timebase>24</timebase>
+								<ntsc>TRUE</ntsc>
+							</rate>
+							<duration>245</duration>
+							<timecode>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>TRUE</ntsc>
+								</rate>
+								<string>11:51:13:00</string>
+								<frame>1024152</frame>
+								<displayformat>NDF</displayformat>
+							</timecode>
+							<media>
+								<video>
+									<samplecharacteristics>
+										<rate>
+											<timebase>24</timebase>
+											<ntsc>TRUE</ntsc>
+										</rate>
+										<width>1920</width>
+										<height>1080</height>
+										<anamorphic>FALSE</anamorphic>
+										<pixelaspectratio>square</pixelaspectratio>
+										<fielddominance>none</fielddominance>
+									</samplecharacteristics>
+								</video>
+								<audio>
+									<samplecharacteristics>
+										<depth>16</depth>
+										<samplerate>48000</samplerate>
+									</samplecharacteristics>
+									<channelcount>2</channelcount>
+								</audio>
+							</media>
+						</file>
+						<logginginfo>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
+						</logginginfo>
+						<colorinfo>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
+						</colorinfo>
+						<labels>
+							<label2>Iris</label2>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-e665d9b64a194695a29417304ef5c16c">
+						<masterclipid>masterclip-423</masterclipid>
+						<name>wiblo_1_2000-01-01_1155_C0080.mov</name>
+						<enabled>TRUE</enabled>
+						<duration>672.0</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>665.2799999999993</start>
+						<end>1337.2799999999993</end>
+						<in>1116</in>
+						<out>1788</out>
+						<pproTicksIn>0</pproTicksIn>
+						<pproTicksOut>19642358736000</pproTicksOut>
+						<alphatype>none</alphatype>
+						<pixelaspectratio>square</pixelaspectratio>
+						<anamorphic>FALSE</anamorphic>
+						<file id="file-423">
+							<name>wiblo_1_2000-01-01_1155_C0080.mov</name>
+							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/7-21%20magalys%20and%20healer%202/../7-21%20magalys%20and%20healer/wiblo_1_2000-01-01_1155_C0080.mov</pathurl>
+							<rate>
+								<timebase>24</timebase>
+								<ntsc>TRUE</ntsc>
+							</rate>
+							<duration>1854</duration>
+							<timecode>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>TRUE</ntsc>
+								</rate>
+								<string>11:55:33:00</string>
+								<frame>1030392</frame>
+								<displayformat>NDF</displayformat>
+							</timecode>
+							<media>
+								<video>
+									<samplecharacteristics>
+										<rate>
+											<timebase>24</timebase>
+											<ntsc>TRUE</ntsc>
+										</rate>
+										<width>1920</width>
+										<height>1080</height>
+										<anamorphic>FALSE</anamorphic>
+										<pixelaspectratio>square</pixelaspectratio>
+										<fielddominance>none</fielddominance>
+									</samplecharacteristics>
+								</video>
+								<audio>
+									<samplecharacteristics>
+										<depth>16</depth>
+										<samplerate>48000</samplerate>
+									</samplecharacteristics>
+									<channelcount>2</channelcount>
+								</audio>
+							</media>
+						</file>
+						<logginginfo>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
+						</logginginfo>
+						<colorinfo>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
+						</colorinfo>
+						<labels>
+							<label2>Iris</label2>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-274">
+						<masterclipid>masterclip-219</masterclipid>
+						<name>C0650.MP4</name>
+						<enabled>TRUE</enabled>
+						<duration>396.0</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>1310.8799999999987</start>
+						<end>1706.8799999999987</end>
+						<in>207</in>
+						<out>603</out>
+						<pproTicksIn>1938808872000</pproTicksIn>
+						<pproTicksOut>6388534152000</pproTicksOut>
+						<alphatype>none</alphatype>
+						<pixelaspectratio>square</pixelaspectratio>
+						<anamorphic>FALSE</anamorphic>
+						<file id="file-219">
+							<name>C0650.MP4</name>
+							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/sony/nazareth/C0650.MP4</pathurl>
+							<rate>
+								<timebase>24</timebase>
+								<ntsc>TRUE</ntsc>
+							</rate>
+							<duration>2196</duration>
+							<timecode>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>TRUE</ntsc>
+								</rate>
+								<string>09:35:25:16</string>
+								<frame>828616</frame>
+								<displayformat>NDF</displayformat>
+							</timecode>
+							<media>
+								<video>
+									<samplecharacteristics>
+										<rate>
+											<timebase>24</timebase>
+											<ntsc>TRUE</ntsc>
+										</rate>
+										<width>1920</width>
+										<height>1080</height>
+										<anamorphic>FALSE</anamorphic>
+										<pixelaspectratio>square</pixelaspectratio>
+										<fielddominance>none</fielddominance>
+									</samplecharacteristics>
+								</video>
+								<audio>
+									<samplecharacteristics>
+										<depth>16</depth>
+										<samplerate>48000</samplerate>
+									</samplecharacteristics>
+									<channelcount>2</channelcount>
+								</audio>
+							</media>
+						</file>
+						<logginginfo>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
+						</logginginfo>
+						<colorinfo>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
+						</colorinfo>
+						<labels>
+							<label2>Iris</label2>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-275">
+						<masterclipid>masterclip-219</masterclipid>
+						<name>C0650.MP4</name>
+						<enabled>TRUE</enabled>
+						<duration>255.0</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>2039.8799999999987</start>
+						<end>2294.8799999999987</end>
+						<in>936</in>
+						<out>1191</out>
+						<pproTicksIn>9916530624000</pproTicksIn>
+						<pproTicksOut>14217931728000</pproTicksOut>
+						<alphatype>none</alphatype>
+						<file id="file-219" />
+						<logginginfo>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
+						</logginginfo>
+						<colorinfo>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
+						</colorinfo>
+						<labels>
+							<label2>Iris</label2>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-281">
+						<masterclipid>masterclip-223</masterclipid>
+						<name>C0654.MP4</name>
+						<enabled>TRUE</enabled>
+						<duration>332.0</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>2071.3507320848153</start>
+						<end>2403.3507320848153</end>
+						<in>1216</in>
+						<out>1548</out>
+						<pproTicksIn>7723451736000</pproTicksIn>
+						<pproTicksOut>16400416032000</pproTicksOut>
+						<alphatype>none</alphatype>
+						<file id="file-223" />
+						<logginginfo>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
+						</logginginfo>
+						<colorinfo>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
+						</colorinfo>
+						<labels>
+							<label2>Iris</label2>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-16024ce101c64b5eb8b0c24c73a7a5df">
+						<masterclipid>masterclip-723</masterclipid>
+						<name>C0581.MP4</name>
+						<enabled>TRUE</enabled>
+						<duration>1368.0</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>2611.965152147511</start>
+						<end>3979.965152147511</end>
+						<in>7016</in>
+						<out>8384</out>
+						<pproTicksIn>12798257472000</pproTicksIn>
+						<pproTicksOut>783713162232000</pproTicksOut>
+						<alphatype>none</alphatype>
+						<pixelaspectratio>square</pixelaspectratio>
+						<anamorphic>FALSE</anamorphic>
+						<file id="file-723">
+							<name>C0581.MP4</name>
+							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/sony/nazareth/C0581.MP4</pathurl>
+							<rate>
+								<timebase>24</timebase>
+								<ntsc>TRUE</ntsc>
+							</rate>
+							<duration>74112</duration>
+							<timecode>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>TRUE</ntsc>
+								</rate>
+								<string>07:05:34:04</string>
+								<frame>612820</frame>
+								<displayformat>NDF</displayformat>
+							</timecode>
+							<media>
+								<video>
+									<samplecharacteristics>
+										<rate>
+											<timebase>24</timebase>
+											<ntsc>TRUE</ntsc>
+										</rate>
+										<width>1920</width>
+										<height>1080</height>
+										<anamorphic>FALSE</anamorphic>
+										<pixelaspectratio>square</pixelaspectratio>
+										<fielddominance>none</fielddominance>
+									</samplecharacteristics>
+								</video>
+								<audio>
+									<samplecharacteristics>
+										<depth>16</depth>
+										<samplerate>48000</samplerate>
+									</samplecharacteristics>
+									<channelcount>2</channelcount>
+								</audio>
+							</media>
+						</file>
+						<logginginfo>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
+						</logginginfo>
+						<colorinfo>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
+						</colorinfo>
+						<labels>
+							<label2>Iris</label2>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-16024ce101c64b5eb8b0c24c73a7a5df">
+						<masterclipid>masterclip-723</masterclipid>
+						<name>C0581.MP4</name>
+						<enabled>TRUE</enabled>
+						<duration>936.0000000000005</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>3562.516957099316</start>
+						<end>4498.516957099317</end>
+						<in>40520</in>
+						<out>41456</out>
+						<pproTicksIn>12798257472000</pproTicksIn>
+						<pproTicksOut>783713162232000</pproTicksOut>
+						<alphatype>none</alphatype>
+						<pixelaspectratio>square</pixelaspectratio>
+						<anamorphic>FALSE</anamorphic>
+						<file id="file-723">
+							<name>C0581.MP4</name>
+							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/sony/nazareth/C0581.MP4</pathurl>
+							<rate>
+								<timebase>24</timebase>
+								<ntsc>TRUE</ntsc>
+							</rate>
+							<duration>74112</duration>
+							<timecode>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>TRUE</ntsc>
+								</rate>
+								<string>07:05:34:04</string>
+								<frame>612820</frame>
+								<displayformat>NDF</displayformat>
+							</timecode>
+							<media>
+								<video>
+									<samplecharacteristics>
+										<rate>
+											<timebase>24</timebase>
+											<ntsc>TRUE</ntsc>
+										</rate>
+										<width>1920</width>
+										<height>1080</height>
+										<anamorphic>FALSE</anamorphic>
+										<pixelaspectratio>square</pixelaspectratio>
+										<fielddominance>none</fielddominance>
+									</samplecharacteristics>
+								</video>
+								<audio>
+									<samplecharacteristics>
+										<depth>16</depth>
+										<samplerate>48000</samplerate>
+									</samplecharacteristics>
+									<channelcount>2</channelcount>
+								</audio>
+							</media>
+						</file>
+						<logginginfo>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
+						</logginginfo>
+						<colorinfo>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
+						</colorinfo>
+						<labels>
+							<label2>Iris</label2>
+						</labels>
+					</clipitem>
+					</track><track TL_SQTrackShy="0" TL_SQTrackExpandedHeight="25" TL_SQTrackExpanded="0" MZ_TrackTargeted="0"><clipitem id="clipitem-c6ba078c335741fdacb20666aae31c1c">
+						<masterclipid>masterclip-476</masterclipid>
+						<name>julian_1_2021-12-26_1652_C0026.mov</name>
+						<enabled>TRUE</enabled>
+						<duration>696</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>0</start>
+						<end>696</end>
+						<in>197</in>
+						<out>893</out>
+						<pproTicksIn>0</pproTicksIn>
+						<pproTicksOut>13476310848000</pproTicksOut>
+						<alphatype>none</alphatype>
+						<pixelaspectratio>square</pixelaspectratio>
+						<anamorphic>FALSE</anamorphic>
+						<file id="file-476">
+							<name>julian_1_2021-12-26_1652_C0026.mov</name>
+							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/7-21%20magalys%20and%20healer%202/../7-21%20magalys%20and%20healer/../7-21%20magalys%20and%20piedra/julian_1_2021-12-26_1652_C0026.mov</pathurl>
+							<rate>
+								<timebase>24</timebase>
+								<ntsc>TRUE</ntsc>
+							</rate>
+							<duration>1272</duration>
+							<timecode>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>TRUE</ntsc>
+								</rate>
+								<string>16:52:51:00</string>
+								<frame>1458504</frame>
+								<displayformat>NDF</displayformat>
+							</timecode>
+							<media>
+								<video>
+									<samplecharacteristics>
+										<rate>
+											<timebase>24</timebase>
+											<ntsc>TRUE</ntsc>
+										</rate>
+										<width>1920</width>
+										<height>1080</height>
+										<anamorphic>FALSE</anamorphic>
+										<pixelaspectratio>square</pixelaspectratio>
+										<fielddominance>none</fielddominance>
+									</samplecharacteristics>
+								</video>
+								<audio>
+									<samplecharacteristics>
+										<depth>16</depth>
+										<samplerate>48000</samplerate>
+									</samplecharacteristics>
+									<channelcount>2</channelcount>
+								</audio>
+							</media>
+						</file>
+						<logginginfo>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
+						</logginginfo>
+						<colorinfo>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
+						</colorinfo>
+						<labels>
+							<label2>Iris</label2>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-291">
+						<masterclipid>masterclip-233</masterclipid>
+						<name>wiblo_1_2000-01-01_2257_C0081.mov</name>
+						<enabled>TRUE</enabled>
+						<duration>396.0</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>1310.8799999999987</start>
+						<end>1706.8799999999987</end>
+						<in>164</in>
+						<out>560</out>
+						<pproTicksIn>1483241760000</pproTicksIn>
+						<pproTicksOut>5932967040000</pproTicksOut>
+						<alphatype>none</alphatype>
+						<pixelaspectratio>square</pixelaspectratio>
+						<anamorphic>FALSE</anamorphic>
+						<file id="file-233">
+							<name>wiblo_1_2000-01-01_2257_C0081.mov</name>
+							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/7-21%20magalys%20and%20healer%202/wiblo_1_2000-01-01_2257_C0081.mov</pathurl>
+							<rate>
+								<timebase>24</timebase>
+								<ntsc>TRUE</ntsc>
+							</rate>
+							<duration>1330</duration>
+							<timecode>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>TRUE</ntsc>
+								</rate>
+								<string>22:57:26:00</string>
+								<frame>1983504</frame>
+								<displayformat>NDF</displayformat>
+							</timecode>
+							<media>
+								<video>
+									<samplecharacteristics>
+										<rate>
+											<timebase>24</timebase>
+											<ntsc>TRUE</ntsc>
+										</rate>
+										<width>1920</width>
+										<height>1080</height>
+										<anamorphic>FALSE</anamorphic>
+										<pixelaspectratio>square</pixelaspectratio>
+										<fielddominance>none</fielddominance>
+									</samplecharacteristics>
+								</video>
+								<audio>
+									<samplecharacteristics>
+										<depth>16</depth>
+										<samplerate>48000</samplerate>
+									</samplecharacteristics>
+									<channelcount>2</channelcount>
+								</audio>
+							</media>
+						</file>
+						<filter>
+							<effect>
+								<name />
+								<effectid>Lumetri</effectid>
+								<effecttype>filter</effecttype>
+								<mediatype>video</mediatype>
+								<pproBypass>false</pproBypass>
+								<parameter authoringApp="PremierePro">
+									<parameterid>3</parameterid>
+									<name> </name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>4</ParameterControlType>
+									<LowerBound>false</LowerBound>
+									<UpperBound>true</UpperBound>
+									<value>-91445760000000000,true,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>5</parameterid>
+									<name>Input LUT</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>7</ParameterControlType>
+									<LowerBound>0</LowerBound>
+									<UpperBound>998</UpperBound>
+									<value>-91445760000000000,0,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>7</parameterid>
+									<name>Temperature</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>-300</LowerBound>
+									<UpperBound>300</UpperBound>
+									<LowerUIBound>-100</LowerUIBound>
+									<UpperUIBound>100</UpperUIBound>
+									<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>8</parameterid>
+									<name>Tint</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>-300</LowerBound>
+									<UpperBound>300</UpperBound>
+									<LowerUIBound>-100</LowerUIBound>
+									<UpperUIBound>100</UpperUIBound>
+									<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>20</parameterid>
+									<name>Saturation</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>0</LowerBound>
+									<UpperBound>300</UpperBound>
+									<UpperUIBound>200</UpperUIBound>
+									<value>-91445760000000000,100.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>11</parameterid>
+									<name>Exposure</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>-7</LowerBound>
+									<UpperBound>7</UpperBound>
+									<LowerUIBound>-5</LowerUIBound>
+									<UpperUIBound>5</UpperUIBound>
+									<value>-91445760000000000,-0.6999995708465576171875,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>12</parameterid>
+									<name>Contrast</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>-150</LowerBound>
+									<UpperBound>150</UpperBound>
+									<LowerUIBound>-100</LowerUIBound>
+									<UpperUIBound>100</UpperUIBound>
+									<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>13</parameterid>
+									<name>Highlights</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>-150</LowerBound>
+									<UpperBound>150</UpperBound>
+									<LowerUIBound>-100</LowerUIBound>
+									<UpperUIBound>100</UpperUIBound>
+									<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>14</parameterid>
+									<name>Shadows</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>-150</LowerBound>
+									<UpperBound>150</UpperBound>
+									<LowerUIBound>-100</LowerUIBound>
+									<UpperUIBound>100</UpperUIBound>
+									<value>-91445760000000000,-62.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>15</parameterid>
+									<name>Whites</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>-150</LowerBound>
+									<UpperBound>150</UpperBound>
+									<LowerUIBound>-100</LowerUIBound>
+									<UpperUIBound>100</UpperUIBound>
+									<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>16</parameterid>
+									<name>Blacks</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>-150</LowerBound>
+									<UpperBound>150</UpperBound>
+									<LowerUIBound>-100</LowerUIBound>
+									<UpperUIBound>100</UpperUIBound>
+									<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>23</parameterid>
+									<name> </name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>4</ParameterControlType>
+									<LowerBound>false</LowerBound>
+									<UpperBound>true</UpperBound>
+									<value>-91445760000000000,true,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>25</parameterid>
+									<name>Look</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>7</ParameterControlType>
+									<LowerBound>0</LowerBound>
+									<UpperBound>998</UpperBound>
+									<value>-91445760000000000,0,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>26</parameterid>
+									<name>Intensity</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>0</LowerBound>
+									<UpperBound>200</UpperBound>
+									<value>-91445760000000000,100.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>28</parameterid>
+									<name>Faded Film</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>0</LowerBound>
+									<UpperBound>150</UpperBound>
+									<UpperUIBound>100</UpperUIBound>
+									<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>29</parameterid>
+									<name>Sharpen</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>-100</LowerBound>
+									<UpperBound>100</UpperBound>
+									<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>30</parameterid>
+									<name>Vibrance</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>-100</LowerBound>
+									<UpperBound>100</UpperBound>
+									<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>31</parameterid>
+									<name>Saturation</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>0</LowerBound>
+									<UpperBound>300</UpperBound>
+									<UpperUIBound>200</UpperUIBound>
+									<value>-91445760000000000,100.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>32</parameterid>
+									<name />
+									<hash>0c1f3f8c-2e76-f243-6a18-772c00000046</hash>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>33</parameterid>
+									<name>Tint Balance</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>-150</LowerBound>
+									<UpperBound>150</UpperBound>
+									<LowerUIBound>-100</LowerUIBound>
+									<UpperUIBound>100</UpperUIBound>
+									<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>37</parameterid>
+									<name> </name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>4</ParameterControlType>
+									<LowerBound>false</LowerBound>
+									<UpperBound>true</UpperBound>
+									<value>-91445760000000000,true,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>39</parameterid>
+									<name> </name>
+									<hash>6e125c40-4eea-7ee4-3dea-e45900000e81</hash>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>42</parameterid>
+									<name>Hue vs Sat</name>
+									<hash>504e94a9-68de-d201-9cb1-8543000003ac</hash>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>46</parameterid>
+									<name> </name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>4</ParameterControlType>
+									<LowerBound>false</LowerBound>
+									<UpperBound>true</UpperBound>
+									<value>-91445760000000000,true,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>47</parameterid>
+									<name> </name>
+									<hash>67bf89d7-1155-0bbe-eeac-f480000000b6</hash>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>50</parameterid>
+									<name> </name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>4</ParameterControlType>
+									<LowerBound>false</LowerBound>
+									<UpperBound>true</UpperBound>
+									<value>-91445760000000000,true,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>51</parameterid>
+									<name>Amount</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>-5</LowerBound>
+									<UpperBound>5</UpperBound>
+									<LowerUIBound>-3</LowerUIBound>
+									<UpperUIBound>3</UpperUIBound>
+									<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>52</parameterid>
+									<name>Midpoint</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>0</LowerBound>
+									<UpperBound>100</UpperBound>
+									<value>-91445760000000000,50.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>53</parameterid>
+									<name>Roundness</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>-100</LowerBound>
+									<UpperBound>100</UpperBound>
+									<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>54</parameterid>
+									<name>Feather</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>0</LowerBound>
+									<UpperBound>100</UpperBound>
+									<value>-91445760000000000,50.,0,0,0,0,0,0</value>
+								</parameter>
+							</effect>
+						</filter>
+						<logginginfo>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
+						</logginginfo>
+						<colorinfo>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
+						</colorinfo>
+						<labels>
+							<label2>Iris</label2>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-293">
+						<masterclipid>masterclip-233</masterclipid>
+						<name>wiblo_1_2000-01-01_2257_C0081.mov</name>
+						<enabled>TRUE</enabled>
+						<duration>255.0</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>2039.8799999999987</start>
+						<end>2294.8799999999987</end>
+						<in>893</in>
+						<out>1148</out>
+						<pproTicksIn>9460963512000</pproTicksIn>
+						<pproTicksOut>13762364616000</pproTicksOut>
+						<alphatype>none</alphatype>
+						<file id="file-233" />
+						<logginginfo>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
+						</logginginfo>
+						<colorinfo>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
+						</colorinfo>
+						<labels>
+							<label2>Iris</label2>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-300">
+						<masterclipid>masterclip-238</masterclipid>
+						<name>wiblo_1_2000-01-01_2305_C0086.mov</name>
+						<enabled>TRUE</enabled>
+						<duration>55.0</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>2856.3507320848153</start>
+						<end>2911.3507320848153</end>
+						<in>0</in>
+						<out>55</out>
+						<pproTicksIn>0</pproTicksIn>
+						<pproTicksOut>6505074576000</pproTicksOut>
+						<alphatype>none</alphatype>
+						<pixelaspectratio>square</pixelaspectratio>
+						<anamorphic>FALSE</anamorphic>
+						<file id="file-238">
+							<name>wiblo_1_2000-01-01_2305_C0086.mov</name>
+							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/7-21%20magalys%20and%20healer%202/wiblo_1_2000-01-01_2305_C0086.mov</pathurl>
+							<rate>
+								<timebase>24</timebase>
+								<ntsc>TRUE</ntsc>
+							</rate>
+							<duration>614</duration>
+							<timecode>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>TRUE</ntsc>
+								</rate>
+								<string>23:05:01:00</string>
+								<frame>1994424</frame>
+								<displayformat>NDF</displayformat>
+							</timecode>
+							<media>
+								<video>
+									<samplecharacteristics>
+										<rate>
+											<timebase>24</timebase>
+											<ntsc>TRUE</ntsc>
+										</rate>
+										<width>1920</width>
+										<height>1080</height>
+										<anamorphic>FALSE</anamorphic>
+										<pixelaspectratio>square</pixelaspectratio>
+										<fielddominance>none</fielddominance>
+									</samplecharacteristics>
+								</video>
+								<audio>
+									<samplecharacteristics>
+										<depth>16</depth>
+										<samplerate>48000</samplerate>
+									</samplecharacteristics>
+									<channelcount>2</channelcount>
+								</audio>
+							</media>
+						</file>
+						<logginginfo>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
+						</logginginfo>
+						<colorinfo>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
+						</colorinfo>
+						<labels>
+							<label2>Rose</label2>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-1fa55432ded24f65ab063ff9b2138be5">
+						<masterclipid>masterclip-725</masterclipid>
+						<name>wiblo_1_2000-01-01_1053_C0035.mov</name>
+						<enabled>TRUE</enabled>
+						<duration>1368.0</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>2611.965152147511</start>
+						<end>3979.965152147511</end>
+						<in>4078</in>
+						<out>5446</out>
+						<pproTicksIn>42473687256000</pproTicksIn>
+						<pproTicksOut>91855043280000</pproTicksOut>
+						<alphatype>none</alphatype>
+						<file id="file-725" />
+						<logginginfo>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
+						</logginginfo>
+						<colorinfo>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
+						</colorinfo>
+						<labels>
+							<label2>Iris</label2>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-cbbf82c5871f44ffbadd83ceaab1d383">
+						<masterclipid>masterclip-731</masterclipid>
+						<name>wiblo_1_2000-01-01_1115_C0036.mov</name>
+						<enabled>TRUE</enabled>
+						<duration>374.0</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>3562.516957099316</start>
+						<end>3936.516957099316</end>
+						<in>5330</in>
+						<out>5704</out>
+						<pproTicksIn>0</pproTicksIn>
+						<pproTicksOut>60431507136000</pproTicksOut>
+						<alphatype>none</alphatype>
+						<pixelaspectratio>square</pixelaspectratio>
+						<anamorphic>FALSE</anamorphic>
+						<file id="file-731">
+							<name>wiblo_1_2000-01-01_1115_C0036.mov</name>
+							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/7-21%20magalys%20and%20healer%202/../7-21%20magalys%20and%20healer/wiblo_1_2000-01-01_1115_C0036.mov</pathurl>
+							<rate>
+								<timebase>24</timebase>
+								<ntsc>TRUE</ntsc>
+							</rate>
+							<duration>5704</duration>
+							<timecode>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>TRUE</ntsc>
+								</rate>
+								<string>11:15:39:00</string>
+								<frame>972936</frame>
+								<displayformat>NDF</displayformat>
+							</timecode>
+							<media>
+								<video>
+									<samplecharacteristics>
+										<rate>
+											<timebase>24</timebase>
+											<ntsc>TRUE</ntsc>
+										</rate>
+										<width>1920</width>
+										<height>1080</height>
+										<anamorphic>FALSE</anamorphic>
+										<pixelaspectratio>square</pixelaspectratio>
+										<fielddominance>none</fielddominance>
+									</samplecharacteristics>
+								</video>
+								<audio>
+									<samplecharacteristics>
+										<depth>16</depth>
+										<samplerate>48000</samplerate>
+									</samplecharacteristics>
+									<channelcount>2</channelcount>
+								</audio>
+							</media>
+						</file>
+						<logginginfo>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
+						</logginginfo>
+						<colorinfo>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
+						</colorinfo>
+						<labels>
+							<label2>Iris</label2>
+						</labels>
+					</clipitem>
+					</track></video><audio><numOutputChannels>2</numOutputChannels><format><samplecharacteristics><depth>16</depth><samplerate>48000</samplerate></samplecharacteristics></format><outputs><group><index>1</index><numchannels>1</numchannels><downmix>0</downmix><channel><index>1</index></channel></group><group><index>2</index><numchannels>1</numchannels><downmix>0</downmix><channel><index>2</index></channel></group></outputs><track TL_SQTrackAudioKeyframeStyle="0" TL_SQTrackShy="0" TL_SQTrackExpandedHeight="25" TL_SQTrackExpanded="0" MZ_TrackTargeted="1" PannerCurrentValue="0.5" PannerIsInverted="true" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="0" totalExplodedTrackCount="2" premiereTrackType="Stereo"><clipitem id="clipitem-7c5a980f4b644c37b41a1c8122c7abf3" premiereChannelType="stereo">
+						<masterclipid>masterclip-508</masterclipid>
+						<name>magalys electrico - clip.mp3</name>
+						<enabled>TRUE</enabled>
+						<duration>51215</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>16488</start>
+						<end>17184</end>
+						<in>3330</in>
+						<out>4026</out>
+						<pproTicksIn>35562240000000</pproTicksIn>
+						<pproTicksOut>42928704000000</pproTicksOut>
+						<file id="file-508">
+							<name>magalys electrico - clip.mp3</name>
+							<pathurl>file://localhost/Volumes/aqua/03_Interviews/Wayuu/Audio/Clipped/magalys%20electrico%20-%20clip.mp3</pathurl>
+							<rate>
+								<timebase>30</timebase>
+								<ntsc>TRUE</ntsc>
+							</rate>
+							<duration>51215</duration>
+							<timecode>
+								<rate>
+									<timebase>30</timebase>
+									<ntsc>TRUE</ntsc>
+								</rate>
+								<string>00;00;00;00</string>
+								<frame>0</frame>
+								<displayformat>DF</displayformat>
+							</timecode>
+							<media>
+								<audio>
+									<samplecharacteristics>
+										<depth>16</depth>
+										<samplerate>48000</samplerate>
+									</samplecharacteristics>
+									<channelcount>2</channelcount>
+								</audio>
+							</media>
+						</file>
+						<sourcetrack>
+							<mediatype>audio</mediatype>
+							<trackindex>1</trackindex>
+						</sourcetrack>
+						<filter>
+							<effect>
+								<name>Audio Levels</name>
+								<effectid>audiolevels</effectid>
+								<effectcategory>audiolevels</effectcategory>
+								<effecttype>audiolevels</effecttype>
+								<mediatype>audio</mediatype>
+								<pproBypass>false</pproBypass>
+								<parameter authoringApp="PremierePro">
+									<parameterid>level</parameterid>
+									<name>Level</name>
+									<valuemin>0</valuemin>
+									<valuemax>3.98109</valuemax>
+									<value>1</value>
+								</parameter>
+							</effect>
+						</filter>
+						<link>
+							<linkclipref>clipitem-7c5a980f4b644c37b41a1c8122c7abf3</linkclipref>
+							<mediatype>audio</mediatype>
+							<trackindex>1</trackindex>
+							<clipindex>1</clipindex>
+							<groupindex>1</groupindex>
+						</link>
+						<link>
+							<linkclipref>clipitem-a06480a805674099b9163dbc2189e310</linkclipref>
+							<mediatype>audio</mediatype>
+							<trackindex>2</trackindex>
+							<clipindex>1</clipindex>
+							<groupindex>1</groupindex>
+						</link>
+						<logginginfo>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
+						</logginginfo>
+						<colorinfo>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
+						</colorinfo>
+						<labels>
+							<label2>Caribbean</label2>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-7c5a980f4b644c37b41a1c8122c7abf3" premiereChannelType="stereo">
+						<masterclipid>masterclip-508</masterclipid>
+						<name>magalys electrico - clip.mp3</name>
+						<enabled>TRUE</enabled>
+						<duration>51215</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>17184</start>
+						<end>17856</end>
+						<in>11322</in>
+						<out>11994</out>
+						<pproTicksIn>120149568000000</pproTicksIn>
+						<pproTicksOut>127262016000000</pproTicksOut>
+						<file id="file-508">
+							<name>magalys electrico - clip.mp3</name>
+							<pathurl>file://localhost/Volumes/aqua/03_Interviews/Wayuu/Audio/Clipped/magalys%20electrico%20-%20clip.mp3</pathurl>
+							<rate>
+								<timebase>30</timebase>
+								<ntsc>TRUE</ntsc>
+							</rate>
+							<duration>51215</duration>
+							<timecode>
+								<rate>
+									<timebase>30</timebase>
+									<ntsc>TRUE</ntsc>
+								</rate>
+								<string>00;00;00;00</string>
+								<frame>0</frame>
+								<displayformat>DF</displayformat>
+							</timecode>
+							<media>
+								<audio>
+									<samplecharacteristics>
+										<depth>16</depth>
+										<samplerate>48000</samplerate>
+									</samplecharacteristics>
+									<channelcount>2</channelcount>
+								</audio>
+							</media>
+						</file>
+						<sourcetrack>
+							<mediatype>audio</mediatype>
+							<trackindex>1</trackindex>
+						</sourcetrack>
+						<filter>
+							<effect>
+								<name>Audio Levels</name>
+								<effectid>audiolevels</effectid>
+								<effectcategory>audiolevels</effectcategory>
+								<effecttype>audiolevels</effecttype>
+								<mediatype>audio</mediatype>
+								<pproBypass>false</pproBypass>
+								<parameter authoringApp="PremierePro">
+									<parameterid>level</parameterid>
+									<name>Level</name>
+									<valuemin>0</valuemin>
+									<valuemax>3.98109</valuemax>
+									<value>1</value>
+								</parameter>
+							</effect>
+						</filter>
+						<link>
+							<linkclipref>clipitem-7c5a980f4b644c37b41a1c8122c7abf3</linkclipref>
+							<mediatype>audio</mediatype>
+							<trackindex>1</trackindex>
+							<clipindex>1</clipindex>
+							<groupindex>1</groupindex>
+						</link>
+						<link>
+							<linkclipref>clipitem-a06480a805674099b9163dbc2189e310</linkclipref>
+							<mediatype>audio</mediatype>
+							<trackindex>2</trackindex>
+							<clipindex>1</clipindex>
+							<groupindex>1</groupindex>
+						</link>
+						<logginginfo>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
+						</logginginfo>
+						<colorinfo>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
+						</colorinfo>
+						<labels>
+							<label2>Caribbean</label2>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-331" premiereChannelType="mono">
+						<masterclipid>masterclip-267</masterclipid>
+						<name>Magalys y neko - walunka.m4a</name>
+						<enabled>TRUE</enabled>
+						<duration>39773</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>17856</start>
+						<end>18840</end>
+						<in>6497</in>
+						<out>7481</out>
+						<pproTicksIn>254016000000</pproTicksIn>
+						<pproTicksOut>10668672000000</pproTicksOut>
+						<file id="file-267">
+							<name>Magalys y neko - walunka.m4a</name>
+							<pathurl>file://localhost/Users/ben/Downloads/Magalys%20y%20neko%20-%20walunka.m4a</pathurl>
+							<rate>
+								<timebase>30</timebase>
+								<ntsc>TRUE</ntsc>
+							</rate>
+							<duration>39773</duration>
+							<timecode>
+								<rate>
+									<timebase>30</timebase>
+									<ntsc>TRUE</ntsc>
+								</rate>
+								<string>00;00;00;00</string>
+								<frame>0</frame>
+								<displayformat>DF</displayformat>
+							</timecode>
+							<media>
+								<audio>
+									<samplecharacteristics>
+										<depth>16</depth>
+										<samplerate>48000</samplerate>
+									</samplecharacteristics>
+									<channelcount>1</channelcount>
+									<audiochannel>
+										<sourcechannel>1</sourcechannel>
+									</audiochannel>
+								</audio>
+							</media>
+						</file>
+						<sourcetrack>
+							<mediatype>audio</mediatype>
+							<trackindex>1</trackindex>
+						</sourcetrack>
+						<filter>
+							<effect>
+								<name>Audio Levels</name>
+								<effectid>audiolevels</effectid>
+								<effectcategory>audiolevels</effectcategory>
+								<effecttype>audiolevels</effecttype>
+								<mediatype>audio</mediatype>
+								<pproBypass>false</pproBypass>
+								<parameter authoringApp="PremierePro">
+									<parameterid>level</parameterid>
+									<name>Level</name>
+									<valuemin>0</valuemin>
+									<valuemax>3.98109</valuemax>
+									<value>2.23872</value>
+								</parameter>
+							</effect>
+						</filter>
+						<logginginfo>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
+						</logginginfo>
+						<colorinfo>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
+						</colorinfo>
+						<labels>
+							<label2>Caribbean</label2>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-332" premiereChannelType="mono">
+						<masterclipid>masterclip-268</masterclipid>
+						<name>walunka - clip (enhanced).wav</name>
+						<enabled>TRUE</enabled>
+						<duration>31656</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>17856</start>
+						<end>18840</end>
+						<in>25</in>
+						<out>1009</out>
+						<pproTicksIn>254016000000</pproTicksIn>
+						<pproTicksOut>10668672000000</pproTicksOut>
+						<file id="file-268">
+							<name>walunka - clip (enhanced).wav</name>
+							<pathurl>file://localhost/Users/ben/Downloads/walunka%20-%20clip%20(enhanced).wav</pathurl>
+							<rate>
+								<timebase>30</timebase>
+								<ntsc>TRUE</ntsc>
+							</rate>
+							<duration>31656</duration>
+							<timecode>
+								<rate>
+									<timebase>30</timebase>
+									<ntsc>TRUE</ntsc>
+								</rate>
+								<string>00;00;00;00</string>
+								<frame>0</frame>
+								<displayformat>DF</displayformat>
+							</timecode>
+							<media>
+								<audio>
+									<samplecharacteristics>
+										<depth>16</depth>
+										<samplerate>48000</samplerate>
+									</samplecharacteristics>
+									<channelcount>1</channelcount>
+									<audiochannel>
+										<sourcechannel>1</sourcechannel>
+									</audiochannel>
+								</audio>
+							</media>
+						</file>
+						<sourcetrack>
+							<mediatype>audio</mediatype>
+							<trackindex>1</trackindex>
+						</sourcetrack>
+						<filter>
+							<effect>
+								<name>Audio Levels</name>
+								<effectid>audiolevels</effectid>
+								<effectcategory>audiolevels</effectcategory>
+								<effecttype>audiolevels</effecttype>
+								<mediatype>audio</mediatype>
+								<pproBypass>false</pproBypass>
+								<parameter authoringApp="PremierePro">
+									<parameterid>level</parameterid>
+									<name>Level</name>
+									<valuemin>0</valuemin>
+									<valuemax>3.98109</valuemax>
+									<value>0.177828</value>
+								</parameter>
+							</effect>
+						</filter>
+						<logginginfo>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
+						</logginginfo>
+						<colorinfo>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
+						</colorinfo>
+						<labels>
+							<label2>Caribbean</label2>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-331" premiereChannelType="mono">
+						<masterclipid>masterclip-267</masterclipid>
+						<name>Magalys y neko - walunka.m4a</name>
+						<enabled>TRUE</enabled>
+						<duration>39773</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>18840</start>
+						<end>19680</end>
+						<in>15761</in>
+						<out>16601</out>
+						<pproTicksIn>98304192000000</pproTicksIn>
+						<pproTicksOut>107194752000000</pproTicksOut>
+						<file id="file-267">
+							<name>Magalys y neko - walunka.m4a</name>
+							<pathurl>file://localhost/Users/ben/Downloads/Magalys%20y%20neko%20-%20walunka.m4a</pathurl>
+							<rate>
+								<timebase>30</timebase>
+								<ntsc>TRUE</ntsc>
+							</rate>
+							<duration>39773</duration>
+							<timecode>
+								<rate>
+									<timebase>30</timebase>
+									<ntsc>TRUE</ntsc>
+								</rate>
+								<string>00;00;00;00</string>
+								<frame>0</frame>
+								<displayformat>DF</displayformat>
+							</timecode>
+							<media>
+								<audio>
+									<samplecharacteristics>
+										<depth>16</depth>
+										<samplerate>48000</samplerate>
+									</samplecharacteristics>
+									<channelcount>1</channelcount>
+									<audiochannel>
+										<sourcechannel>1</sourcechannel>
+									</audiochannel>
+								</audio>
+							</media>
+						</file>
+						<sourcetrack>
+							<mediatype>audio</mediatype>
+							<trackindex>1</trackindex>
+						</sourcetrack>
+						<filter>
+							<effect>
+								<name>Audio Levels</name>
+								<effectid>audiolevels</effectid>
+								<effectcategory>audiolevels</effectcategory>
+								<effecttype>audiolevels</effecttype>
+								<mediatype>audio</mediatype>
+								<pproBypass>false</pproBypass>
+								<parameter authoringApp="PremierePro">
+									<parameterid>level</parameterid>
+									<name>Level</name>
+									<valuemin>0</valuemin>
+									<valuemax>3.98109</valuemax>
+									<value>2.23872</value>
+								</parameter>
+							</effect>
+						</filter>
+						<logginginfo>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
+						</logginginfo>
+						<colorinfo>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
+						</colorinfo>
+						<labels>
+							<label2>Caribbean</label2>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-332" premiereChannelType="mono">
+						<masterclipid>masterclip-268</masterclipid>
+						<name>walunka - clip (enhanced).wav</name>
+						<enabled>TRUE</enabled>
+						<duration>31656</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>18840</start>
+						<end>19680</end>
+						<in>9289</in>
+						<out>10129</out>
+						<pproTicksIn>98304192000000</pproTicksIn>
+						<pproTicksOut>107194752000000</pproTicksOut>
+						<file id="file-268">
+							<name>walunka - clip (enhanced).wav</name>
+							<pathurl>file://localhost/Users/ben/Downloads/walunka%20-%20clip%20(enhanced).wav</pathurl>
+							<rate>
+								<timebase>30</timebase>
+								<ntsc>TRUE</ntsc>
+							</rate>
+							<duration>31656</duration>
+							<timecode>
+								<rate>
+									<timebase>30</timebase>
+									<ntsc>TRUE</ntsc>
+								</rate>
+								<string>00;00;00;00</string>
+								<frame>0</frame>
+								<displayformat>DF</displayformat>
+							</timecode>
+							<media>
+								<audio>
+									<samplecharacteristics>
+										<depth>16</depth>
+										<samplerate>48000</samplerate>
+									</samplecharacteristics>
+									<channelcount>1</channelcount>
+									<audiochannel>
+										<sourcechannel>1</sourcechannel>
+									</audiochannel>
+								</audio>
+							</media>
+						</file>
+						<sourcetrack>
+							<mediatype>audio</mediatype>
+							<trackindex>1</trackindex>
+						</sourcetrack>
+						<filter>
+							<effect>
+								<name>Audio Levels</name>
+								<effectid>audiolevels</effectid>
+								<effectcategory>audiolevels</effectcategory>
+								<effecttype>audiolevels</effecttype>
+								<mediatype>audio</mediatype>
+								<pproBypass>false</pproBypass>
+								<parameter authoringApp="PremierePro">
+									<parameterid>level</parameterid>
+									<name>Level</name>
+									<valuemin>0</valuemin>
+									<valuemax>3.98109</valuemax>
+									<value>0.177828</value>
+								</parameter>
+							</effect>
+						</filter>
+						<logginginfo>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
+						</logginginfo>
+						<colorinfo>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
+						</colorinfo>
+						<labels>
+							<label2>Caribbean</label2>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-b1c9119ec2fc4c7d8be0d30a13cb9880" premiereChannelType="stereo">
+						<masterclipid>masterclip-747</masterclipid>
+						<name>magalys polanco hammock - clip.mp3</name>
+						<enabled>TRUE</enabled>
+						<duration>90946</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>19680</start>
+						<end>21048</end>
+						<in>5808</in>
+						<out>7176</out>
+						<pproTicksIn>61471872000000</pproTicksIn>
+						<pproTicksOut>75950784000000</pproTicksOut>
+						<file id="file-747">
+							<name>magalys polanco hammock - clip.mp3</name>
+							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/sony/nazareth/../../../../03_Interviews/Wayuu/Audio/Clipped/magalys%20polanco%20hammock%20-%20clip.mp3</pathurl>
+							<rate>
+								<timebase>30</timebase>
+								<ntsc>TRUE</ntsc>
+							</rate>
+							<duration>90946</duration>
+							<timecode>
+								<rate>
+									<timebase>30</timebase>
+									<ntsc>TRUE</ntsc>
+								</rate>
+								<string>00;00;00;00</string>
+								<frame>0</frame>
+								<displayformat>DF</displayformat>
+							</timecode>
+							<media>
+								<audio>
+									<samplecharacteristics>
+										<depth>16</depth>
+										<samplerate>48000</samplerate>
+									</samplecharacteristics>
+									<channelcount>2</channelcount>
+								</audio>
+							</media>
+						</file>
+						<sourcetrack>
+							<mediatype>audio</mediatype>
+							<trackindex>1</trackindex>
+						</sourcetrack>
+						<filter>
+							<effect>
+								<name>Audio Levels</name>
+								<effectid>audiolevels</effectid>
+								<effectcategory>audiolevels</effectcategory>
+								<effecttype>audiolevels</effecttype>
+								<mediatype>audio</mediatype>
+								<pproBypass>false</pproBypass>
+								<parameter authoringApp="PremierePro">
+									<parameterid>level</parameterid>
+									<name>Level</name>
+									<valuemin>0</valuemin>
+									<valuemax>3.98109</valuemax>
+									<value>2.76452</value>
+									<keyframe>
+										<when>0</when>
+										<value>0</value>
+									</keyframe>
+									<keyframe>
+										<when>100</when>
+										<value>0.445905</value>
+									</keyframe>
+									<keyframe>
+										<when>186</when>
+										<value>2.76452</value>
+									</keyframe>
+								</parameter>
+							</effect>
+						</filter>
+						<filter>
+							<effect>
+								<name>High Pass Filter</name>
+								<effectid>{61756678, 48506173, 4b657947}</effectid>
+								<effecttype>filter</effecttype>
+								<mediatype>audio</mediatype>
+								<pproBypass>false</pproBypass>
+								<parameter authoringApp="PremierePro">
+									<parameterid>Frequency</parameterid>
+									<name>Frequency</name>
+									<valuemin>10</valuemin>
+									<valuemax>20000</valuemax>
+									<value>400.002</value>
+								</parameter>
+							</effect>
+						</filter>
+						<link>
+							<linkclipref>clipitem-b1c9119ec2fc4c7d8be0d30a13cb9880</linkclipref>
+							<mediatype>audio</mediatype>
+							<trackindex>1</trackindex>
+							<clipindex>1</clipindex>
+							<groupindex>1</groupindex>
+						</link>
+						<link>
+							<linkclipref>clipitem-29b1aeffc155434997697dc513110111</linkclipref>
+							<mediatype>audio</mediatype>
+							<trackindex>2</trackindex>
+							<clipindex>1</clipindex>
+							<groupindex>1</groupindex>
+						</link>
+						<logginginfo>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
+						</logginginfo>
+						<colorinfo>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
+						</colorinfo>
+						<labels>
+							<label2>Caribbean</label2>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-5e7578f1fc9441e2b7c2a1e8d9e04be2" premiereChannelType="mono">
+						<masterclipid>masterclip-748</masterclipid>
+						<name>magalys polanco hammock - clip (enhanced).wav</name>
+						<enabled>TRUE</enabled>
+						<duration>90935</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>19680</start>
+						<end>21048</end>
+						<in>5808</in>
+						<out>7176</out>
+						<pproTicksIn>61471872000000</pproTicksIn>
+						<pproTicksOut>75950784000000</pproTicksOut>
+						<file id="file-748">
+							<name>magalys polanco hammock - clip (enhanced).wav</name>
+							<pathurl>file://localhost/Users/ben/Downloads/magalys%20polanco%20hammock%20-%20clip%20(enhanced).wav</pathurl>
+							<rate>
+								<timebase>30</timebase>
+								<ntsc>TRUE</ntsc>
+							</rate>
+							<duration>90935</duration>
+							<timecode>
+								<rate>
+									<timebase>30</timebase>
+									<ntsc>TRUE</ntsc>
+								</rate>
+								<string>00;00;00;00</string>
+								<frame>0</frame>
+								<displayformat>DF</displayformat>
+							</timecode>
+							<media>
+								<audio>
+									<samplecharacteristics>
+										<depth>16</depth>
+										<samplerate>48000</samplerate>
+									</samplecharacteristics>
+									<channelcount>1</channelcount>
+									<audiochannel>
+										<sourcechannel>1</sourcechannel>
+									</audiochannel>
+								</audio>
+							</media>
+						</file>
+						<sourcetrack>
+							<mediatype>audio</mediatype>
+							<trackindex>1</trackindex>
+						</sourcetrack>
+						<filter>
+							<effect>
+								<name>Audio Levels</name>
+								<effectid>audiolevels</effectid>
+								<effectcategory>audiolevels</effectcategory>
+								<effecttype>audiolevels</effecttype>
+								<mediatype>audio</mediatype>
+								<pproBypass>false</pproBypass>
+								<parameter authoringApp="PremierePro">
+									<parameterid>level</parameterid>
+									<name>Level</name>
+									<valuemin>0</valuemin>
+									<valuemax>3.98109</valuemax>
+									<value>0.708363</value>
+									<keyframe>
+										<when>204</when>
+										<value>0.446684</value>
+									</keyframe>
+									<keyframe>
+										<when>269</when>
+										<value>0.751789</value>
+									</keyframe>
+									<keyframe>
+										<when>52394</when>
+										<value>0.422761</value>
+									</keyframe>
+									<keyframe>
+										<when>53817</when>
+										<value>0.768299</value>
+									</keyframe>
+									<keyframe>
+										<when>55315</when>
+										<value>0.474346</value>
+									</keyframe>
+								</parameter>
+							</effect>
+						</filter>
+						<logginginfo>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
+						</logginginfo>
+						<colorinfo>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
+						</colorinfo>
+						<labels>
+							<label2>Caribbean</label2>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-b1c9119ec2fc4c7d8be0d30a13cb9880" premiereChannelType="stereo">
+						<masterclipid>masterclip-747</masterclipid>
+						<name>magalys polanco hammock - clip.mp3</name>
+						<enabled>TRUE</enabled>
+						<duration>90946</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>21048</start>
+						<end>21984</end>
+						<in>39312</in>
+						<out>40248</out>
+						<pproTicksIn>416078208000000</pproTicksIn>
+						<pproTicksOut>425984832000000</pproTicksOut>
+						<file id="file-747">
+							<name>magalys polanco hammock - clip.mp3</name>
+							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/sony/nazareth/../../../../03_Interviews/Wayuu/Audio/Clipped/magalys%20polanco%20hammock%20-%20clip.mp3</pathurl>
+							<rate>
+								<timebase>30</timebase>
+								<ntsc>TRUE</ntsc>
+							</rate>
+							<duration>90946</duration>
+							<timecode>
+								<rate>
+									<timebase>30</timebase>
+									<ntsc>TRUE</ntsc>
+								</rate>
+								<string>00;00;00;00</string>
+								<frame>0</frame>
+								<displayformat>DF</displayformat>
+							</timecode>
+							<media>
+								<audio>
+									<samplecharacteristics>
+										<depth>16</depth>
+										<samplerate>48000</samplerate>
+									</samplecharacteristics>
+									<channelcount>2</channelcount>
+								</audio>
+							</media>
+						</file>
+						<sourcetrack>
+							<mediatype>audio</mediatype>
+							<trackindex>1</trackindex>
+						</sourcetrack>
+						<filter>
+							<effect>
+								<name>Audio Levels</name>
+								<effectid>audiolevels</effectid>
+								<effectcategory>audiolevels</effectcategory>
+								<effecttype>audiolevels</effecttype>
+								<mediatype>audio</mediatype>
+								<pproBypass>false</pproBypass>
+								<parameter authoringApp="PremierePro">
+									<parameterid>level</parameterid>
+									<name>Level</name>
+									<valuemin>0</valuemin>
+									<valuemax>3.98109</valuemax>
+									<value>2.76452</value>
+									<keyframe>
+										<when>0</when>
+										<value>0</value>
+									</keyframe>
+									<keyframe>
+										<when>100</when>
+										<value>0.445905</value>
+									</keyframe>
+									<keyframe>
+										<when>186</when>
+										<value>2.76452</value>
+									</keyframe>
+								</parameter>
+							</effect>
+						</filter>
+						<filter>
+							<effect>
+								<name>High Pass Filter</name>
+								<effectid>{61756678, 48506173, 4b657947}</effectid>
+								<effecttype>filter</effecttype>
+								<mediatype>audio</mediatype>
+								<pproBypass>false</pproBypass>
+								<parameter authoringApp="PremierePro">
+									<parameterid>Frequency</parameterid>
+									<name>Frequency</name>
+									<valuemin>10</valuemin>
+									<valuemax>20000</valuemax>
+									<value>400.002</value>
+								</parameter>
+							</effect>
+						</filter>
+						<link>
+							<linkclipref>clipitem-b1c9119ec2fc4c7d8be0d30a13cb9880</linkclipref>
+							<mediatype>audio</mediatype>
+							<trackindex>1</trackindex>
+							<clipindex>1</clipindex>
+							<groupindex>1</groupindex>
+						</link>
+						<link>
+							<linkclipref>clipitem-29b1aeffc155434997697dc513110111</linkclipref>
+							<mediatype>audio</mediatype>
+							<trackindex>2</trackindex>
+							<clipindex>1</clipindex>
+							<groupindex>1</groupindex>
+						</link>
+						<logginginfo>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
+						</logginginfo>
+						<colorinfo>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
+						</colorinfo>
+						<labels>
+							<label2>Caribbean</label2>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-5e7578f1fc9441e2b7c2a1e8d9e04be2" premiereChannelType="mono">
+						<masterclipid>masterclip-748</masterclipid>
+						<name>magalys polanco hammock - clip (enhanced).wav</name>
+						<enabled>TRUE</enabled>
+						<duration>90935</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>21048</start>
+						<end>21984</end>
+						<in>39312</in>
+						<out>40248</out>
+						<pproTicksIn>416078208000000</pproTicksIn>
+						<pproTicksOut>425984832000000</pproTicksOut>
+						<file id="file-748">
+							<name>magalys polanco hammock - clip (enhanced).wav</name>
+							<pathurl>file://localhost/Users/ben/Downloads/magalys%20polanco%20hammock%20-%20clip%20(enhanced).wav</pathurl>
+							<rate>
+								<timebase>30</timebase>
+								<ntsc>TRUE</ntsc>
+							</rate>
+							<duration>90935</duration>
+							<timecode>
+								<rate>
+									<timebase>30</timebase>
+									<ntsc>TRUE</ntsc>
+								</rate>
+								<string>00;00;00;00</string>
+								<frame>0</frame>
+								<displayformat>DF</displayformat>
+							</timecode>
+							<media>
+								<audio>
+									<samplecharacteristics>
+										<depth>16</depth>
+										<samplerate>48000</samplerate>
+									</samplecharacteristics>
+									<channelcount>1</channelcount>
+									<audiochannel>
+										<sourcechannel>1</sourcechannel>
+									</audiochannel>
+								</audio>
+							</media>
+						</file>
+						<sourcetrack>
+							<mediatype>audio</mediatype>
+							<trackindex>1</trackindex>
+						</sourcetrack>
+						<filter>
+							<effect>
+								<name>Audio Levels</name>
+								<effectid>audiolevels</effectid>
+								<effectcategory>audiolevels</effectcategory>
+								<effecttype>audiolevels</effecttype>
+								<mediatype>audio</mediatype>
+								<pproBypass>false</pproBypass>
+								<parameter authoringApp="PremierePro">
+									<parameterid>level</parameterid>
+									<name>Level</name>
+									<valuemin>0</valuemin>
+									<valuemax>3.98109</valuemax>
+									<value>0.708363</value>
+									<keyframe>
+										<when>204</when>
+										<value>0.446684</value>
+									</keyframe>
+									<keyframe>
+										<when>269</when>
+										<value>0.751789</value>
+									</keyframe>
+									<keyframe>
+										<when>52394</when>
+										<value>0.422761</value>
+									</keyframe>
+									<keyframe>
+										<when>53817</when>
+										<value>0.768299</value>
+									</keyframe>
+									<keyframe>
+										<when>55315</when>
+										<value>0.474346</value>
+									</keyframe>
+								</parameter>
+							</effect>
+						</filter>
+						<logginginfo>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
+						</logginginfo>
+						<colorinfo>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
+						</colorinfo>
+						<labels>
+							<label2>Caribbean</label2>
+						</labels>
+					</clipitem>
+					</track><track TL_SQTrackAudioKeyframeStyle="0" TL_SQTrackShy="0" TL_SQTrackExpandedHeight="25" TL_SQTrackExpanded="0" MZ_TrackTargeted="1" PannerCurrentValue="0.5" PannerIsInverted="true" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="1" totalExplodedTrackCount="2" premiereTrackType="Stereo"><clipitem id="clipitem-a06480a805674099b9163dbc2189e310" premiereChannelType="stereo">
+						<masterclipid>masterclip-508</masterclipid>
+						<name>magalys electrico - clip.mp3</name>
+						<enabled>TRUE</enabled>
+						<duration>51215</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>16488</start>
+						<end>17184</end>
+						<in>3330</in>
+						<out>4026</out>
+						<pproTicksIn>35562240000000</pproTicksIn>
+						<pproTicksOut>42928704000000</pproTicksOut>
+						<file id="file-508" />
+						<sourcetrack>
+							<mediatype>audio</mediatype>
+							<trackindex>2</trackindex>
+						</sourcetrack>
+						<filter>
+							<effect>
+								<name>Audio Levels</name>
+								<effectid>audiolevels</effectid>
+								<effectcategory>audiolevels</effectcategory>
+								<effecttype>audiolevels</effecttype>
+								<mediatype>audio</mediatype>
+								<pproBypass>false</pproBypass>
+								<parameter authoringApp="PremierePro">
+									<parameterid>level</parameterid>
+									<name>Level</name>
+									<valuemin>0</valuemin>
+									<valuemax>3.98109</valuemax>
+									<value>1</value>
+								</parameter>
+							</effect>
+						</filter>
+						<link>
+							<linkclipref>clipitem-7c5a980f4b644c37b41a1c8122c7abf3</linkclipref>
+							<mediatype>audio</mediatype>
+							<trackindex>1</trackindex>
+							<clipindex>1</clipindex>
+							<groupindex>1</groupindex>
+						</link>
+						<link>
+							<linkclipref>clipitem-a06480a805674099b9163dbc2189e310</linkclipref>
+							<mediatype>audio</mediatype>
+							<trackindex>2</trackindex>
+							<clipindex>1</clipindex>
+							<groupindex>1</groupindex>
+						</link>
+						<logginginfo>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
+						</logginginfo>
+						<colorinfo>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
+						</colorinfo>
+						<labels>
+							<label2>Caribbean</label2>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-a06480a805674099b9163dbc2189e310" premiereChannelType="stereo">
+						<masterclipid>masterclip-508</masterclipid>
+						<name>magalys electrico - clip.mp3</name>
+						<enabled>TRUE</enabled>
+						<duration>51215</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>17184</start>
+						<end>17856</end>
+						<in>11322</in>
+						<out>11994</out>
+						<pproTicksIn>120149568000000</pproTicksIn>
+						<pproTicksOut>127262016000000</pproTicksOut>
+						<file id="file-508" />
+						<sourcetrack>
+							<mediatype>audio</mediatype>
+							<trackindex>2</trackindex>
+						</sourcetrack>
+						<filter>
+							<effect>
+								<name>Audio Levels</name>
+								<effectid>audiolevels</effectid>
+								<effectcategory>audiolevels</effectcategory>
+								<effecttype>audiolevels</effecttype>
+								<mediatype>audio</mediatype>
+								<pproBypass>false</pproBypass>
+								<parameter authoringApp="PremierePro">
+									<parameterid>level</parameterid>
+									<name>Level</name>
+									<valuemin>0</valuemin>
+									<valuemax>3.98109</valuemax>
+									<value>1</value>
+								</parameter>
+							</effect>
+						</filter>
+						<link>
+							<linkclipref>clipitem-7c5a980f4b644c37b41a1c8122c7abf3</linkclipref>
+							<mediatype>audio</mediatype>
+							<trackindex>1</trackindex>
+							<clipindex>1</clipindex>
+							<groupindex>1</groupindex>
+						</link>
+						<link>
+							<linkclipref>clipitem-a06480a805674099b9163dbc2189e310</linkclipref>
+							<mediatype>audio</mediatype>
+							<trackindex>2</trackindex>
+							<clipindex>1</clipindex>
+							<groupindex>1</groupindex>
+						</link>
+						<logginginfo>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
+						</logginginfo>
+						<colorinfo>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
+						</colorinfo>
+						<labels>
+							<label2>Caribbean</label2>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-29b1aeffc155434997697dc513110111" premiereChannelType="stereo">
+						<masterclipid>masterclip-747</masterclipid>
+						<name>magalys polanco hammock - clip.mp3</name>
+						<enabled>TRUE</enabled>
+						<duration>90946</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>19680</start>
+						<end>21048</end>
+						<in>5808</in>
+						<out>7176</out>
+						<pproTicksIn>61471872000000</pproTicksIn>
+						<pproTicksOut>75950784000000</pproTicksOut>
+						<file id="file-747" />
+						<sourcetrack>
+							<mediatype>audio</mediatype>
+							<trackindex>2</trackindex>
+						</sourcetrack>
+						<filter>
+							<effect>
+								<name>Audio Levels</name>
+								<effectid>audiolevels</effectid>
+								<effectcategory>audiolevels</effectcategory>
+								<effecttype>audiolevels</effecttype>
+								<mediatype>audio</mediatype>
+								<pproBypass>false</pproBypass>
+								<parameter authoringApp="PremierePro">
+									<parameterid>level</parameterid>
+									<name>Level</name>
+									<valuemin>0</valuemin>
+									<valuemax>3.98109</valuemax>
+									<value>2.76452</value>
+									<keyframe>
+										<when>0</when>
+										<value>0</value>
+									</keyframe>
+									<keyframe>
+										<when>100</when>
+										<value>0.445905</value>
+									</keyframe>
+									<keyframe>
+										<when>186</when>
+										<value>2.76452</value>
+									</keyframe>
+								</parameter>
+							</effect>
+						</filter>
+						<filter>
+							<effect>
+								<name>High Pass Filter</name>
+								<effectid>{61756678, 48506173, 4b657947}</effectid>
+								<effecttype>filter</effecttype>
+								<mediatype>audio</mediatype>
+								<pproBypass>false</pproBypass>
+								<parameter authoringApp="PremierePro">
+									<parameterid>Frequency</parameterid>
+									<name>Frequency</name>
+									<valuemin>10</valuemin>
+									<valuemax>20000</valuemax>
+									<value>400.002</value>
+								</parameter>
+							</effect>
+						</filter>
+						<link>
+							<linkclipref>clipitem-b1c9119ec2fc4c7d8be0d30a13cb9880</linkclipref>
+							<mediatype>audio</mediatype>
+							<trackindex>1</trackindex>
+							<clipindex>1</clipindex>
+							<groupindex>1</groupindex>
+						</link>
+						<link>
+							<linkclipref>clipitem-29b1aeffc155434997697dc513110111</linkclipref>
+							<mediatype>audio</mediatype>
+							<trackindex>2</trackindex>
+							<clipindex>1</clipindex>
+							<groupindex>1</groupindex>
+						</link>
+						<logginginfo>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
+						</logginginfo>
+						<colorinfo>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
+						</colorinfo>
+						<labels>
+							<label2>Caribbean</label2>
+						</labels>
+					</clipitem>
+					<clipitem id="clipitem-29b1aeffc155434997697dc513110111" premiereChannelType="stereo">
+						<masterclipid>masterclip-747</masterclipid>
+						<name>magalys polanco hammock - clip.mp3</name>
+						<enabled>TRUE</enabled>
+						<duration>90946</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>21048</start>
+						<end>21984</end>
+						<in>39312</in>
+						<out>40248</out>
+						<pproTicksIn>416078208000000</pproTicksIn>
+						<pproTicksOut>425984832000000</pproTicksOut>
+						<file id="file-747" />
+						<sourcetrack>
+							<mediatype>audio</mediatype>
+							<trackindex>2</trackindex>
+						</sourcetrack>
+						<filter>
+							<effect>
+								<name>Audio Levels</name>
+								<effectid>audiolevels</effectid>
+								<effectcategory>audiolevels</effectcategory>
+								<effecttype>audiolevels</effecttype>
+								<mediatype>audio</mediatype>
+								<pproBypass>false</pproBypass>
+								<parameter authoringApp="PremierePro">
+									<parameterid>level</parameterid>
+									<name>Level</name>
+									<valuemin>0</valuemin>
+									<valuemax>3.98109</valuemax>
+									<value>2.76452</value>
+									<keyframe>
+										<when>0</when>
+										<value>0</value>
+									</keyframe>
+									<keyframe>
+										<when>100</when>
+										<value>0.445905</value>
+									</keyframe>
+									<keyframe>
+										<when>186</when>
+										<value>2.76452</value>
+									</keyframe>
+								</parameter>
+							</effect>
+						</filter>
+						<filter>
+							<effect>
+								<name>High Pass Filter</name>
+								<effectid>{61756678, 48506173, 4b657947}</effectid>
+								<effecttype>filter</effecttype>
+								<mediatype>audio</mediatype>
+								<pproBypass>false</pproBypass>
+								<parameter authoringApp="PremierePro">
+									<parameterid>Frequency</parameterid>
+									<name>Frequency</name>
+									<valuemin>10</valuemin>
+									<valuemax>20000</valuemax>
+									<value>400.002</value>
+								</parameter>
+							</effect>
+						</filter>
+						<link>
+							<linkclipref>clipitem-b1c9119ec2fc4c7d8be0d30a13cb9880</linkclipref>
+							<mediatype>audio</mediatype>
+							<trackindex>1</trackindex>
+							<clipindex>1</clipindex>
+							<groupindex>1</groupindex>
+						</link>
+						<link>
+							<linkclipref>clipitem-29b1aeffc155434997697dc513110111</linkclipref>
+							<mediatype>audio</mediatype>
+							<trackindex>2</trackindex>
+							<clipindex>1</clipindex>
+							<groupindex>1</groupindex>
+						</link>
+						<logginginfo>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
+						</logginginfo>
+						<colorinfo>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
+						</colorinfo>
+						<labels>
+							<label2>Caribbean</label2>
+						</labels>
+					</clipitem>
+					</track></audio></media><timecode><rate><timebase>24</timebase><ntsc>TRUE</ntsc></rate><string>00:00:00:00</string><frame>0</frame><displayformat>NDF</displayformat></timecode><labels><label2>Forest</label2></labels></sequence></xmeml>

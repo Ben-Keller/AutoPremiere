@@ -1,5 +1,3 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE xmeml>
 <xmeml version="4">
 	<sequence id="sequence-19" TL.SQAudioVisibleBase="0" TL.SQVideoVisibleBase="0" TL.SQVisibleBaseTime="0" TL.SQAVDividerPosition="0.5" TL.SQHideShyTracks="0" TL.SQHeaderWidth="236" TL.SQDataTrackViewControlState="0" Monitor.ProgramZoomOut="349250461560000" Monitor.ProgramZoomIn="0" TL.SQTimePerPixel="1.640295023532669" MZ.EditLine="120640528008000" MZ.Sequence.PreviewFrameSizeHeight="1080" MZ.Sequence.PreviewFrameSizeWidth="1920" MZ.Sequence.AudioTimeDisplayFormat="200" MZ.Sequence.PreviewRenderingClassID="1061109567" MZ.Sequence.PreviewRenderingPresetCodec="1634755443" MZ.Sequence.PreviewRenderingPresetPath="EncoderPresets/SequencePreview/35d109db-457b-43c1-9452-9cb7be9f121c/QuickTime.epr" MZ.Sequence.PreviewUseMaxRenderQuality="false" MZ.Sequence.PreviewUseMaxBitDepth="false" MZ.Sequence.EditingModeGUID="35d109db-457b-43c1-9452-9cb7be9f121c" MZ.Sequence.VideoTimeDisplayFormat="110" MZ.WorkOutPoint="15235011792000" MZ.WorkInPoint="0" MZ.ZeroPoint="0" explodedTracks="true">
 		<uuid>cc0c8e7a-2a41-48bc-862a-acd2cd374f59</uuid>
@@ -46,7 +44,7 @@
 					</samplecharacteristics>
 				</format>
 				<track TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="1">
-					<clipitem id="clipitem-756">
+					<clipitem id="clipitem-c213a04752314b1e9f9a64ae1815dfc6">
 						<masterclipid>masterclip-625</masterclipid>
 						<name>julian_1_2021-12-13_2019_C0030.mov</name>
 						<enabled>TRUE</enabled>
@@ -105,26 +103,26 @@
 							</media>
 						</file>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-757">
+					<clipitem id="clipitem-0a7b915adac74ba09ed3fa4f236395d0">
 						<masterclipid>masterclip-626</masterclipid>
 						<name>julian_1_2021-12-13_2020_C0031.mov</name>
 						<enabled>TRUE</enabled>
@@ -183,26 +181,26 @@
 							</media>
 						</file>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-758">
+					<clipitem id="clipitem-ea7025efb74b4f1bb3b344515954f9c2">
 						<masterclipid>masterclip-627</masterclipid>
 						<name>julian_1_2021-12-13_2021_C0032.mov</name>
 						<enabled>TRUE</enabled>
@@ -261,26 +259,26 @@
 							</media>
 						</file>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-759">
+					<clipitem id="clipitem-d0333a12c20d420d931e514258db56f2">
 						<masterclipid>masterclip-628</masterclipid>
 						<name>julian_1_2021-12-13_2021_C0033.mov</name>
 						<enabled>TRUE</enabled>
@@ -339,26 +337,26 @@
 							</media>
 						</file>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-760">
+					<clipitem id="clipitem-3102a760def54c6db3c53d5adb140a33">
 						<masterclipid>masterclip-629</masterclipid>
 						<name>julian_1_2021-12-13_2022_C0034.mov</name>
 						<enabled>TRUE</enabled>
@@ -417,26 +415,26 @@
 							</media>
 						</file>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-761">
+					<clipitem id="clipitem-2d42c39ba3d043978e9f5077cb09bdfd">
 						<masterclipid>masterclip-630</masterclipid>
 						<name>julian_1_2021-12-13_2027_C0035.mov</name>
 						<enabled>TRUE</enabled>
@@ -495,26 +493,26 @@
 							</media>
 						</file>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-762">
+					<clipitem id="clipitem-07f7d5fc1e5f4757b875f7bbdeabcec3">
 						<masterclipid>masterclip-631</masterclipid>
 						<name>julian_1_2021-12-13_2031_C0036.mov</name>
 						<enabled>TRUE</enabled>
@@ -573,26 +571,26 @@
 							</media>
 						</file>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-763">
+					<clipitem id="clipitem-4e4fdaaf2c3b483f8e4d9b67180b117c">
 						<masterclipid>masterclip-632</masterclipid>
 						<name>julian_1_2021-12-13_2032_C0037.mov</name>
 						<enabled>TRUE</enabled>
@@ -651,26 +649,26 @@
 							</media>
 						</file>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-764">
+					<clipitem id="clipitem-4bc1fdeeda2c4132aabbf4d37eb246a0">
 						<masterclipid>masterclip-633</masterclipid>
 						<name>julian_1_2021-12-13_2038_C0038.mov</name>
 						<enabled>TRUE</enabled>
@@ -729,20 +727,20 @@
 							</media>
 						</file>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
@@ -752,7 +750,7 @@
 					<locked>FALSE</locked>
 				</track>
 				<track TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="0">
-					<clipitem id="clipitem-765">
+					<clipitem id="clipitem-3dc988657a3f4570bcb426f6e9398885">
 						<masterclipid>masterclip-634</masterclipid>
 						<name>wiblo_1_2000-01-03_1356_C0070.mov</name>
 						<enabled>TRUE</enabled>
@@ -811,20 +809,20 @@
 							</media>
 						</file>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Iris</label2>
@@ -861,7 +859,7 @@
 					</group>
 				</outputs>
 				<track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="1" PannerCurrentValue="0.5" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="0" totalExplodedTrackCount="2" premiereTrackType="Stereo">
-					<clipitem id="clipitem-766" premiereChannelType="stereo">
+					<clipitem id="clipitem-6242d0adadc6420c9f6921979c4c3a55" premiereChannelType="stereo">
 						<masterclipid>masterclip-635</masterclipid>
 						<name>neko casa urbana - clip.mp3</name>
 						<enabled>TRUE</enabled>
@@ -925,34 +923,34 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-766</linkclipref>
+							<linkclipref>clipitem-6242d0adadc6420c9f6921979c4c3a55</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>1</trackindex>
 							<clipindex>1</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-767</linkclipref>
+							<linkclipref>clipitem-e534a8d591184976a0dbc0eb89b800e2</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>1</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Caribbean</label2>
@@ -963,7 +961,7 @@
 					<outputchannelindex>1</outputchannelindex>
 				</track>
 				<track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="1" PannerCurrentValue="0.5" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="1" totalExplodedTrackCount="2" premiereTrackType="Stereo">
-					<clipitem id="clipitem-767" premiereChannelType="stereo">
+					<clipitem id="clipitem-e534a8d591184976a0dbc0eb89b800e2" premiereChannelType="stereo">
 						<masterclipid>masterclip-635</masterclipid>
 						<name>neko casa urbana - clip.mp3</name>
 						<enabled>TRUE</enabled>
@@ -978,7 +976,7 @@
 						<out>32965</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>349250461560000</pproTicksOut>
-						<file id="file-635"/>
+						<file id="file-635" />
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>2</trackindex>
@@ -1001,34 +999,34 @@
 							</effect>
 						</filter>
 						<link>
-							<linkclipref>clipitem-766</linkclipref>
+							<linkclipref>clipitem-6242d0adadc6420c9f6921979c4c3a55</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>1</trackindex>
 							<clipindex>1</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<link>
-							<linkclipref>clipitem-767</linkclipref>
+							<linkclipref>clipitem-e534a8d591184976a0dbc0eb89b800e2</linkclipref>
 							<mediatype>audio</mediatype>
 							<trackindex>2</trackindex>
 							<clipindex>1</clipindex>
 							<groupindex>1</groupindex>
 						</link>
 						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
 						</logginginfo>
 						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
 						</colorinfo>
 						<labels>
 							<label2>Caribbean</label2>
@@ -1053,13 +1051,13 @@
 			<label2>Forest</label2>
 		</labels>
 		<logginginfo>
-			<description></description>
-			<scene></scene>
-			<shottake></shottake>
-			<lognote></lognote>
-			<good></good>
-			<originalvideofilename></originalvideofilename>
-			<originalaudiofilename></originalaudiofilename>
+			<description />
+			<scene />
+			<shottake />
+			<lognote />
+			<good />
+			<originalvideofilename />
+			<originalaudiofilename />
 		</logginginfo>
 	</sequence>
 </xmeml>

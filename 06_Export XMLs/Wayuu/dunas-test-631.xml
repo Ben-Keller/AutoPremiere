@@ -1,0 +1,79 @@
+<xmeml version="4"><sequence id="sequence-2" TL_SQAudioVisibleBase="0" TL_SQVideoVisibleBase="0" TL_SQVisibleBaseTime="0" TL_SQAVDividerPosition="0.5" TL_SQHideShyTracks="0" TL_SQHeaderWidth="236" TL_SQDataTrackViewControlState="0" Monitor_ProgramZoomOut="340011984312000" Monitor_ProgramZoomIn="0" TL_SQTimePerPixel="1.6034289012958367" MZ_EditLine="333083126376000" MZ_Sequence_PreviewFrameSizeHeight="1080" MZ_Sequence_PreviewFrameSizeWidth="1920" MZ_Sequence_AudioTimeDisplayFormat="200" MZ_Sequence_PreviewUseMaxRenderQuality="false" MZ_Sequence_PreviewUseMaxBitDepth="false" MZ_Sequence_VideoTimeDisplayFormat="110" MZ_WorkOutPoint="15235011792000" MZ_WorkInPoint="0" MZ_ZeroPoint="0" explodedTracks="true"><uuid>50e61931-251f-4069-8193-a3fbad7f93ff</uuid><duration>31533</duration><rate><timebase>24</timebase><ntsc>TRUE</ntsc></rate><name>../06_Export XMLs/Wayuu/dunas-test</name><media><video><format><samplecharacteristics><rate><timebase>24</timebase><ntsc>TRUE</ntsc></rate><codec><name>Apple ProRes 422</name><appspecificdata><appname>Final Cut Pro</appname><appmanufacturer>Apple Inc.</appmanufacturer><appversion>7.0</appversion><data><qtcodec><codecname>Apple ProRes 422</codecname><codectypename>Apple ProRes 422</codectypename><codectypecode>apcn</codectypecode><codecvendorcode>appl</codecvendorcode><spatialquality>1024</spatialquality><temporalquality>0</temporalquality><keyframerate>0</keyframerate><datarate>0</datarate></qtcodec></data></appspecificdata></codec><width>1920</width><height>1080</height><anamorphic>FALSE</anamorphic><pixelaspectratio>square</pixelaspectratio><fielddominance>none</fielddominance><colordepth>24</colordepth></samplecharacteristics></format><track TL_SQTrackShy="0" TL_SQTrackExpandedHeight="25" TL_SQTrackExpanded="0" MZ_TrackTargeted="1"><clipitem id="clipitem-16024ce101c64b5eb8b0c24c73a7a5df">
+						<masterclipid>masterclip-723</masterclipid>
+						<name>C0581.MP4</name>
+						<enabled>TRUE</enabled>
+						<duration>74112</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>1584</start>
+						<end>1656</end>
+						<in>1736</in>
+						<out>1808</out>
+						<pproTicksIn>12798257472000</pproTicksIn>
+						<pproTicksOut>783713162232000</pproTicksOut>
+						<alphatype>none</alphatype>
+						<pixelaspectratio>square</pixelaspectratio>
+						<anamorphic>FALSE</anamorphic>
+						<file id="file-723">
+							<name>C0581.MP4</name>
+							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/sony/nazareth/C0581.MP4</pathurl>
+							<rate>
+								<timebase>24</timebase>
+								<ntsc>TRUE</ntsc>
+							</rate>
+							<duration>74112</duration>
+							<timecode>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>TRUE</ntsc>
+								</rate>
+								<string>07:05:34:04</string>
+								<frame>612820</frame>
+								<displayformat>NDF</displayformat>
+							</timecode>
+							<media>
+								<video>
+									<samplecharacteristics>
+										<rate>
+											<timebase>24</timebase>
+											<ntsc>TRUE</ntsc>
+										</rate>
+										<width>1920</width>
+										<height>1080</height>
+										<anamorphic>FALSE</anamorphic>
+										<pixelaspectratio>square</pixelaspectratio>
+										<fielddominance>none</fielddominance>
+									</samplecharacteristics>
+								</video>
+								<audio>
+									<samplecharacteristics>
+										<depth>16</depth>
+										<samplerate>48000</samplerate>
+									</samplecharacteristics>
+									<channelcount>2</channelcount>
+								</audio>
+							</media>
+						</file>
+						<logginginfo>
+							<description />
+							<scene />
+							<shottake />
+							<lognote />
+							<good />
+							<originalvideofilename />
+							<originalaudiofilename />
+						</logginginfo>
+						<colorinfo>
+							<lut />
+							<lut1 />
+							<asc_sop />
+							<asc_sat />
+							<lut2 />
+						</colorinfo>
+						<labels>
+							<label2>Iris</label2>
+						</labels>
+					</clipitem>
+					</track></video></media><timecode><rate><timebase>24</timebase><ntsc>TRUE</ntsc></rate><string>00:00:00:00</string><frame>0</frame><displayformat>NDF</displayformat></timecode><labels><label2>Forest</label2></labels></sequence></xmeml>
