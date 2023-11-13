@@ -378,9 +378,9 @@
 							<ntsc>TRUE</ntsc>
 						</rate>
 						<start>2071.3507320848153</start>
-						<end>2911.3507320848153</end>
+						<end>2167.3507320848153</end>
 						<in>9288</in>
-						<out>10128</out>
+						<out>9384</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>268519731480000</pproTicksOut>
 						<alphatype>none</alphatype>
@@ -748,9 +748,9 @@
 							<ntsc>TRUE</ntsc>
 						</rate>
 						<start>2071.3507320848153</start>
-						<end>2403.3507320848153</end>
+						<end>2167.3507320848153</end>
 						<in>1216</in>
-						<out>1548</out>
+						<out>1312</out>
 						<pproTicksIn>74162088000</pproTicksIn>
 						<pproTicksOut>16400416032000</pproTicksOut>
 						<alphatype>none</alphatype>
@@ -1601,84 +1601,6 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-83">
-						<masterclipid>masterclip-70</masterclipid>
-						<name>wiblo_1_2000-01-01_2305_C0086.mov</name>
-						<enabled>TRUE</enabled>
-						<duration>614</duration>
-						<rate>
-							<timebase>24</timebase>
-							<ntsc>TRUE</ntsc>
-						</rate>
-						<start>2856.3507320848153</start>
-						<end>2911.3507320848153</end>
-						<in>0</in>
-						<out>55</out>
-						<pproTicksIn>0</pproTicksIn>
-						<pproTicksOut>6505074576000</pproTicksOut>
-						<alphatype>none</alphatype>
-						<pixelaspectratio>square</pixelaspectratio>
-						<anamorphic>FALSE</anamorphic>
-						<file id="file-70">
-							<name>wiblo_1_2000-01-01_2305_C0086.mov</name>
-							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/7-21%20magalys%20and%20healer%202/wiblo_1_2000-01-01_2305_C0086.mov</pathurl>
-							<rate>
-								<timebase>24</timebase>
-								<ntsc>TRUE</ntsc>
-							</rate>
-							<duration>614</duration>
-							<timecode>
-								<rate>
-									<timebase>24</timebase>
-									<ntsc>TRUE</ntsc>
-								</rate>
-								<string>23:05:01:00</string>
-								<frame>1994424</frame>
-								<displayformat>NDF</displayformat>
-							</timecode>
-							<media>
-								<video>
-									<samplecharacteristics>
-										<rate>
-											<timebase>24</timebase>
-											<ntsc>TRUE</ntsc>
-										</rate>
-										<width>1920</width>
-										<height>1080</height>
-										<anamorphic>FALSE</anamorphic>
-										<pixelaspectratio>square</pixelaspectratio>
-										<fielddominance>none</fielddominance>
-									</samplecharacteristics>
-								</video>
-								<audio>
-									<samplecharacteristics>
-										<depth>16</depth>
-										<samplerate>48000</samplerate>
-									</samplecharacteristics>
-									<channelcount>2</channelcount>
-								</audio>
-							</media>
-						</file>
-						<logginginfo>
-							<description />
-							<scene />
-							<shottake />
-							<lognote />
-							<good />
-							<originalvideofilename />
-							<originalaudiofilename />
-						</logginginfo>
-						<colorinfo>
-							<lut />
-							<lut1 />
-							<asc_sop />
-							<asc_sat />
-							<lut2 />
-						</colorinfo>
-						<labels>
-							<label2>Rose</label2>
-						</labels>
-					</clipitem>
 					</track><track TL_SQTrackShy="0" TL_SQTrackExpandedHeight="25" TL_SQTrackExpanded="0" MZ_TrackTargeted="1"><clipitem id="clipitem-0bd11556740b45f6b6337edd6bfb3245">
 						<masterclipid>masterclip-414</masterclipid>
 						<name>wiblo_1_2000-01-01_1150_C0071.mov</name>
@@ -2404,9 +2326,9 @@
 							<ntsc>TRUE</ntsc>
 						</rate>
 						<start>2071.3507320848153</start>
-						<end>2911.3507320848153</end>
+						<end>2167.3507320848153</end>
 						<in>15761</in>
-						<out>16601</out>
+						<out>15857</out>
 						<pproTicksIn>68578742232000</pproTicksIn>
 						<pproTicksOut>337098473712000</pproTicksOut>
 						<file id="file-101">
@@ -2490,9 +2412,9 @@
 							<ntsc>TRUE</ntsc>
 						</rate>
 						<start>2071.3507320848153</start>
-						<end>2911.3507320848153</end>
+						<end>2167.3507320848153</end>
 						<in>9289</in>
-						<out>10129</out>
+						<out>9385</out>
 						<pproTicksIn>137729592000</pproTicksIn>
 						<pproTicksOut>268307839800000</pproTicksOut>
 						<file id="file-102">

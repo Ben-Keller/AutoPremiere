@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xmeml>
 <xmeml version="4">
-	<sequence id="sequence-8" TL.SQAudioVisibleBase="0" TL.SQVideoVisibleBase="0" TL.SQVisibleBaseTime="0" TL.SQAVDividerPosition="0.5" TL.SQHideShyTracks="0" TL.SQHeaderWidth="236" TL.SQDataTrackViewControlState="0" Monitor.ProgramZoomOut="268519731480000" Monitor.ProgramZoomIn="0" TL.SQTimePerPixel="1.3763270002768548" MZ.EditLine="230527553256000" MZ.Sequence.PreviewFrameSizeHeight="1080" MZ.Sequence.PreviewFrameSizeWidth="1920" MZ.Sequence.AudioTimeDisplayFormat="200" MZ.Sequence.PreviewRenderingClassID="1061109567" MZ.Sequence.PreviewRenderingPresetCodec="1634755443" MZ.Sequence.PreviewRenderingPresetPath="EncoderPresets/SequencePreview/35d109db-457b-43c1-9452-9cb7be9f121c/QuickTime.epr" MZ.Sequence.PreviewUseMaxRenderQuality="false" MZ.Sequence.PreviewUseMaxBitDepth="false" MZ.Sequence.EditingModeGUID="35d109db-457b-43c1-9452-9cb7be9f121c" MZ.Sequence.VideoTimeDisplayFormat="110" MZ.WorkOutPoint="15235011792000" MZ.WorkInPoint="0" MZ.ZeroPoint="0" explodedTracks="true">
-		<uuid>7169f698-85e4-460b-9b68-c3a6e3d18235</uuid>
+	<sequence id="sequence-2" TL.SQAudioVisibleBase="0" TL.SQVideoVisibleBase="30" TL.SQVisibleBaseTime="0" TL.SQAVDividerPosition="0.5" TL.SQHideShyTracks="0" TL.SQHeaderWidth="236" TL.SQDataTrackViewControlState="1" Monitor.ProgramZoomOut="268519731480000" Monitor.ProgramZoomIn="0" TL.SQTimePerPixel="1.3552159195879359" MZ.EditLine="88284668472000" MZ.Sequence.PreviewFrameSizeHeight="1080" MZ.Sequence.PreviewFrameSizeWidth="1920" MZ.Sequence.AudioTimeDisplayFormat="200" MZ.Sequence.PreviewRenderingClassID="1061109567" MZ.Sequence.PreviewRenderingPresetCodec="1634755443" MZ.Sequence.PreviewRenderingPresetPath="EncoderPresets/SequencePreview/35d109db-457b-43c1-9452-9cb7be9f121c/QuickTime.epr" MZ.Sequence.PreviewUseMaxRenderQuality="false" MZ.Sequence.PreviewUseMaxBitDepth="false" MZ.Sequence.EditingModeGUID="35d109db-457b-43c1-9452-9cb7be9f121c" MZ.Sequence.VideoTimeDisplayFormat="110" MZ.WorkOutPoint="15235011792000" MZ.WorkInPoint="0" MZ.ZeroPoint="0" explodedTracks="true">
+		<uuid>7a0bf13e-c352-4654-86c2-f5f45bbc7687</uuid>
 		<duration>25345</duration>
 		<rate>
 			<timebase>24</timebase>
 			<ntsc>TRUE</ntsc>
 		</rate>
-		<name>wolunka - synced</name>
+		<name>wolunka</name>
 		<media>
 			<video>
 				<format>
@@ -46,8 +46,8 @@
 					</samplecharacteristics>
 				</format>
 				<track TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="1">
-					<clipitem id="clipitem-274">
-						<masterclipid>masterclip-219</masterclipid>
+					<clipitem id="clipitem-59">
+						<masterclipid>masterclip-52</masterclipid>
 						<name>C0650.MP4</name>
 						<enabled>TRUE</enabled>
 						<duration>2196</duration>
@@ -64,7 +64,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-219">
+						<file id="file-52">
 							<name>C0650.MP4</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/sony/nazareth/C0650.MP4</pathurl>
 							<rate>
@@ -124,8 +124,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-275">
-						<masterclipid>masterclip-219</masterclipid>
+					<clipitem id="clipitem-60">
+						<masterclipid>masterclip-52</masterclipid>
 						<name>C0650.MP4</name>
 						<enabled>TRUE</enabled>
 						<duration>2196</duration>
@@ -140,7 +140,7 @@
 						<pproTicksIn>9916530624000</pproTicksIn>
 						<pproTicksOut>14217931728000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-219"/>
+						<file id="file-52"/>
 						<logginginfo>
 							<description></description>
 							<scene></scene>
@@ -161,8 +161,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-276">
-						<masterclipid>masterclip-219</masterclipid>
+					<clipitem id="clipitem-61">
+						<masterclipid>masterclip-52</masterclipid>
 						<name>C0650.MP4</name>
 						<enabled>TRUE</enabled>
 						<duration>2196</duration>
@@ -177,7 +177,7 @@
 						<pproTicksIn>14217931728000</pproTicksIn>
 						<pproTicksOut>22163869728000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-219"/>
+						<file id="file-52"/>
 						<logginginfo>
 							<description></description>
 							<scene></scene>
@@ -198,8 +198,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-277">
-						<masterclipid>masterclip-220</masterclipid>
+					<clipitem id="clipitem-62">
+						<masterclipid>masterclip-53</masterclipid>
 						<name>C0651.MP4</name>
 						<enabled>TRUE</enabled>
 						<duration>744</duration>
@@ -216,7 +216,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-220">
+						<file id="file-53">
 							<name>C0651.MP4</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/sony/nazareth/C0651.MP4</pathurl>
 							<rate>
@@ -584,8 +584,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-278">
-						<masterclipid>masterclip-221</masterclipid>
+					<clipitem id="clipitem-63">
+						<masterclipid>masterclip-54</masterclipid>
 						<name>C0652.MP4</name>
 						<enabled>TRUE</enabled>
 						<duration>2748</duration>
@@ -602,7 +602,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-221">
+						<file id="file-54">
 							<name>C0652.MP4</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/sony/nazareth/C0652.MP4</pathurl>
 							<rate>
@@ -662,8 +662,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-279">
-						<masterclipid>masterclip-222</masterclipid>
+					<clipitem id="clipitem-64">
+						<masterclipid>masterclip-55</masterclipid>
 						<name>C0653.MP4</name>
 						<enabled>TRUE</enabled>
 						<duration>576</duration>
@@ -680,7 +680,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-222">
+						<file id="file-55">
 							<name>C0653.MP4</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/sony/nazareth/C0653.MP4</pathurl>
 							<rate>
@@ -740,123 +740,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-280">
-						<masterclipid>masterclip-223</masterclipid>
-						<name>C0654.MP4</name>
-						<enabled>TRUE</enabled>
-						<duration>1548</duration>
-						<rate>
-							<timebase>24</timebase>
-							<ntsc>TRUE</ntsc>
-						</rate>
-						<start>8072</start>
-						<end>8330</end>
-						<in>0</in>
-						<out>258</out>
-						<pproTicksIn>0</pproTicksIn>
-						<pproTicksOut>2733402672000</pproTicksOut>
-						<alphatype>none</alphatype>
-						<pixelaspectratio>square</pixelaspectratio>
-						<anamorphic>FALSE</anamorphic>
-						<file id="file-223">
-							<name>C0654.MP4</name>
-							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/sony/nazareth/C0654.MP4</pathurl>
-							<rate>
-								<timebase>24</timebase>
-								<ntsc>TRUE</ntsc>
-							</rate>
-							<duration>1548</duration>
-							<timecode>
-								<rate>
-									<timebase>24</timebase>
-									<ntsc>TRUE</ntsc>
-								</rate>
-								<string>09:39:46:16</string>
-								<frame>834880</frame>
-								<displayformat>NDF</displayformat>
-							</timecode>
-							<media>
-								<video>
-									<samplecharacteristics>
-										<rate>
-											<timebase>24</timebase>
-											<ntsc>TRUE</ntsc>
-										</rate>
-										<width>1920</width>
-										<height>1080</height>
-										<anamorphic>FALSE</anamorphic>
-										<pixelaspectratio>square</pixelaspectratio>
-										<fielddominance>none</fielddominance>
-									</samplecharacteristics>
-								</video>
-								<audio>
-									<samplecharacteristics>
-										<depth>16</depth>
-										<samplerate>48000</samplerate>
-									</samplecharacteristics>
-									<channelcount>2</channelcount>
-								</audio>
-							</media>
-						</file>
-						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
-						</logginginfo>
-						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
-						</colorinfo>
-						<labels>
-							<label2>Iris</label2>
-						</labels>
-					</clipitem>
-					<clipitem id="clipitem-281">
-						<masterclipid>masterclip-223</masterclipid>
-						<name>C0654.MP4</name>
-						<enabled>TRUE</enabled>
-						<duration>1548</duration>
-						<rate>
-							<timebase>24</timebase>
-							<ntsc>TRUE</ntsc>
-						</rate>
-						<start>8801</start>
-						<end>9620</end>
-						<in>729</in>
-						<out>1548</out>
-						<pproTicksIn>7723451736000</pproTicksIn>
-						<pproTicksOut>16400416032000</pproTicksOut>
-						<alphatype>none</alphatype>
-						<file id="file-223"/>
-						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
-						</logginginfo>
-						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
-						</colorinfo>
-						<labels>
-							<label2>Iris</label2>
-						</labels>
-					</clipitem>
-					<clipitem id="clipitem-282">
-						<masterclipid>masterclip-224</masterclipid>
+					<clipitem id="clipitem-65">
+						<masterclipid>masterclip-56</masterclipid>
 						<name>C0655.MP4</name>
 						<enabled>TRUE</enabled>
 						<duration>624</duration>
@@ -873,7 +758,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-224">
+						<file id="file-56">
 							<name>C0655.MP4</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/sony/nazareth/C0655.MP4</pathurl>
 							<rate>
@@ -933,8 +818,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-283">
-						<masterclipid>masterclip-225</masterclipid>
+					<clipitem id="clipitem-66">
+						<masterclipid>masterclip-57</masterclipid>
 						<name>C0656.MP4</name>
 						<enabled>TRUE</enabled>
 						<duration>396</duration>
@@ -951,7 +836,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-225">
+						<file id="file-57">
 							<name>C0656.MP4</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/sony/nazareth/C0656.MP4</pathurl>
 							<rate>
@@ -1011,8 +896,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-284">
-						<masterclipid>masterclip-226</masterclipid>
+					<clipitem id="clipitem-67">
+						<masterclipid>masterclip-58</masterclipid>
 						<name>C0657.MP4</name>
 						<enabled>TRUE</enabled>
 						<duration>360</duration>
@@ -1029,7 +914,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-226">
+						<file id="file-58">
 							<name>C0657.MP4</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/sony/nazareth/C0657.MP4</pathurl>
 							<rate>
@@ -1089,8 +974,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-285">
-						<masterclipid>masterclip-227</masterclipid>
+					<clipitem id="clipitem-68">
+						<masterclipid>masterclip-59</masterclipid>
 						<name>C0660.MP4</name>
 						<enabled>TRUE</enabled>
 						<duration>468</duration>
@@ -1107,7 +992,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-227">
+						<file id="file-59">
 							<name>C0660.MP4</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/sony/nazareth/C0660.MP4</pathurl>
 							<rate>
@@ -1167,8 +1052,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-286">
-						<masterclipid>masterclip-228</masterclipid>
+					<clipitem id="clipitem-69">
+						<masterclipid>masterclip-60</masterclipid>
 						<name>C0661.MP4</name>
 						<enabled>TRUE</enabled>
 						<duration>1416</duration>
@@ -1185,7 +1070,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-228">
+						<file id="file-60">
 							<name>C0661.MP4</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/sony/nazareth/C0661.MP4</pathurl>
 							<rate>
@@ -1245,8 +1130,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-287">
-						<masterclipid>masterclip-229</masterclipid>
+					<clipitem id="clipitem-70">
+						<masterclipid>masterclip-61</masterclipid>
 						<name>C0658.MP4</name>
 						<enabled>TRUE</enabled>
 						<duration>144</duration>
@@ -1263,7 +1148,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-229">
+						<file id="file-61">
 							<name>C0658.MP4</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/sony/nazareth/C0658.MP4</pathurl>
 							<rate>
@@ -1323,8 +1208,8 @@
 							<label2>Rose</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-288">
-						<masterclipid>masterclip-230</masterclipid>
+					<clipitem id="clipitem-71">
+						<masterclipid>masterclip-62</masterclipid>
 						<name>C0659.MP4</name>
 						<enabled>TRUE</enabled>
 						<duration>252</duration>
@@ -1341,7 +1226,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-230">
+						<file id="file-62">
 							<name>C0659.MP4</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/sony/nazareth/C0659.MP4</pathurl>
 							<rate>
@@ -1401,8 +1286,8 @@
 							<label2>Rose</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-289">
-						<masterclipid>masterclip-231</masterclipid>
+					<clipitem id="clipitem-72">
+						<masterclipid>masterclip-63</masterclipid>
 						<name>C0662.MP4</name>
 						<enabled>TRUE</enabled>
 						<duration>768</duration>
@@ -1419,7 +1304,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-231">
+						<file id="file-63">
 							<name>C0662.MP4</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/sony/nazareth/C0662.MP4</pathurl>
 							<rate>
@@ -1479,8 +1364,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-290">
-						<masterclipid>masterclip-232</masterclipid>
+					<clipitem id="clipitem-73">
+						<masterclipid>masterclip-64</masterclipid>
 						<name>C0663.MP4</name>
 						<enabled>TRUE</enabled>
 						<duration>432</duration>
@@ -1497,7 +1382,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-232">
+						<file id="file-64">
 							<name>C0663.MP4</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/sony/nazareth/C0663.MP4</pathurl>
 							<rate>
@@ -1561,8 +1446,8 @@
 					<locked>FALSE</locked>
 				</track>
 				<track TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="0">
-					<clipitem id="clipitem-291">
-						<masterclipid>masterclip-233</masterclipid>
+					<clipitem id="clipitem-74">
+						<masterclipid>masterclip-65</masterclipid>
 						<name>wiblo_1_2000-01-01_2257_C0081.mov</name>
 						<enabled>TRUE</enabled>
 						<duration>1330</duration>
@@ -1579,7 +1464,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-233">
+						<file id="file-65">
 							<name>wiblo_1_2000-01-01_2257_C0081.mov</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/7-21%20magalys%20and%20healer%202/wiblo_1_2000-01-01_2257_C0081.mov</pathurl>
 							<rate>
@@ -1634,6 +1519,11 @@
 									<LowerBound>false</LowerBound>
 									<UpperBound>true</UpperBound>
 									<value>-91445760000000000,true,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>4</parameterid>
+									<name> </name>
+									<hash>63866a15-9327-e4cb-ff31-c9ea0000000e</hash>
 								</parameter>
 								<parameter authoringApp="PremierePro">
 									<parameterid>5</parameterid>
@@ -1750,6 +1640,11 @@
 									<LowerBound>false</LowerBound>
 									<UpperBound>true</UpperBound>
 									<value>-91445760000000000,true,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>24</parameterid>
+									<name> </name>
+									<hash>63866a15-9327-e4cb-ff31-c9ea0000000e</hash>
 								</parameter>
 								<parameter authoringApp="PremierePro">
 									<parameterid>25</parameterid>
@@ -1925,8 +1820,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-292">
-						<masterclipid>masterclip-233</masterclipid>
+					<clipitem id="clipitem-75">
+						<masterclipid>masterclip-65</masterclipid>
 						<name>wiblo_1_2000-01-01_2257_C0081.mov</name>
 						<enabled>TRUE</enabled>
 						<duration>1330</duration>
@@ -1941,7 +1836,7 @@
 						<pproTicksIn>5932967040000</pproTicksIn>
 						<pproTicksOut>9460963512000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-233"/>
+						<file id="file-65"/>
 						<logginginfo>
 							<description></description>
 							<scene></scene>
@@ -1962,8 +1857,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-293">
-						<masterclipid>masterclip-233</masterclipid>
+					<clipitem id="clipitem-76">
+						<masterclipid>masterclip-65</masterclipid>
 						<name>wiblo_1_2000-01-01_2257_C0081.mov</name>
 						<enabled>TRUE</enabled>
 						<duration>1330</duration>
@@ -1978,7 +1873,7 @@
 						<pproTicksIn>9460963512000</pproTicksIn>
 						<pproTicksOut>13762364616000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-233"/>
+						<file id="file-65"/>
 						<logginginfo>
 							<description></description>
 							<scene></scene>
@@ -1999,8 +1894,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-294">
-						<masterclipid>masterclip-234</masterclipid>
+					<clipitem id="clipitem-77">
+						<masterclipid>masterclip-66</masterclipid>
 						<name>wiblo_1_2000-01-01_2258_C0082.mov</name>
 						<enabled>TRUE</enabled>
 						<duration>2805</duration>
@@ -2017,7 +1912,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-234">
+						<file id="file-66">
 							<name>wiblo_1_2000-01-01_2258_C0082.mov</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/7-21%20magalys%20and%20healer%202/wiblo_1_2000-01-01_2258_C0082.mov</pathurl>
 							<rate>
@@ -2077,8 +1972,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-295">
-						<masterclipid>masterclip-234</masterclipid>
+					<clipitem id="clipitem-78">
+						<masterclipid>masterclip-66</masterclipid>
 						<name>wiblo_1_2000-01-01_2258_C0082.mov</name>
 						<enabled>TRUE</enabled>
 						<duration>2805</duration>
@@ -2093,7 +1988,7 @@
 						<pproTicksIn>5329075752000</pproTicksIn>
 						<pproTicksOut>6240209976000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-234"/>
+						<file id="file-66"/>
 						<logginginfo>
 							<description></description>
 							<scene></scene>
@@ -2114,8 +2009,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-296">
-						<masterclipid>masterclip-234</masterclipid>
+					<clipitem id="clipitem-79">
+						<masterclipid>masterclip-66</masterclipid>
 						<name>wiblo_1_2000-01-01_2258_C0082.mov</name>
 						<enabled>TRUE</enabled>
 						<duration>2805</duration>
@@ -2130,7 +2025,7 @@
 						<pproTicksIn>12289717440000</pproTicksIn>
 						<pproTicksOut>19313926632000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-234"/>
+						<file id="file-66"/>
 						<logginginfo>
 							<description></description>
 							<scene></scene>
@@ -2151,8 +2046,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-297">
-						<masterclipid>masterclip-235</masterclipid>
+					<clipitem id="clipitem-80">
+						<masterclipid>masterclip-67</masterclipid>
 						<name>wiblo_1_2000-01-01_2300_C0083.mov</name>
 						<enabled>TRUE</enabled>
 						<duration>3094</duration>
@@ -2169,7 +2064,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-235">
+						<file id="file-67">
 							<name>wiblo_1_2000-01-01_2300_C0083.mov</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/7-21%20magalys%20and%20healer%202/wiblo_1_2000-01-01_2300_C0083.mov</pathurl>
 							<rate>
@@ -2229,8 +2124,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-298">
-						<masterclipid>masterclip-236</masterclipid>
+					<clipitem id="clipitem-81">
+						<masterclipid>masterclip-68</masterclipid>
 						<name>wiblo_1_2000-01-01_2303_C0084.mov</name>
 						<enabled>TRUE</enabled>
 						<duration>1153</duration>
@@ -2247,7 +2142,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-236">
+						<file id="file-68">
 							<name>wiblo_1_2000-01-01_2303_C0084.mov</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/7-21%20magalys%20and%20healer%202/wiblo_1_2000-01-01_2303_C0084.mov</pathurl>
 							<rate>
@@ -2307,8 +2202,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-299">
-						<masterclipid>masterclip-237</masterclipid>
+					<clipitem id="clipitem-82">
+						<masterclipid>masterclip-69</masterclipid>
 						<name>wiblo_1_2000-01-01_2304_C0085.mov</name>
 						<enabled>TRUE</enabled>
 						<duration>453</duration>
@@ -2325,7 +2220,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-237">
+						<file id="file-69">
 							<name>wiblo_1_2000-01-01_2304_C0085.mov</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/7-21%20magalys%20and%20healer%202/wiblo_1_2000-01-01_2304_C0085.mov</pathurl>
 							<rate>
@@ -2385,8 +2280,8 @@
 							<label2>Rose</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-300">
-						<masterclipid>masterclip-238</masterclipid>
+					<clipitem id="clipitem-83">
+						<masterclipid>masterclip-70</masterclipid>
 						<name>wiblo_1_2000-01-01_2305_C0086.mov</name>
 						<enabled>TRUE</enabled>
 						<duration>614</duration>
@@ -2403,7 +2298,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-238">
+						<file id="file-70">
 							<name>wiblo_1_2000-01-01_2305_C0086.mov</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/7-21%20magalys%20and%20healer%202/wiblo_1_2000-01-01_2305_C0086.mov</pathurl>
 							<rate>
@@ -2463,8 +2358,8 @@
 							<label2>Rose</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-301">
-						<masterclipid>masterclip-239</masterclipid>
+					<clipitem id="clipitem-84">
+						<masterclipid>masterclip-71</masterclipid>
 						<name>wiblo_1_2000-01-01_2305_C0087.mov</name>
 						<enabled>TRUE</enabled>
 						<duration>116</duration>
@@ -2481,7 +2376,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-239">
+						<file id="file-71">
 							<name>wiblo_1_2000-01-01_2305_C0087.mov</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/7-21%20magalys%20and%20healer%202/wiblo_1_2000-01-01_2305_C0087.mov</pathurl>
 							<rate>
@@ -2541,8 +2436,8 @@
 							<label2>Rose</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-302">
-						<masterclipid>masterclip-240</masterclipid>
+					<clipitem id="clipitem-85">
+						<masterclipid>masterclip-72</masterclipid>
 						<name>wiblo_1_2000-01-01_2305_C0088.mov</name>
 						<enabled>TRUE</enabled>
 						<duration>83</duration>
@@ -2559,7 +2454,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-240">
+						<file id="file-72">
 							<name>wiblo_1_2000-01-01_2305_C0088.mov</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/7-21%20magalys%20and%20healer%202/wiblo_1_2000-01-01_2305_C0088.mov</pathurl>
 							<rate>
@@ -2619,8 +2514,8 @@
 							<label2>Rose</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-303">
-						<masterclipid>masterclip-241</masterclipid>
+					<clipitem id="clipitem-86">
+						<masterclipid>masterclip-73</masterclipid>
 						<name>wiblo_1_2000-01-01_2306_C0089.mov</name>
 						<enabled>TRUE</enabled>
 						<duration>1652</duration>
@@ -2637,7 +2532,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-241">
+						<file id="file-73">
 							<name>wiblo_1_2000-01-01_2306_C0089.mov</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/7-21%20magalys%20and%20healer%202/wiblo_1_2000-01-01_2306_C0089.mov</pathurl>
 							<rate>
@@ -2697,8 +2592,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-304">
-						<masterclipid>masterclip-242</masterclipid>
+					<clipitem id="clipitem-87">
+						<masterclipid>masterclip-74</masterclipid>
 						<name>wiblo_1_2000-01-01_2307_C0090.mov</name>
 						<enabled>TRUE</enabled>
 						<duration>504</duration>
@@ -2715,7 +2610,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-242">
+						<file id="file-74">
 							<name>wiblo_1_2000-01-01_2307_C0090.mov</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/7-21%20magalys%20and%20healer%202/wiblo_1_2000-01-01_2307_C0090.mov</pathurl>
 							<rate>
@@ -2775,8 +2670,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-305">
-						<masterclipid>masterclip-243</masterclipid>
+					<clipitem id="clipitem-88">
+						<masterclipid>masterclip-75</masterclipid>
 						<name>wiblo_1_2000-01-01_2308_C0092.mov</name>
 						<enabled>TRUE</enabled>
 						<duration>1158</duration>
@@ -2793,7 +2688,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-243">
+						<file id="file-75">
 							<name>wiblo_1_2000-01-01_2308_C0092.mov</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/7-21%20magalys%20and%20healer%202/wiblo_1_2000-01-01_2308_C0092.mov</pathurl>
 							<rate>
@@ -2853,8 +2748,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-306">
-						<masterclipid>masterclip-244</masterclipid>
+					<clipitem id="clipitem-89">
+						<masterclipid>masterclip-76</masterclipid>
 						<name>wiblo_1_2000-01-01_2309_C0093.mov</name>
 						<enabled>TRUE</enabled>
 						<duration>1058</duration>
@@ -2871,7 +2766,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-244">
+						<file id="file-76">
 							<name>wiblo_1_2000-01-01_2309_C0093.mov</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/7-21%20magalys%20and%20healer%202/wiblo_1_2000-01-01_2309_C0093.mov</pathurl>
 							<rate>
@@ -2931,8 +2826,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-307">
-						<masterclipid>masterclip-245</masterclipid>
+					<clipitem id="clipitem-90">
+						<masterclipid>masterclip-77</masterclipid>
 						<name>wiblo_1_2000-01-01_2311_C0095.mov</name>
 						<enabled>TRUE</enabled>
 						<duration>549</duration>
@@ -2949,7 +2844,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-245">
+						<file id="file-77">
 							<name>wiblo_1_2000-01-01_2311_C0095.mov</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/7-21%20magalys%20and%20healer%202/wiblo_1_2000-01-01_2311_C0095.mov</pathurl>
 							<rate>
@@ -3009,8 +2904,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-308">
-						<masterclipid>masterclip-246</masterclipid>
+					<clipitem id="clipitem-91">
+						<masterclipid>masterclip-78</masterclipid>
 						<name>wiblo_1_2000-01-01_2311_C0096.mov</name>
 						<enabled>TRUE</enabled>
 						<duration>256</duration>
@@ -3027,7 +2922,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-246">
+						<file id="file-78">
 							<name>wiblo_1_2000-01-01_2311_C0096.mov</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/7-21%20magalys%20and%20healer%202/wiblo_1_2000-01-01_2311_C0096.mov</pathurl>
 							<rate>
@@ -3087,8 +2982,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-309">
-						<masterclipid>masterclip-247</masterclipid>
+					<clipitem id="clipitem-92">
+						<masterclipid>masterclip-79</masterclipid>
 						<name>wiblo_1_2000-01-01_2312_C0097.mov</name>
 						<enabled>TRUE</enabled>
 						<duration>941</duration>
@@ -3105,7 +3000,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-247">
+						<file id="file-79">
 							<name>wiblo_1_2000-01-01_2312_C0097.mov</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/7-21%20magalys%20and%20healer%202/wiblo_1_2000-01-01_2312_C0097.mov</pathurl>
 							<rate>
@@ -3165,8 +3060,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-310">
-						<masterclipid>masterclip-248</masterclipid>
+					<clipitem id="clipitem-93">
+						<masterclipid>masterclip-80</masterclipid>
 						<name>wiblo_1_2000-01-01_2313_C0098.mov</name>
 						<enabled>TRUE</enabled>
 						<duration>165</duration>
@@ -3183,7 +3078,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-248">
+						<file id="file-80">
 							<name>wiblo_1_2000-01-01_2313_C0098.mov</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/7-21%20magalys%20and%20healer%202/wiblo_1_2000-01-01_2313_C0098.mov</pathurl>
 							<rate>
@@ -3243,8 +3138,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-311">
-						<masterclipid>masterclip-249</masterclipid>
+					<clipitem id="clipitem-94">
+						<masterclipid>masterclip-81</masterclipid>
 						<name>wiblo_1_2000-01-01_2313_C0099.mov</name>
 						<enabled>TRUE</enabled>
 						<duration>111</duration>
@@ -3261,7 +3156,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-249">
+						<file id="file-81">
 							<name>wiblo_1_2000-01-01_2313_C0099.mov</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/7-21%20magalys%20and%20healer%202/wiblo_1_2000-01-01_2313_C0099.mov</pathurl>
 							<rate>
@@ -3321,8 +3216,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-312">
-						<masterclipid>masterclip-250</masterclipid>
+					<clipitem id="clipitem-95">
+						<masterclipid>masterclip-82</masterclipid>
 						<name>wiblo_1_2000-01-01_2313_C0100.mov</name>
 						<enabled>TRUE</enabled>
 						<duration>108</duration>
@@ -3339,7 +3234,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-250">
+						<file id="file-82">
 							<name>wiblo_1_2000-01-01_2313_C0100.mov</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/7-21%20magalys%20and%20healer%202/wiblo_1_2000-01-01_2313_C0100.mov</pathurl>
 							<rate>
@@ -3399,8 +3294,8 @@
 							<label2>Rose</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-313">
-						<masterclipid>masterclip-251</masterclipid>
+					<clipitem id="clipitem-96">
+						<masterclipid>masterclip-83</masterclipid>
 						<name>wiblo_1_2000-01-01_2313_C0101.mov</name>
 						<enabled>TRUE</enabled>
 						<duration>573</duration>
@@ -3417,7 +3312,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-251">
+						<file id="file-83">
 							<name>wiblo_1_2000-01-01_2313_C0101.mov</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/7-21%20magalys%20and%20healer%202/wiblo_1_2000-01-01_2313_C0101.mov</pathurl>
 							<rate>
@@ -3477,8 +3372,8 @@
 							<label2>Rose</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-314">
-						<masterclipid>masterclip-252</masterclipid>
+					<clipitem id="clipitem-97">
+						<masterclipid>masterclip-84</masterclipid>
 						<name>wiblo_1_2000-01-01_2314_C0102.mov</name>
 						<enabled>TRUE</enabled>
 						<duration>169</duration>
@@ -3495,7 +3390,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-252">
+						<file id="file-84">
 							<name>wiblo_1_2000-01-01_2314_C0102.mov</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/7-21%20magalys%20and%20healer%202/wiblo_1_2000-01-01_2314_C0102.mov</pathurl>
 							<rate>
@@ -3555,8 +3450,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-315">
-						<masterclipid>masterclip-253</masterclipid>
+					<clipitem id="clipitem-98">
+						<masterclipid>masterclip-85</masterclipid>
 						<name>wiblo_1_2000-01-01_2314_C0103.mov</name>
 						<enabled>TRUE</enabled>
 						<duration>312</duration>
@@ -3573,7 +3468,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-253">
+						<file id="file-85">
 							<name>wiblo_1_2000-01-01_2314_C0103.mov</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/7-21%20magalys%20and%20healer%202/wiblo_1_2000-01-01_2314_C0103.mov</pathurl>
 							<rate>
@@ -3633,8 +3528,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-316">
-						<masterclipid>masterclip-254</masterclipid>
+					<clipitem id="clipitem-99">
+						<masterclipid>masterclip-86</masterclipid>
 						<name>wiblo_1_2000-01-01_2315_C0104.mov</name>
 						<enabled>TRUE</enabled>
 						<duration>86</duration>
@@ -3651,7 +3546,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-254">
+						<file id="file-86">
 							<name>wiblo_1_2000-01-01_2315_C0104.mov</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/7-21%20magalys%20and%20healer%202/wiblo_1_2000-01-01_2315_C0104.mov</pathurl>
 							<rate>
@@ -3715,8 +3610,8 @@
 					<locked>FALSE</locked>
 				</track>
 				<track TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="0">
-					<clipitem id="clipitem-317">
-						<masterclipid>masterclip-219</masterclipid>
+					<clipitem id="clipitem-100">
+						<masterclipid>masterclip-52</masterclipid>
 						<name>C0650.MP4</name>
 						<enabled>TRUE</enabled>
 						<duration>2196</duration>
@@ -3731,7 +3626,7 @@
 						<pproTicksIn>6388534152000</pproTicksIn>
 						<pproTicksOut>9916530624000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-219"/>
+						<file id="file-52"/>
 						<filter>
 							<effect>
 								<name></name>
@@ -3747,6 +3642,11 @@
 									<LowerBound>false</LowerBound>
 									<UpperBound>true</UpperBound>
 									<value>-91445760000000000,true,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>4</parameterid>
+									<name> </name>
+									<hash>63866a15-9327-e4cb-ff31-c9ea0000000e</hash>
 								</parameter>
 								<parameter authoringApp="PremierePro">
 									<parameterid>5</parameterid>
@@ -3863,6 +3763,11 @@
 									<LowerBound>false</LowerBound>
 									<UpperBound>true</UpperBound>
 									<value>-91445760000000000,true,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>24</parameterid>
+									<name> </name>
+									<hash>63866a15-9327-e4cb-ff31-c9ea0000000e</hash>
 								</parameter>
 								<parameter authoringApp="PremierePro">
 									<parameterid>25</parameterid>
@@ -4038,8 +3943,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-318">
-						<masterclipid>masterclip-223</masterclipid>
+					<clipitem id="clipitem-101">
+						<masterclipid>masterclip-87</masterclipid>
 						<name>C0654.MP4</name>
 						<enabled>TRUE</enabled>
 						<duration>1548</duration>
@@ -4047,14 +3952,55 @@
 							<timebase>24</timebase>
 							<ntsc>TRUE</ntsc>
 						</rate>
-						<start>8330</start>
-						<end>8893</end>
-						<in>258</in>
-						<out>821</out>
-						<pproTicksIn>2733402672000</pproTicksIn>
-						<pproTicksOut>8698153464000</pproTicksOut>
+						<start>8079</start>
+						<end>9620</end>
+						<in>7</in>
+						<out>1548</out>
+						<pproTicksIn>74162088000</pproTicksIn>
+						<pproTicksOut>16400416032000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-223"/>
+						<pixelaspectratio>square</pixelaspectratio>
+						<anamorphic>FALSE</anamorphic>
+						<file id="file-87">
+							<name>C0654.MP4</name>
+							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/sony/nazareth/C0654.MP4</pathurl>
+							<rate>
+								<timebase>24</timebase>
+								<ntsc>TRUE</ntsc>
+							</rate>
+							<duration>1548</duration>
+							<timecode>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>TRUE</ntsc>
+								</rate>
+								<string>09:39:46:16</string>
+								<frame>834880</frame>
+								<displayformat>NDF</displayformat>
+							</timecode>
+							<media>
+								<video>
+									<samplecharacteristics>
+										<rate>
+											<timebase>24</timebase>
+											<ntsc>TRUE</ntsc>
+										</rate>
+										<width>1920</width>
+										<height>1080</height>
+										<anamorphic>FALSE</anamorphic>
+										<pixelaspectratio>square</pixelaspectratio>
+										<fielddominance>none</fielddominance>
+									</samplecharacteristics>
+								</video>
+								<audio>
+									<samplecharacteristics>
+										<depth>16</depth>
+										<samplerate>48000</samplerate>
+									</samplecharacteristics>
+									<channelcount>2</channelcount>
+								</audio>
+							</media>
+						</file>
 						<filter>
 							<effect>
 								<name></name>
@@ -4070,6 +4016,11 @@
 									<LowerBound>false</LowerBound>
 									<UpperBound>true</UpperBound>
 									<value>-91445760000000000,true,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>4</parameterid>
+									<name> </name>
+									<hash>63866a15-9327-e4cb-ff31-c9ea0000000e</hash>
 								</parameter>
 								<parameter authoringApp="PremierePro">
 									<parameterid>5</parameterid>
@@ -4188,6 +4139,11 @@
 									<value>-91445760000000000,true,0,0,0,0,0,0</value>
 								</parameter>
 								<parameter authoringApp="PremierePro">
+									<parameterid>24</parameterid>
+									<name> </name>
+									<hash>63866a15-9327-e4cb-ff31-c9ea0000000e</hash>
+								</parameter>
+								<parameter authoringApp="PremierePro">
 									<parameterid>25</parameterid>
 									<name>Look</name>
 									<IsTimeVarying>false</IsTimeVarying>
@@ -4361,8 +4317,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-319">
-						<masterclipid>masterclip-255</masterclipid>
+					<clipitem id="clipitem-102">
+						<masterclipid>masterclip-88</masterclipid>
 						<name>julian_1_2021-12-27_1840_C0072.mov</name>
 						<enabled>TRUE</enabled>
 						<duration>847</duration>
@@ -4379,7 +4335,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-255">
+						<file id="file-88">
 							<name>julian_1_2021-12-27_1840_C0072.mov</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/7-21%20magalys%20and%20healer%202/../7-21%20magalys%20and%20healer/../7-21%20magalys%20and%20piedra/julian_1_2021-12-27_1840_C0072.mov</pathurl>
 							<rate>
@@ -4439,8 +4395,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-320">
-						<masterclipid>masterclip-256</masterclipid>
+					<clipitem id="clipitem-103">
+						<masterclipid>masterclip-89</masterclipid>
 						<name>julian_1_2021-12-27_1841_C0073.mov</name>
 						<enabled>TRUE</enabled>
 						<duration>197</duration>
@@ -4457,7 +4413,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-256">
+						<file id="file-89">
 							<name>julian_1_2021-12-27_1841_C0073.mov</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/7-21%20magalys%20and%20healer%202/../7-21%20magalys%20and%20healer/../7-21%20magalys%20and%20piedra/julian_1_2021-12-27_1841_C0073.mov</pathurl>
 							<rate>
@@ -4517,8 +4473,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-321">
-						<masterclipid>masterclip-257</masterclipid>
+					<clipitem id="clipitem-104">
+						<masterclipid>masterclip-90</masterclipid>
 						<name>julian_1_2021-12-27_1842_C0074.mov</name>
 						<enabled>TRUE</enabled>
 						<duration>246</duration>
@@ -4535,7 +4491,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-257">
+						<file id="file-90">
 							<name>julian_1_2021-12-27_1842_C0074.mov</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/7-21%20magalys%20and%20healer%202/../7-21%20magalys%20and%20healer/../7-21%20magalys%20and%20piedra/julian_1_2021-12-27_1842_C0074.mov</pathurl>
 							<rate>
@@ -4595,8 +4551,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-322">
-						<masterclipid>masterclip-258</masterclipid>
+					<clipitem id="clipitem-105">
+						<masterclipid>masterclip-91</masterclipid>
 						<name>julian_1_2021-12-27_1844_C0075.mov</name>
 						<enabled>TRUE</enabled>
 						<duration>281</duration>
@@ -4613,7 +4569,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-258">
+						<file id="file-91">
 							<name>julian_1_2021-12-27_1844_C0075.mov</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/7-21%20magalys%20and%20healer%202/../7-21%20magalys%20and%20healer/../7-21%20magalys%20and%20piedra/julian_1_2021-12-27_1844_C0075.mov</pathurl>
 							<rate>
@@ -4673,8 +4629,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-323">
-						<masterclipid>masterclip-259</masterclipid>
+					<clipitem id="clipitem-106">
+						<masterclipid>masterclip-92</masterclipid>
 						<name>julian_1_2021-12-27_1845_C0076.mov</name>
 						<enabled>TRUE</enabled>
 						<duration>392</duration>
@@ -4691,7 +4647,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-259">
+						<file id="file-92">
 							<name>julian_1_2021-12-27_1845_C0076.mov</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/7-21%20magalys%20and%20healer%202/../7-21%20magalys%20and%20healer/../7-21%20magalys%20and%20piedra/julian_1_2021-12-27_1845_C0076.mov</pathurl>
 							<rate>
@@ -4751,8 +4707,8 @@
 							<label2>Rose</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-324">
-						<masterclipid>masterclip-260</masterclipid>
+					<clipitem id="clipitem-107">
+						<masterclipid>masterclip-93</masterclipid>
 						<name>julian_1_2021-12-27_1845_C0078.mov</name>
 						<enabled>TRUE</enabled>
 						<duration>567</duration>
@@ -4769,7 +4725,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-260">
+						<file id="file-93">
 							<name>julian_1_2021-12-27_1845_C0078.mov</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/7-21%20magalys%20and%20healer%202/../7-21%20magalys%20and%20healer/../7-21%20magalys%20and%20piedra/julian_1_2021-12-27_1845_C0078.mov</pathurl>
 							<rate>
@@ -4829,8 +4785,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-325">
-						<masterclipid>masterclip-261</masterclipid>
+					<clipitem id="clipitem-108">
+						<masterclipid>masterclip-94</masterclipid>
 						<name>julian_1_2021-12-27_1847_C0079.mov</name>
 						<enabled>TRUE</enabled>
 						<duration>185</duration>
@@ -4847,7 +4803,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-261">
+						<file id="file-94">
 							<name>julian_1_2021-12-27_1847_C0079.mov</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/7-21%20magalys%20and%20healer%202/../7-21%20magalys%20and%20healer/../7-21%20magalys%20and%20piedra/julian_1_2021-12-27_1847_C0079.mov</pathurl>
 							<rate>
@@ -4907,8 +4863,8 @@
 							<label2>Rose</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-326">
-						<masterclipid>masterclip-262</masterclipid>
+					<clipitem id="clipitem-109">
+						<masterclipid>masterclip-95</masterclipid>
 						<name>julian_1_2021-12-27_1845_C0077.mov</name>
 						<enabled>TRUE</enabled>
 						<duration>28</duration>
@@ -4925,7 +4881,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-262">
+						<file id="file-95">
 							<name>julian_1_2021-12-27_1845_C0077.mov</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/7-21%20magalys%20and%20healer%202/../7-21%20magalys%20and%20healer/../7-21%20magalys%20and%20piedra/julian_1_2021-12-27_1845_C0077.mov</pathurl>
 							<rate>
@@ -4985,8 +4941,8 @@
 							<label2>Rose</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-327">
-						<masterclipid>masterclip-263</masterclipid>
+					<clipitem id="clipitem-110">
+						<masterclipid>masterclip-96</masterclipid>
 						<name>julian_1_2021-12-27_1847_C0080.mov</name>
 						<enabled>TRUE</enabled>
 						<duration>166</duration>
@@ -5003,7 +4959,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-263">
+						<file id="file-96">
 							<name>julian_1_2021-12-27_1847_C0080.mov</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/7-21%20magalys%20and%20healer%202/../7-21%20magalys%20and%20healer/../7-21%20magalys%20and%20piedra/julian_1_2021-12-27_1847_C0080.mov</pathurl>
 							<rate>
@@ -5063,8 +5019,8 @@
 							<label2>Rose</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-328">
-						<masterclipid>masterclip-264</masterclipid>
+					<clipitem id="clipitem-111">
+						<masterclipid>masterclip-97</masterclipid>
 						<name>julian_1_2021-12-27_1849_C0081.mov</name>
 						<enabled>TRUE</enabled>
 						<duration>503</duration>
@@ -5081,7 +5037,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-264">
+						<file id="file-97">
 							<name>julian_1_2021-12-27_1849_C0081.mov</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/7-21%20magalys%20and%20healer%202/../7-21%20magalys%20and%20healer/../7-21%20magalys%20and%20piedra/julian_1_2021-12-27_1849_C0081.mov</pathurl>
 							<rate>
@@ -5141,8 +5097,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-329">
-						<masterclipid>masterclip-265</masterclipid>
+					<clipitem id="clipitem-112">
+						<masterclipid>masterclip-98</masterclipid>
 						<name>julian_1_2021-12-27_1850_C0082.mov</name>
 						<enabled>TRUE</enabled>
 						<duration>88</duration>
@@ -5159,7 +5115,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-265">
+						<file id="file-98">
 							<name>julian_1_2021-12-27_1850_C0082.mov</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/7-21%20magalys%20and%20healer%202/../7-21%20magalys%20and%20healer/../7-21%20magalys%20and%20piedra/julian_1_2021-12-27_1850_C0082.mov</pathurl>
 							<rate>
@@ -5219,8 +5175,8 @@
 							<label2>Rose</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-330">
-						<masterclipid>masterclip-266</masterclipid>
+					<clipitem id="clipitem-113">
+						<masterclipid>masterclip-99</masterclipid>
 						<name>julian_1_2021-12-27_1850_C0083.mov</name>
 						<enabled>TRUE</enabled>
 						<duration>104</duration>
@@ -5237,7 +5193,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-266">
+						<file id="file-99">
 							<name>julian_1_2021-12-27_1850_C0083.mov</name>
 							<pathurl>file://localhost/Volumes/aqua/00_Footage/4)%20Wayuu/7-21%20magalys%20and%20healer%202/../7-21%20magalys%20and%20healer/../7-21%20magalys%20and%20piedra/julian_1_2021-12-27_1850_C0083.mov</pathurl>
 							<rate>
@@ -5300,6 +5256,380 @@
 					<enabled>TRUE</enabled>
 					<locked>FALSE</locked>
 				</track>
+				<track TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="0">
+					<clipitem id="clipitem-114">
+						<masterclipid>masterclip-100</masterclipid>
+						<name>BM Adjustment Layer</name>
+						<enabled>TRUE</enabled>
+						<duration>1035764</duration>
+						<rate>
+							<timebase>24</timebase>
+							<ntsc>TRUE</ntsc>
+						</rate>
+						<start>0</start>
+						<end>25345</end>
+						<in>0</in>
+						<out>25345</out>
+						<pproTicksIn>0</pproTicksIn>
+						<pproTicksOut>268519731480000</pproTicksOut>
+						<alphatype>none</alphatype>
+						<pixelaspectratio>square</pixelaspectratio>
+						<anamorphic>FALSE</anamorphic>
+						<file id="file-100">
+							<name>Black Video</name>
+							<mediaSource>Slug</mediaSource>
+							<rate>
+								<timebase>30</timebase>
+								<ntsc>TRUE</ntsc>
+							</rate>
+							<timecode>
+								<rate>
+									<timebase>30</timebase>
+									<ntsc>TRUE</ntsc>
+								</rate>
+								<string>00;00;00;00</string>
+								<frame>0</frame>
+								<displayformat>DF</displayformat>
+							</timecode>
+							<media>
+								<video>
+									<samplecharacteristics>
+										<rate>
+											<timebase>30</timebase>
+											<ntsc>TRUE</ntsc>
+										</rate>
+										<width>1920</width>
+										<height>1080</height>
+										<anamorphic>FALSE</anamorphic>
+										<pixelaspectratio>square</pixelaspectratio>
+										<fielddominance>none</fielddominance>
+									</samplecharacteristics>
+								</video>
+							</media>
+						</file>
+						<filter>
+							<effect>
+								<name></name>
+								<effectid>Lumetri</effectid>
+								<effecttype>filter</effecttype>
+								<mediatype>video</mediatype>
+								<pproBypass>false</pproBypass>
+								<parameter authoringApp="PremierePro">
+									<parameterid>1</parameterid>
+									<name>Blob</name>
+									<hash>63d4c37b-fb5f-4187-12a1-ab520000398e</hash>
+									<value>PEx1bWV0cmk+CiAgPGd1aWQ+ImEyNzA4MDE2LTM1ODYtMTFlZS04NDk0LTAyYzA2MTVlNzU4MyI8L2d1aWQ+CiAgPHZlcnNpb24+IjMiPC92ZXJzaW9uPgogIDxuYW1lPiIiPC9uYW1lPgogIDxrZXlmcmFtZT4KICAgIDx0aW1lPiIwIjwvdGltZT4KICAgIDx0d2Vlbj4iMCI8L3R3ZWVuPgogICAgPGVhc2Vpbj4iMSI8L2Vhc2Vpbj4KICAgIDxlYXNlb3V0PiIxIjwvZWFzZW91dD4KICAgIDxzZWxlY3RlZGxheWVyPiIwIjwvc2VsZWN0ZWRsYXllcj4KICAgIDxzaGFkZXI+CiAgICAgIDxuYW1lPiJfX0dyb3VwQmVnaW4iPC9uYW1lPgogICAgICA8Y3VzdG9tbmFtZT4iX19Hcm91cEJlZ2luIjwvY3VzdG9tbmFtZT4KICAgICAgPHZpc2libGU+IjEiPC92aXNpYmxlPgogICAgICA8bG9ja2VkdmlzaWJsZT4iMCI8L2xvY2tlZHZpc2libGU+CiAgICAgIDxvcGFjaXR5PiIxIjwvb3BhY2l0eT4KICAgICAgPG1hc2s+IjAiPC9tYXNrPgogICAgICA8dmVjdG9ybWFzaz4iMCI8L3ZlY3Rvcm1hc2s+CiAgICAgIDxsaW5rZWQ+IjAiPC9saW5rZWQ+CiAgICAgIDxwYXJhbWV0ZXJzPgogICAgICAgIDxfX1ByQ29sb3I+IjEiPC9fX1ByQ29sb3I+CiAgICAgICAgPF9fQ3VzdG9tT24+IjEiPC9fX0N1c3RvbU9uPgogICAgICA8L3BhcmFtZXRlcnM+CiAgICA8L3NoYWRlcj4KICAgIDxzaGFkZXI+CiAgICAgIDxuYW1lPiJfX0dyb3VwQmVnaW4iPC9uYW1lPgogICAgICA8Y3VzdG9tbmFtZT4iX19Hcm91cEJlZ2luIjwvY3VzdG9tbmFtZT4KICAgICAgPHZpc2libGU+IjEiPC92aXNpYmxlPgogICAgICA8bG9ja2VkdmlzaWJsZT4iMCI8L2xvY2tlZHZpc2libGU+CiAgICAgIDxvcGFjaXR5PiIxIjwvb3BhY2l0eT4KICAgICAgPG1hc2s+IjAiPC9tYXNrPgogICAgICA8dmVjdG9ybWFzaz4iMCI8L3ZlY3Rvcm1hc2s+CiAgICAgIDxsaW5rZWQ+IjAiPC9saW5rZWQ+CiAgICAgIDxwYXJhbWV0ZXJzPgogICAgICA8L3BhcmFtZXRlcnM+CiAgICA8L3NoYWRlcj4KICAgIDxzaGFkZXI+CiAgICAgIDxuYW1lPiJMVVQiPC9uYW1lPgogICAgICA8Y3VzdG9tbmFtZT4iTFVUIjwvY3VzdG9tbmFtZT4KICAgICAgPHZpc2libGU+IjEiPC92aXNpYmxlPgogICAgICA8bG9ja2VkdmlzaWJsZT4iMCI8L2xvY2tlZHZpc2libGU+CiAgICAgIDxvcGFjaXR5PiIxIjwvb3BhY2l0eT4KICAgICAgPG1hc2s+IjAiPC9tYXNrPgogICAgICA8dmVjdG9ybWFzaz4iMCI8L3ZlY3Rvcm1hc2s+CiAgICAgIDxsaW5rZWQ+IjAiPC9saW5rZWQ+CiAgICAgIDxwYXJhbWV0ZXJzPgogICAgICAgIDxfX0VtYmVkPiIxIjwvX19FbWJlZD4KICAgICAgICA8TFVUPiIiPC9MVVQ+CiAgICAgIDwvcGFyYW1ldGVycz4KICAgIDwvc2hhZGVyPgogICAgPHNoYWRlcj4KICAgICAgPG5hbWU+IkxpbmVhcml6ZSI8L25hbWU+CiAgICAgIDxjdXN0b21uYW1lPiJHYW1tYSAyLjQgdG8gTGluZWFyIjwvY3VzdG9tbmFtZT4KICAgICAgPHZpc2libGU+IjEiPC92aXNpYmxlPgogICAgICA8bG9ja2VkdmlzaWJsZT4iMCI8L2xvY2tlZHZpc2libGU+CiAgICAgIDxvcGFjaXR5PiIxIjwvb3BhY2l0eT4KICAgICAgPG1hc2s+IjAiPC9tYXNrPgogICAgICA8dmVjdG9ybWFzaz4iMCI8L3ZlY3Rvcm1hc2s+CiAgICAgIDxsaW5rZWQ+IjAiPC9saW5rZWQ+CiAgICAgIDxwYXJhbWV0ZXJzPgogICAgICAgIDxHYW1tYT4iMi40IjwvR2FtbWE+CiAgICAgIDwvcGFyYW1ldGVycz4KICAgIDwvc2hhZGVyPgogICAgPHNoYWRlcj4KICAgICAgPG5hbWU+IkJhc2ljQ29ycmVjdGlvbjMiPC9uYW1lPgogICAgICA8Y3VzdG9tbmFtZT4iQmFzaWMgQ29ycmVjdGlvbiI8L2N1c3RvbW5hbWU+CiAgICAgIDx2aXNpYmxlPiIxIjwvdmlzaWJsZT4KICAgICAgPGxvY2tlZHZpc2libGU+IjAiPC9sb2NrZWR2aXNpYmxlPgogICAgICA8b3BhY2l0eT4iMSI8L29wYWNpdHk+CiAgICAgIDxtYXNrPiIwIjwvbWFzaz4KICAgICAgPHZlY3Rvcm1hc2s+IjAiPC92ZWN0b3JtYXNrPgogICAgICA8bGlua2VkPiIwIjwvbGlua2VkPgogICAgICA8cGFyYW1ldGVycz4KICAgICAgICA8RXhwb3N1cmU+IkQwIjwvRXhwb3N1cmU+CiAgICAgICAgPEJsYWNrcz4iRDAiPC9CbGFja3M+CiAgICAgICAgPERpZmZXaGl0ZT4iTjEwMCI8L0RpZmZXaGl0ZT4KICAgICAgICA8Q29udHJhc3Q+IkQwIjwvQ29udHJhc3Q+CiAgICAgICAgPFNoYWRvd3M+IkQwIjwvU2hhZG93cz4KICAgICAgICA8VGVtcD4iRDAiPC9UZW1wPgogICAgICAgIDxXaGl0ZXM+IkQwIjwvV2hpdGVzPgogICAgICAgIDxTcGVjdWxhcj4iRDAiPC9TcGVjdWxhcj4KICAgICAgICA8SGlnaGxpZ2h0cz4iRDAiPC9IaWdobGlnaHRzPgogICAgICAgIDxTYXR1cmF0aW9uPiJEMTAwIjwvU2F0dXJhdGlvbj4KICAgICAgICA8VGludD4iRDAiPC9UaW50PgogICAgICA8L3BhcmFtZXRlcnM+CiAgICA8L3NoYWRlcj4KICAgIDxzaGFkZXI+CiAgICAgIDxuYW1lPiJfX0dyb3VwRW5kIjwvbmFtZT4KICAgICAgPGN1c3RvbW5hbWU+IkJhc2ljIENvcnJlY3Rpb24iPC9jdXN0b21uYW1lPgogICAgICA8dmlzaWJsZT4iMSI8L3Zpc2libGU+CiAgICAgIDxsb2NrZWR2aXNpYmxlPiIwIjwvbG9ja2VkdmlzaWJsZT4KICAgICAgPG9wYWNpdHk+IjEiPC9vcGFjaXR5PgogICAgICA8bWFzaz4iMCI8L21hc2s+CiAgICAgIDx2ZWN0b3JtYXNrPiIwIjwvdmVjdG9ybWFzaz4KICAgICAgPGxpbmtlZD4iMCI8L2xpbmtlZD4KICAgICAgPHBhcmFtZXRlcnM+CiAgICAgICAgPENvbGxhcHNlZD4iMSI8L0NvbGxhcHNlZD4KICAgICAgICA8X19CYXNpYz4iMSI8L19fQmFzaWM+CiAgICAgIDwvcGFyYW1ldGVycz4KICAgIDwvc2hhZGVyPgogICAgPHNoYWRlcj4KICAgICAgPG5hbWU+Il9fR3JvdXBCZWdpbiI8L25hbWU+CiAgICAgIDxjdXN0b21uYW1lPiJfX0dyb3VwQmVnaW4iPC9jdXN0b21uYW1lPgogICAgICA8dmlzaWJsZT4iMSI8L3Zpc2libGU+CiAgICAgIDxsb2NrZWR2aXNpYmxlPiIwIjwvbG9ja2VkdmlzaWJsZT4KICAgICAgPG9wYWNpdHk+IjEiPC9vcGFjaXR5PgogICAgICA8bWFzaz4iMCI8L21hc2s+CiAgICAgIDx2ZWN0b3JtYXNrPiIwIjwvdmVjdG9ybWFzaz4KICAgICAgPGxpbmtlZD4iMCI8L2xpbmtlZD4KICAgICAgPHBhcmFtZXRlcnM+CiAgICAgIDwvcGFyYW1ldGVycz4KICAgIDwvc2hhZGVyPgogICAgPHNoYWRlcj4KICAgICAgPG5hbWU+Il9fR3JvdXBCZWdpbiI8L25hbWU+CiAgICAgIDxjdXN0b21uYW1lPiJfX0dyb3VwQmVnaW4iPC9jdXN0b21uYW1lPgogICAgICA8dmlzaWJsZT4iMSI8L3Zpc2libGU+CiAgICAgIDxsb2NrZWR2aXNpYmxlPiIwIjwvbG9ja2VkdmlzaWJsZT4KICAgICAgPG9wYWNpdHk+IjEiPC9vcGFjaXR5PgogICAgICA8bWFzaz4iMCI8L21hc2s+CiAgICAgIDx2ZWN0b3JtYXNrPiIwIjwvdmVjdG9ybWFzaz4KICAgICAgPGxpbmtlZD4iMCI8L2xpbmtlZD4KICAgICAgPHBhcmFtZXRlcnM+CiAgICAgICAgPF9fRW1iZWQ+IjEiPC9fX0VtYmVkPgogICAgICAgIDxfX1ByZXNldD4iU0wgQ0xFQU4gS09EQUsgQi5pdHgiPC9fX1ByZXNldD4KICAgICAgPC9wYXJhbWV0ZXJzPgogICAgPC9zaGFkZXI+CiAgICA8c2hhZGVyPgogICAgICA8bmFtZT4iTGluZWFyaXplIjwvbmFtZT4KICAgICAgPGN1c3RvbW5hbWU+IkxpbmVhciB0byBHYW1tYSAyLjQiPC9jdXN0b21uYW1lPgogICAgICA8dmlzaWJsZT4iMSI8L3Zpc2libGU+CiAgICAgIDxsb2NrZWR2aXNpYmxlPiIwIjwvbG9ja2VkdmlzaWJsZT4KICAgICAgPG9wYWNpdHk+IjEiPC9vcGFjaXR5PgogICAgICA8bWFzaz4iMCI8L21hc2s+CiAgICAgIDx2ZWN0b3JtYXNrPiIwIjwvdmVjdG9ybWFzaz4KICAgICAgPGxpbmtlZD4iMCI8L2xpbmtlZD4KICAgICAgPHBhcmFtZXRlcnM+CiAgICAgICAgPEdhbW1hPiIwLjQxNjY3IjwvR2FtbWE+CiAgICAgIDwvcGFyYW1ldGVycz4KICAgIDwvc2hhZGVyPgogICAgPHNoYWRlcj4KICAgICAgPG5hbWU+IkxVVCI8L25hbWU+CiAgICAgIDxjdXN0b21uYW1lPiJMVVQiPC9jdXN0b21uYW1lPgogICAgICA8dmlzaWJsZT4iMSI8L3Zpc2libGU+CiAgICAgIDxsb2NrZWR2aXNpYmxlPiIwIjwvbG9ja2VkdmlzaWJsZT4KICAgICAgPG9wYWNpdHk+IjEiPC9vcGFjaXR5PgogICAgICA8bWFzaz4iMCI8L21hc2s+CiAgICAgIDx2ZWN0b3JtYXNrPiIwIjwvdmVjdG9ybWFzaz4KICAgICAgPGxpbmtlZD4iMCI8L2xpbmtlZD4KICAgICAgPHBhcmFtZXRlcnM+CiAgICAgICAgPExVVD4iU0wgQ0xFQU4gS09EQUsgQi5pdHgiPC9MVVQ+CiAgICAgIDwvcGFyYW1ldGVycz4KICAgIDwvc2hhZGVyPgogICAgPHNoYWRlcj4KICAgICAgPG5hbWU+IkxpbmVhcml6ZSI8L25hbWU+CiAgICAgIDxjdXN0b21uYW1lPiJHYW1tYSAyLjQgdG8gbGluZWFyIjwvY3VzdG9tbmFtZT4KICAgICAgPHZpc2libGU+IjEiPC92aXNpYmxlPgogICAgICA8bG9ja2VkdmlzaWJsZT4iMCI8L2xvY2tlZHZpc2libGU+CiAgICAgIDxvcGFjaXR5PiIxIjwvb3BhY2l0eT4KICAgICAgPG1hc2s+IjAiPC9tYXNrPgogICAgICA8dmVjdG9ybWFzaz4iMCI8L3ZlY3Rvcm1hc2s+CiAgICAgIDxsaW5rZWQ+IjAiPC9saW5rZWQ+CiAgICAgIDxwYXJhbWV0ZXJzPgogICAgICAgIDxHYW1tYT4iMi40IjwvR2FtbWE+CiAgICAgIDwvcGFyYW1ldGVycz4KICAgIDwvc2hhZGVyPgogICAgPHNoYWRlcj4KICAgICAgPG5hbWU+Il9fR3JvdXBFbmQiPC9uYW1lPgogICAgICA8Y3VzdG9tbmFtZT4iUHJlc2V0IjwvY3VzdG9tbmFtZT4KICAgICAgPHZpc2libGU+IjEiPC92aXNpYmxlPgogICAgICA8bG9ja2VkdmlzaWJsZT4iMCI8L2xvY2tlZHZpc2libGU+CiAgICAgIDxvcGFjaXR5PiIxIjwvb3BhY2l0eT4KICAgICAgPG1hc2s+IjAiPC9tYXNrPgogICAgICA8dmVjdG9ybWFzaz4iMCI8L3ZlY3Rvcm1hc2s+CiAgICAgIDxsaW5rZWQ+IjAiPC9saW5rZWQ+CiAgICAgIDxwYXJhbWV0ZXJzPgogICAgICAgIDxfX0ludGVuc2l0eT4iMTAwIjwvX19JbnRlbnNpdHk+CiAgICAgIDwvcGFyYW1ldGVycz4KICAgIDwvc2hhZGVyPgogICAgPHNoYWRlcj4KICAgICAgPG5hbWU+Ikxvb2tBZGp1c3RtZW50cyI8L25hbWU+CiAgICAgIDxjdXN0b21uYW1lPiJMb29rIEFkanVzdG1lbnRzIjwvY3VzdG9tbmFtZT4KICAgICAgPHZpc2libGU+IjEiPC92aXNpYmxlPgogICAgICA8bG9ja2VkdmlzaWJsZT4iMCI8L2xvY2tlZHZpc2libGU+CiAgICAgIDxvcGFjaXR5PiIxIjwvb3BhY2l0eT4KICAgICAgPG1hc2s+IjAiPC9tYXNrPgogICAgICA8dmVjdG9ybWFzaz4iMCI8L3ZlY3Rvcm1hc2s+CiAgICAgIDxsaW5rZWQ+IjAiPC9saW5rZWQ+CiAgICAgIDxwYXJhbWV0ZXJzPgogICAgICAgIDxMb0hpU3BsaXQ+IkQwIjwvTG9IaVNwbGl0PgogICAgICAgIDxTaGFkb3dUaW50Llo+IkQxIjwvU2hhZG93VGludC5aPgogICAgICAgIDxIaWdobGlnaHRUaW50Llo+IkQxIjwvSGlnaGxpZ2h0VGludC5aPgogICAgICAgIDxWaWJyYW5jZT4iRDAiPC9WaWJyYW5jZT4KICAgICAgICA8RmFkZT4iRDAiPC9GYWRlPgogICAgICAgIDxTaGFkb3dUaW50Llk+IkQxIjwvU2hhZG93VGludC5ZPgogICAgICAgIDxIaWdobGlnaHRUaW50Llg+IkQxIjwvSGlnaGxpZ2h0VGludC5YPgogICAgICAgIDxIaWdobGlnaHRUaW50Llk+IkQxIjwvSGlnaGxpZ2h0VGludC5ZPgogICAgICAgIDxTYXR1cmF0aW9uPiJEMTAwIjwvU2F0dXJhdGlvbj4KICAgICAgICA8U2hhZG93VGludC5YPiJEMSI8L1NoYWRvd1RpbnQuWD4KICAgICAgPC9wYXJhbWV0ZXJzPgogICAgPC9zaGFkZXI+CiAgICA8c2hhZGVyPgogICAgICA8bmFtZT4iU2hhcnBuZXNzIjwvbmFtZT4KICAgICAgPGN1c3RvbW5hbWU+IlNoYXJwbmVzcyI8L2N1c3RvbW5hbWU+CiAgICAgIDx2aXNpYmxlPiIxIjwvdmlzaWJsZT4KICAgICAgPGxvY2tlZHZpc2libGU+IjAiPC9sb2NrZWR2aXNpYmxlPgogICAgICA8b3BhY2l0eT4iMSI8L29wYWNpdHk+CiAgICAgIDxtYXNrPiIwIjwvbWFzaz4KICAgICAgPHZlY3Rvcm1hc2s+IjAiPC92ZWN0b3JtYXNrPgogICAgICA8bGlua2VkPiIwIjwvbGlua2VkPgogICAgICA8cGFyYW1ldGVycz4KICAgICAgICA8U2hhcnBuZXNzPiJEMCI8L1NoYXJwbmVzcz4KICAgICAgPC9wYXJhbWV0ZXJzPgogICAgPC9zaGFkZXI+CiAgICA8c2hhZGVyPgogICAgICA8bmFtZT4iX19Hcm91cEVuZCI8L25hbWU+CiAgICAgIDxjdXN0b21uYW1lPiJMb29rIjwvY3VzdG9tbmFtZT4KICAgICAgPHZpc2libGU+IjEiPC92aXNpYmxlPgogICAgICA8bG9ja2VkdmlzaWJsZT4iMCI8L2xvY2tlZHZpc2libGU+CiAgICAgIDxvcGFjaXR5PiIxIjwvb3BhY2l0eT4KICAgICAgPG1hc2s+IjAiPC9tYXNrPgogICAgICA8dmVjdG9ybWFzaz4iMCI8L3ZlY3Rvcm1hc2s+CiAgICAgIDxsaW5rZWQ+IjAiPC9saW5rZWQ+CiAgICAgIDxwYXJhbWV0ZXJzPgogICAgICAgIDxfX0xvb2s+IjEiPC9fX0xvb2s+CiAgICAgICAgPENvbGxhcHNlZD4iMSI8L0NvbGxhcHNlZD4KICAgICAgPC9wYXJhbWV0ZXJzPgogICAgPC9zaGFkZXI+CiAgICA8c2hhZGVyPgogICAgICA8bmFtZT4iX19Hcm91cEJlZ2luIjwvbmFtZT4KICAgICAgPGN1c3RvbW5hbWU+Il9fR3JvdXBCZWdpbiI8L2N1c3RvbW5hbWU+CiAgICAgIDx2aXNpYmxlPiIxIjwvdmlzaWJsZT4KICAgICAgPGxvY2tlZHZpc2libGU+IjAiPC9sb2NrZWR2aXNpYmxlPgogICAgICA8b3BhY2l0eT4iMSI8L29wYWNpdHk+CiAgICAgIDxtYXNrPiIwIjwvbWFzaz4KICAgICAgPHZlY3Rvcm1hc2s+IjAiPC92ZWN0b3JtYXNrPgogICAgICA8bGlua2VkPiIwIjwvbGlua2VkPgogICAgICA8cGFyYW1ldGVycz4KICAgICAgPC9wYXJhbWV0ZXJzPgogICAgPC9zaGFkZXI+CiAgICA8c2hhZGVyPgogICAgICA8bmFtZT4iVG9uZUN1cnZlcyI8L25hbWU+CiAgICAgIDxjdXN0b21uYW1lPiJUb25lK1JHQiBDdXJ2ZXMiPC9jdXN0b21uYW1lPgogICAgICA8dmlzaWJsZT4iMSI8L3Zpc2libGU+CiAgICAgIDxsb2NrZWR2aXNpYmxlPiIwIjwvbG9ja2VkdmlzaWJsZT4KICAgICAgPG9wYWNpdHk+IjEiPC9vcGFjaXR5PgogICAgICA8bWFzaz4iMCI8L21hc2s+CiAgICAgIDx2ZWN0b3JtYXNrPiIwIjwvdmVjdG9ybWFzaz4KICAgICAgPGxpbmtlZD4iMCI8L2xpbmtlZD4KICAgICAgPHBhcmFtZXRlcnM+CiAgICAgICAgPFRvbmVDdXJ2ZXNMdW1hPiJjdWJpYyx2YWx1ZTowQDA7MUAxIjwvVG9uZUN1cnZlc0x1bWE+CiAgICAgICAgPFRvbmVDdXJ2ZXNCbHVlPiJjdWJpYyx2YWx1ZTowQDA7MUAxIjwvVG9uZUN1cnZlc0JsdWU+CiAgICAgICAgPFRvbmVDdXJ2ZXNHcmVlbj4iY3ViaWMsdmFsdWU6MEAwOzFAMSI8L1RvbmVDdXJ2ZXNHcmVlbj4KICAgICAgICA8UmFuZ2U+IjEwMCI8L1JhbmdlPgogICAgICAgIDxUb25lQ3VydmVzUmVkPiJjdWJpYyx2YWx1ZTowQDA7MUAxIjwvVG9uZUN1cnZlc1JlZD4KICAgICAgPC9wYXJhbWV0ZXJzPgogICAgPC9zaGFkZXI+CiAgICA8c2hhZGVyPgogICAgICA8bmFtZT4iQ29sb3JDdXJ2ZXMiPC9uYW1lPgogICAgICA8Y3VzdG9tbmFtZT4iSHVlL0h1ZSBIdWUvTHVtIEh1ZS9TYXQgTHVtL1NhdCBDdXJ2ZXMiPC9jdXN0b21uYW1lPgogICAgICA8dmlzaWJsZT4iMSI8L3Zpc2libGU+CiAgICAgIDxsb2NrZWR2aXNpYmxlPiIwIjwvbG9ja2VkdmlzaWJsZT4KICAgICAgPG9wYWNpdHk+IjEiPC9vcGFjaXR5PgogICAgICA8bWFzaz4iMCI8L21hc2s+CiAgICAgIDx2ZWN0b3JtYXNrPiIwIjwvdmVjdG9ybWFzaz4KICAgICAgPGxpbmtlZD4iMCI8L2xpbmtlZD4KICAgICAgPHBhcmFtZXRlcnM+CiAgICAgICAgPEh1ZUh1ZUVuYWJsZWQ+IjEiPC9IdWVIdWVFbmFibGVkPgogICAgICAgIDxIdWVIdWVDdXJ2ZT4ibm9uLW92ZXItY29uc3QsdmFsdWU6MUAwOzFAMSI8L0h1ZUh1ZUN1cnZlPgogICAgICAgIDxTYXRTYXRFbmFibGVkPiIxIjwvU2F0U2F0RW5hYmxlZD4KICAgICAgICA8SHVlU2F0RW5hYmxlZD4iMSI8L0h1ZVNhdEVuYWJsZWQ+CiAgICAgICAgPEx1bVNhdEVuYWJsZWQ+IjEiPC9MdW1TYXRFbmFibGVkPgogICAgICAgIDxTYXRTYXRDdXJ2ZT4ibm9uLW92ZXItY29uc3QsdmFsdWU6MEAwOzBAMSI8L1NhdFNhdEN1cnZlPgogICAgICAgIDxIdWVMdW1FbmFibGVkPiIxIjwvSHVlTHVtRW5hYmxlZD4KICAgICAgICA8SHVlTHVtQ3VydmU+Im5vbi1vdmVyLWNvbnN0LHZhbHVlOjFAMDsxQDEiPC9IdWVMdW1DdXJ2ZT4KICAgICAgICA8THVtU2F0Q3VydmU+Im5vbi1vdmVyLWNvbnN0LHZhbHVlOjBAMDswQDEiPC9MdW1TYXRDdXJ2ZT4KICAgICAgICA8SHVlU2F0Q3VydmU+Im5vbi1vdmVyLWNvbnN0LHZhbHVlOjFAMDsxQDEiPC9IdWVTYXRDdXJ2ZT4KICAgICAgPC9wYXJhbWV0ZXJzPgogICAgPC9zaGFkZXI+CiAgICA8c2hhZGVyPgogICAgICA8bmFtZT4iX19Hcm91cEVuZCI8L25hbWU+CiAgICAgIDxjdXN0b21uYW1lPiJDdXJ2ZXMiPC9jdXN0b21uYW1lPgogICAgICA8dmlzaWJsZT4iMSI8L3Zpc2libGU+CiAgICAgIDxsb2NrZWR2aXNpYmxlPiIwIjwvbG9ja2VkdmlzaWJsZT4KICAgICAgPG9wYWNpdHk+IjEiPC9vcGFjaXR5PgogICAgICA8bWFzaz4iMCI8L21hc2s+CiAgICAgIDx2ZWN0b3JtYXNrPiIwIjwvdmVjdG9ybWFzaz4KICAgICAgPGxpbmtlZD4iMCI8L2xpbmtlZD4KICAgICAgPHBhcmFtZXRlcnM+CiAgICAgICAgPENvbGxhcHNlZD4iMSI8L0NvbGxhcHNlZD4KICAgICAgICA8X19DdXJ2ZXM+IjEiPC9fX0N1cnZlcz4KICAgICAgPC9wYXJhbWV0ZXJzPgogICAgPC9zaGFkZXI+CiAgICA8c2hhZGVyPgogICAgICA8bmFtZT4iX19Hcm91cEJlZ2luIjwvbmFtZT4KICAgICAgPGN1c3RvbW5hbWU+Il9fR3JvdXBCZWdpbiI8L2N1c3RvbW5hbWU+CiAgICAgIDx2aXNpYmxlPiIxIjwvdmlzaWJsZT4KICAgICAgPGxvY2tlZHZpc2libGU+IjAiPC9sb2NrZWR2aXNpYmxlPgogICAgICA8b3BhY2l0eT4iMSI8L29wYWNpdHk+CiAgICAgIDxtYXNrPiIwIjwvbWFzaz4KICAgICAgPHZlY3Rvcm1hc2s+IjAiPC92ZWN0b3JtYXNrPgogICAgICA8bGlua2VkPiIwIjwvbGlua2VkPgogICAgICA8cGFyYW1ldGVycz4KICAgICAgPC9wYXJhbWV0ZXJzPgogICAgPC9zaGFkZXI+CiAgICA8c2hhZGVyPgogICAgICA8bmFtZT4iV2hlZWxzIjwvbmFtZT4KICAgICAgPGN1c3RvbW5hbWU+IldoZWVscyI8L2N1c3RvbW5hbWU+CiAgICAgIDx2aXNpYmxlPiIxIjwvdmlzaWJsZT4KICAgICAgPGxvY2tlZHZpc2libGU+IjAiPC9sb2NrZWR2aXNpYmxlPgogICAgICA8b3BhY2l0eT4iMSI8L29wYWNpdHk+CiAgICAgIDxtYXNrPiIwIjwvbWFzaz4KICAgICAgPHZlY3Rvcm1hc2s+IjAiPC92ZWN0b3JtYXNrPgogICAgICA8bGlua2VkPiIwIjwvbGlua2VkPgogICAgICA8cGFyYW1ldGVycz4KICAgICAgICA8RGlmZldoaXRlPiJOMTAwIjwvRGlmZldoaXRlPgogICAgICAgIDxNaWR0b25lcy5aPiJEMCI8L01pZHRvbmVzLlo+CiAgICAgICAgPFNoYWRvd3MuWT4iRDAiPC9TaGFkb3dzLlk+CiAgICAgICAgPFNwZWN1bGFyLlo+IkQwIjwvU3BlY3VsYXIuWj4KICAgICAgICA8U2hhZG93cy5YPiJEMCI8L1NoYWRvd3MuWD4KICAgICAgICA8SGlnaGxpZ2h0cy5aPiJEMCI8L0hpZ2hsaWdodHMuWj4KICAgICAgICA8SGlnaGxpZ2h0cy5YPiJEMCI8L0hpZ2hsaWdodHMuWD4KICAgICAgICA8U2hhZG93cy5aPiJEMCI8L1NoYWRvd3MuWj4KICAgICAgICA8U3BlY3VsYXIuWT4iRDAiPC9TcGVjdWxhci5ZPgogICAgICAgIDxNaWR0b25lcy5ZPiJEMCI8L01pZHRvbmVzLlk+CiAgICAgICAgPE1pZHRvbmVzLlg+IkQwIjwvTWlkdG9uZXMuWD4KICAgICAgICA8U3BlY3VsYXIuWD4iRDAiPC9TcGVjdWxhci5YPgogICAgICAgIDxIaWdobGlnaHRzLlk+IkQwIjwvSGlnaGxpZ2h0cy5ZPgogICAgICA8L3BhcmFtZXRlcnM+CiAgICA8L3NoYWRlcj4KICAgIDxzaGFkZXI+CiAgICAgIDxuYW1lPiJfX0dyb3VwRW5kIjwvbmFtZT4KICAgICAgPGN1c3RvbW5hbWU+IldoZWVscyI8L2N1c3RvbW5hbWU+CiAgICAgIDx2aXNpYmxlPiIxIjwvdmlzaWJsZT4KICAgICAgPGxvY2tlZHZpc2libGU+IjAiPC9sb2NrZWR2aXNpYmxlPgogICAgICA8b3BhY2l0eT4iMSI8L29wYWNpdHk+CiAgICAgIDxtYXNrPiIwIjwvbWFzaz4KICAgICAgPHZlY3Rvcm1hc2s+IjAiPC92ZWN0b3JtYXNrPgogICAgICA8bGlua2VkPiIwIjwvbGlua2VkPgogICAgICA8cGFyYW1ldGVycz4KICAgICAgICA8Q29sbGFwc2VkPiIxIjwvQ29sbGFwc2VkPgogICAgICAgIDxfX1doZWVscz4iMSI8L19fV2hlZWxzPgogICAgICA8L3BhcmFtZXRlcnM+CiAgICA8L3NoYWRlcj4KICAgIDxzaGFkZXI+CiAgICAgIDxuYW1lPiJfX0dyb3VwQmVnaW4iPC9uYW1lPgogICAgICA8Y3VzdG9tbmFtZT4iX19Hcm91cEJlZ2luIjwvY3VzdG9tbmFtZT4KICAgICAgPHZpc2libGU+IjEiPC92aXNpYmxlPgogICAgICA8bG9ja2VkdmlzaWJsZT4iMCI8L2xvY2tlZHZpc2libGU+CiAgICAgIDxvcGFjaXR5PiIxIjwvb3BhY2l0eT4KICAgICAgPG1hc2s+IjAiPC9tYXNrPgogICAgICA8dmVjdG9ybWFzaz4iMCI8L3ZlY3Rvcm1hc2s+CiAgICAgIDxsaW5rZWQ+IjAiPC9saW5rZWQ+CiAgICAgIDxwYXJhbWV0ZXJzPgogICAgICA8L3BhcmFtZXRlcnM+CiAgICA8L3NoYWRlcj4KICAgIDxzaGFkZXI+CiAgICAgIDxuYW1lPiJTZWNvbmRhcnlMYXllciI8L25hbWU+CiAgICAgIDxjdXN0b21uYW1lPiJTZWNvbmRhcnlMYXllciI8L2N1c3RvbW5hbWU+CiAgICAgIDx2aXNpYmxlPiIxIjwvdmlzaWJsZT4KICAgICAgPGxvY2tlZHZpc2libGU+IjAiPC9sb2NrZWR2aXNpYmxlPgogICAgICA8b3BhY2l0eT4iMSI8L29wYWNpdHk+CiAgICAgIDxtYXNrPiIwIjwvbWFzaz4KICAgICAgPHZlY3Rvcm1hc2s+IjAiPC92ZWN0b3JtYXNrPgogICAgICA8bGlua2VkPiIwIjwvbGlua2VkPgogICAgICA8cGFyYW1ldGVycz4KICAgICAgICA8ZW5hYmxlSExTLlk+Ik4xIjwvZW5hYmxlSExTLlk+CiAgICAgICAgPE1pZHRvbmVzLlo+IkQwIjwvTWlkdG9uZXMuWj4KICAgICAgICA8U2hhZG93cy5ZPiJEMCI8L1NoYWRvd3MuWT4KICAgICAgICA8U3BlY3VsYXIuWj4iRDAiPC9TcGVjdWxhci5aPgogICAgICAgIDx0b2xlcmFuY2VITFMuWj4iTjAiPC90b2xlcmFuY2VITFMuWj4KICAgICAgICA8cmFuZ2VITFMuWD4iTjAiPC9yYW5nZUhMUy5YPgogICAgICAgIDxEZW5vaXNlPiJEMCI8L0Rlbm9pc2U+CiAgICAgICAgPHJhbmdlSExTLlk+Ik4wIjwvcmFuZ2VITFMuWT4KICAgICAgICA8bWlkZGxlSExTLlo+Ik4wLjUiPC9taWRkbGVITFMuWj4KICAgICAgICA8U2hhZG93cy5YPiJEMCI8L1NoYWRvd3MuWD4KICAgICAgICA8U2hhcnBuZXNzPiJEMCI8L1NoYXJwbmVzcz4KICAgICAgICA8ZW5hYmxlSExTLlg+Ik4xIjwvZW5hYmxlSExTLlg+CiAgICAgICAgPEhpZ2hsaWdodHMuWj4iRDAiPC9IaWdobGlnaHRzLlo+CiAgICAgICAgPGludmVydC5YPiJEMCI8L2ludmVydC5YPgogICAgICAgIDxIaWdobGlnaHRzLlg+IkQwIjwvSGlnaGxpZ2h0cy5YPgogICAgICAgIDxlbmFibGVITFMuWj4iTjEiPC9lbmFibGVITFMuWj4KICAgICAgICA8Q29udHJhc3Q+IkQwIjwvQ29udHJhc3Q+CiAgICAgICAgPG1pZGRsZUhMUy5YPiJOMTgwIjwvbWlkZGxlSExTLlg+CiAgICAgICAgPHRvbGVyYW5jZUhMUy5ZPiJOMCI8L3RvbGVyYW5jZUhMUy5ZPgogICAgICAgIDxTaGFkb3dzLlo+IkQwIjwvU2hhZG93cy5aPgogICAgICAgIDxTcGVjdWxhci5ZPiJEMCI8L1NwZWN1bGFyLlk+CiAgICAgICAgPE1pZHRvbmVzLlk+IkQwIjwvTWlkdG9uZXMuWT4KICAgICAgICA8VGVtcD4iRDAiPC9UZW1wPgogICAgICAgIDx0b2xlcmFuY2VITFMuWD4iTjAiPC90b2xlcmFuY2VITFMuWD4KICAgICAgICA8TWlkdG9uZXMuWD4iRDAiPC9NaWR0b25lcy5YPgogICAgICAgIDxTcGVjdWxhci5YPiJEMCI8L1NwZWN1bGFyLlg+CiAgICAgICAgPEJsdXI+IkQwIjwvQmx1cj4KICAgICAgICA8bWlkZGxlSExTLlk+Ik4wLjUiPC9taWRkbGVITFMuWT4KICAgICAgICA8cmFuZ2VITFMuWj4iTjAiPC9yYW5nZUhMUy5aPgogICAgICAgIDxTYXR1cmF0aW9uPiJEMTAwIjwvU2F0dXJhdGlvbj4KICAgICAgICA8SGlnaGxpZ2h0cy5ZPiJEMCI8L0hpZ2hsaWdodHMuWT4KICAgICAgICA8VGludD4iRDAiPC9UaW50PgogICAgICAgIDxTaG93S2V5PiJEMCI8L1Nob3dLZXk+CiAgICAgIDwvcGFyYW1ldGVycz4KICAgIDwvc2hhZGVyPgogICAgPHNoYWRlcj4KICAgICAgPG5hbWU+Il9fR3JvdXBFbmQiPC9uYW1lPgogICAgICA8Y3VzdG9tbmFtZT4iU2Vjb25kYXJpZXMiPC9jdXN0b21uYW1lPgogICAgICA8dmlzaWJsZT4iMSI8L3Zpc2libGU+CiAgICAgIDxsb2NrZWR2aXNpYmxlPiIwIjwvbG9ja2VkdmlzaWJsZT4KICAgICAgPG9wYWNpdHk+IjEiPC9vcGFjaXR5PgogICAgICA8bWFzaz4iMCI8L21hc2s+CiAgICAgIDx2ZWN0b3JtYXNrPiIwIjwvdmVjdG9ybWFzaz4KICAgICAgPGxpbmtlZD4iMCI8L2xpbmtlZD4KICAgICAgPHBhcmFtZXRlcnM+CiAgICAgICAgPF9fU2Vjb25kYXJpZXM+IjEiPC9fX1NlY29uZGFyaWVzPgogICAgICAgIDxDb2xsYXBzZWQ+IjEiPC9Db2xsYXBzZWQ+CiAgICAgIDwvcGFyYW1ldGVycz4KICAgIDwvc2hhZGVyPgogICAgPHNoYWRlcj4KICAgICAgPG5hbWU+Il9fR3JvdXBCZWdpbiI8L25hbWU+CiAgICAgIDxjdXN0b21uYW1lPiJfX0dyb3VwQmVnaW4iPC9jdXN0b21uYW1lPgogICAgICA8dmlzaWJsZT4iMSI8L3Zpc2libGU+CiAgICAgIDxsb2NrZWR2aXNpYmxlPiIwIjwvbG9ja2VkdmlzaWJsZT4KICAgICAgPG9wYWNpdHk+IjEiPC9vcGFjaXR5PgogICAgICA8bWFzaz4iMCI8L21hc2s+CiAgICAgIDx2ZWN0b3JtYXNrPiIwIjwvdmVjdG9ybWFzaz4KICAgICAgPGxpbmtlZD4iMCI8L2xpbmtlZD4KICAgICAgPHBhcmFtZXRlcnM+CiAgICAgIDwvcGFyYW1ldGVycz4KICAgIDwvc2hhZGVyPgogICAgPHNoYWRlcj4KICAgICAgPG5hbWU+IlZpZ25ldHRlIjwvbmFtZT4KICAgICAgPGN1c3RvbW5hbWU+IlZpZ25ldHRlIjwvY3VzdG9tbmFtZT4KICAgICAgPHZpc2libGU+IjEiPC92aXNpYmxlPgogICAgICA8bG9ja2VkdmlzaWJsZT4iMCI8L2xvY2tlZHZpc2libGU+CiAgICAgIDxvcGFjaXR5PiIxIjwvb3BhY2l0eT4KICAgICAgPG1hc2s+IjAiPC9tYXNrPgogICAgICA8dmVjdG9ybWFzaz4iMiI8L3ZlY3Rvcm1hc2s+CiAgICAgIDxsaW5rZWQ+IjAiPC9saW5rZWQ+CiAgICAgIDxzaGFkZXJtYXNrPgogICAgICAgIDxuYW1lPiIiPC9uYW1lPgogICAgICAgIDxtaWRwb2ludD4iNTAiPC9taWRwb2ludD4KICAgICAgICA8cm91bmRuZXNzPiIwIjwvcm91bmRuZXNzPgogICAgICAgIDxmZWF0aGVyPiI1MCI8L2ZlYXRoZXI+CiAgICAgIDwvc2hhZGVybWFzaz4KICAgICAgPHBhcmFtZXRlcnM+CiAgICAgICAgPF9fRmVhdGhlcj4iNTAiPC9fX0ZlYXRoZXI+CiAgICAgICAgPF9fUm91bmRuZXNzPiJEMCI8L19fUm91bmRuZXNzPgogICAgICAgIDxWaWduZXR0ZT4iRDAiPC9WaWduZXR0ZT4KICAgICAgICA8X19NaWRwb2ludD4iNTAiPC9fX01pZHBvaW50PgogICAgICA8L3BhcmFtZXRlcnM+CiAgICA8L3NoYWRlcj4KICAgIDxzaGFkZXI+CiAgICAgIDxuYW1lPiJIaWdobGlnaHRSZWNvdmVyeSI8L25hbWU+CiAgICAgIDxjdXN0b21uYW1lPiJIaWdobGlnaHRSZWNvdmVyeSI8L2N1c3RvbW5hbWU+CiAgICAgIDx2aXNpYmxlPiIxIjwvdmlzaWJsZT4KICAgICAgPGxvY2tlZHZpc2libGU+IjAiPC9sb2NrZWR2aXNpYmxlPgogICAgICA8b3BhY2l0eT4iMSI8L29wYWNpdHk+CiAgICAgIDxtYXNrPiIwIjwvbWFzaz4KICAgICAgPHZlY3Rvcm1hc2s+IjAiPC92ZWN0b3JtYXNrPgogICAgICA8bGlua2VkPiIwIjwvbGlua2VkPgogICAgICA8cGFyYW1ldGVycz4KICAgICAgICA8R2FtbWE+IjIuNCI8L0dhbW1hPgogICAgICA8L3BhcmFtZXRlcnM+CiAgICA8L3NoYWRlcj4KICAgIDxzaGFkZXI+CiAgICAgIDxuYW1lPiJfX0dyb3VwRW5kIjwvbmFtZT4KICAgICAgPGN1c3RvbW5hbWU+IkVmZmVjdHMiPC9jdXN0b21uYW1lPgogICAgICA8dmlzaWJsZT4iMSI8L3Zpc2libGU+CiAgICAgIDxsb2NrZWR2aXNpYmxlPiIwIjwvbG9ja2VkdmlzaWJsZT4KICAgICAgPG9wYWNpdHk+IjEiPC9vcGFjaXR5PgogICAgICA8bWFzaz4iMCI8L21hc2s+CiAgICAgIDx2ZWN0b3JtYXNrPiIwIjwvdmVjdG9ybWFzaz4KICAgICAgPGxpbmtlZD4iMCI8L2xpbmtlZD4KICAgICAgPHBhcmFtZXRlcnM+CiAgICAgICAgPENvbGxhcHNlZD4iMSI8L0NvbGxhcHNlZD4KICAgICAgICA8X19FZmZlY3RzPiIxIjwvX19FZmZlY3RzPgogICAgICA8L3BhcmFtZXRlcnM+CiAgICA8L3NoYWRlcj4KICAgIDxzaGFkZXI+CiAgICAgIDxuYW1lPiJfX0dyb3VwRW5kIjwvbmFtZT4KICAgICAgPGN1c3RvbW5hbWU+IlByZW1pZXJlIENvbG9yIjwvY3VzdG9tbmFtZT4KICAgICAgPHZpc2libGU+IjEiPC92aXNpYmxlPgogICAgICA8bG9ja2VkdmlzaWJsZT4iMCI8L2xvY2tlZHZpc2libGU+CiAgICAgIDxvcGFjaXR5PiIxIjwvb3BhY2l0eT4KICAgICAgPG1hc2s+IjAiPC9tYXNrPgogICAgICA8dmVjdG9ybWFzaz4iMCI8L3ZlY3Rvcm1hc2s+CiAgICAgIDxsaW5rZWQ+IjAiPC9saW5rZWQ+CiAgICAgIDxwYXJhbWV0ZXJzPgogICAgICAgIDxDb2xsYXBzZWQ+IjEiPC9Db2xsYXBzZWQ+CiAgICAgIDwvcGFyYW1ldGVycz4KICAgIDwvc2hhZGVyPgogIDwva2V5ZnJhbWU+CiAgPHByb3BlcnRpZXM+CiAgPC9wcm9wZXJ0aWVzPgo8L0x1bWV0cmk+Cg==</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>3</parameterid>
+									<name> </name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>4</ParameterControlType>
+									<LowerBound>false</LowerBound>
+									<UpperBound>true</UpperBound>
+									<value>-91445760000000000,true,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>4</parameterid>
+									<name> </name>
+									<hash>63866a15-9327-e4cb-ff31-c9ea0000000e</hash>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>5</parameterid>
+									<name>Input LUT</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>7</ParameterControlType>
+									<LowerBound>0</LowerBound>
+									<UpperBound>998</UpperBound>
+									<value>-91445760000000000,0,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>7</parameterid>
+									<name>Temperature</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>-300</LowerBound>
+									<UpperBound>300</UpperBound>
+									<LowerUIBound>-100</LowerUIBound>
+									<UpperUIBound>100</UpperUIBound>
+									<value>-91445760000000000,-5.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>8</parameterid>
+									<name>Tint</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>-300</LowerBound>
+									<UpperBound>300</UpperBound>
+									<LowerUIBound>-100</LowerUIBound>
+									<UpperUIBound>100</UpperUIBound>
+									<value>-91445760000000000,5.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>20</parameterid>
+									<name>Saturation</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>0</LowerBound>
+									<UpperBound>300</UpperBound>
+									<UpperUIBound>200</UpperUIBound>
+									<value>-91445760000000000,150.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>11</parameterid>
+									<name>Exposure</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>-7</LowerBound>
+									<UpperBound>7</UpperBound>
+									<LowerUIBound>-5</LowerUIBound>
+									<UpperUIBound>5</UpperUIBound>
+									<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>12</parameterid>
+									<name>Contrast</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>-150</LowerBound>
+									<UpperBound>150</UpperBound>
+									<LowerUIBound>-100</LowerUIBound>
+									<UpperUIBound>100</UpperUIBound>
+									<value>-91445760000000000,20.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>13</parameterid>
+									<name>Highlights</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>-150</LowerBound>
+									<UpperBound>150</UpperBound>
+									<LowerUIBound>-100</LowerUIBound>
+									<UpperUIBound>100</UpperUIBound>
+									<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>14</parameterid>
+									<name>Shadows</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>-150</LowerBound>
+									<UpperBound>150</UpperBound>
+									<LowerUIBound>-100</LowerUIBound>
+									<UpperUIBound>100</UpperUIBound>
+									<value>-91445760000000000,20.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>15</parameterid>
+									<name>Whites</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>-150</LowerBound>
+									<UpperBound>150</UpperBound>
+									<LowerUIBound>-100</LowerUIBound>
+									<UpperUIBound>100</UpperUIBound>
+									<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>16</parameterid>
+									<name>Blacks</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>-150</LowerBound>
+									<UpperBound>150</UpperBound>
+									<LowerUIBound>-100</LowerUIBound>
+									<UpperUIBound>100</UpperUIBound>
+									<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>23</parameterid>
+									<name> </name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>4</ParameterControlType>
+									<LowerBound>false</LowerBound>
+									<UpperBound>true</UpperBound>
+									<value>-91445760000000000,true,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>25</parameterid>
+									<name>Look</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>7</ParameterControlType>
+									<LowerBound>0</LowerBound>
+									<UpperBound>998</UpperBound>
+									<value>-91445760000000000,40,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>26</parameterid>
+									<name>Intensity</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>0</LowerBound>
+									<UpperBound>200</UpperBound>
+									<value>-91445760000000000,100.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>28</parameterid>
+									<name>Faded Film</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>0</LowerBound>
+									<UpperBound>150</UpperBound>
+									<UpperUIBound>100</UpperUIBound>
+									<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>29</parameterid>
+									<name>Sharpen</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>-100</LowerBound>
+									<UpperBound>100</UpperBound>
+									<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>30</parameterid>
+									<name>Vibrance</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>-100</LowerBound>
+									<UpperBound>100</UpperBound>
+									<value>-91445760000000000,17.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>31</parameterid>
+									<name>Saturation</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>0</LowerBound>
+									<UpperBound>300</UpperBound>
+									<UpperUIBound>200</UpperUIBound>
+									<value>-91445760000000000,100.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>32</parameterid>
+									<name></name>
+									<hash>1e1d8797-ad61-d3ce-dd37-b17a0000002c</hash>
+									<value>VvtufBEzcEAPVVuMBbK0P1JfdsFg8W5AxcoO2Lb+rT8=</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>33</parameterid>
+									<name>Tint Balance</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>-150</LowerBound>
+									<UpperBound>150</UpperBound>
+									<LowerUIBound>-100</LowerUIBound>
+									<UpperUIBound>100</UpperUIBound>
+									<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>37</parameterid>
+									<name> </name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>4</ParameterControlType>
+									<LowerBound>false</LowerBound>
+									<UpperBound>true</UpperBound>
+									<value>-91445760000000000,true,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>39</parameterid>
+									<name> </name>
+									<hash>88c2090a-e348-022c-ccb1-c3d60000082c</hash>
+									<value>AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAATuq+PLYi4D/avE9xyRDcP1cEDSd1X+Y/XDIE62jz5j8AAAAAAADwPwAAAAAAAPA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPA/AAAAAAAA8D8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwPwAAAAAAAPA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8D8AAAAAAADwPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>42</parameterid>
+									<name>Hue vs Sat</name>
+									<hash>f146cafe-eab3-19ed-0ee8-de0e00000214</hash>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>46</parameterid>
+									<name> </name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>4</ParameterControlType>
+									<LowerBound>false</LowerBound>
+									<UpperBound>true</UpperBound>
+									<value>-91445760000000000,true,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>47</parameterid>
+									<name> </name>
+									<hash>0b5436c4-bae0-bb64-a2f6-c8c40000006c</hash>
+									<value>AAAAAAAAAAAAAAAAAADgPwAAAAAAAAAAAAAAAAAAAAAAAAAAAADgPwAAAAAAAAAAAAAAAAAAAAAAAAAAAADgPwAAAAAAAAAAAAAAAAAAAAAAAAAAAADgPwAAAAAAAAAA</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>50</parameterid>
+									<name> </name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>4</ParameterControlType>
+									<LowerBound>false</LowerBound>
+									<UpperBound>true</UpperBound>
+									<value>-91445760000000000,true,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>51</parameterid>
+									<name>Amount</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>-5</LowerBound>
+									<UpperBound>5</UpperBound>
+									<LowerUIBound>-3</LowerUIBound>
+									<UpperUIBound>3</UpperUIBound>
+									<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>52</parameterid>
+									<name>Midpoint</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>0</LowerBound>
+									<UpperBound>100</UpperBound>
+									<value>-91445760000000000,50.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>53</parameterid>
+									<name>Roundness</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>-100</LowerBound>
+									<UpperBound>100</UpperBound>
+									<value>-91445760000000000,0.,0,0,0,0,0,0</value>
+								</parameter>
+								<parameter authoringApp="PremierePro">
+									<parameterid>54</parameterid>
+									<name>Feather</name>
+									<IsTimeVarying>false</IsTimeVarying>
+									<ParameterControlType>8</ParameterControlType>
+									<LowerBound>0</LowerBound>
+									<UpperBound>100</UpperBound>
+									<value>-91445760000000000,50.,0,0,0,0,0,0</value>
+								</parameter>
+							</effect>
+						</filter>
+						<logginginfo>
+							<description></description>
+							<scene></scene>
+							<shottake></shottake>
+							<lognote></lognote>
+							<good></good>
+							<originalvideofilename></originalvideofilename>
+							<originalaudiofilename></originalaudiofilename>
+						</logginginfo>
+						<colorinfo>
+							<lut></lut>
+							<lut1></lut1>
+							<asc_sop></asc_sop>
+							<asc_sat></asc_sat>
+							<lut2></lut2>
+						</colorinfo>
+						<labels>
+							<label2>Lavender</label2>
+						</labels>
+					</clipitem>
+					<enabled>TRUE</enabled>
+					<locked>FALSE</locked>
+				</track>
 			</video>
 			<audio>
 				<numOutputChannels>2</numOutputChannels>
@@ -5328,8 +5658,8 @@
 					</group>
 				</outputs>
 				<track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="1" PannerCurrentValue="0.5" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="0" totalExplodedTrackCount="1" premiereTrackType="Stereo">
-					<clipitem id="clipitem-331" premiereChannelType="mono">
-						<masterclipid>masterclip-267</masterclipid>
+					<clipitem id="clipitem-115" premiereChannelType="mono">
+						<masterclipid>masterclip-101</masterclipid>
 						<name>Magalys y neko - walunka.m4a</name>
 						<enabled>TRUE</enabled>
 						<duration>39773</duration>
@@ -5343,7 +5673,7 @@
 						<out>31818</out>
 						<pproTicksIn>68578742232000</pproTicksIn>
 						<pproTicksOut>337098473712000</pproTicksOut>
-						<file id="file-267">
+						<file id="file-101">
 							<name>Magalys y neko - walunka.m4a</name>
 							<pathurl>file://localhost/Users/ben/Downloads/Magalys%20y%20neko%20-%20walunka.m4a</pathurl>
 							<rate>
@@ -5419,8 +5749,8 @@
 					<outputchannelindex>1</outputchannelindex>
 				</track>
 				<track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="1" PannerCurrentValue="0.5" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="0" totalExplodedTrackCount="1" premiereTrackType="Stereo">
-					<clipitem id="clipitem-332" premiereChannelType="mono">
-						<masterclipid>masterclip-268</masterclipid>
+					<clipitem id="clipitem-116" premiereChannelType="mono">
+						<masterclipid>masterclip-102</masterclipid>
 						<name>walunka - clip (enhanced).wav</name>
 						<enabled>TRUE</enabled>
 						<duration>31656</duration>
@@ -5434,7 +5764,7 @@
 						<out>25325</out>
 						<pproTicksIn>137729592000</pproTicksIn>
 						<pproTicksOut>268307839800000</pproTicksOut>
-						<file id="file-268">
+						<file id="file-102">
 							<name>walunka - clip (enhanced).wav</name>
 							<pathurl>file://localhost/Users/ben/Downloads/walunka%20-%20clip%20(enhanced).wav</pathurl>
 							<rate>

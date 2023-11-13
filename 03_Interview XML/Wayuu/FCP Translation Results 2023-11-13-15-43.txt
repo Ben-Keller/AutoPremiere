@@ -1,0 +1,2 @@
+﻿Translation issue:
+	Synthetic Item (Black Video) not translated, Slug used as a placeholder.
