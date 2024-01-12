@@ -1,3 +1,0 @@
-,Text,Narrator,Timecode Range,FilePath,Merged Text,Merged Timecode Range,Merge Status
-0,This is the first sentence of the video,Ben,00:00:08:00 - 00:00:11:00,../Interview CSV/ben - transcript.csv,This is the first sentence of the video,,False
-1,This is the second sentence of this video,Ben,00:00:16:00 - 00:00:31:00,../Interview CSV/ben - transcript.csv,This is the second sentence of this video (-) And now this will be the third sentence (-) used in this video as a third sentence,00:00:16:00 - 00:00:21:00 (-) 00:00:22:00 - 00:00:25:00 (-) 00:00:25:00 - 00:00:31:00,True
