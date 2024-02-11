@@ -44,8 +44,8 @@
 							<timebase>24</timebase>
 							<ntsc>TRUE</ntsc>
 						</rate>
-						<start>681</start>
-						<end>936</end>
+						<start>3057</start>
+						<end>3312</end>
 						<in>936</in>
 						<out>1191</out>
 						<pproTicksIn>9916530624000</pproTicksIn>
@@ -81,8 +81,8 @@
 							<timebase>24</timebase>
 							<ntsc>TRUE</ntsc>
 						</rate>
-						<start>936</start>
-						<end>1332</end>
+						<start>3456</start>
+						<end>3852</end>
 						<in>207</in>
 						<out>603</out>
 						<pproTicksIn>1938808872000</pproTicksIn>
@@ -159,8 +159,8 @@
 							<timebase>24</timebase>
 							<ntsc>TRUE</ntsc>
 						</rate>
-						<start>1368</start>
-						<end>1704</end>
+						<start>4032</start>
+						<end>4368</end>
 						<in>1239</in>
 						<out>1575</out>
 						<pproTicksIn>9916530624000</pproTicksIn>
@@ -311,8 +311,8 @@
 							<timebase>24</timebase>
 							<ntsc>TRUE</ntsc>
 						</rate>
-						<start>504</start>
-						<end>936</end>
+						<start>2880</start>
+						<end>3312</end>
 						<in>716</in>
 						<out>1148</out>
 						<pproTicksIn>1483241760000</pproTicksIn>
@@ -695,8 +695,8 @@
 							<timebase>24</timebase>
 							<ntsc>TRUE</ntsc>
 						</rate>
-						<start>936</start>
-						<end>1368</end>
+						<start>3456</start>
+						<end>3888</end>
 						<in>164</in>
 						<out>596</out>
 						<pproTicksIn>1483241760000</pproTicksIn>
@@ -1079,8 +1079,8 @@
 							<timebase>24</timebase>
 							<ntsc>TRUE</ntsc>
 						</rate>
-						<start>1368</start>
-						<end>1502</end>
+						<start>4032</start>
+						<end>4166</end>
 						<in>1196</in>
 						<out>1330</out>
 						<pproTicksIn>1483241760000</pproTicksIn>
@@ -1463,8 +1463,8 @@
 							<timebase>24</timebase>
 							<ntsc>TRUE</ntsc>
 						</rate>
-						<start>504</start>
-						<end>681</end>
+						<start>2880</start>
+						<end>3057</end>
 						<in>759</in>
 						<out>936</out>
 						<pproTicksIn>6388534152000</pproTicksIn>
@@ -1801,8 +1801,8 @@
 							<timebase>24</timebase>
 							<ntsc>TRUE</ntsc>
 						</rate>
-						<start>1332</start>
-						<end>1368</end>
+						<start>3852</start>
+						<end>3888</end>
 						<in>603</in>
 						<out>639</out>
 						<pproTicksIn>6388534152000</pproTicksIn>
@@ -2143,8 +2143,8 @@
 						<end>504</end>
 						<in>7913</in>
 						<out>8417</out>
-						<pproTicksIn>83751192000000</pproTicksIn>
-						<pproTicksOut>89085528000000</pproTicksOut>
+						<pproTicksIn>68578742232000</pproTicksIn>
+						<pproTicksOut>89895045240000</pproTicksOut>
 						<file id="file-10">
 							<name>Magalys y neko - walunka.m4a</name>
 							<pathurl>file://localhost/Users/ben/Downloads/Magalys%20y%20neko%20-%20walunka.m4a</pathurl>
@@ -2229,8 +2229,8 @@
 						<end>504</end>
 						<in>1441</in>
 						<out>1945</out>
-						<pproTicksIn>15251544000000</pproTicksIn>
-						<pproTicksOut>20585880000000</pproTicksOut>
+						<pproTicksIn>137729592000</pproTicksIn>
+						<pproTicksOut>21326897592000</pproTicksOut>
 						<file id="file-11">
 							<name>walunka - clip (enhanced).wav</name>
 							<pathurl>file://localhost/Users/ben/Downloads/walunka%20-%20clip%20(enhanced).wav</pathurl>
@@ -2311,12 +2311,12 @@
 							<timebase>24</timebase>
 							<ntsc>TRUE</ntsc>
 						</rate>
-						<start>504</start>
-						<end>936</end>
+						<start>2880</start>
+						<end>3312</end>
 						<in>7049</in>
 						<out>7481</out>
-						<pproTicksIn>74606616000000</pproTicksIn>
-						<pproTicksOut>79178904000000</pproTicksOut>
+						<pproTicksIn>68578742232000</pproTicksIn>
+						<pproTicksOut>89895045240000</pproTicksOut>
 						<file id="file-10">
 							<name>Magalys y neko - walunka.m4a</name>
 							<pathurl>file://localhost/Users/ben/Downloads/Magalys%20y%20neko%20-%20walunka.m4a</pathurl>
@@ -2397,12 +2397,12 @@
 							<timebase>24</timebase>
 							<ntsc>TRUE</ntsc>
 						</rate>
-						<start>504</start>
-						<end>936</end>
+						<start>2880</start>
+						<end>3312</end>
 						<in>577</in>
 						<out>1009</out>
-						<pproTicksIn>6106968000000</pproTicksIn>
-						<pproTicksOut>10679256000000</pproTicksOut>
+						<pproTicksIn>137729592000</pproTicksIn>
+						<pproTicksOut>21326897592000</pproTicksOut>
 						<file id="file-11">
 							<name>walunka - clip (enhanced).wav</name>
 							<pathurl>file://localhost/Users/ben/Downloads/walunka%20-%20clip%20(enhanced).wav</pathurl>
@@ -2483,12 +2483,12 @@
 							<timebase>24</timebase>
 							<ntsc>TRUE</ntsc>
 						</rate>
-						<start>936</start>
-						<end>1368</end>
+						<start>3456</start>
+						<end>3888</end>
 						<in>6497</in>
 						<out>6929</out>
-						<pproTicksIn>68764248000000</pproTicksIn>
-						<pproTicksOut>73336536000000</pproTicksOut>
+						<pproTicksIn>68578742232000</pproTicksIn>
+						<pproTicksOut>89895045240000</pproTicksOut>
 						<file id="file-10">
 							<name>Magalys y neko - walunka.m4a</name>
 							<pathurl>file://localhost/Users/ben/Downloads/Magalys%20y%20neko%20-%20walunka.m4a</pathurl>
@@ -2569,12 +2569,12 @@
 							<timebase>24</timebase>
 							<ntsc>TRUE</ntsc>
 						</rate>
-						<start>936</start>
-						<end>1368</end>
+						<start>3456</start>
+						<end>3888</end>
 						<in>25</in>
 						<out>457</out>
-						<pproTicksIn>264600000000</pproTicksIn>
-						<pproTicksOut>4836888000000</pproTicksOut>
+						<pproTicksIn>137729592000</pproTicksIn>
+						<pproTicksOut>21326897592000</pproTicksOut>
 						<file id="file-11">
 							<name>walunka - clip (enhanced).wav</name>
 							<pathurl>file://localhost/Users/ben/Downloads/walunka%20-%20clip%20(enhanced).wav</pathurl>
@@ -2655,12 +2655,12 @@
 							<timebase>24</timebase>
 							<ntsc>TRUE</ntsc>
 						</rate>
-						<start>1368</start>
-						<end>1704</end>
+						<start>4032</start>
+						<end>4368</end>
 						<in>7529</in>
 						<out>7865</out>
-						<pproTicksIn>79686936000000</pproTicksIn>
-						<pproTicksOut>83243160000000</pproTicksOut>
+						<pproTicksIn>68578742232000</pproTicksIn>
+						<pproTicksOut>89895045240000</pproTicksOut>
 						<file id="file-10">
 							<name>Magalys y neko - walunka.m4a</name>
 							<pathurl>file://localhost/Users/ben/Downloads/Magalys%20y%20neko%20-%20walunka.m4a</pathurl>
@@ -2741,12 +2741,12 @@
 							<timebase>24</timebase>
 							<ntsc>TRUE</ntsc>
 						</rate>
-						<start>1368</start>
-						<end>1704</end>
+						<start>4032</start>
+						<end>4368</end>
 						<in>1057</in>
 						<out>1393</out>
-						<pproTicksIn>11187288000000</pproTicksIn>
-						<pproTicksOut>14743512000000</pproTicksOut>
+						<pproTicksIn>137729592000</pproTicksIn>
+						<pproTicksOut>21326897592000</pproTicksOut>
 						<file id="file-11">
 							<name>walunka - clip (enhanced).wav</name>
 							<pathurl>file://localhost/Users/ben/Downloads/walunka%20-%20clip%20(enhanced).wav</pathurl>
