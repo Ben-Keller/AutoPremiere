@@ -1,4 +1,4 @@
-<xmeml version="4"><sequence id="sequence-2" TL_SQAudioVisibleBase="0" TL_SQVideoVisibleBase="0" TL_SQVisibleBaseTime="0" TL_SQAVDividerPosition="0.5" TL_SQHideShyTracks="0" TL_SQHeaderWidth="236" TL_SQDataTrackViewControlState="0" Monitor_ProgramZoomOut="340011984312000" Monitor_ProgramZoomIn="0" TL_SQTimePerPixel="1.6034289012958367" MZ_EditLine="333083126376000" MZ_Sequence_PreviewFrameSizeHeight="1080" MZ_Sequence_PreviewFrameSizeWidth="1920" MZ_Sequence_AudioTimeDisplayFormat="200" MZ_Sequence_PreviewUseMaxRenderQuality="false" MZ_Sequence_PreviewUseMaxBitDepth="false" MZ_Sequence_VideoTimeDisplayFormat="110" MZ_WorkOutPoint="15235011792000" MZ_WorkInPoint="0" MZ_ZeroPoint="0" explodedTracks="true"><uuid>50e61931-251f-4069-8193-a3fbad7f93ff</uuid><duration>31533</duration><rate><timebase>24</timebase><ntsc>TRUE</ntsc></rate><name>../06_Export XMLs/Test/Archive/wolunka-test</name><media><video><format><samplecharacteristics><rate><timebase>23.97</timebase><ntsc>TRUE</ntsc></rate><codec><name>Apple ProRes 422</name><appspecificdata><appname>Final Cut Pro</appname><appmanufacturer>Apple Inc.</appmanufacturer><appversion>7.0</appversion><data><qtcodec><codecname>Apple ProRes 422</codecname><codectypename>Apple ProRes 422</codectypename><codectypecode>apcn</codectypecode><codecvendorcode>appl</codecvendorcode><spatialquality>1024</spatialquality><temporalquality>0</temporalquality><keyframerate>0</keyframerate><datarate>0</datarate></qtcodec></data></appspecificdata></codec><width>1920</width><height>1080</height><anamorphic>FALSE</anamorphic><pixelaspectratio>square</pixelaspectratio><fielddominance>none</fielddominance><colordepth>24</colordepth></samplecharacteristics></format><track TL_SQTrackShy="0" TL_SQTrackExpandedHeight="25" TL_SQTrackExpanded="0" MZ_TrackTargeted="1"><clipitem id="clipitem-13">
+<xmeml version="4"><sequence id="sequence-2" TL_SQAudioVisibleBase="0" TL_SQVideoVisibleBase="0" TL_SQVisibleBaseTime="0" TL_SQAVDividerPosition="0.5" TL_SQHideShyTracks="0" TL_SQHeaderWidth="236" TL_SQDataTrackViewControlState="0" Monitor_ProgramZoomOut="340011984312000" Monitor_ProgramZoomIn="0" TL_SQTimePerPixel="1.6034289012958367" MZ_EditLine="333083126376000" MZ_Sequence_PreviewFrameSizeHeight="1080" MZ_Sequence_PreviewFrameSizeWidth="1920" MZ_Sequence_AudioTimeDisplayFormat="200" MZ_Sequence_PreviewUseMaxRenderQuality="false" MZ_Sequence_PreviewUseMaxBitDepth="false" MZ_Sequence_VideoTimeDisplayFormat="110" MZ_WorkOutPoint="15235011792000" MZ_WorkInPoint="0" MZ_ZeroPoint="0" explodedTracks="true"><uuid>50e61931-251f-4069-8193-a3fbad7f93ff</uuid><duration>31533</duration><rate><timebase>24</timebase><ntsc>TRUE</ntsc></rate><name>../06_Export XMLs/Test/Archive/wolunka-test</name><media><video><format><samplecharacteristics><rate><timebase>24</timebase><ntsc>TRUE</ntsc></rate><codec><name>Apple ProRes 422</name><appspecificdata><appname>Final Cut Pro</appname><appmanufacturer>Apple Inc.</appmanufacturer><appversion>7.0</appversion><data><qtcodec><codecname>Apple ProRes 422</codecname><codectypename>Apple ProRes 422</codectypename><codectypecode>apcn</codectypecode><codecvendorcode>appl</codecvendorcode><spatialquality>1024</spatialquality><temporalquality>0</temporalquality><keyframerate>0</keyframerate><datarate>0</datarate></qtcodec></data></appspecificdata></codec><width>1920</width><height>1080</height><anamorphic>FALSE</anamorphic><pixelaspectratio>square</pixelaspectratio><fielddominance>none</fielddominance><colordepth>24</colordepth></samplecharacteristics></format><track TL_SQTrackShy="0" TL_SQTrackExpandedHeight="25" TL_SQTrackExpanded="0" MZ_TrackTargeted="1"><clipitem id="clipitem-13">
 						<masterclipid>masterclip-7</masterclipid>
 						<name>C0650.MP4</name>
 						<enabled>TRUE</enabled>
@@ -2143,6 +2143,8 @@
 						<end>504</end>
 						<in>7913</in>
 						<out>8417</out>
+						<pproTicksIn>83856012015018</pproTicksIn>
+						<pproTicksOut>89197024280350</pproTicksOut>
 						<file id="file-10">
 							<name>Magalys y neko - walunka.m4a</name>
 							<pathurl>file://localhost/Users/ben/Downloads/Magalys%20y%20neko%20-%20walunka.m4a</pathurl>
@@ -2227,6 +2229,8 @@
 						<end>504</end>
 						<in>1441</in>
 						<out>1945</out>
+						<pproTicksIn>15270632290362</pproTicksIn>
+						<pproTicksOut>20611644555694</pproTicksOut>
 						<file id="file-11">
 							<name>walunka - clip (enhanced).wav</name>
 							<pathurl>file://localhost/Users/ben/Downloads/walunka%20-%20clip%20(enhanced).wav</pathurl>
@@ -2311,6 +2315,8 @@
 						<end>936</end>
 						<in>7049</in>
 						<out>7481</out>
+						<pproTicksIn>74699990988735</pproTicksIn>
+						<pproTicksOut>79278001501877</pproTicksOut>
 						<file id="file-10">
 							<name>Magalys y neko - walunka.m4a</name>
 							<pathurl>file://localhost/Users/ben/Downloads/Magalys%20y%20neko%20-%20walunka.m4a</pathurl>
@@ -2395,6 +2401,8 @@
 						<end>936</end>
 						<in>577</in>
 						<out>1009</out>
+						<pproTicksIn>6114611264080</pproTicksIn>
+						<pproTicksOut>10692621777221</pproTicksOut>
 						<file id="file-11">
 							<name>walunka - clip (enhanced).wav</name>
 							<pathurl>file://localhost/Users/ben/Downloads/walunka%20-%20clip%20(enhanced).wav</pathurl>
@@ -2479,6 +2487,8 @@
 						<end>1368</end>
 						<in>6497</in>
 						<out>6929</out>
+						<pproTicksIn>68850310888610</pproTicksIn>
+						<pproTicksOut>73428321401752</pproTicksOut>
 						<file id="file-10">
 							<name>Magalys y neko - walunka.m4a</name>
 							<pathurl>file://localhost/Users/ben/Downloads/Magalys%20y%20neko%20-%20walunka.m4a</pathurl>
@@ -2563,6 +2573,8 @@
 						<end>1368</end>
 						<in>25</in>
 						<out>457</out>
+						<pproTicksIn>264931163954</pproTicksIn>
+						<pproTicksOut>4842941677096</pproTicksOut>
 						<file id="file-11">
 							<name>walunka - clip (enhanced).wav</name>
 							<pathurl>file://localhost/Users/ben/Downloads/walunka%20-%20clip%20(enhanced).wav</pathurl>
@@ -2647,6 +2659,8 @@
 						<end>1704</end>
 						<in>7529</in>
 						<out>7865</out>
+						<pproTicksIn>79786669336670</pproTicksIn>
+						<pproTicksOut>83347344180225</pproTicksOut>
 						<file id="file-10">
 							<name>Magalys y neko - walunka.m4a</name>
 							<pathurl>file://localhost/Users/ben/Downloads/Magalys%20y%20neko%20-%20walunka.m4a</pathurl>
@@ -2731,6 +2745,8 @@
 						<end>1704</end>
 						<in>1057</in>
 						<out>1393</out>
+						<pproTicksIn>11201289612015</pproTicksIn>
+						<pproTicksOut>14761964455569</pproTicksOut>
 						<file id="file-11">
 							<name>walunka - clip (enhanced).wav</name>
 							<pathurl>file://localhost/Users/ben/Downloads/walunka%20-%20clip%20(enhanced).wav</pathurl>
